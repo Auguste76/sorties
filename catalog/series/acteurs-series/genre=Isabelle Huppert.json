@@ -1,0 +1,49 @@
+{
+  "metas": [
+    {
+      "id": "tt6599482",
+      "type": "series",
+      "name": "The Romanoffs",
+      "poster": "https://images.metahub.space/poster/medium/tt6599482/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6599482/img",
+      "description": "Rôle : Jacqueline. A chaque épisode, une histoire centrée sur une personne persuadée être une descendante de la célèbre famille royale russe.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0203259",
+      "type": "series",
+      "name": "New York Unité Spéciale",
+      "poster": "https://images.metahub.space/poster/medium/tt0203259/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0203259/img",
+      "description": "Rôle : Sophie Gerard. Les inspecteurs qui font partie de la division des Crimes sexuels (SVU) du service de police de la ville de New York (NYPD) enquêtent sur des crimes de nature sexuelle.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Policier",
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0115195",
+      "type": "series",
+      "name": "Les Voyages de Gulliver",
+      "poster": "https://images.metahub.space/poster/medium/tt0115195/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0115195/img",
+      "description": "Rôle : Houyhnhnm Mistress (voice). Après huit ans d'absence, Lemuel Gulliver refait surface et raconte ses aventures à la rencontre des petits hommes de Lilliput, des géants de Brobdingnag, des scientifiques de Laputa et des primitifs Yahoos.",
+      "releaseInfo": "1996",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Drame",
+        "Fantastique",
+        "Science-fiction"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "metas": [
+    {
+      "id": "tt14164922",
+      "type": "series",
+      "name": "Astérix & Obélix : Le Combat des chefs",
+      "poster": "https://images.metahub.space/poster/medium/tt14164922/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt14164922/img",
+      "description": "Rôle : Obélix (voice). Alors que Panoramix a oublié la recette de la potion magique, Astérix et Obélix doivent repousser César, qui compte bien arriver à ses fins grâce à une loi gauloise.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Action",
+        "Animation",
+        "Aventure",
+        "Comédie",
+        "Fantastique",
+        "Science-fiction",
+        "Famille"
+      ]
+    },
+    {
+      "id": "tt13286778",
+      "type": "series",
+      "name": "La Flamme",
+      "poster": "https://images.metahub.space/poster/medium/tt13286778/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13286778/img",
+      "description": "Rôle : Milo. La vie lui a tout donné… sauf une co-pilote. Pendant neuf semaines dans une sublime villa, treize femmes vont s’affronter pour séduire Marc, pilote de ligne, et tenter d’allumer en lui… La Flamme !",
+      "releaseInfo": "2020",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt2040020",
+      "type": "series",
+      "name": "Platane",
+      "poster": "https://images.metahub.space/poster/medium/tt2040020/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2040020/img",
+      "description": "Rôle : Gilles Lellouche. Un soir, la voiture d’Eric percute un platane. Après un an de coma, il découvre que Ramzy a brillamment poursuivi sa carrière de comique sans lui en développant la série \"HP\", suite de leur sitcom à succès \"H\".",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comédie"
+      ]
+    }
+  ]
+}

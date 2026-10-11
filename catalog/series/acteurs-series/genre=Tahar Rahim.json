@@ -1,0 +1,103 @@
+{
+  "metas": [
+    {
+      "id": "tt34273502",
+      "type": "series",
+      "name": "Prisoner",
+      "poster": "https://images.metahub.space/poster/medium/tt34273502/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt34273502/img",
+      "description": "Rôle : Tibor Stone. Lorsqu'un convoi pénitentiaire est pris d’assaut sur une route isolée, Amber Todd, agente chargée du transfert, se retrouve prise au piège avec Tibor Stone - ancien tueur d’élite devenu témoin clé contre Pegasus, le rése…",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Policier"
+      ]
+    },
+    {
+      "id": "tt13821126",
+      "type": "series",
+      "name": "Extrapolations",
+      "poster": "https://images.metahub.space/poster/medium/tt13821126/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13821126/img",
+      "description": "Rôle : Omar Haddad. Huit histoires interconnectées sur une période de 33 ans explorent la manière dont le changement climatique mondial affectera la famille, le travail, la foi et la survie.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drame",
+        "Fantastique",
+        "Science-fiction"
+      ]
+    },
+    {
+      "id": "tt7985576",
+      "type": "series",
+      "name": "Le Serpent",
+      "poster": "https://images.metahub.space/poster/medium/tt7985576/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7985576/img",
+      "description": "Rôle : Charles Sobhraj. Dans les années 1970, l'impitoyable tueur Charles Sobhraj traque les touristes occidentaux qui font la route en Asie du Sud. Inspiré de terrifiants faits réels.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt7322210",
+      "type": "series",
+      "name": "The Eddy",
+      "poster": "https://images.metahub.space/poster/medium/tt7322210/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7322210/img",
+      "description": "Rôle : Farid Youssfi. Autrefois célèbre pianiste de jazz new-yorkais, Elliot Udo est désormais le patron de The Eddy, club ayant connu des jours meilleurs.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt6474236",
+      "type": "series",
+      "name": "The Looming Tower",
+      "poster": "https://images.metahub.space/poster/medium/tt6474236/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6474236/img",
+      "description": "Rôle : Ali Soufan. The Looming Tower décrit la menace grandissante représentée par Oussama Ben Laden et Al-Qaida et offre un regard polémique sur la façon dont la rivalité entre la CIA et le FBI a pu involontairement ouvrir la voie à la tr…",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drame",
+        "Guerre"
+      ]
+    },
+    {
+      "id": "tt4075386",
+      "type": "series",
+      "name": "Panthers",
+      "poster": "https://images.metahub.space/poster/medium/tt4075386/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4075386/img",
+      "description": "Rôle : Khalil. Le casse d’une bijouterie à Marseille remet sur le devant de la scène les Pink Panthers.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt2044128",
+      "type": "series",
+      "name": "Bref",
+      "poster": "https://images.metahub.space/poster/medium/tt2044128/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2044128/img",
+      "description": "Rôle : Tahar Rahim. Un trentenaire au chômage, obsédé par une fille rencontrée en soirée, fait part de ses états d'âme et de ses réflexions sur les problèmes du quotidien.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    }
+  ]
+}

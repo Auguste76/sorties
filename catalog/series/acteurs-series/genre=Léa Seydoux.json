@@ -1,0 +1,31 @@
+{
+  "metas": [
+    {
+      "id": "tt1236371",
+      "type": "series",
+      "name": "Mystères de Lisbonne",
+      "poster": "https://images.metahub.space/poster/medium/tt1236371/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1236371/img",
+      "description": "Rôle : Blanche de Monfort. Au XIXe siècle, l'histoire de deux destinées qui se croisent : celle d'un orphelin en quête d'identité généalogique, Pedro da Silva, interne dans un collège religieux ; et celle du Père Dinis, un prêtre, autrefois aristo…",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0310511",
+      "type": "series",
+      "name": "Père et Maire",
+      "poster": "https://images.metahub.space/poster/medium/tt0310511/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0310511/img",
+      "description": "Rôle : La lycéenne. L'un est prêtre, l'autre est le maire de la ville ! Pas toujours évident pour Erwan et Hugo de s'entendre, surtout pour des amis. Pour le bien de leur petite ville, ils arrivent à faire corps face aux problèmes.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Comédie",
+        "Famille"
+      ]
+    }
+  ]
+}

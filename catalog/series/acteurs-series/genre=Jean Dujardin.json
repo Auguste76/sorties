@@ -1,0 +1,61 @@
+{
+  "metas": [
+    {
+      "id": "tt31844643",
+      "type": "series",
+      "name": "Zorro",
+      "poster": "https://images.metahub.space/poster/medium/tt31844643/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt31844643/img",
+      "description": "Rôle : Don Diego de la Vega / Zorro. Los Angeles, 1821. Illégitime à son poste d'alcade, Don Diego doit trouver une solution à ses problèmes et à ceux de la ville. Poussé par Bernardo, il ressort le masque de Zorro.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt19514434",
+      "type": "series",
+      "name": "Alphonse",
+      "poster": "https://images.metahub.space/poster/medium/tt19514434/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt19514434/img",
+      "description": "Rôle : Alphonse. Il s’appelle Alphonse et vit en France. « Je suis là, Mesdames, pour satisfaire tous vos désirs, même les plus inavouables. Toutes.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0217224",
+      "type": "series",
+      "name": "Un gars, une fille",
+      "poster": "https://images.metahub.space/poster/medium/tt0217224/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0217224/img",
+      "description": "Rôle : Jean. Suivez la vie de Chouchou et Loulou, un couple trentenaire français comme les autres, avec toutes leurs situations de complicité et de crise, ainsi que les petits tracas dans la vie d'un couple aujourd'hui !",
+      "releaseInfo": "1999",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Famille"
+      ]
+    },
+    {
+      "id": "tt0280342",
+      "type": "series",
+      "name": "Un gars, une fille",
+      "poster": "https://images.metahub.space/poster/medium/tt0280342/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0280342/img",
+      "description": "Rôle : Jean. Après avoir passé 20 ans en banlieue, Guy et Sylvie reviennent s’installer en ville dans une tour de condos et constatent que Montréal a bien changé depuis leur départ.",
+      "releaseInfo": "1997",
+      "genres": [
+        "Comédie"
+      ]
+    }
+  ]
+}

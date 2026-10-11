@@ -1,0 +1,568 @@
+{
+  "metas": [
+    {
+      "id": "tt36827509",
+      "type": "movie",
+      "name": "Fils de personne",
+      "poster": "https://images.metahub.space/poster/medium/tt36827509/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt36827509/img",
+      "description": "Rôle : Thomas. Peu après avoir adopté Mapring, un petit garçon de quatre ans né en Thaïlande, la vie de Thomas prend un tournant tragique lorsque sa femme Mathilda meurt dans un accident.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt31183235",
+      "type": "movie",
+      "name": "Furcy, né libre",
+      "poster": "https://images.metahub.space/poster/medium/tt31183235/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt31183235/img",
+      "description": "Rôle : Boucher. Île de la Réunion, 1817. À la mort de sa mère, l'esclave Furcy découvre des documents qui pourraient faire de lui un homme libre.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drame",
+        "Historique"
+      ]
+    },
+    {
+      "id": "tt33255286",
+      "type": "movie",
+      "name": "Chien 51",
+      "poster": "https://images.metahub.space/poster/medium/tt33255286/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt33255286/img",
+      "description": "Rôle : Théo Rimarval. Dans un futur proche, Paris a été divisé en 3 zones qui séparent les classes sociales et où l’intelligence artificielle ALMA a révolutionné le travail de la police.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Action",
+        "Science-fiction",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt31539698",
+      "type": "movie",
+      "name": "Rembrandt",
+      "poster": "https://images.metahub.space/poster/medium/tt31539698/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt31539698/img",
+      "description": "Rôle : Yves. Claire et Yves, physiciens de formation, travaillent dans le nucléaire depuis toujours. Lors d’une visite à la National Gallery, Claire va être bouleversée par trois toiles de Rembrandt.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt21993194",
+      "type": "movie",
+      "name": "Une part manquante",
+      "poster": "https://images.metahub.space/poster/medium/tt21993194/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt21993194/img",
+      "description": "Rôle : Jay. Tous les jours, Jay parcourt Tokyo au volant de son taxi à la recherche de sa fille, Lily. Séparé depuis 9 ans, il n’a jamais pu obtenir sa garde.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt16826430",
+      "type": "movie",
+      "name": "La Nuit se traîne",
+      "poster": "https://images.metahub.space/poster/medium/tt16826430/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt16826430/img",
+      "description": "Rôle : Yannick. Ce soir-là, Mady, étudiant le jour et serrurier la nuit, voit sa vie basculer quand il ouvre la mauvaise porte et devient accidentellement complice d'une affaire de grand banditisme.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Action",
+        "Policier",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt23476446",
+      "type": "movie",
+      "name": "Daaaaaalí !",
+      "poster": "https://images.metahub.space/poster/medium/tt23476446/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt23476446/img",
+      "description": "Rôle : Jérôme. Judith, une ex-pharmacienne qui s'est tournée vers le journalisme, vient d'obtenir une entrevue avec le grand peintre Salvador Dali.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Fantastique"
+      ]
+    },
+    {
+      "id": "tt12672620",
+      "type": "movie",
+      "name": "Les Trois Mousquetaires : Milady",
+      "poster": "https://images.metahub.space/poster/medium/tt12672620/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt12672620/img",
+      "description": "Rôle : Aramis. Constance Bonacieux est enlevée sous les yeux de D'Artagnan. Dans une quête effrénée pour la sauver, le jeune mousquetaire est contraint de s'allier à la mystérieuse Milady de Winter.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt16606592",
+      "type": "movie",
+      "name": "Le Règne animal",
+      "poster": "https://images.metahub.space/poster/medium/tt16606592/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt16606592/img",
+      "description": "Rôle : François. Un mal étrange frappe l'humanité : des mutations transforment les humains en animaux. Considérés comme dangereux car incontrôlables, ces humains mi-homme mi-animal sont placés dans des centres spécialisés.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Aventure",
+        "Drame",
+        "Science-fiction"
+      ]
+    },
+    {
+      "id": "tt12672536",
+      "type": "movie",
+      "name": "Les Trois Mousquetaires : D'Artagnan",
+      "poster": "https://images.metahub.space/poster/medium/tt12672536/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt12672536/img",
+      "description": "Rôle : Aramis. Du Louvre au Palais de Buckingham, des bas-fonds de Paris au siège de La Rochelle...",
+      "releaseInfo": "2023",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Drame",
+        "Historique"
+      ]
+    },
+    {
+      "id": "tt14317880",
+      "type": "movie",
+      "name": "Coupez !",
+      "poster": "https://images.metahub.space/poster/medium/tt14317880/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt14317880/img",
+      "description": "Rôle : Rémi / Higurashi. Un tournage de film de zombies dans un bâtiment désaffecté. Entre techniciens blasés et acteurs pas vraiment concernés, seul le réalisateur semble investi de l’énergie nécessaire pour donner vie à un énième film d'horreu…",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comédie",
+        "Horreur"
+      ]
+    },
+    {
+      "id": "tt5806814",
+      "type": "movie",
+      "name": "Charlotte",
+      "poster": "https://images.metahub.space/poster/medium/tt5806814/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5806814/img",
+      "description": "Rôle : French Alfred Wolfsohn. Berlin, années 30. Charlotte Salomon est une jeune fille de bonne famille, frondeuse. Lors d’un voyage à Rome, elle visite la chapelle Sixtine et découvre le plafond de Michel-Ange.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Animation",
+        "Drame",
+        "Historique",
+        "Guerre"
+      ]
+    },
+    {
+      "id": "tt11310608",
+      "type": "movie",
+      "name": "En attendant Bojangles",
+      "poster": "https://images.metahub.space/poster/medium/tt11310608/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt11310608/img",
+      "description": "Rôle : Georges. Camille et Georges dansent tout le temps sur leur chanson préférée Mr Bojangles. Chez eux, il n'y a de place que pour le plaisir, la fantaisie et les amis.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt10366514",
+      "type": "movie",
+      "name": "Eiffel",
+      "poster": "https://images.metahub.space/poster/medium/tt10366514/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt10366514/img",
+      "description": "Rôle : Gustave Eiffel. Venant tout juste de terminer sa collaboration sur la Statue de la Liberté, Gustave Eiffel est au sommet de sa carrière.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt10749896",
+      "type": "movie",
+      "name": "Le Regard de Charles",
+      "poster": "https://images.metahub.space/poster/medium/tt10749896/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt10749896/img",
+      "description": "Rôle : Charles Aznavour (voice). En 1948, ‪Edith Piaf‬ offre sa première caméra à ‪Charles Aznavour‬, une Paillard Bolex qui ne le quittera plus. Jusqu’en 1982 Charles filmera des heures de pellicules qui formeront le corpus de son journal filmé.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Documentaire"
+      ]
+    },
+    {
+      "id": "tt8553192",
+      "type": "movie",
+      "name": "Le Déserteur",
+      "poster": "https://images.metahub.space/poster/medium/tt8553192/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt8553192/img",
+      "description": "Rôle : Lester. Quelque part dans le monde, une guerre fait rage. Terrifié à l’idée d’être mobilisé, Philippe a fui Montréal pour se réfugier dans un Ouest américain aussi sauvage qu’hypnotisant.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drame",
+        "Thriller",
+        "Historique"
+      ]
+    },
+    {
+      "id": "tt7773210",
+      "type": "movie",
+      "name": "Nos batailles",
+      "poster": "https://images.metahub.space/poster/medium/tt7773210/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7773210/img",
+      "description": "Rôle : Olivier Vallet. Olivier se démène au sein de son entreprise pour combattre les injustices. Mais du jour au lendemain quand Laura, sa femme, quitte le domicile, il lui faut concilier éducation des enfants, vie de famille et activité prof…",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt6009104",
+      "type": "movie",
+      "name": "Fleuve noir",
+      "poster": "https://images.metahub.space/poster/medium/tt6009104/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6009104/img",
+      "description": "Rôle : Yan. Au sein de la famille Arnault, Dany, le fils aîné, disparaît. François Visconti, commandant de police usé par son métier, est mis sur l’affaire.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt5092380",
+      "type": "movie",
+      "name": "Dans la brume",
+      "poster": "https://images.metahub.space/poster/medium/tt5092380/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5092380/img",
+      "description": "Rôle : Mathieu. Le jour où une étrange brume mortelle submerge Paris, des survivants trouvent refuge dans les derniers étages des immeubles et sur les toits de la capitale.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drame",
+        "Science-fiction",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt5338644",
+      "type": "movie",
+      "name": "Madame Hyde",
+      "poster": "https://images.metahub.space/poster/medium/tt5338644/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5338644/img",
+      "description": "Rôle : Le proviseur. Une timide professeur de physique est méprisée par ses élèves et ses collègues dans un lycée professionnel de banlieue. Un jour, elle est foudroyée et sent en elle une énergie nouvelle, mystérieuse et dangereuse...",
+      "releaseInfo": "2018",
+      "genres": [
+        "Comédie",
+        "Fantastique"
+      ]
+    },
+    {
+      "id": "tt5294550",
+      "type": "movie",
+      "name": "Tout l'Argent du Monde",
+      "poster": "https://images.metahub.space/poster/medium/tt5294550/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5294550/img",
+      "description": "Rôle : Cinquanta. Rome, 1973. Des hommes masqués kidnappent Paul, le petit-fils de J. Paul Getty, un magnat du pétrole connu pour son avarice, mais aussi l'homme le plus riche du monde.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Policier",
+        "Drame",
+        "Thriller",
+        "Historique"
+      ]
+    },
+    {
+      "id": "tt4467194",
+      "type": "movie",
+      "name": "Cessez-le-feu",
+      "poster": "https://images.metahub.space/poster/medium/tt4467194/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4467194/img",
+      "description": "Rôle : Georges Laffont. Georges, héros de 14 fuyant son passé, mène depuis quatre ans une vie nomade et aventureuse en Afrique lorsqu'il décide de rentrer en France.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt5546300",
+      "type": "movie",
+      "name": "La Confession",
+      "poster": "https://images.metahub.space/poster/medium/tt5546300/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5546300/img",
+      "description": "Rôle : Père Léon Morin. Sous l’occupation allemande, dans une petite ville française, l’arrivée d’un nouveau prêtre suscite l’intérêt de toutes les femmes de la ville...",
+      "releaseInfo": "2017",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt5598110",
+      "type": "movie",
+      "name": "Iris",
+      "poster": "https://images.metahub.space/poster/medium/tt5598110/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5598110/img",
+      "description": "Rôle : Max Lopez. Iris, la femme d’Antoine Doriot, un riche banquier, disparaît en plein Paris. Max, un jeune mécanicien endetté, pourrait bien être lié à son enlèvement.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt4551314",
+      "type": "movie",
+      "name": "Un petit boulot",
+      "poster": "https://images.metahub.space/poster/medium/tt4551314/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4551314/img",
+      "description": "Rôle : Jacques. Jacques habite une petite ville dont tous les habitants ont été mis sur la paille suite à un licenciement boursier. L’usine a fermé, sa copine est partie et les dettes s’accumulent.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Action",
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt3850740",
+      "type": "movie",
+      "name": "Démons",
+      "poster": "https://images.metahub.space/poster/medium/tt3850740/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt3850740/img",
+      "description": "Rôle : Frank. Katarina et Frank vivent ensemble depuis des années. Ils s’aiment mais ne se supportent plus. Ils reçoivent la visite de leurs voisins, Jenna et Tomas, un jeune couple qui vient d’avoir un enfant.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt3184934",
+      "type": "movie",
+      "name": "Une nouvelle amie",
+      "poster": "https://images.metahub.space/poster/medium/tt3184934/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt3184934/img",
+      "description": "Rôle : David / Virginia. À la suite du décès de sa meilleure amie, Claire fait une profonde dépression, mais une découverte surprenante au sujet du mari de son amie va lui redonner goût à la vie.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt1937118",
+      "type": "movie",
+      "name": "Casse-tête chinois",
+      "poster": "https://images.metahub.space/poster/medium/tt1937118/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1937118/img",
+      "description": "Rôle : Xavier Rousseau. On retrouve Xavier avec Wendy, Isabelle et Martine 15 ans après l’Auberge Espagnole et 10 ans après les Poupées Russes.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt2027140",
+      "type": "movie",
+      "name": "L'Écume des jours",
+      "poster": "https://images.metahub.space/poster/medium/tt2027140/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2027140/img",
+      "description": "Rôle : Colin. L’histoire surréelle et poétique d’un jeune homme idéaliste et inventif, Colin, qui rencontre Chloé, une jeune femme semblant être l’incarnation d’un blues de Duke Ellington.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Drame",
+        "Fantastique"
+      ]
+    },
+    {
+      "id": "tt2070776",
+      "type": "movie",
+      "name": "Populaire",
+      "poster": "https://images.metahub.space/poster/medium/tt2070776/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2070776/img",
+      "description": "Rôle : Louis Échard. Printemps 1958. Rose Pamphyle, 21 ans, vit avec son père, veuf bourru qui tient le bazar d’un petit village normand.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt1533818",
+      "type": "movie",
+      "name": "L'Homme qui voulait vivre sa vie",
+      "poster": "https://images.metahub.space/poster/medium/tt1533818/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1533818/img",
+      "description": "Rôle : Paul Exben. Paul Exben a tout pour être heureux : une belle situation professionnelle, une femme et deux enfants magnifiques. Sauf que cette vie n'est pas celle dont il rêvait.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt1465487",
+      "type": "movie",
+      "name": "L'Arnacœur",
+      "poster": "https://images.metahub.space/poster/medium/tt1465487/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1465487/img",
+      "description": "Rôle : Alex Lippi. Votre fille sort avec un sale type ? Votre sœur s’est enlisée dans une relation passionnelle destructrice ? Aujourd’hui, il existe une solution radicale, elle s’appelle Alex.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt1303230",
+      "type": "movie",
+      "name": "Persécution",
+      "poster": "https://images.metahub.space/poster/medium/tt1303230/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1303230/img",
+      "description": "Rôle : Daniel. Un inconnu. Daniel, 35 ans, est poursuivi par un inconnu qui s'introduit chez lui régulièrement et l'espionne systématiquement. Comment ce garçon est-il entré dans la vie de Daniel ?",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0940580",
+      "type": "movie",
+      "name": "Et après",
+      "poster": "https://images.metahub.space/poster/medium/tt0940580/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0940580/img",
+      "description": "Rôle : Nathan Del Amico. A huit ans, Nathan est entré dans le tunnel lumineux de la «mort imminente» pour avoir voulu sauver une fillette. Déclaré mort, le petit garçon se réveille inexplicablement.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0869994",
+      "type": "movie",
+      "name": "Paris",
+      "poster": "https://images.metahub.space/poster/medium/tt0869994/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0869994/img",
+      "description": "Rôle : Pierre. C'est l'histoire d'un parisien qui est malade et qui se demande s'il va mourir. Son état lui donne un regard neuf et différent sur tous les gens qu'il croise.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0887975",
+      "type": "movie",
+      "name": "L'âge d'homme... maintenant ou jamais !",
+      "poster": "https://images.metahub.space/poster/medium/tt0887975/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0887975/img",
+      "description": "Rôle : Samuel. Samuel a 30 ans. Ex-célibataire endurci, il vit depuis un an avec une photographe : Tina mais il prend peur au moment de s'engager.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt0796335",
+      "type": "movie",
+      "name": "Molière",
+      "poster": "https://images.metahub.space/poster/medium/tt0796335/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0796335/img",
+      "description": "Rôle : Moliere. En 1644, Molière n'a encore que 22 ans. Criblé de dettes, poursuivi par les huissiers, il s'entête à monter sur scène des tragédies dans lesquelles il est indéniablement mauvais, puis un jour, après avoir été emprisonné…",
+      "releaseInfo": "2007",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0769508",
+      "type": "movie",
+      "name": "Dans Paris",
+      "poster": "https://images.metahub.space/poster/medium/tt0769508/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0769508/img",
+      "description": "Rôle : Paul. Deux frères, Paul et Jonathan, vivent dans l'appartement de leur père. Le premier traverse une grave dépression nerveuse à la suite d'une rupture.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0409184",
+      "type": "movie",
+      "name": "Les Poupées russes",
+      "poster": "https://images.metahub.space/poster/medium/tt0409184/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0409184/img",
+      "description": "Rôle : Xavier Rousseau. Xavier a 30 ans. Il a réalisé son rêve d’enfance, il est devenu écrivain, mais il semble quand même un peu perdu. Il a quelques problèmes avec sa banquière.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0411270",
+      "type": "movie",
+      "name": "De battre mon cœur s'est arrêté",
+      "poster": "https://images.metahub.space/poster/medium/tt0411270/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0411270/img",
+      "description": "Rôle : Thomas Seyr. À 28 ans, Tom semble marcher sur les traces de son père dans l’immobilier véreux. Mais une rencontre fortuite le pousse à croire qu’il pourrait être le pianiste concertiste de talent qu’il rêvait de devenir, à l’image de…",
+      "releaseInfo": "2005",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    }
+  ]
+}

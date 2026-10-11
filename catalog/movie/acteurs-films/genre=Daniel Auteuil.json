@@ -1,0 +1,559 @@
+{
+  "metas": [
+    {
+      "id": "tt37535559",
+      "type": "movie",
+      "name": "L'Objet du délit",
+      "poster": "https://images.metahub.space/poster/medium/tt37535559/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt37535559/img",
+      "description": "Rôle : Igor. Dans les coulisses d’une ambitieuse production de l’opéra « Les Noces de Figaro », les tensions montent lorsqu’une accusation d’agression sexuelle éclate, mettant en péril la production et forçant chacun à prendre positi…",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt33852162",
+      "type": "movie",
+      "name": "Vie privée",
+      "poster": "https://images.metahub.space/poster/medium/tt33852162/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt33852162/img",
+      "description": "Rôle : Gabriel Haddad. Lilian Steiner est une psychiatre reconnue. Un jour, elle apprend la mort de l’une de ses patientes. Troublée, Lilian se persuade qu’il s’agit d’un assassinat, elle décide alors de mener son enquête...",
+      "releaseInfo": "2025",
+      "genres": [
+        "Policier",
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt29102598",
+      "type": "movie",
+      "name": "Le Fil",
+      "poster": "https://images.metahub.space/poster/medium/tt29102598/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt29102598/img",
+      "description": "Rôle : Maître Jean Monier. Depuis qu’il a fait innocenter un meurtrier récidiviste, Maître Jean Monier ne prend plus de dossiers criminels.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt30402052",
+      "type": "movie",
+      "name": "La Petite Vadrouille",
+      "poster": "https://images.metahub.space/poster/medium/tt30402052/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt30402052/img",
+      "description": "Rôle : Franck. Justine, son mari et toute leur bande d'amis trouvent une solution pour résoudre leurs problèmes d'argent : organiser une fausse croisière romantique pour Franck, un gros investisseur, qui cherche à séduire une femme.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt25051484",
+      "type": "movie",
+      "name": "Un silence",
+      "poster": "https://images.metahub.space/poster/medium/tt25051484/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt25051484/img",
+      "description": "Rôle : François Schaar. Silencieuse depuis 25 ans, Astrid la femme d’un célèbre avocat voit son équilibre familial s’effondrer lorsque ses enfants se mettent en quête de justice.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt13361648",
+      "type": "movie",
+      "name": "Le Nouveau Jouet",
+      "poster": "https://images.metahub.space/poster/medium/tt13361648/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13361648/img",
+      "description": "Rôle : Philippe Étienne. Pour l'anniversaire de son fils Alexandre, l'homme le plus riche de France privatise un grand magasin qui lui appartient.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Famille"
+      ]
+    },
+    {
+      "id": "tt10545704",
+      "type": "movie",
+      "name": "Adieu monsieur Haffmann",
+      "poster": "https://images.metahub.space/poster/medium/tt10545704/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt10545704/img",
+      "description": "Rôle : Joseph Haffmann. Paris 1941. François Mercier est un homme ordinaire qui n’aspire qu’à fonder une famille avec la femme qu’il aime, Blanche. Il est aussi l’employé d’un joaillier talentueux, Mr. Haffmann.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drame",
+        "Historique"
+      ]
+    },
+    {
+      "id": "tt9172422",
+      "type": "movie",
+      "name": "La Belle Époque",
+      "poster": "https://images.metahub.space/poster/medium/tt9172422/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt9172422/img",
+      "description": "Rôle : Victor Drumond. Victor, un sexagénaire désabusé, voit sa vie bouleversée le jour où Antoine, un brillant entrepreneur, lui propose une attraction d’un genre nouveau: mélangeant artifices théâtraux et reconstitution historique, cette ent…",
+      "releaseInfo": "2019",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt7654880",
+      "type": "movie",
+      "name": "Qui m’aime me suive !",
+      "poster": "https://images.metahub.space/poster/medium/tt7654880/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7654880/img",
+      "description": "Rôle : Gilbert. Gilbert et Simone vivent une retraite agitée dans un village du Sud de la France. Le départ d'Étienne, son voisin et amant, le manque d'argent, mais surtout l'aigreur permanente de son mari, poussent Simone à fuir le foy…",
+      "releaseInfo": "2019",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt6741368",
+      "type": "movie",
+      "name": "Rémi sans famille",
+      "poster": "https://images.metahub.space/poster/medium/tt6741368/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6741368/img",
+      "description": "Rôle : Signor Vitalis. Les aventures du jeune Rémi, orphelin recueilli par la douce Madame Barberin. A l’âge de 10 ans, il est arraché à sa mère adoptive et confié au Signor Vitalis, un mystérieux musicien ambulant.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Aventure",
+        "Drame",
+        "Famille"
+      ]
+    },
+    {
+      "id": "tt7654872",
+      "type": "movie",
+      "name": "Amoureux de ma femme",
+      "poster": "https://images.metahub.space/poster/medium/tt7654872/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7654872/img",
+      "description": "Rôle : Daniel. Daniel est très amoureux de sa femme, mais il a beaucoup d'imagination et un meilleur ami parfois encombrant.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt6462462",
+      "type": "movie",
+      "name": "Le Brio",
+      "poster": "https://images.metahub.space/poster/medium/tt6462462/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6462462/img",
+      "description": "Rôle : Pierre Mazard. Neïla Salah a grandi à Créteil. Jeune femme brillante, elle rêve de devenir avocate.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt4647784",
+      "type": "movie",
+      "name": "Les Confessions",
+      "poster": "https://images.metahub.space/poster/medium/tt4647784/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4647784/img",
+      "description": "Rôle : Daniel Roché. Quelque part en Allemagne des dirigeants politiques du G8 et le directeur du FMI se réunissent en vue d’adopter une manoeuvre secrète aux lourdes conséquences.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt4228810",
+      "type": "movie",
+      "name": "Au nom de ma fille",
+      "poster": "https://images.metahub.space/poster/medium/tt4228810/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4228810/img",
+      "description": "Rôle : André Bamberski. Un jour de juillet 1982, André Bamberski apprend la mort de sa fille Kalinka. Elle avait 14 ans et passait ses vacances en Allemagne auprès de sa mère et de son beau-père le docteur Krombach.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt5338174",
+      "type": "movie",
+      "name": "Les Naufragés",
+      "poster": "https://images.metahub.space/poster/medium/tt5338174/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5338174/img",
+      "description": "Rôle : Jean-Louis Brochard. Jean‐Louis Brochard, escroc de la finance en fuite et William Boulanger, teinturier cocu tout juste quitté par sa femme, échouent sur une île déserte après un crash d’avion.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt3913206",
+      "type": "movie",
+      "name": "Nos femmes",
+      "poster": "https://images.metahub.space/poster/medium/tt3913206/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt3913206/img",
+      "description": "Rôle : Paul. Max, Paul et Simon sont amis depuis 35 ans. Une amitié joyeuse, assidue et sans nuage. Si leur vie professionnelle est une réussite, le bilan de leur vie privée est plus mitigé.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt4246850",
+      "type": "movie",
+      "name": "Entre amis",
+      "poster": "https://images.metahub.space/poster/medium/tt4246850/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4246850/img",
+      "description": "Rôle : Richard. Richard, Gilles et Philippe sont amis depuis près de cinquante ans. Le temps d'un été, ils embarquent avec leurs compagnes sur un magnifique voilier pour une croisière vers la Corse.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt2231630",
+      "type": "movie",
+      "name": "Avant l'hiver",
+      "poster": "https://images.metahub.space/poster/medium/tt2231630/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2231630/img",
+      "description": "Rôle : Paul. Paul est un neurochirurgien de soixante ans. Quand on est marié à Lucie, le bonheur ne connaît jamais d’ombre.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt1872101",
+      "type": "movie",
+      "name": "Fanny",
+      "poster": "https://images.metahub.space/poster/medium/tt1872101/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1872101/img",
+      "description": "Rôle : César Olivier. Fanny, amoureuse et abandonnée, apprend qu’elle attend un enfant de Marius. Elle se retrouve en position dramatique de mère-fille, incapable d’assurer son propre avenir et celui de son enfant.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt1872102",
+      "type": "movie",
+      "name": "Marius",
+      "poster": "https://images.metahub.space/poster/medium/tt1872102/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1872102/img",
+      "description": "Rôle : César Olivier. L’histoire de Marius se déroule sur le Vieux-Port de Marseille, dans le Bar de la Marine tenu par César et son fils Marius.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt2018079",
+      "type": "movie",
+      "name": "Jappeloup",
+      "poster": "https://images.metahub.space/poster/medium/tt2018079/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2018079/img",
+      "description": "Rôle : Serge Durand, father of Pierre. Au début des années 80, abandonnant une carrière d’avocat prometteuse, Pierre Durand se consacre corps et âme à sa passion, le saut d’obstacle.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt1946298",
+      "type": "movie",
+      "name": "Le Guetteur",
+      "poster": "https://images.metahub.space/poster/medium/tt1946298/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1946298/img",
+      "description": "Rôle : Mattei. Le commissaire Mattei est sur le point d'arrêter un notoire gang de braqueurs de banques, lorsqu'un tireur d'élite, en couverture sur les toits, décime à lui seul une armée de flics et permet à ses complices de s'enfuir.…",
+      "releaseInfo": "2012",
+      "genres": [
+        "Action",
+        "Policier",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt1860260",
+      "type": "movie",
+      "name": "La Mer à boire",
+      "poster": "https://images.metahub.space/poster/medium/tt1860260/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1860260/img",
+      "description": "Rôle : Georges Pierret. Georges, un patron de chantier naval, est lâché par sa banque. Il devra se battre jusqu’au bout pour tenter de sauver l’entreprise qu’il a passé sa vie à construire.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt1473063",
+      "type": "movie",
+      "name": "La Fille du puisatier",
+      "poster": "https://images.metahub.space/poster/medium/tt1473063/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1473063/img",
+      "description": "Rôle : Pascal Amoretti. En coupant à travers champs pour aller porter le déjeuner à son père, Patricia rencontre Jacques. Elle a dix-huit ans, il en a vingt-six.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt1473142",
+      "type": "movie",
+      "name": "Donnant donnant",
+      "poster": "https://images.metahub.space/poster/medium/tt1473142/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1473142/img",
+      "description": "Rôle : Constant. Condamné pour un crime qui n'était, selon lui, qu'un accident, Constant réussit à s'évader de la prison où il purge sa peine...Après une fuite aveugle, livré à tous les hasards, Constant finit par échouer dans un coin pe…",
+      "releaseInfo": "2010",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt1258141",
+      "type": "movie",
+      "name": "Je l'aimais",
+      "poster": "https://images.metahub.space/poster/medium/tt1258141/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1258141/img",
+      "description": "Rôle : Pierre. En une nuit, Pierre va partager avec sa belle-fille Chloé, ce grand secret qui le hante depuis vingt ans, celui qui le mit face à lui-même, à ses contradictions et à ses choix, à son rôle d'homme et à ses manques.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0463352",
+      "type": "movie",
+      "name": "La Personne aux deux personnes",
+      "poster": "https://images.metahub.space/poster/medium/tt0463352/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0463352/img",
+      "description": "Rôle : Jean-Christian Ranu. Gilles Gabriel, chanteur des 80's en plein come-back, est tué dans un accident de voiture causé par Jean-Christian Ranu, comptable à la COGIP.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Comédie",
+        "Science-fiction"
+      ]
+    },
+    {
+      "id": "tt1075111",
+      "type": "movie",
+      "name": "15 ans et demi",
+      "poster": "https://images.metahub.space/poster/medium/tt1075111/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1075111/img",
+      "description": "Rôle : Philippe Le Tallec. Philippe Le Tallec, brillant scientifique vivant aux États-Unis depuis 15 ans, décide de rentrer en France s'occuper de sa fille Eglantine.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0920470",
+      "type": "movie",
+      "name": "MR 73",
+      "poster": "https://images.metahub.space/poster/medium/tt0920470/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0920470/img",
+      "description": "Rôle : Schneider. Un tueur en série ensanglante Marseille. Louis Schneider, flic au SRPJ, mène l'enquête malgré l'alcool et les fantômes de son passé. Le passé resurgit aussi pour Justine.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Policier",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0795370",
+      "type": "movie",
+      "name": "Le Deuxième Souffle",
+      "poster": "https://images.metahub.space/poster/medium/tt0795370/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0795370/img",
+      "description": "Rôle : Gustave Minda, dit 'Gu'. 1958, Gu, célèbre et dangereux gangster condamné à vie, s'évade de prison. Traqué par la police, il veut s'enfuir à l'étranger avec Manouche, la femme qu'il aime.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Policier",
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0792975",
+      "type": "movie",
+      "name": "L'Invité",
+      "poster": "https://images.metahub.space/poster/medium/tt0792975/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0792975/img",
+      "description": "Rôle : Gérard. Cinquante ans, trois de chômage, des indemnités en chute libre... Gérard est au bout du rouleau, quand s'offre à lui un poste en Indonésie.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt0825244",
+      "type": "movie",
+      "name": "Dialogue avec mon jardinier",
+      "poster": "https://images.metahub.space/poster/medium/tt0825244/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0825244/img",
+      "description": "Rôle : The painter, aka 'Dupinceau'. Ayant acquis une honnête réputation de peintre parisien, un quinquagénaire fait retour aux sources et revient dans le centre de la France profonde prendre possession de la maison de sa jeunesse.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0778784",
+      "type": "movie",
+      "name": "Mon meilleur ami",
+      "poster": "https://images.metahub.space/poster/medium/tt0778784/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0778784/img",
+      "description": "Rôle : François Coste. Un marchand d'art fait un pari : il a dix jours pour trouver un meilleur ami. Il se lance alors dans un casting fou pour finalement jeter son dévolu sur un chauffeur de taxi volubile et chaleureux.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt0462002",
+      "type": "movie",
+      "name": "Napoléon (et moi)",
+      "poster": "https://images.metahub.space/poster/medium/tt0462002/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0462002/img",
+      "description": "Rôle : Napoleone Bonaparte. Île d'Elbe, 1814. Ce que Martino déteste le plus au monde c'est Napoléon. Il rêve même tous les soirs qu'il tue le Tyran Immonde.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Comédie",
+        "Historique"
+      ]
+    },
+    {
+      "id": "tt0450615",
+      "type": "movie",
+      "name": "L'Entente cordiale",
+      "poster": "https://images.metahub.space/poster/medium/tt0450615/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0450615/img",
+      "description": "Rôle : Jean-Pierre Moindrau. Le Géorgien Viktor Zilenko a dérobé aux Russes la puce \"Exterminator\". Implantée dans le corps d'un soldat, elle supprime toute sensation de douleur.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt0449851",
+      "type": "movie",
+      "name": "La Doublure",
+      "poster": "https://images.metahub.space/poster/medium/tt0449851/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0449851/img",
+      "description": "Rôle : Pierre Levasseur. Surpris par un paparazzi avec Éléna, sa maîtresse, un top model superbe, le milliardaire Pierre Levasseur tente d'éviter un divorce sanglant en inventant un mensonge invraisemblable.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt0387898",
+      "type": "movie",
+      "name": "Caché",
+      "poster": "https://images.metahub.space/poster/medium/tt0387898/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0387898/img",
+      "description": "Rôle : Georges Laurent. Georges, journaliste littéraire, reçoit des vidéos — filmées clandestinement depuis la rue — où on le voit avec sa famille, ainsi que des dessins inquiétants et difficiles à interpréter.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0431975",
+      "type": "movie",
+      "name": "Peindre ou faire l'amour",
+      "poster": "https://images.metahub.space/poster/medium/tt0431975/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0431975/img",
+      "description": "Rôle : William. Mariés depuis longtemps, William et Madeleine vivent en ville au pied des montagnes. Après le départ de leur fille unique, ils n'ont plus à s'occuper que d'eux-mêmes.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0423442",
+      "type": "movie",
+      "name": "L'un reste, l'autre part",
+      "poster": "https://images.metahub.space/poster/medium/tt0423442/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0423442/img",
+      "description": "Rôle : Daniel. Deux amis mariés vont de nouveau rencontrer l'amour... L'un d'eux va voir sa vie bouleversée par l'accident grave d'un de ses fils.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0390808",
+      "type": "movie",
+      "name": "36 quai des Orfèvres",
+      "poster": "https://images.metahub.space/poster/medium/tt0390808/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0390808/img",
+      "description": "Rôle : Leo Vrinks. Paris. Depuis plusieurs mois, un gang de braqueurs opère en toute impunité avec une rare violence.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Policier",
+        "Drame",
+        "Thriller"
+      ]
+    }
+  ]
+}

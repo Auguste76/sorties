@@ -1,0 +1,439 @@
+{
+  "metas": [
+    {
+      "id": "tt36646880",
+      "type": "movie",
+      "name": "Histoires parallèles",
+      "poster": "https://images.metahub.space/poster/medium/tt36646880/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt36646880/img",
+      "description": "Rôle : Christophe / Théo. En quête d’inspiration pour son nouveau roman, Sylvie espionne ses voisins dans l’immeuble d’en face.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt31777964",
+      "type": "movie",
+      "name": "Gourou",
+      "poster": "https://images.metahub.space/poster/medium/tt31777964/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt31777964/img",
+      "description": "Rôle : Matthieu Vasseur. Matt est le coach en développement personnel le plus suivi de France. Dans une société en quête de sens où la réussite individuelle est devenue sacrée, il propose à ses adeptes une catharsis qui électrise les foules auta…",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt31809821",
+      "type": "movie",
+      "name": "Maya, donne-moi un titre",
+      "poster": "https://images.metahub.space/poster/medium/tt31809821/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt31809821/img",
+      "description": "Rôle : The Voice / La Voix. Maya et son papa vivent dans deux pays différents. Pour maintenir le lien avec sa fille et continuer à lui raconter des histoires, son papa lui demande chaque soir « Maya, donne-moi un titre ».",
+      "releaseInfo": "2024",
+      "genres": [
+        "Animation",
+        "Fantastique",
+        "Famille"
+      ]
+    },
+    {
+      "id": "tt26446278",
+      "type": "movie",
+      "name": "Le Comte de Monte-Cristo",
+      "poster": "https://images.metahub.space/poster/medium/tt26446278/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt26446278/img",
+      "description": "Rôle : Edmond Dantès / The Count of Monte Cristo. Victime d’un complot, le jeune Edmond Dantès est arrêté le jour de son mariage pour un crime qu’il n’a pas commis. Après quatorze ans de détention au château d’If, il parvient à s’évader.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt15732890",
+      "type": "movie",
+      "name": "Le Livre des solutions",
+      "poster": "https://images.metahub.space/poster/medium/tt15732890/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt15732890/img",
+      "description": "Rôle : Marc Becker. Marc s'enfuit avec toute son équipe dans un petit village des Cévennes pour finir son film chez sa tante Denise. Sur place, sa créativité se manifeste par un million d'idées qui le plongent dans un drôle de chaos.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt14534796",
+      "type": "movie",
+      "name": "Mascarade",
+      "poster": "https://images.metahub.space/poster/medium/tt14534796/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt14534796/img",
+      "description": "Rôle : Adrien Saillard. Lorsqu’un jeune gigolo tombe sous le charme d’une sublime arnaqueuse, c’est le début d’un plan machiavélique sous le soleil brûlant de la Côte d’Azur.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comédie",
+        "Policier",
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt13399946",
+      "type": "movie",
+      "name": "Goliath",
+      "poster": "https://images.metahub.space/poster/medium/tt13399946/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13399946/img",
+      "description": "Rôle : Mathias Rozen. France, professeure de sport le jour, ouvrière la nuit, milite activement contre l’usage des pesticides. Patrick, obscur et solitaire avocat parisien, est spécialiste en droit environnemental.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt9800670",
+      "type": "movie",
+      "name": "Amants",
+      "poster": "https://images.metahub.space/poster/medium/tt9800670/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt9800670/img",
+      "description": "Rôle : Simon. Lisa et Simon s’aiment passionnément depuis leur adolescence et mènent la vie urbaine et nocturne des gens de leur âge.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt10341034",
+      "type": "movie",
+      "name": "Boîte noire",
+      "poster": "https://images.metahub.space/poster/medium/tt10341034/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt10341034/img",
+      "description": "Rôle : Mathieu Vasseur. Que s’est-il passé à bord du vol Dubaï-Paris avant son crash dans le massif alpin ?",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt7972012",
+      "type": "movie",
+      "name": "OSS 117 : Alerte rouge en Afrique noire",
+      "poster": "https://images.metahub.space/poster/medium/tt7972012/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7972012/img",
+      "description": "Rôle : Serge / OSS 1001. 1981. Hubert Bonisseur de La Bath, alias OSS 117, est de retour. Pour cette nouvelle mission, plus délicate, plus périlleuse et plus torride que jamais, il est contraint de faire équipe avec un jeune collègue, le promett…",
+      "releaseInfo": "2021",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt10407272",
+      "type": "movie",
+      "name": "Deux moi",
+      "poster": "https://images.metahub.space/poster/medium/tt10407272/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt10407272/img",
+      "description": "Rôle : Mathieu Bernard. Rémy et Mélanie ont trente ans et vivent dans le même quartier à Paris. Elle multiplie les rendez-vous ratés sur les réseaux sociaux pendant qu'il peine à faire une rencontre.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt7210426",
+      "type": "movie",
+      "name": "Sauver ou périr",
+      "poster": "https://images.metahub.space/poster/medium/tt7210426/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7210426/img",
+      "description": "Rôle : Franck Pasquier. Franck est Sapeur-Pompier de Paris. Il sauve des gens. Il vit dans la caserne avec sa femme qui accouche de jumelles. Il est heureux. Lors d’une intervention sur un incendie, il se sacrifie pour sauver ses hommes.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt5061360",
+      "type": "movie",
+      "name": "La Promesse de l'aube",
+      "poster": "https://images.metahub.space/poster/medium/tt5061360/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5061360/img",
+      "description": "Rôle : Romain Gary. Adaptation du roman autobiographique de Romain Gary, dans lequel ce dernier évoque sa jeunesse en Lituanie, son exode avec sa famille dans le sud de la France pour échapper aux conséquences de l'arrivée au pouvoir en All…",
+      "releaseInfo": "2017",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Historique",
+        "Guerre"
+      ]
+    },
+    {
+      "id": "tt1659619",
+      "type": "movie",
+      "name": "L'Odyssée",
+      "poster": "https://images.metahub.space/poster/medium/tt1659619/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1659619/img",
+      "description": "Rôle : Philippe Cousteau. 1948, Jacques-Yves Cousteau, sa femme et ses deux fils, vivent au paradis, dans une jolie maison surplombant la mer Méditerranée. Mais Cousteau ne rêve que d’aventure.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Aventure",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt5029608",
+      "type": "movie",
+      "name": "Frantz",
+      "poster": "https://images.metahub.space/poster/medium/tt5029608/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5029608/img",
+      "description": "Rôle : Adrien Rivoire. Au lendemain de la Première Guerre mondiale, dans une petite ville allemande, Anna se rend tous les jours sur la tombe de son fiancé, mort sur le front en France.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Historique"
+      ]
+    },
+    {
+      "id": "tt3014910",
+      "type": "movie",
+      "name": "Altamira",
+      "poster": "https://images.metahub.space/poster/medium/tt3014910/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt3014910/img",
+      "description": "Rôle : Paul Ratier. L'histoire de Maria, 9 ans et de son père Marcelino qui, en 1879,  trouvèrent les premières peintures rupestres préhistoriques dans la grotte maintenant célèbre d'Altamira.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drame",
+        "Historique"
+      ]
+    },
+    {
+      "id": "tt4741714",
+      "type": "movie",
+      "name": "Five",
+      "poster": "https://images.metahub.space/poster/medium/tt4741714/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4741714/img",
+      "description": "Rôle : Samuel. Cinq amis d'enfance rêvent depuis toujours d'habiter en colocation. Lorsque l’occasion d’emménager ensemble se présente, Julia, Vadim, Nestor et Timothée n’hésitent pas une seule seconde, surtout quand Samuel se propose…",
+      "releaseInfo": "2016",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt4058500",
+      "type": "movie",
+      "name": "Un homme idéal",
+      "poster": "https://images.metahub.space/poster/medium/tt4058500/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4058500/img",
+      "description": "Rôle : Mathieu Vasseur. Mathieu, 25 ans, aspire depuis toujours à devenir un auteur reconnu. Un rêve qui lui semble inaccessible car malgré tous ses efforts, il n’a jamais réussi à être édité.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt2707858",
+      "type": "movie",
+      "name": "Yves Saint Laurent",
+      "poster": "https://images.metahub.space/poster/medium/tt2707858/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2707858/img",
+      "description": "Rôle : Yves Saint Laurent. Paris, 1957. À tout juste 21 ans, Yves Saint Laurent est appelé à prendre en main les destinées de la prestigieuse maison de haute couture fondée par Christian Dior, récemment décédé.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt2186812",
+      "type": "movie",
+      "name": "20 Ans d'écart",
+      "poster": "https://images.metahub.space/poster/medium/tt2186812/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2186812/img",
+      "description": "Rôle : Balthazar Apfel. Alice Lantins a 38 ans. Elle est belle, ambitieuse et fait preuve d’une impeccable conscience professionnelle au point d’en oublier sa vie privée.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt2807730",
+      "type": "movie",
+      "name": "Le Débarquement",
+      "poster": "https://images.metahub.space/poster/medium/tt2807730/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2807730/img",
+      "description": "Pouvez-vous nous expliquer ce qu'est le Débarquement ? C'est avant tout une aventure de copains, l'envie de jouer, de se marrer tous ensemble, et d'inviter tout le monde à y participer.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt2112129",
+      "type": "movie",
+      "name": "Comme des frères",
+      "poster": "https://images.metahub.space/poster/medium/tt2112129/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2112129/img",
+      "description": "Rôle : Maxime. Depuis que Charlie n’est plus là, la vie de Boris, Elie et Maxime a volé en éclats. Ces trois hommes que tout sépare avaient pour Charlie un amour singulier.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt1852006",
+      "type": "movie",
+      "name": "Les Neiges du Kilimandjaro",
+      "poster": "https://images.metahub.space/poster/medium/tt1852006/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1852006/img",
+      "description": "Rôle : Server at the “Tintamarre”. Bien qu’ayant perdu son travail, Michel vit heureux avec Marie-Claire. Ces deux-là s’aiment depuis trente ans. Leurs enfants et leurs petits-enfants les comblent. Ils ont des amis très proches.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt1946269",
+      "type": "movie",
+      "name": "J'aime regarder les filles",
+      "poster": "https://images.metahub.space/poster/medium/tt1946269/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1946269/img",
+      "description": "Rôle : Primo Bramsi. La veille du 10 mai 1981, Primo et Gabrielle, 18 ans, se rencontrent. Elle fait partie de la bourgeoisie parisienne. Lui est fils de petits commerçants de province.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt1565958",
+      "type": "movie",
+      "name": "Les Émotifs anonymes",
+      "poster": "https://images.metahub.space/poster/medium/tt1565958/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1565958/img",
+      "description": "Rôle : Ludo. Jean-René, patron d’une fabrique de chocolat, et Angélique, chocolatière de talent, sont deux grands émotifs. C’est leur passion commune pour le chocolat qui les rapproche.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt1479269",
+      "type": "movie",
+      "name": "L'Autre monde",
+      "poster": "https://images.metahub.space/poster/medium/tt1479269/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1479269/img",
+      "description": "Rôle : Yann. C’est l’été dans le Sud de la France. Gaspard est un adolescent heureux qui partage son temps entre ses amis et sa copine, Marion. Mais Gaspard va rencontrer Audrey et sa vie va basculer.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt1494717",
+      "type": "movie",
+      "name": "Folie douce",
+      "poster": "https://images.metahub.space/poster/medium/tt1494717/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1494717/img",
+      "description": "Rôle : Arnaud. Trouvant que ses proches lui manquent d'attention, Juliette décide de se faire passer pour amnésique. Son plan fonctionne parfaitement, ses enfants décident de prendre enfin soin d'elle.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt1258120",
+      "type": "movie",
+      "name": "L'Armée du crime",
+      "poster": "https://images.metahub.space/poster/medium/tt1258120/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1258120/img",
+      "description": "Rôle : Henri Keltekian. Dans Paris occupé par les allemands, l'ouvrier poète Missak Manouchian prend la tête d'un groupe de très jeunes juifs, Hongrois, Polonais, Roumains, Espagnols, Italiens, Arméniens, déterminés à combattre pour libérer la…",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drame",
+        "Historique",
+        "Guerre"
+      ]
+    },
+    {
+      "id": "tt1194616",
+      "type": "movie",
+      "name": "LOL (Laughing Out Loud)",
+      "poster": "https://images.metahub.space/poster/medium/tt1194616/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1194616/img",
+      "description": "Rôle : Julien. LOL ? Ça veut dire Laughing Out Loud - mort de rire - en langage internet ou par SMS. C'est aussi comme ça que les amis de Lola l'appellent. Pourtant, le jour de sa rentrée, Lola n'a pas le cœur à rire.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt0447692",
+      "type": "movie",
+      "name": "Réfractaire",
+      "poster": "https://images.metahub.space/poster/medium/tt0447692/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0447692/img",
+      "description": "Rôle : Armand. François a vingt et un ans et il vit dans un petit pays qui vient d’être annexé par l’Allemagne nazie. Son père, collaborateur du régime fasciste, l’a obligé à aller à l’université allemande.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt1092020",
+      "type": "movie",
+      "name": "Nos 18 ans",
+      "poster": "https://images.metahub.space/poster/medium/tt1092020/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1092020/img",
+      "description": "Rôle : Loïc Martineau, Clémence's younger brother. Juin 1990, Sud-Ouest. Dernier jour de classe avant le bac : une bande de terminale quitte joyeusement le lycée...",
+      "releaseInfo": "2008",
+      "genres": [
+        "Comédie"
+      ]
+    }
+  ]
+}

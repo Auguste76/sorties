@@ -1,0 +1,102 @@
+{
+  "metas": [
+    {
+      "id": "tt27415863",
+      "type": "series",
+      "name": "Fiasco",
+      "poster": "https://images.metahub.space/poster/medium/tt27415863/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt27415863/img",
+      "description": "Rôle : Robin Jacomet. Sur le tournage de son premier film, un réalisateur voit l'expérience virer au cauchemar, et l'équipe du making-of enregistre tout : couacs, menaces et tentatives de sabordage...",
+      "releaseInfo": "2024",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt14792896",
+      "type": "series",
+      "name": "Liaison",
+      "poster": "https://images.metahub.space/poster/medium/tt14792896/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt14792896/img",
+      "description": "Rôle : Gabriel Delage. Deux agents, anciens amants, doivent s’unir pour contrer des cyberattaques internationales qui menacent le Royaume-Uni tout en affrontant les secrets enfouis de leur relation explosive.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0475784",
+      "type": "series",
+      "name": "Westworld",
+      "poster": "https://images.metahub.space/poster/medium/tt0475784/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0475784/img",
+      "description": "Rôle : Serac. À Westworld, un parc d'attractions dernier cri, les visiteurs paient des fortunes pour revivre le frisson de la conquête de l'Ouest.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Fantastique",
+        "Science-fiction"
+      ]
+    },
+    {
+      "id": "tt2040020",
+      "type": "series",
+      "name": "Platane",
+      "poster": "https://images.metahub.space/poster/medium/tt2040020/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2040020/img",
+      "description": "Rôle : Vincent Cassel. Un soir, la voiture d’Eric percute un platane. Après un an de coma, il découvre que Ramzy a brillamment poursuivi sa carrière de comique sans lui en développant la série \"HP\", suite de leur sitcom à succès \"H\".",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt1769803",
+      "type": "series",
+      "name": "Les Grandes Migrations",
+      "poster": "https://images.metahub.space/poster/medium/tt1769803/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1769803/img",
+      "description": "Cette série documentaire a nécessité 3 ans de travail aux équipes de National Geographic, qui se sont rendues dans une vingtaine de pays et ont parcouru plus de 680.000 kilomètres.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Documentaire"
+      ]
+    },
+    {
+      "id": "tt0169458",
+      "type": "series",
+      "name": "Alice Nevers, le juge est une femme",
+      "poster": "https://images.metahub.space/poster/medium/tt0169458/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0169458/img",
+      "description": "Rôle : Corsini. Les forces de police font ici équipe avec la juge d'instruction Alice Nevers pour résoudre leurs enquêtes...",
+      "releaseInfo": "2002",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0856138",
+      "type": "series",
+      "name": "Lascars",
+      "poster": "https://images.metahub.space/poster/medium/tt0856138/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0856138/img",
+      "description": "Rôle : Graffeur. Cette série met en scène les aventures ou mésaventures de jeunes de banlieue, avec autodérision au cœur de la \"culture de la vanne\", des \"bastons de regards\", et des \"gros mytho\".\n\nToutes ces histoires ne sont évidemment…",
+      "releaseInfo": "1998",
+      "genres": [
+        "Animation",
+        "Comédie"
+      ]
+    }
+  ]
+}

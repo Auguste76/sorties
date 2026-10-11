@@ -1,0 +1,206 @@
+{
+  "metas": [
+    {
+      "id": "tt36220217",
+      "type": "series",
+      "name": "Belphégor",
+      "poster": "https://images.metahub.space/poster/medium/tt36220217/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt36220217/img",
+      "description": "Rôle : Charles Moreau. Hafsa, une talentueuse restauratrice d’art fraîchement embauchée au Louvre, plonge en plein chaos lorsqu’elle tombe nez à nez avec un masque millénaire du dieu de l’orage « Belphégor ».",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt31712029",
+      "type": "series",
+      "name": "Terminal",
+      "poster": "https://images.metahub.space/poster/medium/tt31712029/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt31712029/img",
+      "description": "Rôle : Sylvain Cresson. Jack, commandant de bord pilotant aussi mal sa vie personnelle que son avion, et Charlie sa co-pilote, reléguée d’une compagnie prestigieuse à Flywingz, sont obligés de collaborer.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt31609000",
+      "type": "series",
+      "name": "Anthracite",
+      "poster": "https://images.metahub.space/poster/medium/tt31609000/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt31609000/img",
+      "description": "Rôle : Claude Chevallier. Une vieille affaire refait surface quand un journaliste disparaît, menant sa fille, détective amatrice du Web, dans une ville de montagne hantée par le secret, la mort et une secte.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Policier",
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt22813264",
+      "type": "series",
+      "name": "La Fièvre",
+      "poster": "https://images.metahub.space/poster/medium/tt22813264/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt22813264/img",
+      "description": "Rôle : Philippe Rickwaert. Comme à chaque fin de saison de la Ligue 1, la grande famille du foot français fête ses héros : sourires, selfies, récompenses – c’est la soirée des Trophées UNFP.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt30142998",
+      "type": "series",
+      "name": "Pamela Rose, la série",
+      "poster": "https://images.metahub.space/poster/medium/tt30142998/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt30142998/img",
+      "description": "Rôle : Richard Bullit. Pour échapper à une sanction de la commission de discipline du FBI, les agents Richard Bullit et Douglas Riper retournent sur le terrain.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt20723358",
+      "type": "series",
+      "name": "Le Flambeau, les aventuriers de Chupacabra",
+      "poster": "https://images.metahub.space/poster/medium/tt20723358/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt20723358/img",
+      "description": "Rôle : Patrice. Au revoir la villa et bonjour Chupacabra. Après LA FLAMME, Marc et 15 autres candidats vont devoir s’affronter et survivre sur une île déserte.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt14066198",
+      "type": "series",
+      "name": "Oussekine",
+      "poster": "https://images.metahub.space/poster/medium/tt14066198/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt14066198/img",
+      "description": "Rôle : Maitre Georges Kiejman. Oussekine se penche sur les terribles événements du 5 décembre 1986 qui ont conduit à la mort de Malik Oussekine, auxquels jamais aucune série n’a été consacrée.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt13511622",
+      "type": "series",
+      "name": "Un homme d'honneur",
+      "poster": "https://images.metahub.space/poster/medium/tt13511622/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13511622/img",
+      "description": "Rôle : Richard Altman. Richard Altman, juge droit et respecté, voit sa vie basculer lorsque son fils Lucas commet un délit de fuite en laissant un motard pour mort.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt13286778",
+      "type": "series",
+      "name": "La Flamme",
+      "poster": "https://images.metahub.space/poster/medium/tt13286778/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13286778/img",
+      "description": "Rôle : Patrice. La vie lui a tout donné… sauf une co-pilote. Pendant neuf semaines dans une sublime villa, treize femmes vont s’affronter pour séduire Marc, pilote de ligne, et tenter d’allumer en lui… La Flamme !",
+      "releaseInfo": "2020",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt11005770",
+      "type": "series",
+      "name": "La Part du soupçon",
+      "poster": "https://images.metahub.space/poster/medium/tt11005770/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt11005770/img",
+      "description": "Rôle : Thomas Kertez. Alice vit le bonheur ordinaire d’une mère de famille quand tout bascule : l’homme de sa vie, Thomas, le père de son enfant, est soupçonné d’être Antoine Durieux-Jelosse, l’homme qui a défrayé la chronique pour avoir disp…",
+      "releaseInfo": "2019",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt4835480",
+      "type": "series",
+      "name": "Baron Noir",
+      "poster": "https://images.metahub.space/poster/medium/tt4835480/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4835480/img",
+      "description": "Rôle : Philippe Rickwaert. L'histoire d'un président français en devenir et de son ami, le maire d'une petite ville du nord de la France.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt5684214",
+      "type": "series",
+      "name": "Capitaine Marleau",
+      "poster": "https://images.metahub.space/poster/medium/tt5684214/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5684214/img",
+      "description": "Rôle : Daniel Rivière. La capitaine Marleau a l'instinct du chasseur sous des manières volontairement décalées. Comme elle le dit elle-même, elle ne survole pas une affaire, elle s'y \"enfonce\".",
+      "releaseInfo": "2015",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt4119154",
+      "type": "series",
+      "name": "Peplum",
+      "poster": "https://images.metahub.space/poster/medium/tt4119154/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4119154/img",
+      "description": "Rôle : Timo. Sur fond de déclin de l’Empire Romain, « Peplum » nous plonge dans le quotidien de Bravus, ancien esclave devenu conseiller du tyrannique empereur Maximus.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt0296318",
+      "type": "series",
+      "name": "Caméra Café",
+      "poster": "https://images.metahub.space/poster/medium/tt0296318/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0296318/img",
+      "description": "Rôle : Un psychopathe. La machine à café d'une petite entreprise est le théâtre de discussions entre employés. Vie privée, vie professionnelle, ragots, moqueries, … tout y passe !",
+      "releaseInfo": "2001",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt0285348",
+      "type": "series",
+      "name": "La Cape et l'épée",
+      "poster": "https://images.metahub.space/poster/medium/tt0285348/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0285348/img",
+      "description": "Rôle : Yaziz. La série met en scène les aventures burlesques de personnages médiévaux inventés comme le roi, la reine, le valet…\n\nChaque épisode est présenté par un ménestrel chargé de lire le générique, et d'être le narrateur de l'ép…",
+      "releaseInfo": "2000",
+      "genres": [
+        "Comédie"
+      ]
+    }
+  ]
+}

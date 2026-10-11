@@ -1,0 +1,31 @@
+{
+  "metas": [
+    {
+      "id": "tt27921612",
+      "type": "series",
+      "name": "Tapie",
+      "poster": "https://images.metahub.space/poster/medium/tt27921612/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt27921612/img",
+      "description": "Rôle : Marcel Loiseau. De chanteur à businessman, de ministre à prisonnier, Bernard Tapie a tout connu. À travers ses réussites comme ses échecs, le destin romanesque d’une personnalité publique hors du commun.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0138234",
+      "type": "series",
+      "name": "Fantômas",
+      "poster": "https://images.metahub.space/poster/medium/tt0138234/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0138234/img",
+      "description": "Rôle : Bonardin. Les célèbres enquêtes de l'inspecteur Juves, et du jeune Fandor, sur la trace de Fantômas, l'homme aux mille visages, sont ici transposées dans le Paris des années 1930.",
+      "releaseInfo": "1980",
+      "genres": [
+        "Policier",
+        "Thriller"
+      ]
+    }
+  ]
+}

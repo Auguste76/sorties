@@ -1,6 +1,6 @@
 {
   "id": "fr.auguste.sorties",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "name": "Sorties films et séries",
   "description": "Sorties de la semaine, titres à venir, départs des plateformes et séries suivies, en France.",
   "logo": "https://auguste76.github.io/sorties/logo.png",
@@ -121,6 +121,86 @@
       "type": "series",
       "id": "suivies-series",
       "name": "Mes séries suivies"
+    },
+    {
+      "type": "movie",
+      "id": "acteurs-films",
+      "name": "Filmographies (choisir un acteur)",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Omar Sy",
+            "Jean Dujardin",
+            "Marion Cotillard",
+            "Vincent Cassel",
+            "Léa Seydoux",
+            "Jean Reno",
+            "Gérard Depardieu",
+            "Catherine Deneuve",
+            "Isabelle Huppert",
+            "Juliette Binoche",
+            "Audrey Tautou",
+            "Romain Duris",
+            "Guillaume Canet",
+            "Dany Boon",
+            "Kad Merad",
+            "Virginie Efira",
+            "Vincent Lindon",
+            "Tahar Rahim",
+            "Louis Garrel",
+            "Pierre Niney",
+            "Gilles Lellouche",
+            "François Cluzet",
+            "Daniel Auteuil",
+            "Fabrice Luchini"
+          ],
+          "isRequired": false
+        }
+      ],
+      "extraSupported": [
+        "genre"
+      ]
+    },
+    {
+      "type": "series",
+      "id": "acteurs-series",
+      "name": "Filmographies (choisir un acteur)",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Omar Sy",
+            "Jean Dujardin",
+            "Marion Cotillard",
+            "Vincent Cassel",
+            "Léa Seydoux",
+            "Jean Reno",
+            "Gérard Depardieu",
+            "Catherine Deneuve",
+            "Isabelle Huppert",
+            "Juliette Binoche",
+            "Audrey Tautou",
+            "Romain Duris",
+            "Guillaume Canet",
+            "Dany Boon",
+            "Kad Merad",
+            "Virginie Efira",
+            "Vincent Lindon",
+            "Tahar Rahim",
+            "Louis Garrel",
+            "Pierre Niney",
+            "Gilles Lellouche",
+            "François Cluzet",
+            "Daniel Auteuil",
+            "Fabrice Luchini"
+          ],
+          "isRequired": false
+        }
+      ],
+      "extraSupported": [
+        "genre"
+      ]
     }
   ],
   "behaviorHints": {

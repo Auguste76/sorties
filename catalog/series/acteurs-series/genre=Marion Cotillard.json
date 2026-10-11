@@ -1,0 +1,49 @@
+{
+  "metas": [
+    {
+      "id": "tt13821126",
+      "type": "series",
+      "name": "Extrapolations",
+      "poster": "https://images.metahub.space/poster/medium/tt13821126/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13821126/img",
+      "description": "Rôle : Sylvie Bolo. Huit histoires interconnectées sur une période de 33 ans explorent la manière dont le changement climatique mondial affectera la famille, le travail, la foi et la survie.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drame",
+        "Fantastique",
+        "Science-fiction"
+      ]
+    },
+    {
+      "id": "tt7203552",
+      "type": "series",
+      "name": "The Morning Show",
+      "poster": "https://images.metahub.space/poster/medium/tt7203552/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7203552/img",
+      "description": "Rôle : Celine Dumont. Portrait sans concession des coulisses d'une matinale télé aux États-Unis, où l’ego et les ambitions génèrent des tensions au sein de l'équipe.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0103442",
+      "type": "series",
+      "name": "Highlander",
+      "poster": "https://images.metahub.space/poster/medium/tt0103442/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0103442/img",
+      "description": "Rôle : Lori Bellian. Duncan MacLeod est un immortel issu du même clan que Connor MacLeod, le héros des films.",
+      "releaseInfo": "1992",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Drame",
+        "Fantastique",
+        "Science-fiction"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "metas": [
+    {
+      "id": "tt38607784",
+      "type": "movie",
+      "name": "Pour le plaisir",
+      "poster": "https://images.metahub.space/poster/medium/tt38607784/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt38607784/img",
+      "description": "Rôle : Thomas. Et si on vous racontait l’invention du siècle ? Un couple, une vérité qui explose. Fanny et Tom sont mariés et heureux depuis 20 ans. Mais un jour un secret éclate : Fanny n’a jamais eu d’orgasme.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt31539607",
+      "type": "movie",
+      "name": "Fils de",
+      "poster": "https://images.metahub.space/poster/medium/tt31539607/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt31539607/img",
+      "description": "Rôle : Lionel Perrin. Une semaine après la présidentielle, la France cherche toujours son Premier Ministre. Nino, jeune attaché parlementaire ambitieux, est missionné pour convaincre son père, Lionel Perrin d’accepter le poste.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt21348598",
+      "type": "movie",
+      "name": "Un métier sérieux",
+      "poster": "https://images.metahub.space/poster/medium/tt21348598/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt21348598/img",
+      "description": "Rôle : Pierre. C’est la rentrée. Une nouvelle année scolaire au collège qui voit se retrouver Pierre, Meriem, Fouad, Sophie, Sandrine, Léo et Sofiane, un groupe d'enseignants engagés et soudés.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt14534796",
+      "type": "movie",
+      "name": "Mascarade",
+      "poster": "https://images.metahub.space/poster/medium/tt14534796/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt14534796/img",
+      "description": "Rôle : Simon Laurenti. Lorsqu’un jeune gigolo tombe sous le charme d’une sublime arnaqueuse, c’est le début d’un plan machiavélique sous le soleil brûlant de la Côte d’Azur.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comédie",
+        "Policier",
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt13429654",
+      "type": "movie",
+      "name": "Canailles",
+      "poster": "https://images.metahub.space/poster/medium/tt13429654/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13429654/img",
+      "description": "Rôle : Antoine. Suite à un casse qui a mal tourné, Antoine blessé à la jambe, débarque de force chez Elias pour se trouver une planque.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt14280366",
+      "type": "movie",
+      "name": "La Brigade",
+      "poster": "https://images.metahub.space/poster/medium/tt14280366/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt14280366/img",
+      "description": "Rôle : Lorenzo. Cathy, 40 ans, serveuse à Antibes, a toujours voulu être cheffe de son propre restaurant.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt13846372",
+      "type": "movie",
+      "name": "L'Homme de la cave",
+      "poster": "https://images.metahub.space/poster/medium/tt13846372/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13846372/img",
+      "description": "Rôle : Jacques Fonzic. Un couple décide de vendre une cave dans l’immeuble où ils habitent. Un homme se présente, banal, ordinaire. Il achète la cave. Deux semaines plus tard, l’homme s’y est installé.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt10287954",
+      "type": "movie",
+      "name": "L'incroyable histoire de l'Île de la Rose",
+      "poster": "https://images.metahub.space/poster/medium/tt10287954/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt10287954/img",
+      "description": "Rôle : Jean Baptiste Toma'. L'histoire de ‘L'île de la Rose’, une plate-forme construite de toute pièce par l'ingénieur Giorgio Rosa en 1968 au large de la côte Italienne en dehors des eaux territoriales qui devient bientôt un état indépendant.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Aventure",
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt11060092",
+      "type": "movie",
+      "name": "Poly",
+      "poster": "https://images.metahub.space/poster/medium/tt11060092/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt11060092/img",
+      "description": "Rôle : Victor. Cécile, 10 ans, déménage dans le sud de la France avec sa mère, Louise. L’intégration avec les autres enfants du village n’est pas facile.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Aventure",
+        "Famille"
+      ]
+    },
+    {
+      "id": "tt8201404",
+      "type": "movie",
+      "name": "Nous finirons ensemble",
+      "poster": "https://images.metahub.space/poster/medium/tt8201404/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt8201404/img",
+      "description": "Rôle : Max Cantara. Préoccupé, Max est parti dans sa maison au bord de la mer pour se ressourcer. Sa bande de potes, qu’il n’a pas vue depuis plus de 3 ans débarque par surprise pour lui fêter son anniversaire !",
+      "releaseInfo": "2019",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance",
+        "Famille"
+      ]
+    },
+    {
+      "id": "tt7106814",
+      "type": "movie",
+      "name": "Le Collier rouge",
+      "poster": "https://images.metahub.space/poster/medium/tt7106814/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7106814/img",
+      "description": "Rôle : Lantier. Dans une petite ville, écrasée par la chaleur de l’été, en 1919, un héros de la guerre est retenu prisonnier au fond d’une caserne déserte. Devant la porte, son chien tout cabossé aboie jour et nuit.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt6835680",
+      "type": "movie",
+      "name": "Mélancolie ouvrière",
+      "poster": "https://images.metahub.space/poster/medium/tt6835680/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6835680/img",
+      "description": "Rôle : Pierre Baud. Lucie Baud naît en 1870 dans une famille de paysans pauvres de la région de Grenoble. A douze ans, elle entre comme apprentie dans une filature de soie et se marie à 20 ans avec un garde champêtre.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drame",
+        "Historique"
+      ]
+    },
+    {
+      "id": "tt6923840",
+      "type": "movie",
+      "name": "Normandie Nue",
+      "poster": "https://images.metahub.space/poster/medium/tt6923840/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6923840/img",
+      "description": "Rôle : Georges Balbuzard. Au Mêle sur Sarthe, petit village normand, les éleveurs sont touchés par la crise.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt6330246",
+      "type": "movie",
+      "name": "L'École buissonnière",
+      "poster": "https://images.metahub.space/poster/medium/tt6330246/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6330246/img",
+      "description": "Rôle : Totoche. Paris 1930. Paul n’a toujours eu qu’un seul et même horizon: les hauts murs de l’orphelinat, sévère bâtisse de la banlieue ouvrière parisienne.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Famille"
+      ]
+    },
+    {
+      "id": "tt5221894",
+      "type": "movie",
+      "name": "Έτερος Εγώ",
+      "poster": "https://images.metahub.space/poster/medium/tt5221894/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5221894/img",
+      "description": "Rôle : Marcel de Chaffe.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Policier",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt5231916",
+      "type": "movie",
+      "name": "La Mécanique de l'ombre",
+      "poster": "https://images.metahub.space/poster/medium/tt5231916/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5231916/img",
+      "description": "Rôle : Duval. Deux ans après un licenciement, Duval est toujours au chômage. Contacté par un homme d’affaires énigmatique, il se voit proposer un travail simple et bien rémunéré : retranscrire des écoutes téléphoniques.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Action",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt5078326",
+      "type": "movie",
+      "name": "Médecin de campagne",
+      "poster": "https://images.metahub.space/poster/medium/tt5078326/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5078326/img",
+      "description": "Rôle : Jean-Pierre Werner. Tous les habitants, dans ce coin de campagne, peuvent compter sur Jean‐Pierre, le médecin qui les ausculte, les soigne et les rassure jour et nuit, 7 jours sur 7.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt2191765",
+      "type": "movie",
+      "name": "Un moment d'égarement",
+      "poster": "https://images.metahub.space/poster/medium/tt2191765/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2191765/img",
+      "description": "Rôle : Antoine. Antoine et Laurent, amis de longue date, passent leurs vacances en Corse avec leurs filles respectives : Louna, 17 ans (\"18 ans moins deux semaines\" dit-elle) et Marie, 18 ans.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt2760634",
+      "type": "movie",
+      "name": "Une rencontre",
+      "poster": "https://images.metahub.space/poster/medium/tt2760634/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2760634/img",
+      "description": "Rôle : Pierre. Elsa écrivain, et Pierre, avocat, se croisent lors de la soirée de clôture d'un salon du livre : un regard, un briquet qui change de mains, des rires un peu trop nerveux, le frémissement d'une histoire possible...",
+      "releaseInfo": "2014",
+      "genres": [
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt2165236",
+      "type": "movie",
+      "name": "En solitaire",
+      "poster": "https://images.metahub.space/poster/medium/tt2165236/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2165236/img",
+      "description": "Rôle : Yann Kermadec. Yann Kermadec voit son rêve se réaliser quand il remplace au pied levé, son ami Franck Drevil, au départ du Vendée Globe, le tour du monde à la voile en solitaire.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Aventure",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt2655788",
+      "type": "movie",
+      "name": "11.6",
+      "poster": "https://images.metahub.space/poster/medium/tt2655788/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2655788/img",
+      "description": "Rôle : Toni. Toni Musulin est convoyeur de fonds depuis dix ans. Humilié au quotidien par sa hiérarchie, il nourrit sa revanche. Un matin, il appuie sur l'accélérateur de son fourgon blindé.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt2193782",
+      "type": "movie",
+      "name": "Do Not Disturb",
+      "poster": "https://images.metahub.space/poster/medium/tt2193782/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2193782/img",
+      "description": "Rôle : Jeff. Un soir, Jeff débarque sans prévenir chez Ben. Pour célébrer ces retrouvailles et distraire son vieux copain de sa vie rangée, Jeff l'entraîne dans une fête.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt1700467",
+      "type": "movie",
+      "name": "L'Art d'aimer",
+      "poster": "https://images.metahub.space/poster/medium/tt1700467/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1700467/img",
+      "description": "Rôle : Achille. Au moment où l’on devient amoureux, à cet instant précis, il se produit en nous une musique particulière. Elle est pour chacun différente et peut survenir à des moments inattendus...",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt1675434",
+      "type": "movie",
+      "name": "Intouchables",
+      "poster": "https://images.metahub.space/poster/medium/tt1675434/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1675434/img",
+      "description": "Rôle : Philippe. À la suite d’un accident de parapente, Philippe, riche aristocrate, engage comme aide à domicile Driss, un jeune de banlieue tout juste sorti de prison. Bref la personne la moins adaptée pour le job.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0961097",
+      "type": "movie",
+      "name": "Un monstre à Paris",
+      "poster": "https://images.metahub.space/poster/medium/tt0961097/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0961097/img",
+      "description": "Rôle : Le préfet Maynott (voice). Dans le Paris inondé de 1910, un monstre sème la panique. Traqué sans relâche par le redoutable préfet Maynott, il demeure introuvable… Et si la meilleure cachette était sous les feux de « L’Oiseau Rare », un cabaret où…",
+      "releaseInfo": "2011",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Fantastique",
+        "Famille"
+      ]
+    },
+    {
+      "id": "tt1773578",
+      "type": "movie",
+      "name": "Mon père est femme de ménage",
+      "poster": "https://images.metahub.space/poster/medium/tt1773578/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1773578/img",
+      "description": "Rôle : Michel. Polo a 16 ans et les complexes d’un ado de son âge. Entre une mère alitée et une sœur qui rêve d'être Miss, le seul qui s’en sorte à ses yeux, c’est son père. Hélas, il est femme de ménage...",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt1440232",
+      "type": "movie",
+      "name": "Les Petits Mouchoirs",
+      "poster": "https://images.metahub.space/poster/medium/tt1440232/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1440232/img",
+      "description": "Rôle : Max Cantara. À la suite d'un événement bouleversant, une bande de copains décide, malgré tout, de partir en vacances au bord de la mer comme chaque année.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt1454907",
+      "type": "movie",
+      "name": "Blanc comme neige",
+      "poster": "https://images.metahub.space/poster/medium/tt1454907/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1454907/img",
+      "description": "Rôle : Maxime. Maxime a tout pour être heureux : gérant d'une concession florissante de véhicules hauts de gamme, il est marié à une délicieuse jeune femme et vit dans une confortable villa.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt1198385",
+      "type": "movie",
+      "name": "À l'origine",
+      "poster": "https://images.metahub.space/poster/medium/tt1198385/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1198385/img",
+      "description": "Rôle : Philippe Miller. Philippe Miller est un escroc solitaire qui vit sur les routes. Un jour, il découvre par hasard un chantier d'autoroute abandonné, arrêté depuis des années par des écologistes qui voulaient sauver une colonie de scarabée…",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt1245771",
+      "type": "movie",
+      "name": "Le Dernier pour la route",
+      "poster": "https://images.metahub.space/poster/medium/tt1245771/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1245771/img",
+      "description": "Rôle : Hervé Chabalier. Hervé, patron d'une agence de presse, décide d'en finir avec l'alcool. Loin de tout et grâce aux autres, il parvient à combattre sa dépendance, en repartant vers une nouvelle vie...",
+      "releaseInfo": "2009",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0869994",
+      "type": "movie",
+      "name": "Paris",
+      "poster": "https://images.metahub.space/poster/medium/tt0869994/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0869994/img",
+      "description": "Rôle : Philippe Verneuil. C'est l'histoire d'un parisien qui est malade et qui se demande s'il va mourir. Son état lui donne un regard neuf et différent sur tous les gens qu'il croise.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0942379",
+      "type": "movie",
+      "name": "Les Liens du sang",
+      "poster": "https://images.metahub.space/poster/medium/tt0942379/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0942379/img",
+      "description": "Rôle : Gabriel. Lyon, à la fin des années 70. François, inspecteur de police, apprend la sortie de prison de son frère, Gabriel, qui vient de tirer dix ans pour meurtre.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Action",
+        "Policier"
+      ]
+    },
+    {
+      "id": "tt0881343",
+      "type": "movie",
+      "name": "La Vérité ou presque",
+      "poster": "https://images.metahub.space/poster/medium/tt0881343/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0881343/img",
+      "description": "Rôle : Marc. Anne est mariée à Thomas, qui a un faible pour Caroline, la jeune femme de Marc, l'ex-mari d'Anne, elle-même sensible au charme de Vincent, terriblement jalousé par Lucas.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0782143",
+      "type": "movie",
+      "name": "Ma place au soleil",
+      "poster": "https://images.metahub.space/poster/medium/tt0782143/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0782143/img",
+      "description": "Rôle : Paul. Adolescent, on a le sentiment profond que la vie qui s'annonce verra se succéder aventures et bonheurs en tout genre.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0887901",
+      "type": "movie",
+      "name": "Détrompez-vous",
+      "poster": "https://images.metahub.space/poster/medium/tt0887901/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0887901/img",
+      "description": "Rôle : Lionel. À quatre, ça va être compliqué...  Thomas et Carole, Lionel et Lisa : deux couples officiels, un troisième qui nourrit en secret une relation passionnée... quant au quatrième couple, formé par défaut, que va-t-il faire?",
+      "releaseInfo": "2007",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt0362225",
+      "type": "movie",
+      "name": "Ne le dis à personne",
+      "poster": "https://images.metahub.space/poster/medium/tt0362225/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0362225/img",
+      "description": "Rôle : Alexandre Beck. Sa femme Margot a été sauvagement assassinée par un serial killer. Totalement détruit, Alex ressasse jour après jour le souvenir bouleversant de son amour perdu. Huit ans ont passé. Alex reçoit un e‐mail anonyme.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Policier",
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0448245",
+      "type": "movie",
+      "name": "Quatre étoiles",
+      "poster": "https://images.metahub.space/poster/medium/tt0448245/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0448245/img",
+      "description": "Rôle : René. Quatre étoiles est une histoire d'argent, donc de sentiments. C'est l'histoire d'une fille qui hérite de 50 000 euros dont elle ne sait pas trop quoi faire. C'est encombrant, l'argent.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt0426266",
+      "type": "movie",
+      "name": "La cloche a sonné",
+      "poster": "https://images.metahub.space/poster/medium/tt0426266/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0426266/img",
+      "description": "Rôle : Jean. Stress ? Manque d'oméga 3 ? Difficultés relationnelles ? Problèmes sexuels ou de transit ? Besoin d'un break ? Inscrivez vous au stage de Simon Arcos et expérimentez sa méthode unique.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt0423441",
+      "type": "movie",
+      "name": "Le Domaine perdu",
+      "poster": "https://images.metahub.space/poster/medium/tt0423441/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0423441/img",
+      "description": "Rôle : Antoine. Antoine, pilote français un peu casse-cou, atterrit sur la côte chilienne et se lie d'amitié avec un gamin qui l'adore, Max.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Drame",
+        "Fantastique"
+      ]
+    },
+    {
+      "id": "tt0377080",
+      "type": "movie",
+      "name": "Je suis un assassin",
+      "poster": "https://images.metahub.space/poster/medium/tt0377080/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0377080/img",
+      "description": "Rôle : Ben Castelano. Suzy pousse son mari, écrivain sans éditeur, à accepter le contrat que lui propose Kantor, un auteur célèbre en mal d'inspiration. C'est un contrat sanglant qui scelle le début d'un engrenage infernal.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Thriller"
+      ]
+    }
+  ]
+}

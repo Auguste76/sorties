@@ -1,0 +1,69 @@
+{
+  "metas": [
+    {
+      "id": "tt27415863",
+      "type": "series",
+      "name": "Fiasco",
+      "poster": "https://images.metahub.space/poster/medium/tt27415863/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt27415863/img",
+      "description": "Rôle : Raphaël Valande. Sur le tournage de son premier film, un réalisateur voit l'expérience virer au cauchemar, et l'équipe du making-of enregistre tout : couacs, menaces et tentatives de sabordage...",
+      "releaseInfo": "2024",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt20723358",
+      "type": "series",
+      "name": "Le Flambeau, les aventuriers de Chupacabra",
+      "poster": "https://images.metahub.space/poster/medium/tt20723358/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt20723358/img",
+      "description": "Rôle : Dr Bruno Juiphe. Au revoir la villa et bonjour Chupacabra. Après LA FLAMME, Marc et 15 autres candidats vont devoir s’affronter et survivre sur une île déserte.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt13286778",
+      "type": "series",
+      "name": "La Flamme",
+      "poster": "https://images.metahub.space/poster/medium/tt13286778/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13286778/img",
+      "description": "Rôle : Dr Bruno Juiphe. La vie lui a tout donné… sauf une co-pilote. Pendant neuf semaines dans une sublime villa, treize femmes vont s’affronter pour séduire Marc, pilote de ligne, et tenter d’allumer en lui… La Flamme !",
+      "releaseInfo": "2020",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt3177474",
+      "type": "series",
+      "name": "Casting(s)",
+      "poster": "https://images.metahub.space/poster/medium/tt3177474/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt3177474/img",
+      "description": "Rôle : Pierre. Casting(s) est une shortcom télévisée française créée par Pierre Niney et Ali Marhyar, écrite par Ali Marhyar, Igor Gotesman et Pierre Niney, produite par Hugo Gélin pour Zazi Films et diffusée depuis le 7 septembre 2013…",
+      "releaseInfo": "2013",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt2071991",
+      "type": "series",
+      "name": "Very Bad Blagues",
+      "poster": "https://images.metahub.space/poster/medium/tt2071991/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2071991/img",
+      "description": "Rôle : Stéphane. Après La Folle Histoire du Palmashow et les parodies de films et d’émissions de TV, David Marsais et Grégoire Ludig se mettent en scène dans les situations de la vie quotidienne, des plus classiques aux plus inattendues,…",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comédie"
+      ]
+    }
+  ]
+}

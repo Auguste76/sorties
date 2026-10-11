@@ -1,0 +1,561 @@
+{
+  "metas": [
+    {
+      "id": "tt36834996",
+      "type": "movie",
+      "name": "Soudain",
+      "poster": "https://images.metahub.space/poster/medium/tt36834996/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt36834996/img",
+      "description": "Rôle : Marie-Lou Fontaine. Directrice d'un établissement pour personnes âgées, Marie-Lou tente d'y instaurer une philosophie de soins innovante basée sur l'écoute et la dignité des résidents, malgré la réticence d’une partie de ses équipes.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt36646880",
+      "type": "movie",
+      "name": "Histoires parallèles",
+      "poster": "https://images.metahub.space/poster/medium/tt36646880/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt36646880/img",
+      "description": "Rôle : Anna / Nita. En quête d’inspiration pour son nouveau roman, Sylvie espionne ses voisins dans l’immeuble d’en face.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt29729103",
+      "type": "movie",
+      "name": "Les Braises",
+      "poster": "https://images.metahub.space/poster/medium/tt29729103/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt29729103/img",
+      "description": "Rôle : Karine. Karine et Jimmy forment un couple uni, toujours très amoureux après vingt ans de vie commune et deux enfants. Elle travaille dans une usine ; lui, chauffeur routier, s’acharne à faire grandir sa petite entreprise.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt33852162",
+      "type": "movie",
+      "name": "Vie privée",
+      "poster": "https://images.metahub.space/poster/medium/tt33852162/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt33852162/img",
+      "description": "Rôle : Paula Cohen-Solal. Lilian Steiner est une psychiatre reconnue. Un jour, elle apprend la mort de l’une de ses patientes. Troublée, Lilian se persuade qu’il s’agit d’un assassinat, elle décide alors de mener son enquête...",
+      "releaseInfo": "2025",
+      "genres": [
+        "Policier",
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt28185868",
+      "type": "movie",
+      "name": "Kina & Yuk : Renards de la banquise",
+      "poster": "https://images.metahub.space/poster/medium/tt28185868/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt28185868/img",
+      "description": "Rôle : Narrator (voice, French release). Kina et Yuk, un couple de renards polaires prêt à fonder sa famille, vit paisiblement sur la banquise du grand Nord Américain.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Aventure",
+        "Documentaire",
+        "Famille"
+      ]
+    },
+    {
+      "id": "tt14748950",
+      "type": "movie",
+      "name": "Rien à perdre",
+      "poster": "https://images.metahub.space/poster/medium/tt14748950/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt14748950/img",
+      "description": "Rôle : Sylvie Paugam. Sylvie vit à Brest avec ses deux enfants, Sofiane et Jean-Jacques. Une nuit, Sofiane se blesse alors qu’il est seul dans l’appartement.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt23049206",
+      "type": "movie",
+      "name": "L'Amour et les Forêts",
+      "poster": "https://images.metahub.space/poster/medium/tt23049206/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt23049206/img",
+      "description": "Rôle : Blanche Renard / Rose Renard. Quand Blanche croise le chemin de Grégoire, elle pense rencontrer celui qu’elle cherche. Les liens qui les unissent se tissent rapidement et leur histoire se construit dans l’emportement.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt15403712",
+      "type": "movie",
+      "name": "Les Enfants des autres",
+      "poster": "https://images.metahub.space/poster/medium/tt15403712/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt15403712/img",
+      "description": "Rôle : Rachel Friedmann. Rachel a 40 ans, pas d'enfant. Elle aime sa vie : ses élèves du lycée, ses amis, ses ex, ses cours de guitare. En tombant amoureuse d’Ali, elle s’attache à Leila, sa fille de 4 ans.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt15329224",
+      "type": "movie",
+      "name": "Revoir Paris",
+      "poster": "https://images.metahub.space/poster/medium/tt15329224/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt15329224/img",
+      "description": "Rôle : Mia. À Paris, Mia est prise dans un attentat dans une brasserie. Trois mois plus tard, alors qu’elle n’a toujours pas réussi à reprendre le cours de sa vie et qu’elle ne se rappelle de l’évènement que par bribes, Mia décide d…",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt14590650",
+      "type": "movie",
+      "name": "Don Juan",
+      "poster": "https://images.metahub.space/poster/medium/tt14590650/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt14590650/img",
+      "description": "Rôle : Julie. En 2022, Don Juan n’est plus l’homme qui séduit toutes les femmes, mais un homme obsédé par une seule femme : celle qui l’a abandonné…",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt13002242",
+      "type": "movie",
+      "name": "Lui",
+      "poster": "https://images.metahub.space/poster/medium/tt13002242/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13002242/img",
+      "description": "Rôle : Wife. Un homme, compositeur de musique, à la croisée des chemins, doute et s’interroge sur le sens de sa vie.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt11310608",
+      "type": "movie",
+      "name": "En attendant Bojangles",
+      "poster": "https://images.metahub.space/poster/medium/tt11310608/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt11310608/img",
+      "description": "Rôle : Camille. Camille et Georges dansent tout le temps sur leur chanson préférée Mr Bojangles. Chez eux, il n'y a de place que pour le plaisir, la fantaisie et les amis.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt11310670",
+      "type": "movie",
+      "name": "Madeleine Collins",
+      "poster": "https://images.metahub.space/poster/medium/tt11310670/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt11310670/img",
+      "description": "Rôle : Judith Fauvet. Judith mène une double vie entre la Suisse et la France. D’un côté Abdel, avec qui elle élève une petite fille, de l’autre Melvil, avec qui elle a deux garçons plus âgés.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt6823148",
+      "type": "movie",
+      "name": "Benedetta",
+      "poster": "https://images.metahub.space/poster/medium/tt6823148/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6823148/img",
+      "description": "Rôle : Sister Benedetta Carlini. Au 17ème siècle, alors que la peste se propage en Italie, la très jeune Benedetta Carlini rejoint le couvent de Pescia en Toscane.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Historique"
+      ]
+    },
+    {
+      "id": "tt10196398",
+      "type": "movie",
+      "name": "Adieu les cons",
+      "poster": "https://images.metahub.space/poster/medium/tt10196398/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt10196398/img",
+      "description": "Rôle : Suze Trappet. Lorsque Suze Trappet apprend à 43 ans qu'elle est sérieusement malade, elle décide de partir à la recherche de l'enfant qu'elle a été forcée d'abandonner quand elle avait 15 ans.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt9850344",
+      "type": "movie",
+      "name": "Police",
+      "poster": "https://images.metahub.space/poster/medium/tt9850344/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt9850344/img",
+      "description": "Rôle : Virginie. Virginie, Erik et Aristide, trois flics parisiens, se voient obligés d’accepter une mission inhabituelle : reconduire un étranger à la frontière.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt9173264",
+      "type": "movie",
+      "name": "Sibyl",
+      "poster": "https://images.metahub.space/poster/medium/tt9173264/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt9173264/img",
+      "description": "Rôle : Sibyl. Sibyl est une ancienne romancière reconvertie en psychanalyste depuis dix ans. Poussée par le désir d'écrire à nouveau, elle se résout à quitter la majorité de ses patients.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt8260226",
+      "type": "movie",
+      "name": "Un Amour impossible",
+      "poster": "https://images.metahub.space/poster/medium/tt8260226/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt8260226/img",
+      "description": "Rôle : Rachel. À la fin des années 50 à Châteauroux, Rachel, modeste employée de bureau, rencontre Philippe, brillant jeune homme issu d'une famille bourgeoise.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Historique"
+      ]
+    },
+    {
+      "id": "tt7476116",
+      "type": "movie",
+      "name": "Le Grand Bain",
+      "poster": "https://images.metahub.space/poster/medium/tt7476116/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7476116/img",
+      "description": "Rôle : Delphine. C’est dans les couloirs de leur piscine municipale que Bertrand, Marcus, Simon, Laurent, Thierry et les autres s’entraînent sous l’autorité toute relative de Delphine, ancienne gloire des bassins.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt8003558",
+      "type": "movie",
+      "name": "Continuer",
+      "poster": "https://images.metahub.space/poster/medium/tt8003558/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt8003558/img",
+      "description": "Rôle : Sybille. Sibylle, mère divorcée, ne supporte plus de voir son fils adolescent sombrer dans une vie violente et vide de sens. Elle va jouer leur va-tout en entraînant Samuel dans un long périple à travers le Kirghizistan.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt5222768",
+      "type": "movie",
+      "name": "Croc-Blanc",
+      "poster": "https://images.metahub.space/poster/medium/tt5222768/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5222768/img",
+      "description": "Rôle : Maggie Scott (voice). Croc-Blanc est un fier et courageux chien-loup. Après avoir grandi dans les espaces enneigés et hostiles du Grand Nord, il est recueilli par Castor Gris et sa tribu indienne.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Animation",
+        "Famille"
+      ]
+    },
+    {
+      "id": "tt6314766",
+      "type": "movie",
+      "name": "Drôles de petites bêtes",
+      "poster": "https://images.metahub.space/poster/medium/tt6314766/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6314766/img",
+      "description": "Rôle : Huguette (voice). Lorsqu’Apollon, un grillon baladin au grand cœur, arrive au village des petites bêtes, il ne tarde pas à perturber la vie du Royaume tout entier… Piégé par la cousine de la Reine Marguerite, la jalouse et diabolique Hugu…",
+      "releaseInfo": "2017",
+      "genres": [
+        "Animation",
+        "Comédie",
+        "Famille"
+      ]
+    },
+    {
+      "id": "tt7293256",
+      "type": "movie",
+      "name": "La station",
+      "poster": "https://images.metahub.space/poster/medium/tt7293256/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7293256/img",
+      "description": "Rôle : Virginie. Max, Mégane et Louise débarquent dans une mystérieuse station-essence. À l’intérieur du bâtiment désert, de nombreuses photocopieuses qui fonctionnent à plein régime.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Comédie",
+        "Science-fiction"
+      ]
+    },
+    {
+      "id": "tt5313922",
+      "type": "movie",
+      "name": "Pris de court",
+      "poster": "https://images.metahub.space/poster/medium/tt5313922/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5313922/img",
+      "description": "Rôle : Nathalie. Nathalie est joaillère et vient de s’installer à Paris pour un nouveau travail et une nouvelle vie avec ses deux fils.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt5078214",
+      "type": "movie",
+      "name": "Victoria",
+      "poster": "https://images.metahub.space/poster/medium/tt5078214/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5078214/img",
+      "description": "Rôle : Victoria Spick. Victoria Spick, avocate pénaliste en plein néant sentimental, débarque à un mariage et y retrouve son ami Vincent et Sam, un ex-dealer qu’elle a sorti d’affaire.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt3716530",
+      "type": "movie",
+      "name": "Elle",
+      "poster": "https://images.metahub.space/poster/medium/tt3716530/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt3716530/img",
+      "description": "Rôle : Rebecca. Michèle fait partie de ces femmes que rien ne semble atteindre. À la tête d'une grande entreprise de jeux vidéo, elle gère ses affaires comme sa vie sentimentale: d'une main de fer.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt4699388",
+      "type": "movie",
+      "name": "Un homme à la hauteur",
+      "poster": "https://images.metahub.space/poster/medium/tt4699388/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4699388/img",
+      "description": "Rôle : Diane. Diane, une avocate, fraîchement célibataire, reçoit un appel d’Alexandre, un architecte charmant qu’elle n’avait jamais rencontré, et qui va l’aider à retrouver son téléphone égaré.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt4161586",
+      "type": "movie",
+      "name": "Et ta sœur",
+      "poster": "https://images.metahub.space/poster/medium/tt4161586/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4161586/img",
+      "description": "Rôle : Marie. Pierrick est encore sous le coup de la disparition récente de son frère. Alors pourquoi ne pas accepter l’invitation de Tessa, sa meilleure amie, dans sa maison familiale afin de passer une semaine seul à méditer sur sa…",
+      "releaseInfo": "2016",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt4084056",
+      "type": "movie",
+      "name": "Le Goût des merveilles",
+      "poster": "https://images.metahub.space/poster/medium/tt4084056/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4084056/img",
+      "description": "Rôle : Louise. Au cœur de la Drôme provençale, Louise élève seule ses deux enfants et tente de préserver l'exploitation familiale. Un soir, elle manque d'écraser un inconnu au comportement singulier.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt3811986",
+      "type": "movie",
+      "name": "Une famille à louer",
+      "poster": "https://images.metahub.space/poster/medium/tt3811986/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt3811986/img",
+      "description": "Rôle : Violette Mandini. Paul‐André est un homme timide et plutôt introverti. Riche mais seul, il s’ennuie profondément et finit par conclure que ce dont il a besoin, c’est d’une famille.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt3612984",
+      "type": "movie",
+      "name": "Caprice",
+      "poster": "https://images.metahub.space/poster/medium/tt3612984/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt3612984/img",
+      "description": "Rôle : Alicia Bardery. Clément, instituteur, est comblé jusqu'à l'étourdissement : Alicia, une actrice célèbre qu'il admire au plus haut point, devient sa compagne.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt2165236",
+      "type": "movie",
+      "name": "En solitaire",
+      "poster": "https://images.metahub.space/poster/medium/tt2165236/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2165236/img",
+      "description": "Rôle : Marie Drevil. Yann Kermadec voit son rêve se réaliser quand il remplace au pied levé, son ami Franck Drevil, au départ du Vendée Globe, le tour du monde à la voile en solitaire.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Aventure",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt2207090",
+      "type": "movie",
+      "name": "Les Invincibles",
+      "poster": "https://images.metahub.space/poster/medium/tt2207090/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2207090/img",
+      "description": "Rôle : Caroline Fernet. Mohamed Boudhali, dit Momo, est depuis son plus jeune âge un petit génie de la pétanque. Malheureusement, Momo a gâché ses talents en vivant de parties d’arnaques à la pétanque avec son complice et mentor Jacky.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt2186812",
+      "type": "movie",
+      "name": "20 Ans d'écart",
+      "poster": "https://images.metahub.space/poster/medium/tt2186812/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2186812/img",
+      "description": "Rôle : Alice Lantins. Alice Lantins a 38 ans. Elle est belle, ambitieuse et fait preuve d’une impeccable conscience professionnelle au point d’en oublier sa vie privée.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt2063876",
+      "type": "movie",
+      "name": "Cookie",
+      "poster": "https://images.metahub.space/poster/medium/tt2063876/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2063876/img",
+      "description": "Rôle : Delphine. Un jour, la femme de ménage chinoise d’Adeline disparaît précipitamment en lui laissant sur les bras son fils de six ans.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt2807730",
+      "type": "movie",
+      "name": "Le Débarquement",
+      "poster": "https://images.metahub.space/poster/medium/tt2807730/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2807730/img",
+      "description": "Pouvez-vous nous expliquer ce qu'est le Débarquement ? C'est avant tout une aventure de copains, l'envie de jouer, de se marrer tous ensemble, et d'inviter tout le monde à y participer.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt1813773",
+      "type": "movie",
+      "name": "À la maison pour Noël",
+      "poster": "https://images.metahub.space/poster/medium/tt1813773/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1813773/img",
+      "description": "Rôle : Sarah Moreau. Sarah Moreau est une brillante avocate qui contrôle tout dans sa vie. Son emploi du temps de femme d'affaires ne lui permet pas de laisser quoique ce soit au hasard, surtout les jours de fête. Et aujourd'hui c'est Noël.",
+      "releaseInfo": "2012",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt2435076",
+      "type": "movie",
+      "name": "Dead Man Talking",
+      "poster": "https://images.metahub.space/poster/medium/tt2435076/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2435076/img",
+      "description": "Rôle : Elisabeth Lacroix. 20 h. Une prison quelque part. William Lamers est condamné à mort. La loi ne précisant pas la longueur de sa dernière déclaration, il va profiter de ce vide juridique pour dérouler le fil de sa vie afin d’échapper à la s…",
+      "releaseInfo": "2012",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt1718835",
+      "type": "movie",
+      "name": "Mon pire cauchemar",
+      "poster": "https://images.metahub.space/poster/medium/tt1718835/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1718835/img",
+      "description": "Rôle : Julie. Elle habite avec son fils et son mari en face du Luxembourg... Il habite seul avec son fils à l’arrière d’une camionnette. Elle dirige une prestigieuse fondation d’art contemporain...",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt1667100",
+      "type": "movie",
+      "name": "La Chance de ma vie",
+      "poster": "https://images.metahub.space/poster/medium/tt1667100/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1667100/img",
+      "description": "Rôle : Joanna Sorini. Julien a un sérieux problème. Depuis son plus jeune âge, il porte la poisse à toutes les femmes qui s'éprennent de lui. Joanna va vite l'apprendre à ses dépens le jour où elle le croise.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ]
+    }
+  ]
+}

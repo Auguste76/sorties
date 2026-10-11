@@ -1,0 +1,31 @@
+{
+  "metas": [
+    {
+      "id": "tt27165867",
+      "type": "series",
+      "name": "Salade grecque",
+      "poster": "https://images.metahub.space/poster/medium/tt27165867/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt27165867/img",
+      "description": "Rôle : Xavier. Tom et Mia (les enfants de Wendy et Xavier, personnages de « L'auberge espagnole ») partent vivre une nouvelle aventure à Athènes.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt9844334",
+      "type": "series",
+      "name": "Vernon Subutex",
+      "poster": "https://images.metahub.space/poster/medium/tt9844334/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt9844334/img",
+      "description": "Rôle : Vernon Subutex. La vie de Vernon Subutex, disquaire au chômage, bascule, le jour où il est expulsé de chez lui et qu'une rock star meurt en lui laissant de mystérieux enregistrements.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drame"
+      ]
+    }
+  ]
+}

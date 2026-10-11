@@ -1,0 +1,30 @@
+{
+  "metas": [
+    {
+      "id": "tt2040020",
+      "type": "series",
+      "name": "Platane",
+      "poster": "https://images.metahub.space/poster/medium/tt2040020/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2040020/img",
+      "description": "Rôle : Guillaume Canet. Un soir, la voiture d’Eric percute un platane. Après un an de coma, il découvre que Ramzy a brillamment poursuivi sa carrière de comique sans lui en développant la série \"HP\", suite de leur sitcom à succès \"H\".",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt0172040",
+      "type": "series",
+      "name": "Premiers Baisers",
+      "poster": "https://images.metahub.space/poster/medium/tt0172040/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0172040/img",
+      "description": "Rôle : Guillaume. Le petit groupe d'adolescents formé par Justine et ses amis a bien du mal à concilier amour et amitié !",
+      "releaseInfo": "1991",
+      "genres": [
+        "Comédie"
+      ]
+    }
+  ]
+}

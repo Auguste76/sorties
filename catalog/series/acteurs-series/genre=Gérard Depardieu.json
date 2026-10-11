@@ -1,0 +1,151 @@
+{
+  "metas": [
+    {
+      "id": "tt13511622",
+      "type": "series",
+      "name": "Un homme d'honneur",
+      "poster": "https://images.metahub.space/poster/medium/tt13511622/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13511622/img",
+      "description": "Rôle : Bruno Riva. Richard Altman, juge droit et respecté, voit sa vie basculer lorsque son fils Lucas commet un délit de fuite en laissant un motard pour mort.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt4110246",
+      "type": "series",
+      "name": "Mata Hari",
+      "poster": "https://images.metahub.space/poster/medium/tt4110246/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4110246/img",
+      "description": "Rôle : Abbé Busoni. Adaptée de la vie de Mata Hari. Margaret MacLeod, persécutée par son mari qui finit par la priver de la garde de leur fille, se retrouve sans moyens de survie.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt4003966",
+      "type": "series",
+      "name": "Marseille",
+      "poster": "https://images.metahub.space/poster/medium/tt4003966/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4003966/img",
+      "description": "Rôle : Robert Taro. Robert Taro est maire de Marseille depuis 25 ans. Les prochaines élections municipales vont l'opposer à l'homme qu'il avait choisi pour lui succéder, un jeune loup aux dents longues.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt5684214",
+      "type": "series",
+      "name": "Capitaine Marleau",
+      "poster": "https://images.metahub.space/poster/medium/tt5684214/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5684214/img",
+      "description": "Rôle : Philippe Muir. La capitaine Marleau a l'instinct du chasseur sous des manières volontairement décalées. Comme elle le dit elle-même, elle ne survole pas une affaire, elle s'y \"enfonce\".",
+      "releaseInfo": "2015",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0429046",
+      "type": "series",
+      "name": "Les Rois maudits",
+      "poster": "https://images.metahub.space/poster/medium/tt0429046/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0429046/img",
+      "description": "Rôle : Jacques de Molay. « Tous maudits, jusqu'à la septième génération ! », telle est la funeste malédiction que le chef des Templiers, depuis les flammes du bûcher, lance au visage de Philippe le Bel, roi de France.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0341855",
+      "type": "series",
+      "name": "La Femme mousquetaire",
+      "poster": "https://images.metahub.space/poster/medium/tt0341855/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0341855/img",
+      "description": "Rôle : Cardinal Mazarin. La fille de d'Artagnan essaie de se faire admettre au corps des mousquetaires du roi Louis XIV.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Action",
+        "Aventure"
+      ]
+    },
+    {
+      "id": "tt0253839",
+      "type": "series",
+      "name": "Napoléon",
+      "poster": "https://images.metahub.space/poster/medium/tt0253839/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0253839/img",
+      "description": "Rôle : Joseph Fouché. Napoléon Bonaparte, petit militaire Corse est devenu Napoléon, Empereur des Français.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Drame",
+        "Guerre"
+      ]
+    },
+    {
+      "id": "tt0230534",
+      "type": "series",
+      "name": "Les Misérables",
+      "poster": "https://images.metahub.space/poster/medium/tt0230534/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0230534/img",
+      "description": "Rôle : Jean Valjean. Après avoir purgé sa peine, l'ancien forçat Jean Valjean sort du bagne et change d'identité. Mais le tenace inspecteur Javert est toujours à ses trousses.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Drame",
+        "Guerre"
+      ]
+    },
+    {
+      "id": "tt0271242",
+      "type": "series",
+      "name": "Убойная сила",
+      "poster": "https://images.metahub.space/poster/medium/tt0271242/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0271242/img",
+      "description": "Rôle : Cannes City Police Commissioner.",
+      "releaseInfo": "2000",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Comédie",
+        "Policier",
+        "Thriller",
+        "Famille"
+      ]
+    },
+    {
+      "id": "tt0167565",
+      "type": "series",
+      "name": "Le Comte de Monte-Cristo",
+      "poster": "https://images.metahub.space/poster/medium/tt0167565/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0167565/img",
+      "description": "Rôle : Edmond Dantès. En 1815, Edmond Dantès, jeune capitaine au long cours, est injustement emprisonné au soir de ses fiançailles avec la belle Mercedes.",
+      "releaseInfo": "1998",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Policier",
+        "Drame",
+        "Thriller",
+        "Famille"
+      ]
+    }
+  ]
+}

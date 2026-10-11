@@ -1,0 +1,88 @@
+{
+  "metas": [
+    {
+      "id": "tt10698534",
+      "type": "series",
+      "name": "Une affaire Privée",
+      "poster": "https://images.metahub.space/poster/medium/tt10698534/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt10698534/img",
+      "description": "Rôle : Héctor Hugo. En Galice dans les années 40. Marina Quiroga, une jeune femme de la haute société qui a l'âme d'une détective décide, avec son fidèle majordome Héctor, de piéger le tueur qui terrorise la ville.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt14677314",
+      "type": "series",
+      "name": "Toutes ces choses qu'on ne s'est pas dites",
+      "poster": "https://images.metahub.space/poster/medium/tt14677314/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt14677314/img",
+      "description": "Rôle : Michel Saurel. Trois jours avant son mariage, Julia reçoit un appel l'informant que son père ne sera pas présent à la cérémonie. Et cette fois, il a une bonne excuse : il est mort.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt10726424",
+      "type": "series",
+      "name": "Die Hart",
+      "poster": "https://images.metahub.space/poster/medium/tt10726424/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt10726424/img",
+      "description": "Rôle : Claude Van De Velde. Fatigué d'être l'acolyte comique, Kevin Hart réalise son vœu lorsqu'un célèbre réalisateur lui offre son rêve - être une star de l'action - mais il y a un hic : Kevin doit d'abord s'entraîner dans la plus grande école d'…",
+      "releaseInfo": "2020",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt2476706",
+      "type": "series",
+      "name": "Jo",
+      "poster": "https://images.metahub.space/poster/medium/tt2476706/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2476706/img",
+      "description": "Rôle : Jo St-Clair. Jo est un grand flic, capable d’intuitions brillantes, aussi à l’aise dans l’action que dans la réflexion, redoutable adversaire pour les tueurs qu’il traque.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Policier"
+      ]
+    },
+    {
+      "id": "tt0115383",
+      "type": "series",
+      "name": "TFI Friday",
+      "poster": "https://images.metahub.space/poster/medium/tt0115383/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0115383/img",
+      "releaseInfo": "1996",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt0088626",
+      "type": "series",
+      "name": "Tender Is the Night",
+      "poster": "https://images.metahub.space/poster/medium/tt0088626/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0088626/img",
+      "description": "Rôle : Dr. Dangen.",
+      "releaseInfo": "1985",
+      "genres": [
+        "Drame"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "metas": [
+    {
+      "id": "tt18177528",
+      "type": "series",
+      "name": "The New Look",
+      "poster": "https://images.metahub.space/poster/medium/tt18177528/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt18177528/img",
+      "description": "Rôle : Coco Chanel. Cette série forte en émotions raconte comment l’icône de la mode Christian Dior et ses contemporains, Coco Chanel, Pierre Balmain et Cristóbal Balenciaga, ont traversé les horreurs de la Seconde Guerre mondiale et lancé…",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drame",
+        "Guerre"
+      ]
+    },
+    {
+      "id": "tt11324406",
+      "type": "series",
+      "name": "The Staircase",
+      "poster": "https://images.metahub.space/poster/medium/tt11324406/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt11324406/img",
+      "description": "Rôle : Sophie Brunet. La série retrace l'affaire de Michael Peterson, un auteur de romans policiers accusé d’avoir tué sa femme Kathleen ainsi que la longue bataille judiciaire de 16 ans qui a suivi.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt4959470",
+      "type": "series",
+      "name": "Infrarouge",
+      "poster": "https://images.metahub.space/poster/medium/tt4959470/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4959470/img",
+      "description": "Infrarouge, c'est le rendez-vous hebdomadaire des documentaires de France 2. Ces films sont diffusés le mardi en deuxième et troisième parties de soirée.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Documentaire"
+      ]
+    }
+  ]
+}

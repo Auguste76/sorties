@@ -1,0 +1,837 @@
+{
+  "metas": [
+    {
+      "id": "tt34273502",
+      "type": "series",
+      "name": "Prisoner",
+      "poster": "https://images.metahub.space/poster/medium/tt34273502/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt34273502/img",
+      "description": "Rôle : Tibor Stone. Lorsqu'un convoi pénitentiaire est pris d’assaut sur une route isolée, Amber Todd, agente chargée du transfert, se retrouve prise au piège avec Tibor Stone - ancien tueur d’élite devenu témoin clé contre Pegasus, le rése…",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Policier"
+      ]
+    },
+    {
+      "id": "tt36220217",
+      "type": "series",
+      "name": "Belphégor",
+      "poster": "https://images.metahub.space/poster/medium/tt36220217/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt36220217/img",
+      "description": "Rôle : Charles Moreau. Hafsa, une talentueuse restauratrice d’art fraîchement embauchée au Louvre, plonge en plein chaos lorsqu’elle tombe nez à nez avec un masque millénaire du dieu de l’orage « Belphégor ».",
+      "releaseInfo": "2025",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt14164922",
+      "type": "series",
+      "name": "Astérix & Obélix : Le Combat des chefs",
+      "poster": "https://images.metahub.space/poster/medium/tt14164922/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt14164922/img",
+      "description": "Rôle : Obélix (voice). Alors que Panoramix a oublié la recette de la potion magique, Astérix et Obélix doivent repousser César, qui compte bien arriver à ses fins grâce à une loi gauloise.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Action",
+        "Animation",
+        "Aventure",
+        "Comédie",
+        "Fantastique",
+        "Science-fiction",
+        "Famille"
+      ]
+    },
+    {
+      "id": "tt32869282",
+      "type": "series",
+      "name": "Royaumes d’Asie",
+      "poster": "https://images.metahub.space/poster/medium/tt32869282/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt32869282/img",
+      "description": "Rôle : Narrator (voice). Du vaste désert de Gobi aux jungles de Bornéo, des étendues polaires de Sibérie aux mers coralliennes de l'océan Indien, la diversité des lieux les plus sauvages d'Asie est à couper le souffle.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Documentaire"
+      ]
+    },
+    {
+      "id": "tt31844643",
+      "type": "series",
+      "name": "Zorro",
+      "poster": "https://images.metahub.space/poster/medium/tt31844643/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt31844643/img",
+      "description": "Rôle : Don Diego de la Vega / Zorro. Los Angeles, 1821. Illégitime à son poste d'alcade, Don Diego doit trouver une solution à ses problèmes et à ceux de la ville. Poussé par Bernardo, il ressort le masque de Zorro.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt27415863",
+      "type": "series",
+      "name": "Fiasco",
+      "poster": "https://images.metahub.space/poster/medium/tt27415863/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt27415863/img",
+      "description": "Rôle : Robin Jacomet. Sur le tournage de son premier film, un réalisateur voit l'expérience virer au cauchemar, et l'équipe du making-of enregistre tout : couacs, menaces et tentatives de sabordage...",
+      "releaseInfo": "2024",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt31712029",
+      "type": "series",
+      "name": "Terminal",
+      "poster": "https://images.metahub.space/poster/medium/tt31712029/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt31712029/img",
+      "description": "Rôle : Sylvain Cresson. Jack, commandant de bord pilotant aussi mal sa vie personnelle que son avion, et Charlie sa co-pilote, reléguée d’une compagnie prestigieuse à Flywingz, sont obligés de collaborer.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt31609000",
+      "type": "series",
+      "name": "Anthracite",
+      "poster": "https://images.metahub.space/poster/medium/tt31609000/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt31609000/img",
+      "description": "Rôle : Claude Chevallier. Une vieille affaire refait surface quand un journaliste disparaît, menant sa fille, détective amatrice du Web, dans une ville de montagne hantée par le secret, la mort et une secte.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Policier",
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt22813264",
+      "type": "series",
+      "name": "La Fièvre",
+      "poster": "https://images.metahub.space/poster/medium/tt22813264/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt22813264/img",
+      "description": "Rôle : Philippe Rickwaert. Comme à chaque fin de saison de la Ligue 1, la grande famille du foot français fête ses héros : sourires, selfies, récompenses – c’est la soirée des Trophées UNFP.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt18177528",
+      "type": "series",
+      "name": "The New Look",
+      "poster": "https://images.metahub.space/poster/medium/tt18177528/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt18177528/img",
+      "description": "Rôle : Coco Chanel. Cette série forte en émotions raconte comment l’icône de la mode Christian Dior et ses contemporains, Coco Chanel, Pierre Balmain et Cristóbal Balenciaga, ont traversé les horreurs de la Seconde Guerre mondiale et lancé…",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drame",
+        "Guerre"
+      ]
+    },
+    {
+      "id": "tt30142998",
+      "type": "series",
+      "name": "Pamela Rose, la série",
+      "poster": "https://images.metahub.space/poster/medium/tt30142998/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt30142998/img",
+      "description": "Rôle : Richard Bullit. Pour échapper à une sanction de la commission de discipline du FBI, les agents Richard Bullit et Douglas Riper retournent sur le terrain.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt21913366",
+      "type": "series",
+      "name": "Tout va bien",
+      "poster": "https://images.metahub.space/poster/medium/tt21913366/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt21913366/img",
+      "description": "Rôle : Claire. Une famille ordinaire est confrontée à une terrible épreuve, qui va percuter la vie de chacun de ses membres.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt18413548",
+      "type": "series",
+      "name": "D'argent et de sang",
+      "poster": "https://images.metahub.space/poster/medium/tt18413548/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt18413548/img",
+      "description": "Rôle : Simon Weynachter. L’escroquerie du siècle, survenue en France et en Europe entre 2008 et 2009. Des milliards partis en fumée sur le nouveau marché financier des \"quotas carbone\" inventé pour lutter contre le réchauffement climatique.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt19514434",
+      "type": "series",
+      "name": "Alphonse",
+      "poster": "https://images.metahub.space/poster/medium/tt19514434/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt19514434/img",
+      "description": "Rôle : Alphonse. Il s’appelle Alphonse et vit en France. « Je suis là, Mesdames, pour satisfaire tous vos désirs, même les plus inavouables. Toutes.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt27921612",
+      "type": "series",
+      "name": "Tapie",
+      "poster": "https://images.metahub.space/poster/medium/tt27921612/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt27921612/img",
+      "description": "Rôle : Marcel Loiseau. De chanteur à businessman, de ministre à prisonnier, Bernard Tapie a tout connu. À travers ses réussites comme ses échecs, le destin romanesque d’une personnalité publique hors du commun.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt27165867",
+      "type": "series",
+      "name": "Salade grecque",
+      "poster": "https://images.metahub.space/poster/medium/tt27165867/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt27165867/img",
+      "description": "Rôle : Xavier. Tom et Mia (les enfants de Wendy et Xavier, personnages de « L'auberge espagnole ») partent vivre une nouvelle aventure à Athènes.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt13821126",
+      "type": "series",
+      "name": "Extrapolations",
+      "poster": "https://images.metahub.space/poster/medium/tt13821126/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13821126/img",
+      "description": "Rôle : Sylvie Bolo. Huit histoires interconnectées sur une période de 33 ans explorent la manière dont le changement climatique mondial affectera la famille, le travail, la foi et la survie.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drame",
+        "Fantastique",
+        "Science-fiction"
+      ]
+    },
+    {
+      "id": "tt14792896",
+      "type": "series",
+      "name": "Liaison",
+      "poster": "https://images.metahub.space/poster/medium/tt14792896/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt14792896/img",
+      "description": "Rôle : Gabriel Delage. Deux agents, anciens amants, doivent s’unir pour contrer des cyberattaques internationales qui menacent le Royaume-Uni tout en affrontant les secrets enfouis de leur relation explosive.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt10698534",
+      "type": "series",
+      "name": "Une affaire Privée",
+      "poster": "https://images.metahub.space/poster/medium/tt10698534/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt10698534/img",
+      "description": "Rôle : Héctor Hugo. En Galice dans les années 40. Marina Quiroga, une jeune femme de la haute société qui a l'âme d'une détective décide, avec son fidèle majordome Héctor, de piéger le tueur qui terrorise la ville.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt14677314",
+      "type": "series",
+      "name": "Toutes ces choses qu'on ne s'est pas dites",
+      "poster": "https://images.metahub.space/poster/medium/tt14677314/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt14677314/img",
+      "description": "Rôle : Michel Saurel. Trois jours avant son mariage, Julia reçoit un appel l'informant que son père ne sera pas présent à la cérémonie. Et cette fois, il a une bonne excuse : il est mort.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt20723358",
+      "type": "series",
+      "name": "Le Flambeau, les aventuriers de Chupacabra",
+      "poster": "https://images.metahub.space/poster/medium/tt20723358/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt20723358/img",
+      "description": "Rôle : Patrice. Au revoir la villa et bonjour Chupacabra. Après LA FLAMME, Marc et 15 autres candidats vont devoir s’affronter et survivre sur une île déserte.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt14066198",
+      "type": "series",
+      "name": "Oussekine",
+      "poster": "https://images.metahub.space/poster/medium/tt14066198/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt14066198/img",
+      "description": "Rôle : Maitre Georges Kiejman. Oussekine se penche sur les terribles événements du 5 décembre 1986 qui ont conduit à la mort de Malik Oussekine, auxquels jamais aucune série n’a été consacrée.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt11324406",
+      "type": "series",
+      "name": "The Staircase",
+      "poster": "https://images.metahub.space/poster/medium/tt11324406/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt11324406/img",
+      "description": "Rôle : Sophie Brunet. La série retrace l'affaire de Michael Peterson, un auteur de romans policiers accusé d’avoir tué sa femme Kathleen ainsi que la longue bataille judiciaire de 16 ans qui a suivi.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt13511622",
+      "type": "series",
+      "name": "Un homme d'honneur",
+      "poster": "https://images.metahub.space/poster/medium/tt13511622/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13511622/img",
+      "description": "Rôle : Bruno Riva. Richard Altman, juge droit et respecté, voit sa vie basculer lorsque son fils Lucas commet un délit de fuite en laissant un motard pour mort.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Lupin",
+      "poster": "https://images.metahub.space/poster/medium/tt2531336/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2531336/img",
+      "description": "Rôle : Assane Diop. Inspiré par les aventures d'Arsène Lupin, le gentleman cambrioleur Assane Diop décide de venger son père d'une terrible injustice.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Policier",
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt7985576",
+      "type": "series",
+      "name": "Le Serpent",
+      "poster": "https://images.metahub.space/poster/medium/tt7985576/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7985576/img",
+      "description": "Rôle : Charles Sobhraj. Dans les années 1970, l'impitoyable tueur Charles Sobhraj traque les touristes occidentaux qui font la route en Asie du Sud. Inspiré de terrifiants faits réels.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt12806068",
+      "type": "series",
+      "name": "Les Monarchies face à Hitler",
+      "poster": "https://images.metahub.space/poster/medium/tt12806068/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt12806068/img",
+      "description": "Rôle : Narrator (voice). Devant la montée des périls, les monarchies européennes, toutes unies les unes aux autres par des liens familiaux , sont terrorisées par la menace communiste. Le fascisme et le nazisme semblent être la solution.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Documentaire"
+      ]
+    },
+    {
+      "id": "tt13286778",
+      "type": "series",
+      "name": "La Flamme",
+      "poster": "https://images.metahub.space/poster/medium/tt13286778/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13286778/img",
+      "description": "Rôle : Patrice. La vie lui a tout donné… sauf une co-pilote. Pendant neuf semaines dans une sublime villa, treize femmes vont s’affronter pour séduire Marc, pilote de ligne, et tenter d’allumer en lui… La Flamme !",
+      "releaseInfo": "2020",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt13190868",
+      "type": "series",
+      "name": "Le Mensonge",
+      "poster": "https://images.metahub.space/poster/medium/tt13190868/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13190868/img",
+      "description": "Rôle : Claude Arbona. Claude a tout réussi dans sa vie : son mariage, sa carrière… Maire de sa ville, il se destine à devenir sénateur.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt10726424",
+      "type": "series",
+      "name": "Die Hart",
+      "poster": "https://images.metahub.space/poster/medium/tt10726424/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt10726424/img",
+      "description": "Rôle : Claude Van De Velde. Fatigué d'être l'acolyte comique, Kevin Hart réalise son vœu lorsqu'un célèbre réalisateur lui offre son rêve - être une star de l'action - mais il y a un hic : Kevin doit d'abord s'entraîner dans la plus grande école d'…",
+      "releaseInfo": "2020",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt7322210",
+      "type": "series",
+      "name": "The Eddy",
+      "poster": "https://images.metahub.space/poster/medium/tt7322210/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7322210/img",
+      "description": "Rôle : Farid Youssfi. Autrefois célèbre pianiste de jazz new-yorkais, Elliot Udo est désormais le patron de The Eddy, club ayant connu des jours meilleurs.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt7203552",
+      "type": "series",
+      "name": "The Morning Show",
+      "poster": "https://images.metahub.space/poster/medium/tt7203552/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7203552/img",
+      "description": "Rôle : Celine Dumont. Portrait sans concession des coulisses d'une matinale télé aux États-Unis, où l’ego et les ambitions génèrent des tensions au sein de l'équipe.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt11005770",
+      "type": "series",
+      "name": "La Part du soupçon",
+      "poster": "https://images.metahub.space/poster/medium/tt11005770/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt11005770/img",
+      "description": "Rôle : Thomas Kertez. Alice vit le bonheur ordinaire d’une mère de famille quand tout bascule : l’homme de sa vie, Thomas, le père de son enfant, est soupçonné d’être Antoine Durieux-Jelosse, l’homme qui a défrayé la chronique pour avoir disp…",
+      "releaseInfo": "2019",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt9844334",
+      "type": "series",
+      "name": "Vernon Subutex",
+      "poster": "https://images.metahub.space/poster/medium/tt9844334/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt9844334/img",
+      "description": "Rôle : Vernon Subutex. La vie de Vernon Subutex, disquaire au chômage, bascule, le jour où il est expulsé de chez lui et qu'une rock star meurt en lui laissant de mystérieux enregistrements.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt6599482",
+      "type": "series",
+      "name": "The Romanoffs",
+      "poster": "https://images.metahub.space/poster/medium/tt6599482/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6599482/img",
+      "description": "Rôle : Jacqueline. A chaque épisode, une histoire centrée sur une personne persuadée être une descendante de la célèbre famille royale russe.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt6474236",
+      "type": "series",
+      "name": "The Looming Tower",
+      "poster": "https://images.metahub.space/poster/medium/tt6474236/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6474236/img",
+      "description": "Rôle : Ali Soufan. The Looming Tower décrit la menace grandissante représentée par Oussama Ben Laden et Al-Qaida et offre un regard polémique sur la façon dont la rivalité entre la CIA et le FBI a pu involontairement ouvrir la voie à la tr…",
+      "releaseInfo": "2018",
+      "genres": [
+        "Drame",
+        "Guerre"
+      ]
+    },
+    {
+      "id": "tt4110246",
+      "type": "series",
+      "name": "Mata Hari",
+      "poster": "https://images.metahub.space/poster/medium/tt4110246/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4110246/img",
+      "description": "Rôle : Abbé Busoni. Adaptée de la vie de Mata Hari. Margaret MacLeod, persécutée par son mari qui finit par la priver de la garde de leur fille, se retrouve sans moyens de survie.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0475784",
+      "type": "series",
+      "name": "Westworld",
+      "poster": "https://images.metahub.space/poster/medium/tt0475784/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0475784/img",
+      "description": "Rôle : Serac. À Westworld, un parc d'attractions dernier cri, les visiteurs paient des fortunes pour revivre le frisson de la conquête de l'Ouest.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Fantastique",
+        "Science-fiction"
+      ]
+    },
+    {
+      "id": "tt4003966",
+      "type": "series",
+      "name": "Marseille",
+      "poster": "https://images.metahub.space/poster/medium/tt4003966/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4003966/img",
+      "description": "Rôle : Robert Taro. Robert Taro est maire de Marseille depuis 25 ans. Les prochaines élections municipales vont l'opposer à l'homme qu'il avait choisi pour lui succéder, un jeune loup aux dents longues.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt4835480",
+      "type": "series",
+      "name": "Baron Noir",
+      "poster": "https://images.metahub.space/poster/medium/tt4835480/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4835480/img",
+      "description": "Rôle : Philippe Rickwaert. L'histoire d'un président français en devenir et de son ami, le maire d'une petite ville du nord de la France.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt4075386",
+      "type": "series",
+      "name": "Panthers",
+      "poster": "https://images.metahub.space/poster/medium/tt4075386/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4075386/img",
+      "description": "Rôle : Khalil. Le casse d’une bijouterie à Marseille remet sur le devant de la scène les Pink Panthers.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt5684214",
+      "type": "series",
+      "name": "Capitaine Marleau",
+      "poster": "https://images.metahub.space/poster/medium/tt5684214/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5684214/img",
+      "description": "Rôle : Philippe Muir. La capitaine Marleau a l'instinct du chasseur sous des manières volontairement décalées. Comme elle le dit elle-même, elle ne survole pas une affaire, elle s'y \"enfonce\".",
+      "releaseInfo": "2015",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt4063800",
+      "type": "series",
+      "name": "Le Bureau des légendes",
+      "poster": "https://images.metahub.space/poster/medium/tt4063800/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4063800/img",
+      "description": "Rôle : Andrea Tassone dit « Mille Sabords ». Au sein de la DGSE (Direction générale de la Sécurité extérieure), le Bureau des Légendes est un département très spécial qui a pour mission extrêmement délicate de diriger des agents des services de renseignements franç…",
+      "releaseInfo": "2015",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt4119154",
+      "type": "series",
+      "name": "Peplum",
+      "poster": "https://images.metahub.space/poster/medium/tt4119154/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4119154/img",
+      "description": "Rôle : Timo. Sur fond de déclin de l’Empire Romain, « Peplum » nous plonge dans le quotidien de Bravus, ancien esclave devenu conseiller du tyrannique empereur Maximus.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt3177474",
+      "type": "series",
+      "name": "Casting(s)",
+      "poster": "https://images.metahub.space/poster/medium/tt3177474/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt3177474/img",
+      "description": "Rôle : Pierre. Casting(s) est une shortcom télévisée française créée par Pierre Niney et Ali Marhyar, écrite par Ali Marhyar, Igor Gotesman et Pierre Niney, produite par Hugo Gélin pour Zazi Films et diffusée depuis le 7 septembre 2013…",
+      "releaseInfo": "2013",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt2476706",
+      "type": "series",
+      "name": "Jo",
+      "poster": "https://images.metahub.space/poster/medium/tt2476706/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2476706/img",
+      "description": "Rôle : Jo St-Clair. Jo est un grand flic, capable d’intuitions brillantes, aussi à l’aise dans l’action que dans la réflexion, redoutable adversaire pour les tueurs qu’il traque.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Policier"
+      ]
+    },
+    {
+      "id": "tt2040020",
+      "type": "series",
+      "name": "Platane",
+      "poster": "https://images.metahub.space/poster/medium/tt2040020/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2040020/img",
+      "description": "Rôle : Vincent Cassel. Un soir, la voiture d’Eric percute un platane. Après un an de coma, il découvre que Ramzy a brillamment poursuivi sa carrière de comique sans lui en développant la série \"HP\", suite de leur sitcom à succès \"H\".",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt2044128",
+      "type": "series",
+      "name": "Bref",
+      "poster": "https://images.metahub.space/poster/medium/tt2044128/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2044128/img",
+      "description": "Rôle : Omar Sy. Un trentenaire au chômage, obsédé par une fille rencontrée en soirée, fait part de ses états d'âme et de ses réflexions sur les problèmes du quotidien.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt1236371",
+      "type": "series",
+      "name": "Mystères de Lisbonne",
+      "poster": "https://images.metahub.space/poster/medium/tt1236371/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1236371/img",
+      "description": "Rôle : Blanche de Monfort. Au XIXe siècle, l'histoire de deux destinées qui se croisent : celle d'un orphelin en quête d'identité généalogique, Pedro da Silva, interne dans un collège religieux ; et celle du Père Dinis, un prêtre, autrefois aristo…",
+      "releaseInfo": "2011",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt2071991",
+      "type": "series",
+      "name": "Very Bad Blagues",
+      "poster": "https://images.metahub.space/poster/medium/tt2071991/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2071991/img",
+      "description": "Rôle : Stéphane. Après La Folle Histoire du Palmashow et les parodies de films et d’émissions de TV, David Marsais et Grégoire Ludig se mettent en scène dans les situations de la vie quotidienne, des plus classiques aux plus inattendues,…",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt1769803",
+      "type": "series",
+      "name": "Les Grandes Migrations",
+      "poster": "https://images.metahub.space/poster/medium/tt1769803/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1769803/img",
+      "description": "Cette série documentaire a nécessité 3 ans de travail aux équipes de National Geographic, qui se sont rendues dans une vingtaine de pays et ont parcouru plus de 680.000 kilomètres.",
+      "releaseInfo": "2010",
+      "genres": [
+        "Documentaire"
+      ]
+    },
+    {
+      "id": "tt4959470",
+      "type": "series",
+      "name": "Infrarouge",
+      "poster": "https://images.metahub.space/poster/medium/tt4959470/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4959470/img",
+      "description": "Infrarouge, c'est le rendez-vous hebdomadaire des documentaires de France 2. Ces films sont diffusés le mardi en deuxième et troisième parties de soirée.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Documentaire"
+      ]
+    },
+    {
+      "id": "tt0499407",
+      "type": "series",
+      "name": "SAV des émissions",
+      "poster": "https://images.metahub.space/poster/medium/tt0499407/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0499407/img",
+      "description": "Le SAV des émissions est un centre de réception d’appels pas comme les autres. Le principe de départ de cette émission humoristique est de commenter l'actualité des derniers jours dans un format court de deux minutes pré…",
+      "releaseInfo": "2005",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt0429046",
+      "type": "series",
+      "name": "Les Rois maudits",
+      "poster": "https://images.metahub.space/poster/medium/tt0429046/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0429046/img",
+      "description": "Rôle : Jacques de Molay. « Tous maudits, jusqu'à la septième génération ! », telle est la funeste malédiction que le chef des Templiers, depuis les flammes du bûcher, lance au visage de Philippe le Bel, roi de France.",
+      "releaseInfo": "2005",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0441059",
+      "type": "series",
+      "name": "Kaamelott",
+      "poster": "https://images.metahub.space/poster/medium/tt0441059/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0441059/img",
+      "description": "Rôle : Berlewen. Vème siècle, île de Bretagne. Alors que l'Empire romain s'effondre et que le christianisme s'impose peu à peu face aux dieux païens, le royaume de Kaamelott s'organise autour de son souverain, le roi Arthur ; entouré de…",
+      "releaseInfo": "2005",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Fantastique",
+        "Science-fiction"
+      ]
+    },
+    {
+      "id": "tt0341855",
+      "type": "series",
+      "name": "La Femme mousquetaire",
+      "poster": "https://images.metahub.space/poster/medium/tt0341855/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0341855/img",
+      "description": "Rôle : Cardinal Mazarin. La fille de d'Artagnan essaie de se faire admettre au corps des mousquetaires du roi Louis XIV.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Action",
+        "Aventure"
+      ]
+    },
+    {
+      "id": "tt0361217",
+      "type": "series",
+      "name": "Nip/Tuck",
+      "poster": "https://images.metahub.space/poster/medium/tt0361217/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0361217/img",
+      "description": "Rôle : Diana Lubey. Sean McNamara et Christian Troy sont deux chirurgiens esthétiques âgés d'une quarantaine d'années. Amis de longue date, ils possèdent une clinique à Miami dans laquelle ils reçoivent des patients de tous horizons.",
+      "releaseInfo": "2003",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0317875",
+      "type": "series",
+      "name": "Les liaisons dangereuses",
+      "poster": "https://images.metahub.space/poster/medium/tt0317875/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0317875/img",
+      "description": "Rôle : Marquise Isabelle de Merteuil. Mme de Merteuil et Valmont sont de vieux amis, ex-amants, aimant se jouer des autres et se montrant particulièrement doués dans cet art.",
+      "releaseInfo": "2003",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0253839",
+      "type": "series",
+      "name": "Napoléon",
+      "poster": "https://images.metahub.space/poster/medium/tt0253839/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0253839/img",
+      "description": "Rôle : Joseph Fouché. Napoléon Bonaparte, petit militaire Corse est devenu Napoléon, Empereur des Français.",
+      "releaseInfo": "2002",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Drame",
+        "Guerre"
+      ]
+    },
+    {
+      "id": "tt0169458",
+      "type": "series",
+      "name": "Alice Nevers, le juge est une femme",
+      "poster": "https://images.metahub.space/poster/medium/tt0169458/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0169458/img",
+      "description": "Rôle : Corsini. Les forces de police font ici équipe avec la juge d'instruction Alice Nevers pour résoudre leurs enquêtes...",
+      "releaseInfo": "2002",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Policier",
+        "Drame"
+      ]
+    }
+  ]
+}

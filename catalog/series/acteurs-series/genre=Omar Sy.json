@@ -1,0 +1,59 @@
+{
+  "metas": [
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Lupin",
+      "poster": "https://images.metahub.space/poster/medium/tt2531336/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2531336/img",
+      "description": "Rôle : Assane Diop. Inspiré par les aventures d'Arsène Lupin, le gentleman cambrioleur Assane Diop décide de venger son père d'une terrible injustice.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Policier",
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt2044128",
+      "type": "series",
+      "name": "Bref",
+      "poster": "https://images.metahub.space/poster/medium/tt2044128/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2044128/img",
+      "description": "Rôle : Omar Sy. Un trentenaire au chômage, obsédé par une fille rencontrée en soirée, fait part de ses états d'âme et de ses réflexions sur les problèmes du quotidien.",
+      "releaseInfo": "2011",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0499407",
+      "type": "series",
+      "name": "SAV des émissions",
+      "poster": "https://images.metahub.space/poster/medium/tt0499407/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0499407/img",
+      "description": "Le SAV des émissions est un centre de réception d’appels pas comme les autres. Le principe de départ de cette émission humoristique est de commenter l'actualité des derniers jours dans un format court de deux minutes pré…",
+      "releaseInfo": "2005",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt0285348",
+      "type": "series",
+      "name": "La Cape et l'épée",
+      "poster": "https://images.metahub.space/poster/medium/tt0285348/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0285348/img",
+      "description": "Rôle : Ménestrel. La série met en scène les aventures burlesques de personnages médiévaux inventés comme le roi, la reine, le valet…\n\nChaque épisode est présenté par un ménestrel chargé de lire le générique, et d'être le narrateur de l'ép…",
+      "releaseInfo": "2000",
+      "genres": [
+        "Comédie"
+      ]
+    }
+  ]
+}

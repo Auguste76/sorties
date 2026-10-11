@@ -1,0 +1,30 @@
+{
+  "metas": [
+    {
+      "id": "tt0361217",
+      "type": "series",
+      "name": "Nip/Tuck",
+      "poster": "https://images.metahub.space/poster/medium/tt0361217/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0361217/img",
+      "description": "Rôle : Diana Lubey. Sean McNamara et Christian Troy sont deux chirurgiens esthétiques âgés d'une quarantaine d'années. Amis de longue date, ils possèdent une clinique à Miami dans laquelle ils reçoivent des patients de tous horizons.",
+      "releaseInfo": "2003",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt0317875",
+      "type": "series",
+      "name": "Les liaisons dangereuses",
+      "poster": "https://images.metahub.space/poster/medium/tt0317875/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0317875/img",
+      "description": "Rôle : Marquise Isabelle de Merteuil. Mme de Merteuil et Valmont sont de vieux amis, ex-amants, aimant se jouer des autres et se montrant particulièrement doués dans cet art.",
+      "releaseInfo": "2003",
+      "genres": [
+        "Drame"
+      ]
+    }
+  ]
+}

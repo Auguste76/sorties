@@ -1,0 +1,60 @@
+{
+  "metas": [
+    {
+      "id": "tt32869282",
+      "type": "series",
+      "name": "Royaumes d’Asie",
+      "poster": "https://images.metahub.space/poster/medium/tt32869282/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt32869282/img",
+      "description": "Rôle : Narrator (voice). Du vaste désert de Gobi aux jungles de Bornéo, des étendues polaires de Sibérie aux mers coralliennes de l'océan Indien, la diversité des lieux les plus sauvages d'Asie est à couper le souffle.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Documentaire"
+      ]
+    },
+    {
+      "id": "tt21913366",
+      "type": "series",
+      "name": "Tout va bien",
+      "poster": "https://images.metahub.space/poster/medium/tt21913366/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt21913366/img",
+      "description": "Rôle : Claire. Une famille ordinaire est confrontée à une terrible épreuve, qui va percuter la vie de chacun de ses membres.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Comédie",
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt12806068",
+      "type": "series",
+      "name": "Les Monarchies face à Hitler",
+      "poster": "https://images.metahub.space/poster/medium/tt12806068/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt12806068/img",
+      "description": "Rôle : Narrator (voice). Devant la montée des périls, les monarchies européennes, toutes unies les unes aux autres par des liens familiaux , sont terrorisées par la menace communiste. Le fascisme et le nazisme semblent être la solution.",
+      "releaseInfo": "2020",
+      "genres": [
+        "Documentaire"
+      ]
+    },
+    {
+      "id": "tt0441059",
+      "type": "series",
+      "name": "Kaamelott",
+      "poster": "https://images.metahub.space/poster/medium/tt0441059/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0441059/img",
+      "description": "Rôle : Berlewen. Vème siècle, île de Bretagne. Alors que l'Empire romain s'effondre et que le christianisme s'impose peu à peu face aux dieux païens, le royaume de Kaamelott s'organise autour de son souverain, le roi Arthur ; entouré de…",
+      "releaseInfo": "2005",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Fantastique",
+        "Science-fiction"
+      ]
+    }
+  ]
+}
