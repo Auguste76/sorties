@@ -1,8 +1,9 @@
 {
   "id": "fr.auguste.sorties",
-  "version": "0.0.2",
-  "name": "Sorties du jour",
-  "description": "Catalogue des nouvelles sorties films et séries en France (test).",
+  "version": "0.0.3",
+  "name": "Sorties films et séries",
+  "description": "Sorties de la semaine, titres à venir, départs des plateformes et séries suivies, en France.",
+  "logo": "https://auguste76.github.io/sorties/logo.png",
   "resources": [
     "catalog"
   ],
@@ -17,12 +18,101 @@
     {
       "type": "movie",
       "id": "sorties-films",
-      "name": "Sorties du jour"
+      "name": "Sorties de la semaine",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Thriller",
+            "SF",
+            "Comedie",
+            "Drame"
+          ],
+          "isRequired": false
+        }
+      ],
+      "extraSupported": [
+        "genre"
+      ]
     },
     {
       "type": "series",
       "id": "sorties-series",
-      "name": "Sorties du jour"
+      "name": "Sorties de la semaine",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Thriller",
+            "SF",
+            "Comedie",
+            "Drame"
+          ],
+          "isRequired": false
+        }
+      ],
+      "extraSupported": [
+        "genre"
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "avenir-films",
+      "name": "À venir cette semaine",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Thriller",
+            "SF",
+            "Comedie",
+            "Drame"
+          ],
+          "isRequired": false
+        }
+      ],
+      "extraSupported": [
+        "genre"
+      ]
+    },
+    {
+      "type": "series",
+      "id": "avenir-series",
+      "name": "À venir cette semaine",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Thriller",
+            "SF",
+            "Comedie",
+            "Drame"
+          ],
+          "isRequired": false
+        }
+      ],
+      "extraSupported": [
+        "genre"
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "depart-films",
+      "name": "Part bientôt"
+    },
+    {
+      "type": "series",
+      "id": "depart-series",
+      "name": "Part bientôt"
+    },
+    {
+      "type": "series",
+      "id": "suivies-series",
+      "name": "Mes séries suivies"
     }
-  ]
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false
+  }
 }
