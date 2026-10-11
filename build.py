@@ -12,8 +12,12 @@ Un fichier absent laisse la liste précédente intacte. Un fichier présent
 mais vide ([]) la vide.
 
 Chaque entrée : {"id": "tt...", "type": "movie"|"series", "name": "...",
-  "description": "...", "year": 2026, "famille": "thriller|sf|comedie|drame",
+  "description": "...", "year": 2026, "genres": ["Thriller", "Policier"],
   "date": "AAAA-MM-JJ"}   (date : sortie, ou départ pour departs.json)
+Genres reconnus : Action, Animation, Aventure, Comédie, Policier, Documentaire,
+Drame, Fantastique, Horreur, Romance, Science-fiction, Thriller, Famille,
+Historique, Guerre (quelques variantes anglaises sont acceptées). L'ancien
+champ "famille" (thriller|sf|comedie|drame) sert de secours si "genres" manque.
 
 L'état (listes + cache des identifiants IMDb) est dans data/etat.json.
 """
@@ -36,8 +40,23 @@ CATALOG = os.path.join(ROOT, "catalog")
 
 KEEP_DAYS = 7
 CAPS = {"historique": 60, "avenir": 40, "departs": 40, "suivies": 40}
-GENRES = {"thriller": "Thriller", "sf": "SF", "comedie": "Comedie", "drame": "Drame"}
-GENRE_OPTIONS = ["Thriller", "SF", "Comedie", "Drame"]
+GENRES_CANON = [
+    "Action", "Animation", "Aventure", "Comédie", "Policier", "Documentaire", "Drame",
+    "Fantastique", "Horreur", "Romance", "Science-fiction", "Thriller", "Famille",
+    "Historique", "Guerre",
+]
+# Variantes acceptées (clés normalisées : minuscules, sans accents ni ponctuation)
+SYNONYMES = {
+    "comedie": "Comédie", "comedy": "Comédie", "crime": "Policier", "polar": "Policier",
+    "science fiction": "Science-fiction", "sci fi": "Science-fiction", "sf": "Science-fiction",
+    "fantasy": "Fantastique", "epouvante horreur": "Horreur", "epouvante": "Horreur",
+    "horror": "Horreur", "history": "Historique", "histoire": "Historique", "war": "Guerre",
+    "family": "Famille", "adventure": "Aventure", "documentary": "Documentaire",
+    "drama": "Drame", "romantique": "Romance", "suspense": "Thriller", "mystere": "Thriller",
+    "mystery": "Thriller",
+}
+# Ancien système de familles, utilisé seulement si une entrée n'a pas de genres
+FAMILLE_VERS_GENRE = {"thriller": "Thriller", "sf": "Science-fiction", "comedie": "Comédie", "drame": "Drame"}
 SITE = "https://auguste76.github.io/sorties"
 
 # (type, id, nom, liste source, filtre genre)
@@ -58,6 +77,22 @@ def norm(s):
     s = unicodedata.normalize("NFKD", s.lower())
     s = "".join(c for c in s if not unicodedata.combining(c))
     return re.sub(r"[^a-z0-9]+", " ", s).strip()
+
+
+_PAR_NORM = {norm(g): g for g in GENRES_CANON}
+_PAR_NORM.update(SYNONYMES)
+
+
+def genres_de(e):
+    """Genres canoniques d'une entrée (ordre de GENRES_CANON, sans doublon)."""
+    trouves = set()
+    for g in e.get("genres") or []:
+        canon = _PAR_NORM.get(norm(str(g)))
+        if canon:
+            trouves.add(canon)
+    if not trouves and e.get("famille") in FAMILLE_VERS_GENRE:
+        trouves.add(FAMILLE_VERS_GENRE[e["famille"]])
+    return [g for g in GENRES_CANON if g in trouves]
 
 
 def load_json(path, default):
@@ -89,6 +124,8 @@ def clean(entry):
     for k in ("description", "year", "famille", "date"):
         if entry.get(k):
             e[k] = entry[k]
+    if isinstance(entry.get("genres"), list):
+        e["genres"] = [str(g) for g in entry["genres"]]
     return e
 
 
@@ -134,9 +171,9 @@ def meta(e, source):
         m["description"] = desc
     if e.get("year"):
         m["releaseInfo"] = str(e["year"])
-    g = GENRES.get(e.get("famille"))
+    g = genres_de(e)
     if g:
-        m["genres"] = [g]
+        m["genres"] = g
     return m
 
 
@@ -178,6 +215,7 @@ def main():
     shutil.rmtree(CATALOG, ignore_errors=True)
     blob = hashlib.sha256()
     counts = {}
+    options_genre = {}  # id de catalogue -> genres présents (menu du filtre)
     for typ, cid, _name, source, has_genre in CATALOGS:
         items = [e for e in state[source] if e["type"] == typ][: CAPS[source]]
         metas = [meta(e, source) for e in items]
@@ -186,7 +224,9 @@ def main():
         save_json(base, {"metas": metas})
         blob.update(json.dumps(metas, sort_keys=True).encode())
         if has_genre:
-            for opt in GENRE_OPTIONS:
+            present = [g for g in GENRES_CANON if any(g in m.get("genres", []) for m in metas)]
+            options_genre[cid] = present
+            for opt in present:
                 sub = [m for m in metas if opt in m.get("genres", [])]
                 save_json(os.path.join(CATALOG, typ, cid, f"genre={opt}.json"), {"metas": sub})
 
@@ -236,8 +276,8 @@ def main():
     catalogs = []
     for typ, cid, name, _source, has_genre in CATALOGS:
         c = {"type": typ, "id": cid, "name": name}
-        if has_genre:
-            c["extra"] = [{"name": "genre", "options": GENRE_OPTIONS, "isRequired": False}]
+        if has_genre and options_genre.get(cid):
+            c["extra"] = [{"name": "genre", "options": options_genre[cid], "isRequired": False}]
             c["extraSupported"] = ["genre"]
         catalogs.append(c)
     catalogs.extend(acteur_catalogs)

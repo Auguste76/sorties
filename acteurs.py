@@ -105,6 +105,25 @@ def photo_wikidata(nom):
     return None
 
 
+GENRES_TMDB = {
+    28: ["Action"], 12: ["Aventure"], 16: ["Animation"], 35: ["Comédie"], 80: ["Policier"],
+    99: ["Documentaire"], 18: ["Drame"], 10751: ["Famille"], 14: ["Fantastique"],
+    36: ["Historique"], 27: ["Horreur"], 9648: ["Thriller"], 10749: ["Romance"],
+    878: ["Science-fiction"], 53: ["Thriller"], 10752: ["Guerre"],
+    10759: ["Action", "Aventure"], 10765: ["Science-fiction", "Fantastique"], 10768: ["Guerre"],
+}
+ORDRE_GENRES = [
+    "Action", "Animation", "Aventure", "Comédie", "Policier", "Documentaire", "Drame",
+    "Fantastique", "Horreur", "Romance", "Science-fiction", "Thriller", "Famille",
+    "Historique", "Guerre",
+]
+
+
+def genres(genre_ids):
+    trouves = {g for i in (genre_ids or []) for g in GENRES_TMDB.get(i, [])}
+    return [g for g in ORDRE_GENRES if g in trouves]
+
+
 def famille(genre_ids):
     g = set(genre_ids or [])
     for nom, ids in FAMILLES:
@@ -168,6 +187,7 @@ def filmographie(pid, ids):
             "description": desc.strip(),
             "year": date[:4],
             "famille": famille(it.get("genre_ids")),
+            "genres": genres(it.get("genre_ids")),
             "date": date,
             "role": role,
             "tmdb": f"https://www.themoviedb.org/{mt}/{it['id']}?language=fr-FR",

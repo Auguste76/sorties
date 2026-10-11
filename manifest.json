@@ -18,82 +18,22 @@
     {
       "type": "movie",
       "id": "sorties-films",
-      "name": "Sorties de la semaine",
-      "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "Thriller",
-            "SF",
-            "Comedie",
-            "Drame"
-          ],
-          "isRequired": false
-        }
-      ],
-      "extraSupported": [
-        "genre"
-      ]
+      "name": "Sorties de la semaine"
     },
     {
       "type": "series",
       "id": "sorties-series",
-      "name": "Sorties de la semaine",
-      "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "Thriller",
-            "SF",
-            "Comedie",
-            "Drame"
-          ],
-          "isRequired": false
-        }
-      ],
-      "extraSupported": [
-        "genre"
-      ]
+      "name": "Sorties de la semaine"
     },
     {
       "type": "movie",
       "id": "avenir-films",
-      "name": "À venir cette semaine",
-      "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "Thriller",
-            "SF",
-            "Comedie",
-            "Drame"
-          ],
-          "isRequired": false
-        }
-      ],
-      "extraSupported": [
-        "genre"
-      ]
+      "name": "À venir cette semaine"
     },
     {
       "type": "series",
       "id": "avenir-series",
-      "name": "À venir cette semaine",
-      "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "Thriller",
-            "SF",
-            "Comedie",
-            "Drame"
-          ],
-          "isRequired": false
-        }
-      ],
-      "extraSupported": [
-        "genre"
-      ]
+      "name": "À venir cette semaine"
     },
     {
       "type": "movie",
