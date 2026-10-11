@@ -1,7 +1,25 @@
 {
   "metas": [
-    { "id": "tt15239678", "type": "movie", "name": "Dune : Deuxième partie" },
-    { "id": "tt1375666", "type": "movie", "name": "Inception" },
-    { "id": "tt1160419", "type": "movie", "name": "Dune" }
+    {
+      "id": "tt15239678",
+      "type": "movie",
+      "name": "Dune : Deuxième partie",
+      "poster": "https://images.metahub.space/poster/medium/tt15239678/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1375666",
+      "type": "movie",
+      "name": "Inception",
+      "poster": "https://images.metahub.space/poster/medium/tt1375666/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt1160419",
+      "type": "movie",
+      "name": "Dune",
+      "poster": "https://images.metahub.space/poster/medium/tt1160419/img",
+      "posterShape": "poster"
+    }
   ]
 }

@@ -1,7 +1,25 @@
 {
   "metas": [
-    { "id": "tt11280740", "type": "series", "name": "Severance" },
-    { "id": "tt14452776", "type": "series", "name": "The Bear" },
-    { "id": "tt0903747", "type": "series", "name": "Breaking Bad" }
+    {
+      "id": "tt11280740",
+      "type": "series",
+      "name": "Severance",
+      "poster": "https://images.metahub.space/poster/medium/tt11280740/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt14452776",
+      "type": "series",
+      "name": "The Bear",
+      "poster": "https://images.metahub.space/poster/medium/tt14452776/img",
+      "posterShape": "poster"
+    },
+    {
+      "id": "tt0903747",
+      "type": "series",
+      "name": "Breaking Bad",
+      "poster": "https://images.metahub.space/poster/medium/tt0903747/img",
+      "posterShape": "poster"
+    }
   ]
 }
