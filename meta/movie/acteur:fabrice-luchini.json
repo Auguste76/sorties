@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "id": "acteur:fabrice-luchini",
+    "type": "movie",
+    "name": "Fabrice Luchini",
+    "poster": "https://image.tmdb.org/t/p/w500/krR5EUfM13UJwsB07ffzPU7FXYR.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/krR5EUfM13UJwsB07ffzPU7FXYR.jpg",
+    "description": "Né(e) le 1951-11-01 à Paris, France\n\nRobert Luchini, dit Fabrice Luchini, né le 1e rnovembre 1951 dans le 9e arrondissement de Paris, est un acteur français.  Nommé onze fois aux César, Fabrice Luchini est lauréat du César du meilleur acteur dans un second rôle en 1994 pour son rôle dans Tout ça… pour ça! de Claude Lelouch.\n\nRobert Luchini naît le 1er novembre 1951 dans le 9e arrondissement de Paris.\n\nFilms : Victor comme tout le monde (2026) · Natacha (presque) hôtesse de l'air (2025) · Le Secret de Khéops (2025) · Marcello Mio (2024) · L'Empire (2024) · La Petite (2023) · Mon crime (2023) · Un homme heureux (2023) · Le meilleur reste à venir (2019) · Jeanne (2019) · Les Trésors de Marcel Pagnol (2019) · Alice et le Maire (2019) · Le Mystère Henri Pick (2019) · L'Empereur de Paris (2018) · Un homme pressé (2018)\n\nSéries : Tapie (2023) · Fantômas (1980)",
+    "links": [
+      {
+        "name": "Victor comme tout le monde",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt39149806"
+      },
+      {
+        "name": "Natacha (presque) hôtesse de l'air",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32370862"
+      },
+      {
+        "name": "Le Secret de Khéops",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt34482468"
+      },
+      {
+        "name": "Marcello Mio",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32086069"
+      },
+      {
+        "name": "L'Empire",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt17375596"
+      },
+      {
+        "name": "La Petite",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt26255180"
+      },
+      {
+        "name": "Mon crime",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt20330434"
+      },
+      {
+        "name": "Un homme heureux",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt23740404"
+      },
+      {
+        "name": "Le meilleur reste à venir",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9284430"
+      },
+      {
+        "name": "Jeanne",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8669356"
+      },
+      {
+        "name": "Les Trésors de Marcel Pagnol",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10443162"
+      },
+      {
+        "name": "Alice et le Maire",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8903840"
+      },
+      {
+        "name": "Le Mystère Henri Pick",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8263936"
+      },
+      {
+        "name": "L'Empereur de Paris",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7025976"
+      },
+      {
+        "name": "Un homme pressé",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6948326"
+      },
+      {
+        "name": "Tapie",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt27921612"
+      },
+      {
+        "name": "Fantômas",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0138234"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "id": "acteur:guillaume-canet",
+    "type": "movie",
+    "name": "Guillaume Canet",
+    "poster": "https://image.tmdb.org/t/p/w500/yxerAhXValEezb1EuV9XWc9L8KC.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/yxerAhXValEezb1EuV9XWc9L8KC.jpg",
+    "description": "Né(e) le 1973-04-10 à Boulogne-Billancourt, Hauts-de-Seine, France\n\nGuillaume Canet, né le 10 avril 1973 à Boulogne-Billancourt, est un acteur, réalisateur, scénariste et producteur français.\n\nIl commence sa carrière au théâtre, à la télévision avant d'aborder son domaine de prédilection, le cinéma. Son premier film à succès, La Plage (2000), le fait connaître face à Leonardo DiCaprio.\n\nFilms : Belle (2025) · Ad Vitam (2025) · Le Déluge (2024) · Hors-Saison (2024) · Un Coup de dés (2024) · Nouveaux riches (2023) · Nina et le secret du hérisson (2023) · Acide (2023) · Astérix & Obélix : L'Empire du Milieu (2023) · Lui (2021) · Nous paysans (2021) · La Belle Époque (2019) · Au nom de la terre (2019) · Girls with Balls (2019) · Le Grand Bain (2018)\n\nSéries : Platane (2011) · Premiers Baisers (1991)",
+    "links": [
+      {
+        "name": "Belle",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27834531"
+      },
+      {
+        "name": "Ad Vitam",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32138452"
+      },
+      {
+        "name": "Le Déluge",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27641422"
+      },
+      {
+        "name": "Hors-Saison",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27704325"
+      },
+      {
+        "name": "Un Coup de dés",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt25752340"
+      },
+      {
+        "name": "Nouveaux riches",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27921620"
+      },
+      {
+        "name": "Nina et le secret du hérisson",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14250484"
+      },
+      {
+        "name": "Acide",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt17569526"
+      },
+      {
+        "name": "Astérix & Obélix : L'Empire du Milieu",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11210390"
+      },
+      {
+        "name": "Lui",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13002242"
+      },
+      {
+        "name": "Nous paysans",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14128396"
+      },
+      {
+        "name": "La Belle Époque",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9172422"
+      },
+      {
+        "name": "Au nom de la terre",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10545470"
+      },
+      {
+        "name": "Girls with Balls",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4725842"
+      },
+      {
+        "name": "Le Grand Bain",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7476116"
+      },
+      {
+        "name": "Platane",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt2040020"
+      },
+      {
+        "name": "Premiers Baisers",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0172040"
+      }
+    ]
+  }
+}

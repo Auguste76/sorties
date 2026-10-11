@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "id": "acteur:marion-cotillard",
+    "type": "movie",
+    "name": "Marion Cotillard",
+    "poster": "https://image.tmdb.org/t/p/w500/biitzOF0GffIqFYLyOPkoiaOngQ.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/biitzOF0GffIqFYLyOPkoiaOngQ.jpg",
+    "description": "Né(e) le 1975-09-30 à Paris, France\n\nActive au cinéma depuis la fin des années 1990, elle est révélée au grand public par son rôle de Lilly Bertineau dans la saga Taxi de Luc Besson, qu'elle incarnera dans les trois premiers films de la franchise.\n\nFilms : La Tour de glace (2025) · Lee Miller (2024) · Little Girl Blue (2023) · Léo, la fabuleuse histoire de Léonard de Vinci (2023) · Astérix & Obélix : L'Empire du Milieu (2023) · Frère et Sœur (2022) · La Vengeance au triple galop (2021) · Annette (2021) · Le voyage du Dr Dolittle (2020) · Nous finirons ensemble (2019) · Gueule d'ange (2018) · Dans les yeux de Thomas Pesquet (2018) · Les Fantômes d'Ismaël (2017) · Rock'n Roll (2017) · Assassin's Creed (2016)\n\nSéries : Extrapolations (2023) · The Morning Show (2019) · Highlander (1992)",
+    "links": [
+      {
+        "name": "La Tour de glace",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt28171985"
+      },
+      {
+        "name": "Lee Miller",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5112584"
+      },
+      {
+        "name": "Little Girl Blue",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt26714897"
+      },
+      {
+        "name": "Léo, la fabuleuse histoire de Léonard de Vinci",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5822848"
+      },
+      {
+        "name": "Astérix & Obélix : L'Empire du Milieu",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11210390"
+      },
+      {
+        "name": "Frère et Sœur",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14622802"
+      },
+      {
+        "name": "La Vengeance au triple galop",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15440966"
+      },
+      {
+        "name": "Annette",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6217926"
+      },
+      {
+        "name": "Le voyage du Dr Dolittle",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6673612"
+      },
+      {
+        "name": "Nous finirons ensemble",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8201404"
+      },
+      {
+        "name": "Gueule d'ange",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7534096"
+      },
+      {
+        "name": "Dans les yeux de Thomas Pesquet",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt29191938"
+      },
+      {
+        "name": "Les Fantômes d'Ismaël",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5687040"
+      },
+      {
+        "name": "Rock'n Roll",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5351818"
+      },
+      {
+        "name": "Assassin's Creed",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt2094766"
+      },
+      {
+        "name": "Extrapolations",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt13821126"
+      },
+      {
+        "name": "The Morning Show",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt7203552"
+      },
+      {
+        "name": "Highlander",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0103442"
+      }
+    ]
+  }
+}

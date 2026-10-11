@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "id": "acteur:virginie-efira",
+    "type": "movie",
+    "name": "Virginie Efira",
+    "poster": "https://image.tmdb.org/t/p/w500/sJFBDkZ2AMAkQBsSZricrUnZv50.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/sJFBDkZ2AMAkQBsSZricrUnZv50.jpg",
+    "description": "Né(e) le 1977-05-05 à Schaerbeek, Brussels, Belgium\n\nVirginie Efira est une actrice et animatrice à la télévision belgo-française, née le 5 mai 1977 à Schaerbeek (Région de Bruxelles-Capitale).\n\nElle débute en tant qu'animatrice à la télévision en Belgique puis en France, de 1998 à 2008.\n\nFilms : Soudain (2026) · Histoires parallèles (2026) · Les Braises (2025) · Vie privée (2025) · Kina & Yuk : Renards de la banquise (2023) · Rien à perdre (2023) · L'Amour et les Forêts (2023) · Les Enfants des autres (2022) · Revoir Paris (2022) · Don Juan (2022) · Lui (2021) · En attendant Bojangles (2021) · Madeleine Collins (2021) · Benedetta (2021) · Adieu les cons (2020)\n\nSéries : Royaumes d’Asie (2024) · Tout va bien (2023) · Les Monarchies face à Hitler (2020) · Kaamelott (2005)",
+    "links": [
+      {
+        "name": "Soudain",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36834996"
+      },
+      {
+        "name": "Histoires parallèles",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36646880"
+      },
+      {
+        "name": "Les Braises",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt29729103"
+      },
+      {
+        "name": "Vie privée",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33852162"
+      },
+      {
+        "name": "Kina & Yuk : Renards de la banquise",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt28185868"
+      },
+      {
+        "name": "Rien à perdre",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14748950"
+      },
+      {
+        "name": "L'Amour et les Forêts",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt23049206"
+      },
+      {
+        "name": "Les Enfants des autres",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15403712"
+      },
+      {
+        "name": "Revoir Paris",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15329224"
+      },
+      {
+        "name": "Don Juan",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14590650"
+      },
+      {
+        "name": "Lui",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13002242"
+      },
+      {
+        "name": "En attendant Bojangles",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11310608"
+      },
+      {
+        "name": "Madeleine Collins",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11310670"
+      },
+      {
+        "name": "Benedetta",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6823148"
+      },
+      {
+        "name": "Adieu les cons",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10196398"
+      },
+      {
+        "name": "Royaumes d’Asie",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt32869282"
+      },
+      {
+        "name": "Tout va bien",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt21913366"
+      },
+      {
+        "name": "Les Monarchies face à Hitler",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt12806068"
+      },
+      {
+        "name": "Kaamelott",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0441059"
+      }
+    ]
+  }
+}

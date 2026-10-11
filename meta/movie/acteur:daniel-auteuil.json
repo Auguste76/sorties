@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "id": "acteur:daniel-auteuil",
+    "type": "movie",
+    "name": "Daniel Auteuil",
+    "poster": "https://image.tmdb.org/t/p/w500/5asrvkdSnlYlHap3ldDNyE5opeI.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/5asrvkdSnlYlHap3ldDNyE5opeI.jpg",
+    "description": "Né(e) le 1950-01-24 à Alger, France [now Algeria]\n\nDaniel Auteuil, né le 24 janvier 1950 à Alger (Algérie française), est un acteur, metteur en scène, auteur-compositeur-interprète, réalisateur et chanteur français.\n\nNommé quatorze fois aux Césars, il remporte en 1987 le César du meilleur acteur pour son rôle dans les films Jean de Florette et Manon des sources, puis un autre en 2000 pour La Fille sur le pont.\n\nFilms : L'Objet du délit (2026) · Vie privée (2025) · Le Fil (2024) · La Petite Vadrouille (2024) · Un silence (2024) · Le Nouveau Jouet (2022) · Adieu monsieur Haffmann (2022) · La Belle Époque (2019) · Qui m’aime me suive ! (2019) · Rémi sans famille (2018) · Amoureux de ma femme (2018) · Le Brio (2017) · Les Confessions (2016) · Au nom de ma fille (2016) · Les Naufragés (2016)\n\nSéries : Le Mensonge (2020)",
+    "links": [
+      {
+        "name": "L'Objet du délit",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt37535559"
+      },
+      {
+        "name": "Vie privée",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33852162"
+      },
+      {
+        "name": "Le Fil",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt29102598"
+      },
+      {
+        "name": "La Petite Vadrouille",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt30402052"
+      },
+      {
+        "name": "Un silence",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt25051484"
+      },
+      {
+        "name": "Le Nouveau Jouet",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13361648"
+      },
+      {
+        "name": "Adieu monsieur Haffmann",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10545704"
+      },
+      {
+        "name": "La Belle Époque",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9172422"
+      },
+      {
+        "name": "Qui m’aime me suive !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7654880"
+      },
+      {
+        "name": "Rémi sans famille",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6741368"
+      },
+      {
+        "name": "Amoureux de ma femme",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7654872"
+      },
+      {
+        "name": "Le Brio",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6462462"
+      },
+      {
+        "name": "Les Confessions",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4647784"
+      },
+      {
+        "name": "Au nom de ma fille",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4228810"
+      },
+      {
+        "name": "Les Naufragés",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5338174"
+      },
+      {
+        "name": "Le Mensonge",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt13190868"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "id": "acteur:tahar-rahim",
+    "type": "movie",
+    "name": "Tahar Rahim",
+    "poster": "https://image.tmdb.org/t/p/w500/r1SJ9nkG9q4JbPHbtcvcVxmRcHw.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/r1SJ9nkG9q4JbPHbtcvcVxmRcHw.jpg",
+    "description": "Né(e) le 1981-07-04 à Belfort, Territoire de Belfort, France\n\nTahar Rahim est un acteur franco-algérien, né le 4 juillet 1981 à Belfort.\n\nIl reçoit le César du meilleur acteur 2010 pour le film Un prophète.\n\nFilms : Alpha (2025) · Monsieur Aznavour (2024) · Madame Web (2024) · Napoléon (2023) · Don Juan (2022) · Désigné coupable (2021) · Un hiver à New York (2019) · Gloomy Eyes (2019) · Joueurs (2018) · Marie Madeleine (2018) · Le prix du succès (2017) · Réparer les vivants (2016) · Le Secret de la chambre noire (2016) · Les Anarchistes (2015) · Le Père Noël (2014)\n\nSéries : Prisoner (2026) · Extrapolations (2023) · Le Serpent (2021) · The Eddy (2020) · The Looming Tower (2018) · Panthers (2015) · Bref (2011)",
+    "links": [
+      {
+        "name": "Alpha",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32275943"
+      },
+      {
+        "name": "Monsieur Aznavour",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt26743414"
+      },
+      {
+        "name": "Madame Web",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11057302"
+      },
+      {
+        "name": "Napoléon",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13287846"
+      },
+      {
+        "name": "Don Juan",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14590650"
+      },
+      {
+        "name": "Désigné coupable",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4761112"
+      },
+      {
+        "name": "Un hiver à New York",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6515910"
+      },
+      {
+        "name": "Gloomy Eyes",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9670896"
+      },
+      {
+        "name": "Joueurs",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7888070"
+      },
+      {
+        "name": "Marie Madeleine",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5360996"
+      },
+      {
+        "name": "Le prix du succès",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6194540"
+      },
+      {
+        "name": "Réparer les vivants",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5096536"
+      },
+      {
+        "name": "Le Secret de la chambre noire",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4628882"
+      },
+      {
+        "name": "Les Anarchistes",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4466336"
+      },
+      {
+        "name": "Le Père Noël",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt3532850"
+      },
+      {
+        "name": "Prisoner",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt34273502"
+      },
+      {
+        "name": "Extrapolations",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt13821126"
+      },
+      {
+        "name": "Le Serpent",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt7985576"
+      },
+      {
+        "name": "The Eddy",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt7322210"
+      },
+      {
+        "name": "The Looming Tower",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt6474236"
+      },
+      {
+        "name": "Panthers",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt4075386"
+      },
+      {
+        "name": "Bref",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt2044128"
+      }
+    ]
+  }
+}

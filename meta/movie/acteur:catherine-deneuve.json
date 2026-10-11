@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "id": "acteur:catherine-deneuve",
+    "type": "movie",
+    "name": "Catherine Deneuve",
+    "poster": "https://image.tmdb.org/t/p/w500/7NS1KuwxTIzyMcpNGKBGlSV0Hqo.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/7NS1KuwxTIzyMcpNGKBGlSV0Hqo.jpg",
+    "description": "Né(e) le 1943-10-22 à Paris, France\n\nCatherine Dorléac, dite Catherine Deneuve, est une actrice française, née le 22 octobre 1943 à Paris.\n\nElle est la fille de l'acteur Maurice Dorléac et de l'actrice Renée Deneuve (dite Renée Simonot), et la sœur des actrices Françoise et Sylvie Dorléac.\n\nConsidérée comme l'une des plus grandes actrices françaises de sa génération et de la seconde partie du xxe siècle, elle est l'égérie de réalisateurs comme Jacques D…\n\nFilms : Histoires parallèles (2026) · Yōkai : Le Monde des esprits (2025) · Marcello Mio (2024) · Au fil des saisons (2024) · Bernadette (2023) · Belmondo l'incorrigible (2022) · De son vivant (2021) · Terrible jungle (2020) · La Vérité (2019) · Fête de famille (2019) · Haut les filles (2019) · L'Adieu à la nuit (2019) · La Dernière Folie de Claire Darling (2019) · Mauvaises herbes (2018) · Tout nous sépare (2017)\n\nSéries : Nip/Tuck (2003) · Les liaisons dangereuses (2003)",
+    "links": [
+      {
+        "name": "Histoires parallèles",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36646880"
+      },
+      {
+        "name": "Yōkai : Le Monde des esprits",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt30832707"
+      },
+      {
+        "name": "Marcello Mio",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32086069"
+      },
+      {
+        "name": "Au fil des saisons",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt20414046"
+      },
+      {
+        "name": "Bernadette",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt19858184"
+      },
+      {
+        "name": "Belmondo l'incorrigible",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt21990870"
+      },
+      {
+        "name": "De son vivant",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11093266"
+      },
+      {
+        "name": "Terrible jungle",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10366254"
+      },
+      {
+        "name": "La Vérité",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8323120"
+      },
+      {
+        "name": "Fête de famille",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8080196"
+      },
+      {
+        "name": "Haut les filles",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9140376"
+      },
+      {
+        "name": "L'Adieu à la nuit",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8569390"
+      },
+      {
+        "name": "La Dernière Folie de Claire Darling",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6961808"
+      },
+      {
+        "name": "Mauvaises herbes",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6708116"
+      },
+      {
+        "name": "Tout nous sépare",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5825052"
+      },
+      {
+        "name": "Nip/Tuck",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0361217"
+      },
+      {
+        "name": "Les liaisons dangereuses",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0317875"
+      }
+    ]
+  }
+}

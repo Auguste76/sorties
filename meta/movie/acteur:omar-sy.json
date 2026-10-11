@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "id": "acteur:omar-sy",
+    "type": "movie",
+    "name": "Omar Sy",
+    "poster": "https://image.tmdb.org/t/p/w500/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
+    "description": "Né(e) le 1978-01-20 à Trappes, Yvelines, France\n\nActeur, humoriste et producteur français, Omar Sy est né le 20 janvier 1978 à Trappes (Yvelines), de parents originaires du Sénégal et de Mauritanie. Il débute à la radio en 1996 sur Radio Nova, où il rencontre Fred Testot. Ensemble, ils forment le duo Omar et Fred, révélé sur Canal+ grâce au *Service après-vente des émissions*.\n\nFilms : Le Passage (2025) · French Lover (2025) · Shadow Force (2025) · Dis-moi juste que tu m'aimes (2025) · The Killer (2024) · Le livre de Clarence (2024) · Tirailleurs (2023) · Jurassic World : Le Monde d’après (2022) · Loin du périph (2022) · Les méchants (2021) · Tout simplement noir (2020) · Police (2020) · L'appel de la forêt (2020) · Le prince oublié (2020) · Arctic Dogs : Mission polaire (2019)\n\nSéries : Lupin (2021) · Bref (2011) · SAV des émissions (2005) · La Cape et l'épée (2000)",
+    "links": [
+      {
+        "name": "Le Passage",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt21272942"
+      },
+      {
+        "name": "French Lover",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32360696"
+      },
+      {
+        "name": "Shadow Force",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11092020"
+      },
+      {
+        "name": "Dis-moi juste que tu m'aimes",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt30826062"
+      },
+      {
+        "name": "The Killer",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1121948"
+      },
+      {
+        "name": "Le livre de Clarence",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt22866358"
+      },
+      {
+        "name": "Tirailleurs",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14860210"
+      },
+      {
+        "name": "Jurassic World : Le Monde d’après",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8041270"
+      },
+      {
+        "name": "Loin du périph",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13822738"
+      },
+      {
+        "name": "Les méchants",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt12594018"
+      },
+      {
+        "name": "Tout simplement noir",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10426916"
+      },
+      {
+        "name": "Police",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9850344"
+      },
+      {
+        "name": "L'appel de la forêt",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7504726"
+      },
+      {
+        "name": "Le prince oublié",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8335482"
+      },
+      {
+        "name": "Arctic Dogs : Mission polaire",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4426464"
+      },
+      {
+        "name": "Lupin",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt2531336"
+      },
+      {
+        "name": "Bref",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt2044128"
+      },
+      {
+        "name": "SAV des émissions",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0499407"
+      },
+      {
+        "name": "La Cape et l'épée",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0285348"
+      }
+    ]
+  }
+}

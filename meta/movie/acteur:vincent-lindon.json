@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "id": "acteur:vincent-lindon",
+    "type": "movie",
+    "name": "Vincent Lindon",
+    "poster": "https://image.tmdb.org/t/p/w500/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg",
+    "description": "Né(e) le 1959-07-15 à Boulogne-Billancourt, Hauts-de-Seine, France\n\nVincent Lindon est un acteur, réalisateur et scénariste français, né le 15 juillet 1959 à Boulogne-Billancourt.\n\nIl a notamment été récompensé par le prix d'interprétation au Festival de Cannes 2015 et par le César du meilleur acteur en 2016 pour son rôle dans le film La Loi du marché (2015).\n\nFilms : Les Survivants du Che (2026) · Coutures (2026) · Jouer avec le feu (2025) · Le Choix (2024) · Le Deuxième Acte (2024) · Comme un fils (2024) · Avec amour et acharnement (2022) · Un autre monde (2022) · Enquête sur un scandale d'État (2022) · Titane (2021) · Mon cousin (2020) · Dernier amour (2019) · En guerre (2018) · L'Apparition (2018) · Rodin (2017)\n\nSéries : D'argent et de sang (2023)",
+    "links": [
+      {
+        "name": "Les Survivants du Che",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1864268"
+      },
+      {
+        "name": "Coutures",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt34688195"
+      },
+      {
+        "name": "Jouer avec le feu",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt28601337"
+      },
+      {
+        "name": "Le Choix",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33996092"
+      },
+      {
+        "name": "Le Deuxième Acte",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt30784256"
+      },
+      {
+        "name": "Comme un fils",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt28636981"
+      },
+      {
+        "name": "Avec amour et acharnement",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13535920"
+      },
+      {
+        "name": "Un autre monde",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15115102"
+      },
+      {
+        "name": "Enquête sur un scandale d'État",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8415986"
+      },
+      {
+        "name": "Titane",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10944760"
+      },
+      {
+        "name": "Mon cousin",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10023150"
+      },
+      {
+        "name": "Dernier amour",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9105628"
+      },
+      {
+        "name": "En guerre",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7555774"
+      },
+      {
+        "name": "L'Apparition",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6559390"
+      },
+      {
+        "name": "Rodin",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5771710"
+      },
+      {
+        "name": "D'argent et de sang",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt18413548"
+      }
+    ]
+  }
+}

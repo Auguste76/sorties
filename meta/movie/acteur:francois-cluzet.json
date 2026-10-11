@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "id": "acteur:francois-cluzet",
+    "type": "movie",
+    "name": "François Cluzet",
+    "poster": "https://image.tmdb.org/t/p/w500/f6PO7Lkrem1N4UmklxHro2k6Jto.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/f6PO7Lkrem1N4UmklxHro2k6Jto.jpg",
+    "description": "Né(e) le 1955-09-21 à Paris, France\n\nFrançois Cluzet, né le 21 septembre 1955 à Paris, est un acteur français.\n\nIl obtient, en 2007, à la suite de son interprétation dans Ne le dis à personne, le César du meilleur acteur, puis l'un des deux premiers rôles dans Intouchables (2011), qui a cumulé plusieurs dizaines de millions d'entrées en Europe.\n\nFrançois Robert Paul Cluzet est né rue des Martyrs dans le 9e arrondissement de Paris et a grandi dans le 7e…\n\nFilms : Pour le plaisir (2026) · Fils de (2025) · Un métier sérieux (2023) · Mascarade (2022) · Canailles (2022) · La Brigade (2022) · L'Homme de la cave (2021) · L'incroyable histoire de l'Île de la Rose (2020) · Poly (2020) · Nous finirons ensemble (2019) · Le Collier rouge (2018) · Mélancolie ouvrière (2018) · Normandie Nue (2018) · L'École buissonnière (2017) · Έτερος Εγώ (2017)\n\nSéries : La Cape et l'épée (2000)",
+    "links": [
+      {
+        "name": "Pour le plaisir",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt38607784"
+      },
+      {
+        "name": "Fils de",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt31539607"
+      },
+      {
+        "name": "Un métier sérieux",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt21348598"
+      },
+      {
+        "name": "Mascarade",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14534796"
+      },
+      {
+        "name": "Canailles",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13429654"
+      },
+      {
+        "name": "La Brigade",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14280366"
+      },
+      {
+        "name": "L'Homme de la cave",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13846372"
+      },
+      {
+        "name": "L'incroyable histoire de l'Île de la Rose",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10287954"
+      },
+      {
+        "name": "Poly",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11060092"
+      },
+      {
+        "name": "Nous finirons ensemble",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8201404"
+      },
+      {
+        "name": "Le Collier rouge",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7106814"
+      },
+      {
+        "name": "Mélancolie ouvrière",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6835680"
+      },
+      {
+        "name": "Normandie Nue",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6923840"
+      },
+      {
+        "name": "L'École buissonnière",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6330246"
+      },
+      {
+        "name": "Έτερος Εγώ",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5221894"
+      },
+      {
+        "name": "La Cape et l'épée",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0285348"
+      }
+    ]
+  }
+}

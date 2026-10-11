@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "id": "acteur:romain-duris",
+    "type": "movie",
+    "name": "Romain Duris",
+    "poster": "https://image.tmdb.org/t/p/w500/70KN228eNpvouPTCxDSurnCzx9G.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/70KN228eNpvouPTCxDSurnCzx9G.jpg",
+    "description": "Né(e) le 1974-05-28 à Paris, France\n\nRomain Duris, né le 28 mai 1974 à Paris, est un acteur français.\n\nIl a tourné sept fois avec Cédric Klapisch. Il est ainsi surtout connu pour le rôle de Xavier Rousseau, héros de la trilogie L'Auberge espagnole (1999-2013).\n\nFilms : Fils de personne (2026) · Furcy, né libre (2026) · Chien 51 (2025) · Rembrandt (2025) · Une part manquante (2024) · La Nuit se traîne (2024) · Daaaaaalí ! (2024) · Les Trois Mousquetaires : Milady (2023) · Le Règne animal (2023) · Les Trois Mousquetaires : D'Artagnan (2023) · Coupez ! (2022) · Charlotte (2022) · En attendant Bojangles (2021) · Eiffel (2021) · Le Regard de Charles (2019)\n\nSéries : Salade grecque (2023) · Vernon Subutex (2019)",
+    "links": [
+      {
+        "name": "Fils de personne",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36827509"
+      },
+      {
+        "name": "Furcy, né libre",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt31183235"
+      },
+      {
+        "name": "Chien 51",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33255286"
+      },
+      {
+        "name": "Rembrandt",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt31539698"
+      },
+      {
+        "name": "Une part manquante",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt21993194"
+      },
+      {
+        "name": "La Nuit se traîne",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt16826430"
+      },
+      {
+        "name": "Daaaaaalí !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt23476446"
+      },
+      {
+        "name": "Les Trois Mousquetaires : Milady",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt12672620"
+      },
+      {
+        "name": "Le Règne animal",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt16606592"
+      },
+      {
+        "name": "Les Trois Mousquetaires : D'Artagnan",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt12672536"
+      },
+      {
+        "name": "Coupez !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14317880"
+      },
+      {
+        "name": "Charlotte",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5806814"
+      },
+      {
+        "name": "En attendant Bojangles",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11310608"
+      },
+      {
+        "name": "Eiffel",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10366514"
+      },
+      {
+        "name": "Le Regard de Charles",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10749896"
+      },
+      {
+        "name": "Salade grecque",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt27165867"
+      },
+      {
+        "name": "Vernon Subutex",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt9844334"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "id": "acteur:kad-merad",
+    "type": "movie",
+    "name": "Kad Merad",
+    "poster": "https://image.tmdb.org/t/p/w500/gngKQqFCe4MSasBSyGRDI74RJfJ.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/gngKQqFCe4MSasBSyGRDI74RJfJ.jpg",
+    "description": "Né(e) le 1964-03-27 à Sidi Bel Abbes, Algeria\n\nKad Merad, de son vrai nom Kadour Merad, est un comédien, humoriste et réalisateur franco-algérien, né le 27 mars 1964 à Sidi Bel Abbès en Algérie et ayant passé la majorité de son enfance à Balbigny (Loire) avant de déménager à dix ans à Ris-Orangis (Essonne).\n\nFilms : Les Héros du Louvre (2026) · Permis de détruire (2026) · Une Famille De Bâtards (2026) · Papamobile (2025) · 100 Millions ! (2025) · Lune de miel avec ma mère (2025) · Le Dernier souffle (2025) · Les Boules de Noël (2024) · Finalement (2024) · Le Larbin (2024) · Les Enfoirés 2024 - On a 35 ans ! (2024) · La Vie pour de vrai (2023) · Les Enfoirés 2023 - Enfoirés un jour, toujours (2023) · Citoyen d'honneur (2022) · L'Année du requin (2022)\n\nSéries : Belphégor (2025) · Terminal (2024) · Anthracite (2024) · La Fièvre (2024) · Pamela Rose, la série (2023) · Le Flambeau, les aventuriers de Chupacabra (2022) · Oussekine (2022) · Un homme d'honneur (2021)",
+    "links": [
+      {
+        "name": "Les Héros du Louvre",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt35364812"
+      },
+      {
+        "name": "Permis de détruire",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt39368183"
+      },
+      {
+        "name": "Une Famille De Bâtards",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36963493"
+      },
+      {
+        "name": "Papamobile",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt37646592"
+      },
+      {
+        "name": "100 Millions !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt35404638"
+      },
+      {
+        "name": "Lune de miel avec ma mère",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt35300972"
+      },
+      {
+        "name": "Le Dernier souffle",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32365122"
+      },
+      {
+        "name": "Les Boules de Noël",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33396608"
+      },
+      {
+        "name": "Finalement",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27819140"
+      },
+      {
+        "name": "Le Larbin",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27348699"
+      },
+      {
+        "name": "Les Enfoirés 2024 - On a 35 ans !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt31179844"
+      },
+      {
+        "name": "La Vie pour de vrai",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt26660615"
+      },
+      {
+        "name": "Les Enfoirés 2023 - Enfoirés un jour, toujours",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27031054"
+      },
+      {
+        "name": "Citoyen d'honneur",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt21438594"
+      },
+      {
+        "name": "L'Année du requin",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14962428"
+      },
+      {
+        "name": "Belphégor",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt36220217"
+      },
+      {
+        "name": "Terminal",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt31712029"
+      },
+      {
+        "name": "Anthracite",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt31609000"
+      },
+      {
+        "name": "La Fièvre",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt22813264"
+      },
+      {
+        "name": "Pamela Rose, la série",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt30142998"
+      },
+      {
+        "name": "Le Flambeau, les aventuriers de Chupacabra",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt20723358"
+      },
+      {
+        "name": "Oussekine",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt14066198"
+      },
+      {
+        "name": "Un homme d'honneur",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt13511622"
+      }
+    ]
+  }
+}

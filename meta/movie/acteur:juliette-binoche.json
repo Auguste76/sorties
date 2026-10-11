@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "id": "acteur:juliette-binoche",
+    "type": "movie",
+    "name": "Juliette Binoche",
+    "poster": "https://image.tmdb.org/t/p/w500/htdZZIroEyJaeHQAUTqokNfkPgl.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/htdZZIroEyJaeHQAUTqokNfkPgl.jpg",
+    "description": "Né(e) le 1964-03-09 à Paris, France\n\nJuliette Binoche, est une actrice française, née le 9 mars 1964 à Paris.\n\nElle est la première actrice à avoir remporté (et la seule à ce jour avec Julianne Moore) un prix d'interprétation dans les trois plus grands festivals de cinéma — Cannes, Venise et Berlin.\n\nFilms : The Return, le retour d'Ulysse (2024) · C'est pas moi (2024) · La Passion de Dodin Bouffant (2023) · Le Lycéen (2022) · Paradise Highway (2022) · Avec amour et acharnement (2022) · Ouistreham (2022) · La Bonne Épouse (2020) · La Vérité (2019) · Celle que vous croyez (2019) · Doubles vies (2018) · High Life (2018) · Voyage à Yoshino (2018) · Un beau soleil intérieur (2017) · Ghost in the Shell (2017)\n\nSéries : The New Look (2024) · The Staircase (2022) · Infrarouge (2006)",
+    "links": [
+      {
+        "name": "The Return, le retour d'Ulysse",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt19861162"
+      },
+      {
+        "name": "C'est pas moi",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27989261"
+      },
+      {
+        "name": "La Passion de Dodin Bouffant",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt19760052"
+      },
+      {
+        "name": "Le Lycéen",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt17009856"
+      },
+      {
+        "name": "Paradise Highway",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7469828"
+      },
+      {
+        "name": "Avec amour et acharnement",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13535920"
+      },
+      {
+        "name": "Ouistreham",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10088984"
+      },
+      {
+        "name": "La Bonne Épouse",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10441958"
+      },
+      {
+        "name": "La Vérité",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8323120"
+      },
+      {
+        "name": "Celle que vous croyez",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7552686"
+      },
+      {
+        "name": "Doubles vies",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7250056"
+      },
+      {
+        "name": "High Life",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4827558"
+      },
+      {
+        "name": "Voyage à Yoshino",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7566518"
+      },
+      {
+        "name": "Un beau soleil intérieur",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6423776"
+      },
+      {
+        "name": "Ghost in the Shell",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1219827"
+      },
+      {
+        "name": "The New Look",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt18177528"
+      },
+      {
+        "name": "The Staircase",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt11324406"
+      },
+      {
+        "name": "Infrarouge",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt4959470"
+      }
+    ]
+  }
+}

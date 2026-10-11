@@ -37,6 +37,7 @@ ACTEURS = os.path.join(ROOT, "data", "acteurs.json")  # produit par acteurs.py
 ENTREES = os.path.join(ROOT, "entrees")
 MANIFEST = os.path.join(ROOT, "manifest.json")
 CATALOG = os.path.join(ROOT, "catalog")
+META = os.path.join(ROOT, "meta")
 
 KEEP_DAYS = 7
 CAPS = {"historique": 60, "avenir": 40, "departs": 40, "suivies": 40}
@@ -213,6 +214,7 @@ def main():
 
     # 4. Génération des catalogues
     shutil.rmtree(CATALOG, ignore_errors=True)
+    shutil.rmtree(META, ignore_errors=True)
     blob = hashlib.sha256()
     counts = {}
     options_genre = {}  # id de catalogue -> genres présents (menu du filtre)
@@ -263,6 +265,37 @@ def main():
                 "extraSupported": ["genre"],
             })
 
+    # 4c. Fiches acteurs : un catalogue d'acteurs (photo = affiche) + une fiche détaillée par acteur
+    if acteurs:
+        fiches = []
+        for a in acteurs:
+            slug = norm(a["nom"]).replace(" ", "-")
+            aid = "acteur:" + slug
+            films = [e for e in (clean(x) for x in a.get("films", [])) if e and e["type"] == "movie"][:15]
+            series = [e for e in (clean(x) for x in a.get("series", [])) if e and e["type"] == "series"][:8]
+            lignes = []
+            if a.get("naissance"):
+                lignes.append("Né(e) le " + a["naissance"] + (" à " + a["lieu"] if a.get("lieu") else ""))
+            if a.get("bio"):
+                lignes.append(a["bio"])
+            if films:
+                lignes.append("Films : " + " · ".join(f"{e['name']} ({e.get('year', '?')})" for e in films))
+            if series:
+                lignes.append("Séries : " + " · ".join(f"{e['name']} ({e.get('year', '?')})" for e in series))
+            liens = [{"name": e["name"], "category": "Filmographie", "url": f"stremio:///detail/{e['type']}/{e['id']}"}
+                     for e in films + series]
+            fiche = {
+                "id": aid, "type": "movie", "name": a["nom"],
+                "poster": a.get("photo"), "posterShape": "poster", "background": a.get("photo"),
+                "description": "\n\n".join(lignes), "links": liens,
+            }
+            save_json(os.path.join(META, "movie", aid + ".json"), {"meta": fiche})
+            blob.update(json.dumps(fiche, sort_keys=True).encode())
+            fiches.append({k: fiche[k] for k in ("id", "type", "name", "poster", "posterShape")})
+        counts["acteurs-fiches"] = len(fiches)
+        save_json(os.path.join(CATALOG, "movie", "acteurs-fiches.json"), {"metas": fiches})
+        acteur_catalogs.append({"type": "movie", "id": "acteurs-fiches", "name": "Acteurs (photos)"})
+
     # 5. Manifest (version incrémentée seulement si le contenu a changé)
     old_manifest = load_json(MANIFEST, {"version": "0.1.0"})
     version = old_manifest.get("version", "0.1.0")
@@ -287,9 +320,9 @@ def main():
         "name": "Sorties films et séries",
         "description": "Sorties de la semaine, titres à venir, départs des plateformes et séries suivies, en France.",
         "logo": f"{SITE}/logo.png",
-        "resources": ["catalog"],
+        "resources": ["catalog", "meta"],
         "types": ["movie", "series"],
-        "idPrefixes": ["tt"],
+        "idPrefixes": ["tt", "acteur:"],
         "catalogs": catalogs,
         "behaviorHints": {"configurable": False, "configurationRequired": False},
     }

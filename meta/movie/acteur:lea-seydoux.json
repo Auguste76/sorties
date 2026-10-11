@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "id": "acteur:lea-seydoux",
+    "type": "movie",
+    "name": "Léa Seydoux",
+    "poster": "https://image.tmdb.org/t/p/w500/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg",
+    "description": "Né(e) le 1985-07-01 à Passy, Paris, France\n\nLéa Seydoux est le nom de convenance d'une actrice française née le 1er juillet 1985 à Paris.  Issue d'une famille liée depuis longtemps au monde du cinéma -elle est la petite-fille de Jérôme Seydoux, patron de Pathé, et la petite nièce de Nicolas Seydoux, PDG de Gaumont-, Léa Seydoux, adolescente timide, prend des cours de théâtre après avoir passé son baccalauréat.\n\nFilms : L’inconnue (2026) · Silent Friend (2026) · Le Deuxième Acte (2024) · Dune : Deuxième partie (2024) · La Bête (2024) · Un beau matin (2022) · Les Crimes du futur (2022) · The French Dispatch (2021) · Mourir peut attendre (2021) · France (2021) · L'Histoire de ma femme (2021) · Tromperie (2021) · Roubaix, une lumière (2019) · Kursk (2018) · Zoe (2018)\n\nSéries : Mystères de Lisbonne (2011) · Père et Maire (2002)",
+    "links": [
+      {
+        "name": "L’inconnue",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32359586"
+      },
+      {
+        "name": "Silent Friend",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27811632"
+      },
+      {
+        "name": "Le Deuxième Acte",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt30784256"
+      },
+      {
+        "name": "Dune : Deuxième partie",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15239678"
+      },
+      {
+        "name": "La Bête",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14407336"
+      },
+      {
+        "name": "Un beau matin",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13482828"
+      },
+      {
+        "name": "Les Crimes du futur",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14549466"
+      },
+      {
+        "name": "The French Dispatch",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8847712"
+      },
+      {
+        "name": "Mourir peut attendre",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt2382320"
+      },
+      {
+        "name": "France",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9714030"
+      },
+      {
+        "name": "L'Histoire de ma femme",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8205028"
+      },
+      {
+        "name": "Tromperie",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13613056"
+      },
+      {
+        "name": "Roubaix, une lumière",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8359840"
+      },
+      {
+        "name": "Kursk",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4951982"
+      },
+      {
+        "name": "Zoe",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6010628"
+      },
+      {
+        "name": "Mystères de Lisbonne",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt1236371"
+      },
+      {
+        "name": "Père et Maire",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0310511"
+      }
+    ]
+  }
+}

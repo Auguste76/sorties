@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "id": "acteur:dany-boon",
+    "type": "movie",
+    "name": "Dany Boon",
+    "poster": "https://image.tmdb.org/t/p/w500/6jMvseHpFra7tkfDIg64u5pJcI2.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/6jMvseHpFra7tkfDIg64u5pJcI2.jpg",
+    "description": "Né(e) le 1966-06-26 à Armentières, Nord, France\n\nDany Boon est issu d’une famille modeste du Nord. Son père algérien (kabyle), ex-boxeur et chauffeur routier, et sa mère, originaire du Nord de la France, est femme au foyer. Il a vraisemblablement un lien de parenté avec l’un des plus célèbres corsaires algériens Raïs Hamidou.\n\nFilms : Regarde (2025) · La Famille Hennedricks (2024) · Les Enfoirés 2024 - On a 35 ans ! (2024) · Les Chèvres ! (2024) · La Vie pour de vrai (2023) · Murder Mystery 2 (2023) · Mon crime (2023) · Une belle course (2022) · 8 Rue de l'Humanité (2021) · Le Lion (2020) · Le Dindon (2019) · Murder Mystery (2019) · La Ch'tite Famille (2018) · RAID Dingue (2017) · Radin ! (2016)",
+    "links": [
+      {
+        "name": "Regarde",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt34479814"
+      },
+      {
+        "name": "La Famille Hennedricks",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt28596621"
+      },
+      {
+        "name": "Les Enfoirés 2024 - On a 35 ans !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt31179844"
+      },
+      {
+        "name": "Les Chèvres !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt30505337"
+      },
+      {
+        "name": "La Vie pour de vrai",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt26660615"
+      },
+      {
+        "name": "Murder Mystery 2",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15255288"
+      },
+      {
+        "name": "Mon crime",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt20330434"
+      },
+      {
+        "name": "Une belle course",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14586118"
+      },
+      {
+        "name": "8 Rue de l'Humanité",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13834006"
+      },
+      {
+        "name": "Le Lion",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9908390"
+      },
+      {
+        "name": "Le Dindon",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8992390"
+      },
+      {
+        "name": "Murder Mystery",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1618434"
+      },
+      {
+        "name": "La Ch'tite Famille",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6859418"
+      },
+      {
+        "name": "RAID Dingue",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5736696"
+      },
+      {
+        "name": "Radin !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5253294"
+      }
+    ]
+  }
+}

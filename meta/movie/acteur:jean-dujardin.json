@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "id": "acteur:jean-dujardin",
+    "type": "movie",
+    "name": "Jean Dujardin",
+    "poster": "https://image.tmdb.org/t/p/w500/iPtSWWoO8vajj6fIUQLQeuGOCsk.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/iPtSWWoO8vajj6fIUQLQeuGOCsk.jpg",
+    "description": "Né(e) le 1972-06-19 à Rueil-Malmaison, France\n\nJean Dujardin est né le 19 juin 1972 à Rueil-Malmaison. Après le bac et en attendant l'armée, il s'essaye aux métiers de miroitier et de serrurier. Lors de son service national, il mesure son aptitude à faire rire la galerie.\n\nFilms : Les Rayons et les Ombres (2026) · L'Homme qui rétrécit (2025) · Finalement (2024) · Sur les chemins noirs (2023) · Les Gardiennes de la planète (2023) · Novembre (2022) · OSS 117 : Alerte rouge en Afrique noire (2021) · Présidents (2021) · Effacer l'historique (2020) · J'accuse (2019) · Le Daim (2019) · Nous finirons ensemble (2019) · I Feel Good (2018) · Le Retour du héros (2018) · Chacun sa vie (2017)\n\nSéries : Zorro (2024) · Alphonse (2023) · Un gars, une fille (1999) · Un gars, une fille (1997)",
+    "links": [
+      {
+        "name": "Les Rayons et les Ombres",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36187539"
+      },
+      {
+        "name": "L'Homme qui rétrécit",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32642156"
+      },
+      {
+        "name": "Finalement",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27819140"
+      },
+      {
+        "name": "Sur les chemins noirs",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15441522"
+      },
+      {
+        "name": "Les Gardiennes de la planète",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt18556486"
+      },
+      {
+        "name": "Novembre",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14542254"
+      },
+      {
+        "name": "OSS 117 : Alerte rouge en Afrique noire",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7972012"
+      },
+      {
+        "name": "Présidents",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13558724"
+      },
+      {
+        "name": "Effacer l'historique",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10627352"
+      },
+      {
+        "name": "J'accuse",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt2398149"
+      },
+      {
+        "name": "Le Daim",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8193790"
+      },
+      {
+        "name": "Nous finirons ensemble",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8201404"
+      },
+      {
+        "name": "I Feel Good",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7205630"
+      },
+      {
+        "name": "Le Retour du héros",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7064498"
+      },
+      {
+        "name": "Chacun sa vie",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5825150"
+      },
+      {
+        "name": "Zorro",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt31844643"
+      },
+      {
+        "name": "Alphonse",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt19514434"
+      },
+      {
+        "name": "Un gars, une fille",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0217224"
+      },
+      {
+        "name": "Un gars, une fille",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0280342"
+      }
+    ]
+  }
+}

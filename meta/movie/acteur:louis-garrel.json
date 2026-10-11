@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "id": "acteur:louis-garrel",
+    "type": "movie",
+    "name": "Louis Garrel",
+    "poster": "https://image.tmdb.org/t/p/w500/iKJ1SL0im6tJVnE777HNLX2kUeG.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/iKJ1SL0im6tJVnE777HNLX2kUeG.jpg",
+    "description": "Né(e) le 1983-06-14 à Paris, France\n\nIl est un acteur, réalisateur et scénariste français. Il reçoit le César du meilleur espoir masculin en 2006 pour Les Amants réguliers et est nommé quatre fois au César du meilleur acteur dans un second rôle, en 2015, 2016, 2020 et 2021. Il est surtout connu pour son rôle principal dans \"The Dreamers\" (les innocents) réalisé par Bernardo Bertolucci.\n\nFilms : Juste une illusion (2026) · Coutures (2026) · Arco (2025) · Chien 51 (2025) · Saint-Ex (2024) · François Truffaut, le scénario de ma vie (2024) · Le Deuxième Acte (2024) · Les Trois Mousquetaires : Milady (2023) · Viva Varda ! (2023) · Les Trois Mousquetaires : D'Artagnan (2023) · Le Grand Chariot (2023) · L'Envol (2023) · Coma (2022) · Les Amandiers (2022) · Caravage (2022)\n\nSéries : Le Bureau des légendes (2015)",
+    "links": [
+      {
+        "name": "Juste une illusion",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36842933"
+      },
+      {
+        "name": "Coutures",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt34688195"
+      },
+      {
+        "name": "Arco",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14883538"
+      },
+      {
+        "name": "Chien 51",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33255286"
+      },
+      {
+        "name": "Saint-Ex",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27156915"
+      },
+      {
+        "name": "François Truffaut, le scénario de ma vie",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32220428"
+      },
+      {
+        "name": "Le Deuxième Acte",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt30784256"
+      },
+      {
+        "name": "Les Trois Mousquetaires : Milady",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt12672620"
+      },
+      {
+        "name": "Viva Varda !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27766523"
+      },
+      {
+        "name": "Les Trois Mousquetaires : D'Artagnan",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt12672536"
+      },
+      {
+        "name": "Le Grand Chariot",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15531718"
+      },
+      {
+        "name": "L'Envol",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14212090"
+      },
+      {
+        "name": "Coma",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt17308130"
+      },
+      {
+        "name": "Les Amandiers",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14976386"
+      },
+      {
+        "name": "Caravage",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11877386"
+      },
+      {
+        "name": "Le Bureau des légendes",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt4063800"
+      }
+    ]
+  }
+}

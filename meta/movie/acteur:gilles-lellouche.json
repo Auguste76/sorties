@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "id": "acteur:gilles-lellouche",
+    "type": "movie",
+    "name": "Gilles Lellouche",
+    "poster": "https://image.tmdb.org/t/p/w500/5Ka9nodCWS6TRFJnmosjp9sV3iA.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/5Ka9nodCWS6TRFJnmosjp9sV3iA.jpg",
+    "description": "Né(e) le 1972-07-05 à Savigny-sur-Orge, Essonne, France\n\nGilles Lellouche, né le 5 juillet 1972 à Savigny-sur-Orge, est un acteur, scénariste et réalisateur français.\n\nIl est connu pour ses multiples collaborations avec Guillaume Canet — Mon idole (2002), Jeux d'enfants (2003), Narco (2004), Ne le dis à personne (2006), Les Petits Mouchoirs (2010), Rock'N'Roll (2017), L'amour est une fête (2018), Nous finirons ensemble (2019) et Astérix et Obélix: L'Empire du Milieu (2023)…\n\nFilms : La Vénus électrique (2026) · Le Crime du 3e étage (2026) · Chien 51 (2025) · I Love Peru (2025) · Leurs enfants après eux (2024) · Daaaaaalí ! (2024) · Soudain seuls (2023) · Je verrai toujours vos visages (2023) · Astérix & Obélix : L'Empire du Milieu (2023) · Fumer fait tousser (2022) · Kompromat (2022) · Goliath (2022) · Bacri, comme un air de famille (2022) · Adieu monsieur Haffmann (2022) · BAC Nord (2021)\n\nSéries : Astérix & Obélix : Le Combat des chefs (2025) · La Flamme (2020) · Platane (2011)",
+    "links": [
+      {
+        "name": "La Vénus électrique",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt37163509"
+      },
+      {
+        "name": "Le Crime du 3e étage",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt38814447"
+      },
+      {
+        "name": "Chien 51",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33255286"
+      },
+      {
+        "name": "I Love Peru",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36965993"
+      },
+      {
+        "name": "Leurs enfants après eux",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt28522540"
+      },
+      {
+        "name": "Daaaaaalí !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt23476446"
+      },
+      {
+        "name": "Soudain seuls",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14904622"
+      },
+      {
+        "name": "Je verrai toujours vos visages",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt24070754"
+      },
+      {
+        "name": "Astérix & Obélix : L'Empire du Milieu",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11210390"
+      },
+      {
+        "name": "Fumer fait tousser",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15471560"
+      },
+      {
+        "name": "Kompromat",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13349892"
+      },
+      {
+        "name": "Goliath",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13399946"
+      },
+      {
+        "name": "Bacri, comme un air de famille",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt17319710"
+      },
+      {
+        "name": "Adieu monsieur Haffmann",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10545704"
+      },
+      {
+        "name": "BAC Nord",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10404944"
+      },
+      {
+        "name": "Astérix & Obélix : Le Combat des chefs",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt14164922"
+      },
+      {
+        "name": "La Flamme",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt13286778"
+      },
+      {
+        "name": "Platane",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt2040020"
+      }
+    ]
+  }
+}

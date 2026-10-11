@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "id": "acteur:pierre-niney",
+    "type": "movie",
+    "name": "Pierre Niney",
+    "poster": "https://image.tmdb.org/t/p/w500/jxOOaWYodZT5kO15Uih1pLjaX3e.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/jxOOaWYodZT5kO15Uih1pLjaX3e.jpg",
+    "description": "Né(e) le 1989-03-13 à Boulogne-Billancourt, Hauts-de-Seine, France\n\nPierre Niney, né le 13 mars 1989 à Boulogne-Billancourt (Hauts-de-Seine), est un acteur, réalisateur, scénariste et humoriste français.\n\nIl est pensionnaire de la Comédie-Française de 2010 à 2015.\n\nEn 2015, il reçoit le César du meilleur acteur pour sa prestation dans le film Yves Saint Laurent de Jalil Lespert.\n\nPierre Niney naît le 13 mars 1989 à Boulogne-Billancourt, dans les Hauts-de-Seine.\n\nFilms : Histoires parallèles (2026) · Gourou (2026) · Maya, donne-moi un titre (2024) · Le Comte de Monte-Cristo (2024) · Le Livre des solutions (2023) · Mascarade (2022) · Goliath (2022) · Amants (2021) · Boîte noire (2021) · OSS 117 : Alerte rouge en Afrique noire (2021) · Deux moi (2019) · Sauver ou périr (2018) · La Promesse de l'aube (2017) · L'Odyssée (2016) · Frantz (2016)\n\nSéries : Fiasco (2024) · Le Flambeau, les aventuriers de Chupacabra (2022) · La Flamme (2020) · Casting(s) (2013) · Very Bad Blagues (2011)",
+    "links": [
+      {
+        "name": "Histoires parallèles",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36646880"
+      },
+      {
+        "name": "Gourou",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt31777964"
+      },
+      {
+        "name": "Maya, donne-moi un titre",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt31809821"
+      },
+      {
+        "name": "Le Comte de Monte-Cristo",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt26446278"
+      },
+      {
+        "name": "Le Livre des solutions",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15732890"
+      },
+      {
+        "name": "Mascarade",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14534796"
+      },
+      {
+        "name": "Goliath",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13399946"
+      },
+      {
+        "name": "Amants",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9800670"
+      },
+      {
+        "name": "Boîte noire",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10341034"
+      },
+      {
+        "name": "OSS 117 : Alerte rouge en Afrique noire",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7972012"
+      },
+      {
+        "name": "Deux moi",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10407272"
+      },
+      {
+        "name": "Sauver ou périr",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7210426"
+      },
+      {
+        "name": "La Promesse de l'aube",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5061360"
+      },
+      {
+        "name": "L'Odyssée",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1659619"
+      },
+      {
+        "name": "Frantz",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5029608"
+      },
+      {
+        "name": "Fiasco",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt27415863"
+      },
+      {
+        "name": "Le Flambeau, les aventuriers de Chupacabra",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt20723358"
+      },
+      {
+        "name": "La Flamme",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt13286778"
+      },
+      {
+        "name": "Casting(s)",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt3177474"
+      },
+      {
+        "name": "Very Bad Blagues",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt2071991"
+      }
+    ]
+  }
+}

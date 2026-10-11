@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "id": "acteur:jean-reno",
+    "type": "movie",
+    "name": "Jean Reno",
+    "poster": "https://image.tmdb.org/t/p/w500/mw0EZJYz3kiFq9fNxsML773gotF.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/mw0EZJYz3kiFq9fNxsML773gotF.jpg",
+    "description": "Né(e) le 1948-07-30 à Casablanca, French Protectorate in Morocco [now Morocco]\n\nJuan Moreno y Herrera-Jiménez, dit Jean Reno, né le 30 juillet 1948, à Casablanca, au Maroc, est un acteur français. De parents espagnols originaires d'Andalousie (son père était de Sanlúcar de Barrameda, sa mère de Jerez de la Frontera) et ayant fui le régime de Franco. Sa famille s'installe en France métropolitaine en 1970.\n\nFilms : The Florist (2026) · Le Virtuose (2026) · Marsupilami (2026) · Zootopie 2 (2025) · Loups-Garous (2024) · Mon ami le petit manchot (2024) · Maison de retraite 2 (2024) · En plein vol (2024) · Antigang : La Relève (2023) · Die Hart (2023) · Les Promesses (2021) · Le Dernier Voyage (2021) · I Love You Coiffure (2020) · Bronx (2020) · The Doorman (2020)\n\nSéries : Une affaire Privée (2022) · Toutes ces choses qu'on ne s'est pas dites (2022) · Die Hart (2020) · Jo (2013) · TFI Friday (1996) · Tender Is the Night (1985)",
+    "links": [
+      {
+        "name": "The Florist",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33214716"
+      },
+      {
+        "name": "Le Virtuose",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33296751"
+      },
+      {
+        "name": "Marsupilami",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33029380"
+      },
+      {
+        "name": "Zootopie 2",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt26443597"
+      },
+      {
+        "name": "Loups-Garous",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt29195603"
+      },
+      {
+        "name": "Mon ami le petit manchot",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8609660"
+      },
+      {
+        "name": "Maison de retraite 2",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt28102880"
+      },
+      {
+        "name": "En plein vol",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14371878"
+      },
+      {
+        "name": "Antigang : La Relève",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt28199975"
+      },
+      {
+        "name": "Die Hart",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27116016"
+      },
+      {
+        "name": "Les Promesses",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10042788"
+      },
+      {
+        "name": "Le Dernier Voyage",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6435934"
+      },
+      {
+        "name": "I Love You Coiffure",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11695414"
+      },
+      {
+        "name": "Bronx",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10127684"
+      },
+      {
+        "name": "The Doorman",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6222118"
+      },
+      {
+        "name": "Une affaire Privée",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt10698534"
+      },
+      {
+        "name": "Toutes ces choses qu'on ne s'est pas dites",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt14677314"
+      },
+      {
+        "name": "Die Hart",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt10726424"
+      },
+      {
+        "name": "Jo",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt2476706"
+      },
+      {
+        "name": "TFI Friday",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0115383"
+      },
+      {
+        "name": "Tender Is the Night",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0088626"
+      }
+    ]
+  }
+}

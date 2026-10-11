@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "id": "acteur:audrey-tautou",
+    "type": "movie",
+    "name": "Audrey Tautou",
+    "poster": "https://image.tmdb.org/t/p/w500/d1HVrV8zXy1FJVptmOCkHWG8Jf2.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/d1HVrV8zXy1FJVptmOCkHWG8Jf2.jpg",
+    "description": "Né(e) le 1976-08-09 à Beaumont, Puy-de-Dôme, France\n\nAudrey Tautou, née le 9 août 1976 à Beaumont (Puy-de-Dôme, Auvergne), est une actrice et mannequin française.\n\nElle fait ses débuts d'actrice à 18 ans à la télévision et ses débuts au cinéma l'année suivante dans Vénus Beauté (Institut), acclamé par la critique.\n\nFilms : Nina et le secret du hérisson (2023) · The Jesus Rolls (2019) · En liberté ! (2018) · Santa & Cie (2017) · Deux escargots s’en vont (2017) · Ouvert la nuit (2017) · L'Odyssée (2016) · Éternité (2016) · Phantom Boy (2015) · Microbe et Gasoil (2015) · Casse-tête chinois (2013) · L'Écume des jours (2013) · Thérèse Desqueyroux (2012) · La Délicatesse (2011) · Des vents contraires (2011)\n\nSéries : Les Cordier, juge et flic (1994)",
+    "links": [
+      {
+        "name": "Nina et le secret du hérisson",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14250484"
+      },
+      {
+        "name": "The Jesus Rolls",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5974030"
+      },
+      {
+        "name": "En liberté !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7534068"
+      },
+      {
+        "name": "Santa & Cie",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7018010"
+      },
+      {
+        "name": "Deux escargots s’en vont",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6970372"
+      },
+      {
+        "name": "Ouvert la nuit",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5252396"
+      },
+      {
+        "name": "L'Odyssée",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1659619"
+      },
+      {
+        "name": "Éternité",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt3564574"
+      },
+      {
+        "name": "Phantom Boy",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1856057"
+      },
+      {
+        "name": "Microbe et Gasoil",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt3882000"
+      },
+      {
+        "name": "Casse-tête chinois",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1937118"
+      },
+      {
+        "name": "L'Écume des jours",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt2027140"
+      },
+      {
+        "name": "Thérèse Desqueyroux",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1654829"
+      },
+      {
+        "name": "La Délicatesse",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1828995"
+      },
+      {
+        "name": "Des vents contraires",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1730689"
+      },
+      {
+        "name": "Les Cordier, juge et flic",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0108835"
+      }
+    ]
+  }
+}
