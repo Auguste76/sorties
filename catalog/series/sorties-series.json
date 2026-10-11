@@ -1,25 +1,22 @@
 {
   "metas": [
     {
-      "id": "tt11280740",
+      "id": "tt23458434",
       "type": "series",
-      "name": "Severance",
-      "poster": "https://images.metahub.space/poster/medium/tt11280740/img",
-      "posterShape": "poster"
+      "name": "Obituary",
+      "poster": "https://images.metahub.space/poster/medium/tt23458434/img",
+      "posterShape": "poster",
+      "description": "Une rédactrice de nécrologies d'un village irlandais décide de fournir elle-même les morts.",
+      "releaseInfo": "2023"
     },
     {
-      "id": "tt14452776",
+      "id": "tt5137338",
       "type": "series",
-      "name": "The Bear",
-      "poster": "https://images.metahub.space/poster/medium/tt14452776/img",
-      "posterShape": "poster"
-    },
-    {
-      "id": "tt0903747",
-      "type": "series",
-      "name": "Breaking Bad",
-      "poster": "https://images.metahub.space/poster/medium/tt0903747/img",
-      "posterShape": "poster"
+      "name": "Victoria",
+      "poster": "https://images.metahub.space/poster/medium/tt5137338/img",
+      "posterShape": "poster",
+      "description": "Les débuts sur le trône de la jeune reine Victoria.",
+      "releaseInfo": "2016"
     }
   ]
 }
