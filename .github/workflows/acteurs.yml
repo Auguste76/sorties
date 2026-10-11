@@ -1,0 +1,44 @@
+name: Mise à jour des acteurs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * 1"   # chaque lundi, avant la tâche quotidienne de 7h54
+
+permissions:
+  contents: write
+
+concurrency:
+  group: acteurs
+  cancel-in-progress: false
+
+jobs:
+  maj:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Récupérer photos et filmographies (TMDB en français)
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python3 acteurs.py
+
+      - name: Régénérer les catalogues
+        run: python3 build.py --date "$(TZ=Europe/Paris date +%F)"
+
+      - name: Publier
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "Mise à jour des acteurs"
+            git pull --rebase origin main
+            git push origin main
+          fi

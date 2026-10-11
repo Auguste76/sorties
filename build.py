@@ -29,6 +29,7 @@ import unicodedata
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 STATE = os.path.join(ROOT, "data", "etat.json")
+ACTEURS = os.path.join(ROOT, "data", "acteurs.json")  # produit par acteurs.py
 ENTREES = os.path.join(ROOT, "entrees")
 MANIFEST = os.path.join(ROOT, "manifest.json")
 CATALOG = os.path.join(ROOT, "catalog")
@@ -189,6 +190,39 @@ def main():
                 sub = [m for m in metas if opt in m.get("genres", [])]
                 save_json(os.path.join(CATALOG, typ, cid, f"genre={opt}.json"), {"metas": sub})
 
+    # 4b. Filmographies d'acteurs (données de acteurs.py) : un menu « acteur »
+    acteurs = load_json(ACTEURS, {"acteurs": []}).get("acteurs", [])
+    noms = [a["nom"] for a in acteurs]
+    acteur_catalogs = []
+    if noms:
+        for typ, cid, cle in (("movie", "acteurs-films", "films"), ("series", "acteurs-series", "series")):
+            par_acteur = {}
+            for a in acteurs:
+                lst = [e for e in (clean(x) for x in a.get(cle, [])) if e and e["type"] == typ]
+                par_acteur[a["nom"]] = lst[: CAPS["historique"]]
+            tous, vus = [], set()
+            for lst in par_acteur.values():
+                for e in lst:
+                    if e["id"] not in vus:
+                        vus.add(e["id"])
+                        tous.append(e)
+            tous.sort(key=lambda e: e.get("date", ""), reverse=True)
+            metas = [meta(e, "acteurs") for e in tous[: CAPS["historique"]]]
+            counts[cid] = len(metas)
+            save_json(os.path.join(CATALOG, typ, cid + ".json"), {"metas": metas})
+            blob.update(json.dumps(metas, sort_keys=True).encode())
+            for nom, lst in par_acteur.items():
+                sub = [meta(e, "acteurs") for e in lst]
+                save_json(os.path.join(CATALOG, typ, cid, f"genre={nom}.json"), {"metas": sub})
+                blob.update(json.dumps(sub, sort_keys=True).encode())
+            acteur_catalogs.append({
+                "type": typ,
+                "id": cid,
+                "name": "Filmographies (choisir un acteur)",
+                "extra": [{"name": "genre", "options": noms, "isRequired": False}],
+                "extraSupported": ["genre"],
+            })
+
     # 5. Manifest (version incrémentée seulement si le contenu a changé)
     old_manifest = load_json(MANIFEST, {"version": "0.1.0"})
     version = old_manifest.get("version", "0.1.0")
@@ -206,6 +240,7 @@ def main():
             c["extra"] = [{"name": "genre", "options": GENRE_OPTIONS, "isRequired": False}]
             c["extraSupported"] = ["genre"]
         catalogs.append(c)
+    catalogs.extend(acteur_catalogs)
     manifest = {
         "id": "fr.auguste.sorties",
         "version": version,
