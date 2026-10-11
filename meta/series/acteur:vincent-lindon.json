@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "id": "acteur:vincent-lindon",
+    "type": "series",
+    "name": "Vincent Lindon",
+    "poster": "https://image.tmdb.org/t/p/w500/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg",
+    "description": "Né(e) le 1959-07-15 à Boulogne-Billancourt, Hauts-de-Seine, France\n\nVincent Lindon est un acteur, réalisateur et scénariste français, né le 15 juillet 1959 à Boulogne-Billancourt.\n\nIl a notamment été récompensé par le prix d'interprétation au Festival de Cannes 2015 et par le César du meilleur acteur en 2016 pour son rôle dans le film La Loi du marché (2015).\n\nFilms : Les Survivants du Che (2026) · Coutures (2026) · Jouer avec le feu (2025) · Le Choix (2024) · Le Deuxième Acte (2024) · Comme un fils (2024) · Avec amour et acharnement (2022) · Un autre monde (2022) · Enquête sur un scandale d'État (2022) · Titane (2021) · Mon cousin (2020) · Dernier amour (2019) · En guerre (2018) · L'Apparition (2018) · Rodin (2017)\n\nSéries : D'argent et de sang (2023)",
+    "links": [
+      {
+        "name": "Les Survivants du Che",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1864268"
+      },
+      {
+        "name": "Coutures",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt34688195"
+      },
+      {
+        "name": "Jouer avec le feu",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt28601337"
+      },
+      {
+        "name": "Le Choix",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33996092"
+      },
+      {
+        "name": "Le Deuxième Acte",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt30784256"
+      },
+      {
+        "name": "Comme un fils",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt28636981"
+      },
+      {
+        "name": "Avec amour et acharnement",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13535920"
+      },
+      {
+        "name": "Un autre monde",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15115102"
+      },
+      {
+        "name": "Enquête sur un scandale d'État",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8415986"
+      },
+      {
+        "name": "Titane",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10944760"
+      },
+      {
+        "name": "Mon cousin",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10023150"
+      },
+      {
+        "name": "Dernier amour",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9105628"
+      },
+      {
+        "name": "En guerre",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7555774"
+      },
+      {
+        "name": "L'Apparition",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6559390"
+      },
+      {
+        "name": "Rodin",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5771710"
+      },
+      {
+        "name": "D'argent et de sang",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt18413548"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt1864268",
+        "title": "Les Survivants du Che (2026)",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt1864268/img",
+        "overview": "Rôle : Narrator (voice over). Depuis la victoire de la Révolution cubaine en 1959, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution."
+      },
+      {
+        "id": "tt34688195",
+        "title": "Coutures (2026)",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt34688195/img",
+        "overview": "Rôle : Dr. Laurent Hansen. À Paris, dans le tumulte de la Fashion Week, Maxine, une réalisatrice américaine apprend une nouvelle qui va bouleverser sa vie."
+      },
+      {
+        "id": "tt28601337",
+        "title": "Jouer avec le feu (2025)",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt28601337/img",
+        "overview": "Rôle : Pierre. Pierre élève seul ses deux fils. Louis, le cadet, réussit ses études et avance facilement dans la vie. Fus, l’aîné, part à la dérive."
+      },
+      {
+        "id": "tt33996092",
+        "title": "Le Choix (2024)",
+        "season": 1,
+        "episode": 4,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt33996092/img",
+        "overview": "Rôle : Joseph Cross. Joseph Cross ressemble à son métier. Solide comme du béton. Marié, deux enfants, son existence est parfaitement organisée. Pourtant cette nuit, seul au volant, il doit prendre une décision qui peut ruiner sa vie."
+      },
+      {
+        "id": "tt30784256",
+        "title": "Le Deuxième Acte (2024)",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt30784256/img",
+        "overview": "Rôle : Guillaume Tardieu. Florence veut présenter David, l'homme dont elle est follement amoureuse, à son père Guillaume. Mais David n'est pas attiré par Florence et souhaite s'en débarrasser en la jetant dans les bras de son ami Willy."
+      },
+      {
+        "id": "tt28636981",
+        "title": "Comme un fils (2024)",
+        "season": 1,
+        "episode": 6,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt28636981/img",
+        "overview": "Rôle : Jacques Romand. Jacques Romand est un professeur d’histoire solitaire en passe de perdre la foi. Dépassé un matin par l’agressivité d’un lycéen, il quitte sa salle de classe et se met \"en dispo\" pour une durée indéterminée."
+      },
+      {
+        "id": "tt13535920",
+        "title": "Avec amour et acharnement (2022)",
+        "season": 1,
+        "episode": 7,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13535920/img",
+        "overview": "Rôle : Jean. C’est Paris et c’est déjà l’hiver. Sarah et Jean s’aiment, ils vivent ensemble depuis plusieurs années. C’est un amour qui les rend heureux et plus forts. Ils ont confiance l’un en l’autre."
+      },
+      {
+        "id": "tt15115102",
+        "title": "Un autre monde (2022)",
+        "season": 1,
+        "episode": 8,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt15115102/img",
+        "overview": "Rôle : Philippe Lemesle. Un cadre d'entreprise, sa femme, sa famille, au moment où les choix professionnels de l'un font basculer la vie de tous. Philippe Lemesle et sa femme se séparent, un amour abimé par la pression du travail."
+      },
+      {
+        "id": "tt8415986",
+        "title": "Enquête sur un scandale d'État (2022)",
+        "season": 1,
+        "episode": 9,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt8415986/img",
+        "overview": "Rôle : Jacques Billard. Octobre 2015. Les douanes françaises saisissent sept tonnes de cannabis en plein cœur de la capitale. Le jour même, un ancien infiltré des stups, Hubert Antoine, contacte Stéphane Vilner, jeune journaliste à Libération."
+      },
+      {
+        "id": "tt10944760",
+        "title": "Titane (2021)",
+        "season": 1,
+        "episode": 10,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10944760/img",
+        "overview": "Rôle : Vincent. Après une série de crimes inexpliqués, un père retrouve son fils disparu depuis 10 ans. Titane : métal hautement résistant à la chaleur et à la corrosion, donnant des alliages très durs."
+      },
+      {
+        "id": "tt10023150",
+        "title": "Mon cousin (2020)",
+        "season": 1,
+        "episode": 11,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10023150/img",
+        "overview": "Rôle : Pierre. Pierre est le PDG du groupe Pastié qui réunit les plus grandes marques internationales d’alcool mais aussi de grands crus classés."
+      },
+      {
+        "id": "tt9105628",
+        "title": "Dernier amour (2019)",
+        "season": 1,
+        "episode": 12,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt9105628/img",
+        "overview": "Rôle : Giacomo Casanova. Au XVIIIe siècle, Casanova, connu pour son goût du plaisir et du jeu, arrive à Londres après avoir dû s’exiler."
+      },
+      {
+        "id": "tt7555774",
+        "title": "En guerre (2018)",
+        "season": 1,
+        "episode": 13,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7555774/img",
+        "overview": "Rôle : Laurent Amédéo. Malgré de lourds sacrifices financiers de la part des salariés et un bénéfice record de leur entreprise, la direction de l’usine Perrin Industrie décide néanmoins la fermeture totale du site."
+      },
+      {
+        "id": "tt6559390",
+        "title": "L'Apparition (2018)",
+        "season": 1,
+        "episode": 14,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6559390/img",
+        "overview": "Rôle : Jacques Mayano. Jacques, grand reporter pour un quotidien français reçoit un jour un mystérieux coup de téléphone du Vatican."
+      },
+      {
+        "id": "tt5771710",
+        "title": "Rodin (2017)",
+        "season": 1,
+        "episode": 15,
+        "released": "2017-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5771710/img",
+        "overview": "Rôle : Auguste Rodin. À Paris, en 1880, Auguste Rodin reçoit enfin à 40 ans sa première commande de l’État : ce sera La Porte de L’Enfer composée de figurines dont certaines feront sa gloire comme Le Baiser et Le Penseur."
+      },
+      {
+        "id": "tt18413548",
+        "title": "D'argent et de sang (2023)",
+        "season": 1,
+        "episode": 16,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt18413548/img",
+        "overview": "Rôle : Simon Weynachter. L’escroquerie du siècle, survenue en France et en Europe entre 2008 et 2009. Des milliards partis en fumée sur le nouveau marché financier des \"quotas carbone\" inventé pour lutter contre le réchauffement climatique."
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "id": "acteur:tahar-rahim",
+    "type": "series",
+    "name": "Tahar Rahim",
+    "poster": "https://image.tmdb.org/t/p/w500/r1SJ9nkG9q4JbPHbtcvcVxmRcHw.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/r1SJ9nkG9q4JbPHbtcvcVxmRcHw.jpg",
+    "description": "Né(e) le 1981-07-04 à Belfort, Territoire de Belfort, France\n\nTahar Rahim est un acteur franco-algérien, né le 4 juillet 1981 à Belfort.\n\nIl reçoit le César du meilleur acteur 2010 pour le film Un prophète.\n\nFilms : Alpha (2025) · Monsieur Aznavour (2024) · Madame Web (2024) · Napoléon (2023) · Don Juan (2022) · Désigné coupable (2021) · Un hiver à New York (2019) · Gloomy Eyes (2019) · Joueurs (2018) · Marie Madeleine (2018) · Le prix du succès (2017) · Réparer les vivants (2016) · Le Secret de la chambre noire (2016) · Les Anarchistes (2015) · Le Père Noël (2014)\n\nSéries : Prisoner (2026) · Extrapolations (2023) · Le Serpent (2021) · The Eddy (2020) · The Looming Tower (2018) · Panthers (2015) · Bref (2011)",
+    "links": [
+      {
+        "name": "Alpha",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32275943"
+      },
+      {
+        "name": "Monsieur Aznavour",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt26743414"
+      },
+      {
+        "name": "Madame Web",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11057302"
+      },
+      {
+        "name": "Napoléon",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13287846"
+      },
+      {
+        "name": "Don Juan",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14590650"
+      },
+      {
+        "name": "Désigné coupable",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4761112"
+      },
+      {
+        "name": "Un hiver à New York",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6515910"
+      },
+      {
+        "name": "Gloomy Eyes",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9670896"
+      },
+      {
+        "name": "Joueurs",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7888070"
+      },
+      {
+        "name": "Marie Madeleine",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5360996"
+      },
+      {
+        "name": "Le prix du succès",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6194540"
+      },
+      {
+        "name": "Réparer les vivants",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5096536"
+      },
+      {
+        "name": "Le Secret de la chambre noire",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4628882"
+      },
+      {
+        "name": "Les Anarchistes",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4466336"
+      },
+      {
+        "name": "Le Père Noël",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt3532850"
+      },
+      {
+        "name": "Prisoner",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt34273502"
+      },
+      {
+        "name": "Extrapolations",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt13821126"
+      },
+      {
+        "name": "Le Serpent",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt7985576"
+      },
+      {
+        "name": "The Eddy",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt7322210"
+      },
+      {
+        "name": "The Looming Tower",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt6474236"
+      },
+      {
+        "name": "Panthers",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt4075386"
+      },
+      {
+        "name": "Bref",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt2044128"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt32275943",
+        "title": "Alpha (2025)",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt32275943/img",
+        "overview": "Rôle : Amin. Alpha, 13 ans, est une adolescente agitée qui vit seule avec sa mère. Leur monde s’écroule le jour où elle rentre de l'école avec un tatouage sur le bras."
+      },
+      {
+        "id": "tt26743414",
+        "title": "Monsieur Aznavour (2024)",
+        "season": 1,
+        "episode": 2,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt26743414/img",
+        "overview": "Rôle : Charles Aznavour. Fils de réfugiés, petit, pauvre, à la voix voilée, on disait de lui qu’il n’avait rien pour réussir."
+      },
+      {
+        "id": "tt11057302",
+        "title": "Madame Web (2024)",
+        "season": 1,
+        "episode": 3,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt11057302/img",
+        "overview": "Rôle : Ezekiel Sims. « Pendant ce temps, dans un autre univers… » Dans une variation du genre classique, Madame Web raconte les origines de l'une des plus énigmatiques héroïnes des bandes dessinées Marvel."
+      },
+      {
+        "id": "tt13287846",
+        "title": "Napoléon (2023)",
+        "season": 1,
+        "episode": 4,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13287846/img",
+        "overview": "Rôle : Paul Barras. Un regard personnel sur les origines du chef militaire français et son ascension rapide et impitoyable vers le statut d'empereur."
+      },
+      {
+        "id": "tt14590650",
+        "title": "Don Juan (2022)",
+        "season": 1,
+        "episode": 5,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14590650/img",
+        "overview": "Rôle : Laurent. En 2022, Don Juan n’est plus l’homme qui séduit toutes les femmes, mais un homme obsédé par une seule femme : celle qui l’a abandonné…"
+      },
+      {
+        "id": "tt4761112",
+        "title": "Désigné coupable (2021)",
+        "season": 1,
+        "episode": 6,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt4761112/img",
+        "overview": "Rôle : Mohamedou Ould Slahi. Capturé par le gouvernement américain, Mohamedou Ould Slahi est détenu depuis des années à Guantánamo, sans jugement ni inculpation."
+      },
+      {
+        "id": "tt6515910",
+        "title": "Un hiver à New York (2019)",
+        "season": 1,
+        "episode": 7,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6515910/img",
+        "overview": "Rôle : Marc. Clara arrive à New York avec ses deux fils sur le siège arrière de sa voiture. Ce voyage, qu’elle a déguisé en une aventure pour l’intérêt de ses enfants, s’avérera bientôt être une fuite d’un mari et d’un père abusifs."
+      },
+      {
+        "id": "tt9670896",
+        "title": "Gloomy Eyes (2019)",
+        "season": 1,
+        "episode": 8,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt9670896/img",
+        "overview": "Rôle : French Grave keeper. \"Quand le soleil s’est lassé de la bêtise humaine, il a décidé de disparaître pour ne plus jamais se lever.” Les ténèbres ont réveillé les morts. Zombies et humains se livrent un combat acharné."
+      },
+      {
+        "id": "tt7888070",
+        "title": "Joueurs (2018)",
+        "season": 1,
+        "episode": 9,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7888070/img",
+        "overview": "Rôle : Abel. Lorsqu'Ella rencontre Abel, sa vie bascule. Dans le sillage de cet amant insaisissable, la jeune fille va découvrir le Paris cosmopolite et souterrain des cercles de jeux, où adrénaline et argent règnent."
+      },
+      {
+        "id": "tt5360996",
+        "title": "Marie Madeleine (2018)",
+        "season": 1,
+        "episode": 10,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5360996/img",
+        "overview": "Rôle : Judas. Marie Madeleine est un portrait authentique et humaniste de l’un des personnages religieux les plus énigmatiques et incompris de l’histoire."
+      },
+      {
+        "id": "tt6194540",
+        "title": "Le prix du succès (2017)",
+        "season": 1,
+        "episode": 11,
+        "released": "2017-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6194540/img",
+        "overview": "Rôle : Brahim. Brahim est un humoriste en pleine ascension. Sa réussite, il la doit à lui-même et à l'amour qu'il porte à Linda. Bon fils, il soutient les siens depuis toujours."
+      },
+      {
+        "id": "tt5096536",
+        "title": "Réparer les vivants (2016)",
+        "season": 1,
+        "episode": 12,
+        "released": "2016-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5096536/img",
+        "overview": "Rôle : Thomas Rémige. Tout commence au petit jour dans une mer déchaînée avec trois jeunes surfeurs. Quelques heures plus tard, sur le chemin du retour, c’est l’accident."
+      },
+      {
+        "id": "tt4628882",
+        "title": "Le Secret de la chambre noire (2016)",
+        "season": 1,
+        "episode": 13,
+        "released": "2016-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt4628882/img",
+        "overview": "Rôle : Jean. Stéphane, ancien photographe de mode, vit seul avec sa fille qu'il retient auprès de lui dans leur propriété de banlieue."
+      },
+      {
+        "id": "tt4466336",
+        "title": "Les Anarchistes (2015)",
+        "season": 1,
+        "episode": 14,
+        "released": "2015-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt4466336/img",
+        "overview": "Rôle : Jean Albertini. Paris 1899. Le brigadier Jean Albertini, pauvre et orphelin, est choisi pour infiltrer un groupe d’anarchistes. Pour lui, c’est l’occasion de monter en grade."
+      },
+      {
+        "id": "tt3532850",
+        "title": "Le Père Noël (2014)",
+        "season": 1,
+        "episode": 15,
+        "released": "2014-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt3532850/img",
+        "overview": "Rôle : Le Père Noël. En cette nuit de Noël, Antoine, six ans, n’a qu’une idée en tête : rencontrer le Père Noël et faire un tour de traîneau avec lui dans les étoiles… Alors quand celui-ci tombe comme par magie sur son balcon, Antoine est tr…"
+      },
+      {
+        "id": "tt34273502",
+        "title": "Prisoner (2026)",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt34273502/img",
+        "overview": "Rôle : Tibor Stone. Lorsqu'un convoi pénitentiaire est pris d’assaut sur une route isolée, Amber Todd, agente chargée du transfert, se retrouve prise au piège avec Tibor Stone - ancien tueur d’élite devenu témoin clé contre Pegasus, le rése…"
+      },
+      {
+        "id": "tt13821126",
+        "title": "Extrapolations (2023)",
+        "season": 1,
+        "episode": 17,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13821126/img",
+        "overview": "Rôle : Omar Haddad. Huit histoires interconnectées sur une période de 33 ans explorent la manière dont le changement climatique mondial affectera la famille, le travail, la foi et la survie."
+      },
+      {
+        "id": "tt7985576",
+        "title": "Le Serpent (2021)",
+        "season": 1,
+        "episode": 18,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7985576/img",
+        "overview": "Rôle : Charles Sobhraj. Dans les années 1970, l'impitoyable tueur Charles Sobhraj traque les touristes occidentaux qui font la route en Asie du Sud. Inspiré de terrifiants faits réels."
+      },
+      {
+        "id": "tt7322210",
+        "title": "The Eddy (2020)",
+        "season": 1,
+        "episode": 19,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7322210/img",
+        "overview": "Rôle : Farid Youssfi. Autrefois célèbre pianiste de jazz new-yorkais, Elliot Udo est désormais le patron de The Eddy, club ayant connu des jours meilleurs."
+      },
+      {
+        "id": "tt6474236",
+        "title": "The Looming Tower (2018)",
+        "season": 1,
+        "episode": 20,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6474236/img",
+        "overview": "Rôle : Ali Soufan. The Looming Tower décrit la menace grandissante représentée par Oussama Ben Laden et Al-Qaida et offre un regard polémique sur la façon dont la rivalité entre la CIA et le FBI a pu involontairement ouvrir la voie à la tr…"
+      },
+      {
+        "id": "tt4075386",
+        "title": "Panthers (2015)",
+        "season": 1,
+        "episode": 21,
+        "released": "2015-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt4075386/img",
+        "overview": "Rôle : Khalil. Le casse d’une bijouterie à Marseille remet sur le devant de la scène les Pink Panthers."
+      },
+      {
+        "id": "tt2044128",
+        "title": "Bref (2011)",
+        "season": 1,
+        "episode": 22,
+        "released": "2011-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt2044128/img",
+        "overview": "Rôle : Tahar Rahim. Un trentenaire au chômage, obsédé par une fille rencontrée en soirée, fait part de ses états d'âme et de ses réflexions sur les problèmes du quotidien."
+      }
+    ]
+  }
+}

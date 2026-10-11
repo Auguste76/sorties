@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "id": "acteur:dany-boon",
+    "type": "series",
+    "name": "Dany Boon",
+    "poster": "https://image.tmdb.org/t/p/w500/6jMvseHpFra7tkfDIg64u5pJcI2.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/6jMvseHpFra7tkfDIg64u5pJcI2.jpg",
+    "description": "Né(e) le 1966-06-26 à Armentières, Nord, France\n\nDany Boon est issu d’une famille modeste du Nord. Son père algérien (kabyle), ex-boxeur et chauffeur routier, et sa mère, originaire du Nord de la France, est femme au foyer. Il a vraisemblablement un lien de parenté avec l’un des plus célèbres corsaires algériens Raïs Hamidou.\n\nFilms : Regarde (2025) · La Famille Hennedricks (2024) · Les Enfoirés 2024 - On a 35 ans ! (2024) · Les Chèvres ! (2024) · La Vie pour de vrai (2023) · Murder Mystery 2 (2023) · Mon crime (2023) · Une belle course (2022) · 8 Rue de l'Humanité (2021) · Le Lion (2020) · Le Dindon (2019) · Murder Mystery (2019) · La Ch'tite Famille (2018) · RAID Dingue (2017) · Radin ! (2016)",
+    "links": [
+      {
+        "name": "Regarde",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt34479814"
+      },
+      {
+        "name": "La Famille Hennedricks",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt28596621"
+      },
+      {
+        "name": "Les Enfoirés 2024 - On a 35 ans !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt31179844"
+      },
+      {
+        "name": "Les Chèvres !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt30505337"
+      },
+      {
+        "name": "La Vie pour de vrai",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt26660615"
+      },
+      {
+        "name": "Murder Mystery 2",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15255288"
+      },
+      {
+        "name": "Mon crime",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt20330434"
+      },
+      {
+        "name": "Une belle course",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14586118"
+      },
+      {
+        "name": "8 Rue de l'Humanité",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13834006"
+      },
+      {
+        "name": "Le Lion",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9908390"
+      },
+      {
+        "name": "Le Dindon",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8992390"
+      },
+      {
+        "name": "Murder Mystery",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1618434"
+      },
+      {
+        "name": "La Ch'tite Famille",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6859418"
+      },
+      {
+        "name": "RAID Dingue",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5736696"
+      },
+      {
+        "name": "Radin !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5253294"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt34479814",
+        "title": "Regarde (2025)",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt34479814/img",
+        "overview": "Rôle : Antoine. Chris et Antoine ont bien du mal à s’entendre depuis leur divorce. Mais, lorsqu’on leur annonce que leur fils de 16 ans est atteint d’une maladie rare, qui va lui faire perdre la vue, ils s’efforcent de mettre leurs ranc…"
+      },
+      {
+        "id": "tt28596621",
+        "title": "La Famille Hennedricks (2024)",
+        "season": 1,
+        "episode": 2,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt28596621/img",
+        "overview": "Rôle : Ludo. Quand son fils Henri menace de partir vivre chez son père, Justine improvise avec Ludo, son nouveau compagnon, et son beau-fils Joseph, un road trip sur la côte Atlantique pour donner une dernière chance à sa famille rec…"
+      },
+      {
+        "id": "tt31179844",
+        "title": "Les Enfoirés 2024 - On a 35 ans ! (2024)",
+        "season": 1,
+        "episode": 3,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt31179844/img",
+        "overview": "En janvier 2024, les Enfoirés se sont produits à L’Arkéa Arena à Bordeaux pour fêter leurs 35 ans."
+      },
+      {
+        "id": "tt30505337",
+        "title": "Les Chèvres ! (2024)",
+        "season": 1,
+        "episode": 4,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt30505337/img",
+        "overview": "Rôle : Maître Pompignac. Saviez-vous qu’au 17ème siècle, les animaux pouvaient être jugés pour avoir commis un crime ?\r Maître Pompignac, risée du barreau, pense avoir trouvé l’affaire de sa vie : défendre la jeune et innocente Josette, accusée…"
+      },
+      {
+        "id": "tt26660615",
+        "title": "La Vie pour de vrai (2023)",
+        "season": 1,
+        "episode": 5,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt26660615/img",
+        "overview": "Rôle : Tridan Lagache. Tridan Lagache a passé sa vie au Club Med, à changer d’amis tous les 8 jours. À 50 ans, il démissionne du club de vacances mexicain où il est né, bien décidé à retrouver, 42 ans plus tard, son grand amour d’enfance, Viol…"
+      },
+      {
+        "id": "tt15255288",
+        "title": "Murder Mystery 2 (2023)",
+        "season": 1,
+        "episode": 6,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt15255288/img",
+        "overview": "Rôle : Inspector Delacroix. Juste après la création de leur agence de détectives, Nick et Audrey Spitz décrochent l'affaire idéale quand leur ami milliardaire se fait enlever pendant son propre mariage."
+      },
+      {
+        "id": "tt20330434",
+        "title": "Mon crime (2023)",
+        "season": 1,
+        "episode": 7,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt20330434/img",
+        "overview": "Rôle : Palmarède. Dans les années 30 à Paris, Madeleine Verdier, jeune et jolie actrice sans le sou et sans talent, est accusée du meurtre d’un célèbre producteur."
+      },
+      {
+        "id": "tt14586118",
+        "title": "Une belle course (2022)",
+        "season": 1,
+        "episode": 8,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14586118/img",
+        "overview": "Rôle : Charles. Madeleine, 92 ans, appelle un taxi pour rejoindre la maison de retraite où elle doit vivre désormais."
+      },
+      {
+        "id": "tt13834006",
+        "title": "8 Rue de l'Humanité (2021)",
+        "season": 1,
+        "episode": 9,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13834006/img",
+        "overview": "Rôle : Martin. Les rues de Paris sont vides et silencieuses. Alors que certains ont préféré fuir la capitale, sept familles sont restées confinées dans un immeuble du 11ème au 8 rue de l’humanité avec entre autres ; une patronne de bis…"
+      },
+      {
+        "id": "tt9908390",
+        "title": "Le Lion (2020)",
+        "season": 1,
+        "episode": 10,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt9908390/img",
+        "overview": "Rôle : Léo Milan. Pour l’aider à retrouver sa fiancée disparue, Romain, médecin en hôpital psychiatrique n’a d’autre choix que de faire évader l’un de ses patients Léo Milan, qui prétend être un agent secret… Mais Romain n’est pas tout à…"
+      },
+      {
+        "id": "tt8992390",
+        "title": "Le Dindon (2019)",
+        "season": 1,
+        "episode": 11,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt8992390/img",
+        "overview": "Rôle : René Vatelin. Monsieur de Pontagnac a eu un coup de foudre pour une jolie jeune femme. Ce qu’il n’avait pas prévu c’est que celle-ci n’est autre que Victoire, la femme d’un de ses amis, Vatelin."
+      },
+      {
+        "id": "tt1618434",
+        "title": "Murder Mystery (2019)",
+        "season": 1,
+        "episode": 12,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt1618434/img",
+        "overview": "Rôle : Inspector de la Croix. Un policier de New York et sa femme deviennent les suspects du meurtre d'un milliardaire qui les avait invités sur son yacht lors de vacances en Europe."
+      },
+      {
+        "id": "tt6859418",
+        "title": "La Ch'tite Famille (2018)",
+        "season": 1,
+        "episode": 13,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6859418/img",
+        "overview": "Rôle : Valentin Duquesne, aka Valentin D.. Valentin D. et Constance Brandt, un couple d’architectes designers en vogue préparent le vernissage de leur rétrospective au Palais de Tokyo."
+      },
+      {
+        "id": "tt5736696",
+        "title": "RAID Dingue (2017)",
+        "season": 1,
+        "episode": 14,
+        "released": "2017-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5736696/img",
+        "overview": "Rôle : Eugène Froissard. Johanna Pasquali est une fliquette pas comme les autres. Distraite, rêveuse et maladroite, elle est une policière sympathique mais totalement nulle."
+      },
+      {
+        "id": "tt5253294",
+        "title": "Radin ! (2016)",
+        "season": 1,
+        "episode": 15,
+        "released": "2016-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5253294/img",
+        "overview": "Rôle : François Gautier. François Gautier a un énorme défaut, il est radin ! Il doit déployer des trésors d’ingéniosité pour réussir à avoir une vie sociale à peu près normale et son seul ami n’est autre que son banquier."
+      }
+    ]
+  }
+}

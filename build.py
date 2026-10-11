@@ -290,11 +290,26 @@ def main():
                 "description": "\n\n".join(lignes), "links": liens,
             }
             save_json(os.path.join(META, "movie", aid + ".json"), {"meta": fiche})
+            # Variante « série » : la filmographie sous forme de liste d'épisodes (affichée par toutes les applis)
+            videos = []
+            for n, e in enumerate(films + series, 1):
+                m = meta(e, "acteurs")
+                videos.append({
+                    "id": e["id"], "title": f"{e['name']} ({e.get('year', '?')})", "season": 1, "episode": n,
+                    "released": f"{e['year']}-01-01T00:00:00.000Z" if str(e.get("year", "")).isdigit() else None,
+                    "thumbnail": m.get("poster"), "overview": m.get("description", ""),
+                })
+            fiche_s = dict(fiche, type="series", videos=videos)
+            save_json(os.path.join(META, "series", aid + ".json"), {"meta": fiche_s})
+            blob.update(json.dumps(fiche_s, sort_keys=True).encode())
             blob.update(json.dumps(fiche, sort_keys=True).encode())
             fiches.append({k: fiche[k] for k in ("id", "type", "name", "poster", "posterShape")})
         counts["acteurs-fiches"] = len(fiches)
         save_json(os.path.join(CATALOG, "movie", "acteurs-fiches.json"), {"metas": fiches})
+        save_json(os.path.join(CATALOG, "series", "acteurs-fiches.json"),
+                  {"metas": [dict(f, type="series") for f in fiches]})
         acteur_catalogs.append({"type": "movie", "id": "acteurs-fiches", "name": "Acteurs (photos)"})
+        acteur_catalogs.append({"type": "series", "id": "acteurs-fiches", "name": "Acteurs (filmographie)"})
 
     # 5. Manifest (version incrémentée seulement si le contenu a changé)
     old_manifest = load_json(MANIFEST, {"version": "0.1.0"})

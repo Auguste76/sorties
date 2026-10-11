@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "id": "acteur:daniel-auteuil",
+    "type": "series",
+    "name": "Daniel Auteuil",
+    "poster": "https://image.tmdb.org/t/p/w500/5asrvkdSnlYlHap3ldDNyE5opeI.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/5asrvkdSnlYlHap3ldDNyE5opeI.jpg",
+    "description": "Né(e) le 1950-01-24 à Alger, France [now Algeria]\n\nDaniel Auteuil, né le 24 janvier 1950 à Alger (Algérie française), est un acteur, metteur en scène, auteur-compositeur-interprète, réalisateur et chanteur français.\n\nNommé quatorze fois aux Césars, il remporte en 1987 le César du meilleur acteur pour son rôle dans les films Jean de Florette et Manon des sources, puis un autre en 2000 pour La Fille sur le pont.\n\nFilms : L'Objet du délit (2026) · Vie privée (2025) · Le Fil (2024) · La Petite Vadrouille (2024) · Un silence (2024) · Le Nouveau Jouet (2022) · Adieu monsieur Haffmann (2022) · La Belle Époque (2019) · Qui m’aime me suive ! (2019) · Rémi sans famille (2018) · Amoureux de ma femme (2018) · Le Brio (2017) · Les Confessions (2016) · Au nom de ma fille (2016) · Les Naufragés (2016)\n\nSéries : Le Mensonge (2020)",
+    "links": [
+      {
+        "name": "L'Objet du délit",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt37535559"
+      },
+      {
+        "name": "Vie privée",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33852162"
+      },
+      {
+        "name": "Le Fil",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt29102598"
+      },
+      {
+        "name": "La Petite Vadrouille",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt30402052"
+      },
+      {
+        "name": "Un silence",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt25051484"
+      },
+      {
+        "name": "Le Nouveau Jouet",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13361648"
+      },
+      {
+        "name": "Adieu monsieur Haffmann",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10545704"
+      },
+      {
+        "name": "La Belle Époque",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9172422"
+      },
+      {
+        "name": "Qui m’aime me suive !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7654880"
+      },
+      {
+        "name": "Rémi sans famille",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6741368"
+      },
+      {
+        "name": "Amoureux de ma femme",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7654872"
+      },
+      {
+        "name": "Le Brio",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6462462"
+      },
+      {
+        "name": "Les Confessions",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4647784"
+      },
+      {
+        "name": "Au nom de ma fille",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4228810"
+      },
+      {
+        "name": "Les Naufragés",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5338174"
+      },
+      {
+        "name": "Le Mensonge",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt13190868"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt37535559",
+        "title": "L'Objet du délit (2026)",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt37535559/img",
+        "overview": "Rôle : Igor. Dans les coulisses d’une ambitieuse production de l’opéra « Les Noces de Figaro », les tensions montent lorsqu’une accusation d’agression sexuelle éclate, mettant en péril la production et forçant chacun à prendre positi…"
+      },
+      {
+        "id": "tt33852162",
+        "title": "Vie privée (2025)",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt33852162/img",
+        "overview": "Rôle : Gabriel Haddad. Lilian Steiner est une psychiatre reconnue. Un jour, elle apprend la mort de l’une de ses patientes. Troublée, Lilian se persuade qu’il s’agit d’un assassinat, elle décide alors de mener son enquête..."
+      },
+      {
+        "id": "tt29102598",
+        "title": "Le Fil (2024)",
+        "season": 1,
+        "episode": 3,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt29102598/img",
+        "overview": "Rôle : Maître Jean Monier. Depuis qu’il a fait innocenter un meurtrier récidiviste, Maître Jean Monier ne prend plus de dossiers criminels."
+      },
+      {
+        "id": "tt30402052",
+        "title": "La Petite Vadrouille (2024)",
+        "season": 1,
+        "episode": 4,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt30402052/img",
+        "overview": "Rôle : Franck. Justine, son mari et toute leur bande d'amis trouvent une solution pour résoudre leurs problèmes d'argent : organiser une fausse croisière romantique pour Franck, un gros investisseur, qui cherche à séduire une femme."
+      },
+      {
+        "id": "tt25051484",
+        "title": "Un silence (2024)",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt25051484/img",
+        "overview": "Rôle : François Schaar. Silencieuse depuis 25 ans, Astrid la femme d’un célèbre avocat voit son équilibre familial s’effondrer lorsque ses enfants se mettent en quête de justice."
+      },
+      {
+        "id": "tt13361648",
+        "title": "Le Nouveau Jouet (2022)",
+        "season": 1,
+        "episode": 6,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13361648/img",
+        "overview": "Rôle : Philippe Étienne. Pour l'anniversaire de son fils Alexandre, l'homme le plus riche de France privatise un grand magasin qui lui appartient."
+      },
+      {
+        "id": "tt10545704",
+        "title": "Adieu monsieur Haffmann (2022)",
+        "season": 1,
+        "episode": 7,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10545704/img",
+        "overview": "Rôle : Joseph Haffmann. Paris 1941. François Mercier est un homme ordinaire qui n’aspire qu’à fonder une famille avec la femme qu’il aime, Blanche. Il est aussi l’employé d’un joaillier talentueux, Mr. Haffmann."
+      },
+      {
+        "id": "tt9172422",
+        "title": "La Belle Époque (2019)",
+        "season": 1,
+        "episode": 8,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt9172422/img",
+        "overview": "Rôle : Victor Drumond. Victor, un sexagénaire désabusé, voit sa vie bouleversée le jour où Antoine, un brillant entrepreneur, lui propose une attraction d’un genre nouveau: mélangeant artifices théâtraux et reconstitution historique, cette ent…"
+      },
+      {
+        "id": "tt7654880",
+        "title": "Qui m’aime me suive ! (2019)",
+        "season": 1,
+        "episode": 9,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7654880/img",
+        "overview": "Rôle : Gilbert. Gilbert et Simone vivent une retraite agitée dans un village du Sud de la France. Le départ d'Étienne, son voisin et amant, le manque d'argent, mais surtout l'aigreur permanente de son mari, poussent Simone à fuir le foy…"
+      },
+      {
+        "id": "tt6741368",
+        "title": "Rémi sans famille (2018)",
+        "season": 1,
+        "episode": 10,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6741368/img",
+        "overview": "Rôle : Signor Vitalis. Les aventures du jeune Rémi, orphelin recueilli par la douce Madame Barberin. A l’âge de 10 ans, il est arraché à sa mère adoptive et confié au Signor Vitalis, un mystérieux musicien ambulant."
+      },
+      {
+        "id": "tt7654872",
+        "title": "Amoureux de ma femme (2018)",
+        "season": 1,
+        "episode": 11,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7654872/img",
+        "overview": "Rôle : Daniel. Daniel est très amoureux de sa femme, mais il a beaucoup d'imagination et un meilleur ami parfois encombrant."
+      },
+      {
+        "id": "tt6462462",
+        "title": "Le Brio (2017)",
+        "season": 1,
+        "episode": 12,
+        "released": "2017-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6462462/img",
+        "overview": "Rôle : Pierre Mazard. Neïla Salah a grandi à Créteil. Jeune femme brillante, elle rêve de devenir avocate."
+      },
+      {
+        "id": "tt4647784",
+        "title": "Les Confessions (2016)",
+        "season": 1,
+        "episode": 13,
+        "released": "2016-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt4647784/img",
+        "overview": "Rôle : Daniel Roché. Quelque part en Allemagne des dirigeants politiques du G8 et le directeur du FMI se réunissent en vue d’adopter une manoeuvre secrète aux lourdes conséquences."
+      },
+      {
+        "id": "tt4228810",
+        "title": "Au nom de ma fille (2016)",
+        "season": 1,
+        "episode": 14,
+        "released": "2016-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt4228810/img",
+        "overview": "Rôle : André Bamberski. Un jour de juillet 1982, André Bamberski apprend la mort de sa fille Kalinka. Elle avait 14 ans et passait ses vacances en Allemagne auprès de sa mère et de son beau-père le docteur Krombach."
+      },
+      {
+        "id": "tt5338174",
+        "title": "Les Naufragés (2016)",
+        "season": 1,
+        "episode": 15,
+        "released": "2016-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5338174/img",
+        "overview": "Rôle : Jean-Louis Brochard. Jean‐Louis Brochard, escroc de la finance en fuite et William Boulanger, teinturier cocu tout juste quitté par sa femme, échouent sur une île déserte après un crash d’avion."
+      },
+      {
+        "id": "tt13190868",
+        "title": "Le Mensonge (2020)",
+        "season": 1,
+        "episode": 16,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13190868/img",
+        "overview": "Rôle : Claude Arbona. Claude a tout réussi dans sa vie : son mariage, sa carrière… Maire de sa ville, il se destine à devenir sénateur."
+      }
+    ]
+  }
+}

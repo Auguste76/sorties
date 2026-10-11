@@ -1,0 +1,295 @@
+{
+  "meta": {
+    "id": "acteur:pierre-niney",
+    "type": "series",
+    "name": "Pierre Niney",
+    "poster": "https://image.tmdb.org/t/p/w500/jxOOaWYodZT5kO15Uih1pLjaX3e.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/jxOOaWYodZT5kO15Uih1pLjaX3e.jpg",
+    "description": "Né(e) le 1989-03-13 à Boulogne-Billancourt, Hauts-de-Seine, France\n\nPierre Niney, né le 13 mars 1989 à Boulogne-Billancourt (Hauts-de-Seine), est un acteur, réalisateur, scénariste et humoriste français.\n\nIl est pensionnaire de la Comédie-Française de 2010 à 2015.\n\nEn 2015, il reçoit le César du meilleur acteur pour sa prestation dans le film Yves Saint Laurent de Jalil Lespert.\n\nPierre Niney naît le 13 mars 1989 à Boulogne-Billancourt, dans les Hauts-de-Seine.\n\nFilms : Histoires parallèles (2026) · Gourou (2026) · Maya, donne-moi un titre (2024) · Le Comte de Monte-Cristo (2024) · Le Livre des solutions (2023) · Mascarade (2022) · Goliath (2022) · Amants (2021) · Boîte noire (2021) · OSS 117 : Alerte rouge en Afrique noire (2021) · Deux moi (2019) · Sauver ou périr (2018) · La Promesse de l'aube (2017) · L'Odyssée (2016) · Frantz (2016)\n\nSéries : Fiasco (2024) · Le Flambeau, les aventuriers de Chupacabra (2022) · La Flamme (2020) · Casting(s) (2013) · Very Bad Blagues (2011)",
+    "links": [
+      {
+        "name": "Histoires parallèles",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36646880"
+      },
+      {
+        "name": "Gourou",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt31777964"
+      },
+      {
+        "name": "Maya, donne-moi un titre",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt31809821"
+      },
+      {
+        "name": "Le Comte de Monte-Cristo",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt26446278"
+      },
+      {
+        "name": "Le Livre des solutions",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15732890"
+      },
+      {
+        "name": "Mascarade",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14534796"
+      },
+      {
+        "name": "Goliath",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13399946"
+      },
+      {
+        "name": "Amants",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9800670"
+      },
+      {
+        "name": "Boîte noire",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10341034"
+      },
+      {
+        "name": "OSS 117 : Alerte rouge en Afrique noire",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7972012"
+      },
+      {
+        "name": "Deux moi",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10407272"
+      },
+      {
+        "name": "Sauver ou périr",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7210426"
+      },
+      {
+        "name": "La Promesse de l'aube",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5061360"
+      },
+      {
+        "name": "L'Odyssée",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1659619"
+      },
+      {
+        "name": "Frantz",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5029608"
+      },
+      {
+        "name": "Fiasco",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt27415863"
+      },
+      {
+        "name": "Le Flambeau, les aventuriers de Chupacabra",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt20723358"
+      },
+      {
+        "name": "La Flamme",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt13286778"
+      },
+      {
+        "name": "Casting(s)",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt3177474"
+      },
+      {
+        "name": "Very Bad Blagues",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt2071991"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt36646880",
+        "title": "Histoires parallèles (2026)",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt36646880/img",
+        "overview": "Rôle : Christophe / Théo. En quête d’inspiration pour son nouveau roman, Sylvie espionne ses voisins dans l’immeuble d’en face."
+      },
+      {
+        "id": "tt31777964",
+        "title": "Gourou (2026)",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt31777964/img",
+        "overview": "Rôle : Matthieu Vasseur. Matt est le coach en développement personnel le plus suivi de France. Dans une société en quête de sens où la réussite individuelle est devenue sacrée, il propose à ses adeptes une catharsis qui électrise les foules auta…"
+      },
+      {
+        "id": "tt31809821",
+        "title": "Maya, donne-moi un titre (2024)",
+        "season": 1,
+        "episode": 3,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt31809821/img",
+        "overview": "Rôle : The Voice / La Voix. Maya et son papa vivent dans deux pays différents. Pour maintenir le lien avec sa fille et continuer à lui raconter des histoires, son papa lui demande chaque soir « Maya, donne-moi un titre »."
+      },
+      {
+        "id": "tt26446278",
+        "title": "Le Comte de Monte-Cristo (2024)",
+        "season": 1,
+        "episode": 4,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt26446278/img",
+        "overview": "Rôle : Edmond Dantès / The Count of Monte Cristo. Victime d’un complot, le jeune Edmond Dantès est arrêté le jour de son mariage pour un crime qu’il n’a pas commis. Après quatorze ans de détention au château d’If, il parvient à s’évader."
+      },
+      {
+        "id": "tt15732890",
+        "title": "Le Livre des solutions (2023)",
+        "season": 1,
+        "episode": 5,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt15732890/img",
+        "overview": "Rôle : Marc Becker. Marc s'enfuit avec toute son équipe dans un petit village des Cévennes pour finir son film chez sa tante Denise. Sur place, sa créativité se manifeste par un million d'idées qui le plongent dans un drôle de chaos."
+      },
+      {
+        "id": "tt14534796",
+        "title": "Mascarade (2022)",
+        "season": 1,
+        "episode": 6,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14534796/img",
+        "overview": "Rôle : Adrien Saillard. Lorsqu’un jeune gigolo tombe sous le charme d’une sublime arnaqueuse, c’est le début d’un plan machiavélique sous le soleil brûlant de la Côte d’Azur."
+      },
+      {
+        "id": "tt13399946",
+        "title": "Goliath (2022)",
+        "season": 1,
+        "episode": 7,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13399946/img",
+        "overview": "Rôle : Mathias Rozen. France, professeure de sport le jour, ouvrière la nuit, milite activement contre l’usage des pesticides. Patrick, obscur et solitaire avocat parisien, est spécialiste en droit environnemental."
+      },
+      {
+        "id": "tt9800670",
+        "title": "Amants (2021)",
+        "season": 1,
+        "episode": 8,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt9800670/img",
+        "overview": "Rôle : Simon. Lisa et Simon s’aiment passionnément depuis leur adolescence et mènent la vie urbaine et nocturne des gens de leur âge."
+      },
+      {
+        "id": "tt10341034",
+        "title": "Boîte noire (2021)",
+        "season": 1,
+        "episode": 9,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10341034/img",
+        "overview": "Rôle : Mathieu Vasseur. Que s’est-il passé à bord du vol Dubaï-Paris avant son crash dans le massif alpin ?"
+      },
+      {
+        "id": "tt7972012",
+        "title": "OSS 117 : Alerte rouge en Afrique noire (2021)",
+        "season": 1,
+        "episode": 10,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7972012/img",
+        "overview": "Rôle : Serge / OSS 1001. 1981. Hubert Bonisseur de La Bath, alias OSS 117, est de retour. Pour cette nouvelle mission, plus délicate, plus périlleuse et plus torride que jamais, il est contraint de faire équipe avec un jeune collègue, le promett…"
+      },
+      {
+        "id": "tt10407272",
+        "title": "Deux moi (2019)",
+        "season": 1,
+        "episode": 11,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10407272/img",
+        "overview": "Rôle : Mathieu Bernard. Rémy et Mélanie ont trente ans et vivent dans le même quartier à Paris. Elle multiplie les rendez-vous ratés sur les réseaux sociaux pendant qu'il peine à faire une rencontre."
+      },
+      {
+        "id": "tt7210426",
+        "title": "Sauver ou périr (2018)",
+        "season": 1,
+        "episode": 12,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7210426/img",
+        "overview": "Rôle : Franck Pasquier. Franck est Sapeur-Pompier de Paris. Il sauve des gens. Il vit dans la caserne avec sa femme qui accouche de jumelles. Il est heureux. Lors d’une intervention sur un incendie, il se sacrifie pour sauver ses hommes."
+      },
+      {
+        "id": "tt5061360",
+        "title": "La Promesse de l'aube (2017)",
+        "season": 1,
+        "episode": 13,
+        "released": "2017-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5061360/img",
+        "overview": "Rôle : Romain Gary. Adaptation du roman autobiographique de Romain Gary, dans lequel ce dernier évoque sa jeunesse en Lituanie, son exode avec sa famille dans le sud de la France pour échapper aux conséquences de l'arrivée au pouvoir en All…"
+      },
+      {
+        "id": "tt1659619",
+        "title": "L'Odyssée (2016)",
+        "season": 1,
+        "episode": 14,
+        "released": "2016-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt1659619/img",
+        "overview": "Rôle : Philippe Cousteau. 1948, Jacques-Yves Cousteau, sa femme et ses deux fils, vivent au paradis, dans une jolie maison surplombant la mer Méditerranée. Mais Cousteau ne rêve que d’aventure."
+      },
+      {
+        "id": "tt5029608",
+        "title": "Frantz (2016)",
+        "season": 1,
+        "episode": 15,
+        "released": "2016-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5029608/img",
+        "overview": "Rôle : Adrien Rivoire. Au lendemain de la Première Guerre mondiale, dans une petite ville allemande, Anna se rend tous les jours sur la tombe de son fiancé, mort sur le front en France."
+      },
+      {
+        "id": "tt27415863",
+        "title": "Fiasco (2024)",
+        "season": 1,
+        "episode": 16,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt27415863/img",
+        "overview": "Rôle : Raphaël Valande. Sur le tournage de son premier film, un réalisateur voit l'expérience virer au cauchemar, et l'équipe du making-of enregistre tout : couacs, menaces et tentatives de sabordage..."
+      },
+      {
+        "id": "tt20723358",
+        "title": "Le Flambeau, les aventuriers de Chupacabra (2022)",
+        "season": 1,
+        "episode": 17,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt20723358/img",
+        "overview": "Rôle : Dr Bruno Juiphe. Au revoir la villa et bonjour Chupacabra. Après LA FLAMME, Marc et 15 autres candidats vont devoir s’affronter et survivre sur une île déserte."
+      },
+      {
+        "id": "tt13286778",
+        "title": "La Flamme (2020)",
+        "season": 1,
+        "episode": 18,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13286778/img",
+        "overview": "Rôle : Dr Bruno Juiphe. La vie lui a tout donné… sauf une co-pilote. Pendant neuf semaines dans une sublime villa, treize femmes vont s’affronter pour séduire Marc, pilote de ligne, et tenter d’allumer en lui… La Flamme !"
+      },
+      {
+        "id": "tt3177474",
+        "title": "Casting(s) (2013)",
+        "season": 1,
+        "episode": 19,
+        "released": "2013-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt3177474/img",
+        "overview": "Rôle : Pierre. Casting(s) est une shortcom télévisée française créée par Pierre Niney et Ali Marhyar, écrite par Ali Marhyar, Igor Gotesman et Pierre Niney, produite par Hugo Gélin pour Zazi Films et diffusée depuis le 7 septembre 2013…"
+      },
+      {
+        "id": "tt2071991",
+        "title": "Very Bad Blagues (2011)",
+        "season": 1,
+        "episode": 20,
+        "released": "2011-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt2071991/img",
+        "overview": "Rôle : Stéphane. Après La Folle Histoire du Palmashow et les parodies de films et d’émissions de TV, David Marsais et Grégoire Ludig se mettent en scène dans les situations de la vie quotidienne, des plus classiques aux plus inattendues,…"
+      }
+    ]
+  }
+}

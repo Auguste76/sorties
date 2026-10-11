@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "id": "acteur:guillaume-canet",
+    "type": "series",
+    "name": "Guillaume Canet",
+    "poster": "https://image.tmdb.org/t/p/w500/yxerAhXValEezb1EuV9XWc9L8KC.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/yxerAhXValEezb1EuV9XWc9L8KC.jpg",
+    "description": "Né(e) le 1973-04-10 à Boulogne-Billancourt, Hauts-de-Seine, France\n\nGuillaume Canet, né le 10 avril 1973 à Boulogne-Billancourt, est un acteur, réalisateur, scénariste et producteur français.\n\nIl commence sa carrière au théâtre, à la télévision avant d'aborder son domaine de prédilection, le cinéma. Son premier film à succès, La Plage (2000), le fait connaître face à Leonardo DiCaprio.\n\nFilms : Belle (2025) · Ad Vitam (2025) · Le Déluge (2024) · Hors-Saison (2024) · Un Coup de dés (2024) · Nouveaux riches (2023) · Nina et le secret du hérisson (2023) · Acide (2023) · Astérix & Obélix : L'Empire du Milieu (2023) · Lui (2021) · Nous paysans (2021) · La Belle Époque (2019) · Au nom de la terre (2019) · Girls with Balls (2019) · Le Grand Bain (2018)\n\nSéries : Platane (2011) · Premiers Baisers (1991)",
+    "links": [
+      {
+        "name": "Belle",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27834531"
+      },
+      {
+        "name": "Ad Vitam",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32138452"
+      },
+      {
+        "name": "Le Déluge",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27641422"
+      },
+      {
+        "name": "Hors-Saison",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27704325"
+      },
+      {
+        "name": "Un Coup de dés",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt25752340"
+      },
+      {
+        "name": "Nouveaux riches",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27921620"
+      },
+      {
+        "name": "Nina et le secret du hérisson",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14250484"
+      },
+      {
+        "name": "Acide",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt17569526"
+      },
+      {
+        "name": "Astérix & Obélix : L'Empire du Milieu",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11210390"
+      },
+      {
+        "name": "Lui",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13002242"
+      },
+      {
+        "name": "Nous paysans",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14128396"
+      },
+      {
+        "name": "La Belle Époque",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9172422"
+      },
+      {
+        "name": "Au nom de la terre",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10545470"
+      },
+      {
+        "name": "Girls with Balls",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4725842"
+      },
+      {
+        "name": "Le Grand Bain",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7476116"
+      },
+      {
+        "name": "Platane",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt2040020"
+      },
+      {
+        "name": "Premiers Baisers",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0172040"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt27834531",
+        "title": "Belle (2025)",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt27834531/img",
+        "overview": "Rôle : Pierre. Pierre et Cléa accueillent pour l’année Belle, la fille d’une amie. Ils mènent une vie si paisible qu’elle peut en perdre toute consistance. Jusqu’au jour où Belle est retrouvée morte."
+      },
+      {
+        "id": "tt32138452",
+        "title": "Ad Vitam (2025)",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt32138452/img",
+        "overview": "Rôle : Franck Lazareff. Après avoir échappé à une tentative de meurtre, Franck Lazarev doit retrouver sa femme Leo kidnappée par un mystérieux groupe d'hommes armés."
+      },
+      {
+        "id": "tt27641422",
+        "title": "Le Déluge (2024)",
+        "season": 1,
+        "episode": 3,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt27641422/img",
+        "overview": "Rôle : Louis XVI. 1792, L’Ancien Régime touche à sa fin. À Paris, Louis XVI et son épouse Marie-Antoinette sont arrêtés et conduits au donjon de la Tour du Temple."
+      },
+      {
+        "id": "tt27704325",
+        "title": "Hors-Saison (2024)",
+        "season": 1,
+        "episode": 4,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt27704325/img",
+        "overview": "Rôle : Mathieu. Mathieu habite Paris, Alice vit dans une petite cité balnéaire de l’Ouest de la France. Il caresse la cinquantaine, c’est un acteur connu. Elle a dépassé la quarantaine, elle est professeure de piano."
+      },
+      {
+        "id": "tt25752340",
+        "title": "Un Coup de dés (2024)",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt25752340/img",
+        "overview": "Rôle : Vincent. Mathieu doit tout à son ami Vincent : sa maison, son travail, et même de lui avoir sauvé la vie il y a dix ans. Ils forment, avec leurs compagnes, un quatuor inséparable, et vivent une vie sans nuage sur la côte d’Azur."
+      },
+      {
+        "id": "tt27921620",
+        "title": "Nouveaux riches (2023)",
+        "season": 1,
+        "episode": 6,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt27921620/img",
+        "overview": "Rôle : Yaël's father. Entre un arnaqueur dans la dèche et une millionnaire en crypto, le courant passe plutôt bien. Est-elle la cible idéale... ou l'escroc est-il sur le point de se faire escroquer ?"
+      },
+      {
+        "id": "tt14250484",
+        "title": "Nina et le secret du hérisson (2023)",
+        "season": 1,
+        "episode": 7,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14250484/img",
+        "overview": "Rôle : Vincent (voice). Nina aime écouter les histoires que lui raconte son père pour s’endormir, celles d’un hérisson qui découvre le monde. Un soir, son père, préoccupé par son travail, ne vient pas lui conter une nouvelle aventure..."
+      },
+      {
+        "id": "tt17569526",
+        "title": "Acide (2023)",
+        "season": 1,
+        "episode": 8,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt17569526/img",
+        "overview": "Rôle : Michal. Selma, quinze ans, grandit entre ses deux parents séparés, Michal et Élise. Des nuages de pluies acides et dévastatrices s’abattent sur la France."
+      },
+      {
+        "id": "tt11210390",
+        "title": "Astérix & Obélix : L'Empire du Milieu (2023)",
+        "season": 1,
+        "episode": 9,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt11210390/img",
+        "overview": "Rôle : Astérix. Nous sommes en 50 avant J.C. L’Impératrice de Chine est emprisonnée suite à un coup d’État fomenté par Deng Tsin Quin, un prince félon."
+      },
+      {
+        "id": "tt13002242",
+        "title": "Lui (2021)",
+        "season": 1,
+        "episode": 10,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13002242/img",
+        "overview": "Rôle : Him. Un homme, compositeur de musique, à la croisée des chemins, doute et s’interroge sur le sens de sa vie."
+      },
+      {
+        "id": "tt14128396",
+        "title": "Nous paysans (2021)",
+        "season": 1,
+        "episode": 11,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14128396/img",
+        "overview": "Rôle : Narrateur. C’est l’histoire de nos grands-parents et de nos arrière-grands-parents. L’histoire d’une incroyable épopée, celle des paysans français qui, en à peine un siècle, ont vu leur monde être profondément bouleversé."
+      },
+      {
+        "id": "tt9172422",
+        "title": "La Belle Époque (2019)",
+        "season": 1,
+        "episode": 12,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt9172422/img",
+        "overview": "Rôle : Antoine. Victor, un sexagénaire désabusé, voit sa vie bouleversée le jour où Antoine, un brillant entrepreneur, lui propose une attraction d’un genre nouveau: mélangeant artifices théâtraux et reconstitution historique, cette ent…"
+      },
+      {
+        "id": "tt10545470",
+        "title": "Au nom de la terre (2019)",
+        "season": 1,
+        "episode": 13,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10545470/img",
+        "overview": "Rôle : Pierre Jarjeau. Pierre a 25 ans quand il rentre du Wyoming pour retrouver Claire sa fiancée et reprendre la ferme familiale. Vingt ans plus tard, l'exploitation s’est agrandie, la famille aussi."
+      },
+      {
+        "id": "tt4725842",
+        "title": "Girls with Balls (2019)",
+        "season": 1,
+        "episode": 14,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt4725842/img",
+        "overview": "Rôle : Chef Scout. Quand leur  mini-van déglingué conduit par leur coach tombe en rade au milieu de nulle part, elles ne se doutent pas qu'elles viennent de tomber dans un piège mortel tendu par une bande de chasseurs dégénérés qui ont déc…"
+      },
+      {
+        "id": "tt7476116",
+        "title": "Le Grand Bain (2018)",
+        "season": 1,
+        "episode": 15,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7476116/img",
+        "overview": "Rôle : Laurent. C’est dans les couloirs de leur piscine municipale que Bertrand, Marcus, Simon, Laurent, Thierry et les autres s’entraînent sous l’autorité toute relative de Delphine, ancienne gloire des bassins."
+      },
+      {
+        "id": "tt2040020",
+        "title": "Platane (2011)",
+        "season": 1,
+        "episode": 16,
+        "released": "2011-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt2040020/img",
+        "overview": "Rôle : Guillaume Canet. Un soir, la voiture d’Eric percute un platane. Après un an de coma, il découvre que Ramzy a brillamment poursuivi sa carrière de comique sans lui en développant la série \"HP\", suite de leur sitcom à succès \"H\"."
+      },
+      {
+        "id": "tt0172040",
+        "title": "Premiers Baisers (1991)",
+        "season": 1,
+        "episode": 17,
+        "released": "1991-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0172040/img",
+        "overview": "Rôle : Guillaume. Le petit groupe d'adolescents formé par Justine et ses amis a bien du mal à concilier amour et amitié !"
+      }
+    ]
+  }
+}

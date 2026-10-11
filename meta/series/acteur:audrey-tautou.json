@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "id": "acteur:audrey-tautou",
+    "type": "series",
+    "name": "Audrey Tautou",
+    "poster": "https://image.tmdb.org/t/p/w500/d1HVrV8zXy1FJVptmOCkHWG8Jf2.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/d1HVrV8zXy1FJVptmOCkHWG8Jf2.jpg",
+    "description": "Né(e) le 1976-08-09 à Beaumont, Puy-de-Dôme, France\n\nAudrey Tautou, née le 9 août 1976 à Beaumont (Puy-de-Dôme, Auvergne), est une actrice et mannequin française.\n\nElle fait ses débuts d'actrice à 18 ans à la télévision et ses débuts au cinéma l'année suivante dans Vénus Beauté (Institut), acclamé par la critique.\n\nFilms : Nina et le secret du hérisson (2023) · The Jesus Rolls (2019) · En liberté ! (2018) · Santa & Cie (2017) · Deux escargots s’en vont (2017) · Ouvert la nuit (2017) · L'Odyssée (2016) · Éternité (2016) · Phantom Boy (2015) · Microbe et Gasoil (2015) · Casse-tête chinois (2013) · L'Écume des jours (2013) · Thérèse Desqueyroux (2012) · La Délicatesse (2011) · Des vents contraires (2011)\n\nSéries : Les Cordier, juge et flic (1994)",
+    "links": [
+      {
+        "name": "Nina et le secret du hérisson",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14250484"
+      },
+      {
+        "name": "The Jesus Rolls",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5974030"
+      },
+      {
+        "name": "En liberté !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7534068"
+      },
+      {
+        "name": "Santa & Cie",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7018010"
+      },
+      {
+        "name": "Deux escargots s’en vont",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6970372"
+      },
+      {
+        "name": "Ouvert la nuit",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5252396"
+      },
+      {
+        "name": "L'Odyssée",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1659619"
+      },
+      {
+        "name": "Éternité",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt3564574"
+      },
+      {
+        "name": "Phantom Boy",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1856057"
+      },
+      {
+        "name": "Microbe et Gasoil",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt3882000"
+      },
+      {
+        "name": "Casse-tête chinois",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1937118"
+      },
+      {
+        "name": "L'Écume des jours",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt2027140"
+      },
+      {
+        "name": "Thérèse Desqueyroux",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1654829"
+      },
+      {
+        "name": "La Délicatesse",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1828995"
+      },
+      {
+        "name": "Des vents contraires",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1730689"
+      },
+      {
+        "name": "Les Cordier, juge et flic",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0108835"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt14250484",
+        "title": "Nina et le secret du hérisson (2023)",
+        "season": 1,
+        "episode": 1,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14250484/img",
+        "overview": "Rôle : Camille (voice). Nina aime écouter les histoires que lui raconte son père pour s’endormir, celles d’un hérisson qui découvre le monde. Un soir, son père, préoccupé par son travail, ne vient pas lui conter une nouvelle aventure..."
+      },
+      {
+        "id": "tt5974030",
+        "title": "The Jesus Rolls (2019)",
+        "season": 1,
+        "episode": 2,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5974030/img",
+        "overview": "Rôle : Marie. Un spin-off de The Big Lebowski centré sur le personnage de Jesus Quintana."
+      },
+      {
+        "id": "tt7534068",
+        "title": "En liberté ! (2018)",
+        "season": 1,
+        "episode": 3,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7534068/img",
+        "overview": "Rôle : Agnès. Yvonne, jeune inspectrice de police, découvre que son mari, le capitaine Santi, héros local tombé au combat, n’était pas le flic courageux et intègre qu’elle croyait, mais un véritable ripou."
+      },
+      {
+        "id": "tt7018010",
+        "title": "Santa & Cie (2017)",
+        "season": 1,
+        "episode": 4,
+        "released": "2017-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7018010/img",
+        "overview": "Rôle : Wanda. Rien ne va plus à l'approche du réveillon : les 92 000 lutins chargés de fabriquer les cadeaux des enfants tombent tous malades en même temps !"
+      },
+      {
+        "id": "tt6970372",
+        "title": "Deux escargots s’en vont (2017)",
+        "season": 1,
+        "episode": 5,
+        "released": "2017-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6970372/img",
+        "overview": "Rôle : (voice). Deux escargots s'en vont à l'enterrement d'une feuille morte (d'après le poème de Jacques Prévert, Chanson des escargots qui vont à l'enterrement et d'après les personnages de Jephan de Villiers)."
+      },
+      {
+        "id": "tt5252396",
+        "title": "Ouvert la nuit (2017)",
+        "season": 1,
+        "episode": 6,
+        "released": "2017-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5252396/img",
+        "overview": "Rôle : Nawel. Luigi a une nuit pour sauver son théâtre. Une nuit pour trouver un singe capable de monter en scène et récupérer l'estime de son metteur en scène japonais; une nuit pour regagner la confiance de son équipe et le respect…"
+      },
+      {
+        "id": "tt1659619",
+        "title": "L'Odyssée (2016)",
+        "season": 1,
+        "episode": 7,
+        "released": "2016-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt1659619/img",
+        "overview": "Rôle : Simone Melchior Cousteau. 1948, Jacques-Yves Cousteau, sa femme et ses deux fils, vivent au paradis, dans une jolie maison surplombant la mer Méditerranée. Mais Cousteau ne rêve que d’aventure."
+      },
+      {
+        "id": "tt3564574",
+        "title": "Éternité (2016)",
+        "season": 1,
+        "episode": 8,
+        "released": "2016-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt3564574/img",
+        "overview": "Rôle : Valentine. Quand Valentine se maria à vingt ans avec Jules, nous sommes à la fin du 19ème siècle. À la fin du 20ème siècle, une jeune parisienne traverse un pont pour se rendre à une fête organisée par une cousine."
+      },
+      {
+        "id": "tt1856057",
+        "title": "Phantom Boy (2015)",
+        "season": 1,
+        "episode": 9,
+        "released": "2015-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt1856057/img",
+        "overview": "Rôle : Mary Delauney (voice). À New York, un mystérieux homme défiguré blesse Alex, un inspecteur de police lancé à ses trousses."
+      },
+      {
+        "id": "tt3882000",
+        "title": "Microbe et Gasoil (2015)",
+        "season": 1,
+        "episode": 10,
+        "released": "2015-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt3882000/img",
+        "overview": "Rôle : Marie-Thérèse Guéret. Les aventures débridées de deux ados un peu à la marge : le petit \"Microbe\" et l'inventif \"Gasoil\". Alors que les grandes vacances approchent, les deux amis n'ont aucune envie de passer deux mois avec leur famille."
+      },
+      {
+        "id": "tt1937118",
+        "title": "Casse-tête chinois (2013)",
+        "season": 1,
+        "episode": 11,
+        "released": "2013-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt1937118/img",
+        "overview": "Rôle : Martine. On retrouve Xavier avec Wendy, Isabelle et Martine 15 ans après l’Auberge Espagnole et 10 ans après les Poupées Russes."
+      },
+      {
+        "id": "tt2027140",
+        "title": "L'Écume des jours (2013)",
+        "season": 1,
+        "episode": 12,
+        "released": "2013-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt2027140/img",
+        "overview": "Rôle : Chloë. L’histoire surréelle et poétique d’un jeune homme idéaliste et inventif, Colin, qui rencontre Chloé, une jeune femme semblant être l’incarnation d’un blues de Duke Ellington."
+      },
+      {
+        "id": "tt1654829",
+        "title": "Thérèse Desqueyroux (2012)",
+        "season": 1,
+        "episode": 13,
+        "released": "2012-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt1654829/img",
+        "overview": "Rôle : Thérèse Desqueyroux. Dans les Landes, on arrange les mariages pour réunir les terrains et allier les familles. Thérèse Larroque devient Madame Desqueyroux."
+      },
+      {
+        "id": "tt1828995",
+        "title": "La Délicatesse (2011)",
+        "season": 1,
+        "episode": 14,
+        "released": "2011-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt1828995/img",
+        "overview": "Rôle : Nathalie Kerr. Nathalie a tout pour être heureuse. Elle est jeune, belle, et file le parfait amour. La mort accidentelle de son mari va couper son élan."
+      },
+      {
+        "id": "tt1730689",
+        "title": "Des vents contraires (2011)",
+        "season": 1,
+        "episode": 15,
+        "released": "2011-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt1730689/img",
+        "overview": "Rôle : Sarah Anderen. La vie de Paul bascule le jour où sa femme Sarah disparait subitement. Après une année de recherches infructueuses, Paul est un homme brisé, rongé par le doute et la culpabilité."
+      },
+      {
+        "id": "tt0108835",
+        "title": "Les Cordier, juge et flic (1994)",
+        "season": 1,
+        "episode": 16,
+        "released": "1994-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0108835/img",
+        "overview": "Rôle : Léa. Les Cordier luttent en famille contre le crime : le père est commissaire de police, le fils, juge d'instruction et la fille, journaliste."
+      }
+    ]
+  }
+}

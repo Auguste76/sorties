@@ -1,0 +1,281 @@
+{
+  "meta": {
+    "id": "acteur:virginie-efira",
+    "type": "series",
+    "name": "Virginie Efira",
+    "poster": "https://image.tmdb.org/t/p/w500/sJFBDkZ2AMAkQBsSZricrUnZv50.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/sJFBDkZ2AMAkQBsSZricrUnZv50.jpg",
+    "description": "Né(e) le 1977-05-05 à Schaerbeek, Brussels, Belgium\n\nVirginie Efira est une actrice et animatrice à la télévision belgo-française, née le 5 mai 1977 à Schaerbeek (Région de Bruxelles-Capitale).\n\nElle débute en tant qu'animatrice à la télévision en Belgique puis en France, de 1998 à 2008.\n\nFilms : Soudain (2026) · Histoires parallèles (2026) · Les Braises (2025) · Vie privée (2025) · Kina & Yuk : Renards de la banquise (2023) · Rien à perdre (2023) · L'Amour et les Forêts (2023) · Les Enfants des autres (2022) · Revoir Paris (2022) · Don Juan (2022) · Lui (2021) · En attendant Bojangles (2021) · Madeleine Collins (2021) · Benedetta (2021) · Adieu les cons (2020)\n\nSéries : Royaumes d’Asie (2024) · Tout va bien (2023) · Les Monarchies face à Hitler (2020) · Kaamelott (2005)",
+    "links": [
+      {
+        "name": "Soudain",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36834996"
+      },
+      {
+        "name": "Histoires parallèles",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36646880"
+      },
+      {
+        "name": "Les Braises",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt29729103"
+      },
+      {
+        "name": "Vie privée",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33852162"
+      },
+      {
+        "name": "Kina & Yuk : Renards de la banquise",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt28185868"
+      },
+      {
+        "name": "Rien à perdre",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14748950"
+      },
+      {
+        "name": "L'Amour et les Forêts",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt23049206"
+      },
+      {
+        "name": "Les Enfants des autres",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15403712"
+      },
+      {
+        "name": "Revoir Paris",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15329224"
+      },
+      {
+        "name": "Don Juan",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14590650"
+      },
+      {
+        "name": "Lui",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13002242"
+      },
+      {
+        "name": "En attendant Bojangles",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11310608"
+      },
+      {
+        "name": "Madeleine Collins",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11310670"
+      },
+      {
+        "name": "Benedetta",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6823148"
+      },
+      {
+        "name": "Adieu les cons",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10196398"
+      },
+      {
+        "name": "Royaumes d’Asie",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt32869282"
+      },
+      {
+        "name": "Tout va bien",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt21913366"
+      },
+      {
+        "name": "Les Monarchies face à Hitler",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt12806068"
+      },
+      {
+        "name": "Kaamelott",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0441059"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt36834996",
+        "title": "Soudain (2026)",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt36834996/img",
+        "overview": "Rôle : Marie-Lou Fontaine. Directrice d'un établissement pour personnes âgées, Marie-Lou tente d'y instaurer une philosophie de soins innovante basée sur l'écoute et la dignité des résidents, malgré la réticence d’une partie de ses équipes."
+      },
+      {
+        "id": "tt36646880",
+        "title": "Histoires parallèles (2026)",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt36646880/img",
+        "overview": "Rôle : Anna / Nita. En quête d’inspiration pour son nouveau roman, Sylvie espionne ses voisins dans l’immeuble d’en face."
+      },
+      {
+        "id": "tt29729103",
+        "title": "Les Braises (2025)",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt29729103/img",
+        "overview": "Rôle : Karine. Karine et Jimmy forment un couple uni, toujours très amoureux après vingt ans de vie commune et deux enfants. Elle travaille dans une usine ; lui, chauffeur routier, s’acharne à faire grandir sa petite entreprise."
+      },
+      {
+        "id": "tt33852162",
+        "title": "Vie privée (2025)",
+        "season": 1,
+        "episode": 4,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt33852162/img",
+        "overview": "Rôle : Paula Cohen-Solal. Lilian Steiner est une psychiatre reconnue. Un jour, elle apprend la mort de l’une de ses patientes. Troublée, Lilian se persuade qu’il s’agit d’un assassinat, elle décide alors de mener son enquête..."
+      },
+      {
+        "id": "tt28185868",
+        "title": "Kina & Yuk : Renards de la banquise (2023)",
+        "season": 1,
+        "episode": 5,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt28185868/img",
+        "overview": "Rôle : Narrator (voice, French release). Kina et Yuk, un couple de renards polaires prêt à fonder sa famille, vit paisiblement sur la banquise du grand Nord Américain."
+      },
+      {
+        "id": "tt14748950",
+        "title": "Rien à perdre (2023)",
+        "season": 1,
+        "episode": 6,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14748950/img",
+        "overview": "Rôle : Sylvie Paugam. Sylvie vit à Brest avec ses deux enfants, Sofiane et Jean-Jacques. Une nuit, Sofiane se blesse alors qu’il est seul dans l’appartement."
+      },
+      {
+        "id": "tt23049206",
+        "title": "L'Amour et les Forêts (2023)",
+        "season": 1,
+        "episode": 7,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt23049206/img",
+        "overview": "Rôle : Blanche Renard / Rose Renard. Quand Blanche croise le chemin de Grégoire, elle pense rencontrer celui qu’elle cherche. Les liens qui les unissent se tissent rapidement et leur histoire se construit dans l’emportement."
+      },
+      {
+        "id": "tt15403712",
+        "title": "Les Enfants des autres (2022)",
+        "season": 1,
+        "episode": 8,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt15403712/img",
+        "overview": "Rôle : Rachel Friedmann. Rachel a 40 ans, pas d'enfant. Elle aime sa vie : ses élèves du lycée, ses amis, ses ex, ses cours de guitare. En tombant amoureuse d’Ali, elle s’attache à Leila, sa fille de 4 ans."
+      },
+      {
+        "id": "tt15329224",
+        "title": "Revoir Paris (2022)",
+        "season": 1,
+        "episode": 9,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt15329224/img",
+        "overview": "Rôle : Mia. À Paris, Mia est prise dans un attentat dans une brasserie. Trois mois plus tard, alors qu’elle n’a toujours pas réussi à reprendre le cours de sa vie et qu’elle ne se rappelle de l’évènement que par bribes, Mia décide d…"
+      },
+      {
+        "id": "tt14590650",
+        "title": "Don Juan (2022)",
+        "season": 1,
+        "episode": 10,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14590650/img",
+        "overview": "Rôle : Julie. En 2022, Don Juan n’est plus l’homme qui séduit toutes les femmes, mais un homme obsédé par une seule femme : celle qui l’a abandonné…"
+      },
+      {
+        "id": "tt13002242",
+        "title": "Lui (2021)",
+        "season": 1,
+        "episode": 11,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13002242/img",
+        "overview": "Rôle : Wife. Un homme, compositeur de musique, à la croisée des chemins, doute et s’interroge sur le sens de sa vie."
+      },
+      {
+        "id": "tt11310608",
+        "title": "En attendant Bojangles (2021)",
+        "season": 1,
+        "episode": 12,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt11310608/img",
+        "overview": "Rôle : Camille. Camille et Georges dansent tout le temps sur leur chanson préférée Mr Bojangles. Chez eux, il n'y a de place que pour le plaisir, la fantaisie et les amis."
+      },
+      {
+        "id": "tt11310670",
+        "title": "Madeleine Collins (2021)",
+        "season": 1,
+        "episode": 13,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt11310670/img",
+        "overview": "Rôle : Judith Fauvet. Judith mène une double vie entre la Suisse et la France. D’un côté Abdel, avec qui elle élève une petite fille, de l’autre Melvil, avec qui elle a deux garçons plus âgés."
+      },
+      {
+        "id": "tt6823148",
+        "title": "Benedetta (2021)",
+        "season": 1,
+        "episode": 14,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6823148/img",
+        "overview": "Rôle : Sister Benedetta Carlini. Au 17ème siècle, alors que la peste se propage en Italie, la très jeune Benedetta Carlini rejoint le couvent de Pescia en Toscane."
+      },
+      {
+        "id": "tt10196398",
+        "title": "Adieu les cons (2020)",
+        "season": 1,
+        "episode": 15,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10196398/img",
+        "overview": "Rôle : Suze Trappet. Lorsque Suze Trappet apprend à 43 ans qu'elle est sérieusement malade, elle décide de partir à la recherche de l'enfant qu'elle a été forcée d'abandonner quand elle avait 15 ans."
+      },
+      {
+        "id": "tt32869282",
+        "title": "Royaumes d’Asie (2024)",
+        "season": 1,
+        "episode": 16,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt32869282/img",
+        "overview": "Rôle : Narrator (voice). Du vaste désert de Gobi aux jungles de Bornéo, des étendues polaires de Sibérie aux mers coralliennes de l'océan Indien, la diversité des lieux les plus sauvages d'Asie est à couper le souffle."
+      },
+      {
+        "id": "tt21913366",
+        "title": "Tout va bien (2023)",
+        "season": 1,
+        "episode": 17,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt21913366/img",
+        "overview": "Rôle : Claire. Une famille ordinaire est confrontée à une terrible épreuve, qui va percuter la vie de chacun de ses membres."
+      },
+      {
+        "id": "tt12806068",
+        "title": "Les Monarchies face à Hitler (2020)",
+        "season": 1,
+        "episode": 18,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt12806068/img",
+        "overview": "Rôle : Narrator (voice). Devant la montée des périls, les monarchies européennes, toutes unies les unes aux autres par des liens familiaux , sont terrorisées par la menace communiste. Le fascisme et le nazisme semblent être la solution."
+      },
+      {
+        "id": "tt0441059",
+        "title": "Kaamelott (2005)",
+        "season": 1,
+        "episode": 19,
+        "released": "2005-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0441059/img",
+        "overview": "Rôle : Berlewen. Vème siècle, île de Bretagne. Alors que l'Empire romain s'effondre et que le christianisme s'impose peu à peu face aux dieux païens, le royaume de Kaamelott s'organise autour de son souverain, le roi Arthur ; entouré de…"
+      }
+    ]
+  }
+}

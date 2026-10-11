@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "id": "acteur:juliette-binoche",
+    "type": "series",
+    "name": "Juliette Binoche",
+    "poster": "https://image.tmdb.org/t/p/w500/htdZZIroEyJaeHQAUTqokNfkPgl.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/htdZZIroEyJaeHQAUTqokNfkPgl.jpg",
+    "description": "Né(e) le 1964-03-09 à Paris, France\n\nJuliette Binoche, est une actrice française, née le 9 mars 1964 à Paris.\n\nElle est la première actrice à avoir remporté (et la seule à ce jour avec Julianne Moore) un prix d'interprétation dans les trois plus grands festivals de cinéma — Cannes, Venise et Berlin.\n\nFilms : The Return, le retour d'Ulysse (2024) · C'est pas moi (2024) · La Passion de Dodin Bouffant (2023) · Le Lycéen (2022) · Paradise Highway (2022) · Avec amour et acharnement (2022) · Ouistreham (2022) · La Bonne Épouse (2020) · La Vérité (2019) · Celle que vous croyez (2019) · Doubles vies (2018) · High Life (2018) · Voyage à Yoshino (2018) · Un beau soleil intérieur (2017) · Ghost in the Shell (2017)\n\nSéries : The New Look (2024) · The Staircase (2022) · Infrarouge (2006)",
+    "links": [
+      {
+        "name": "The Return, le retour d'Ulysse",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt19861162"
+      },
+      {
+        "name": "C'est pas moi",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27989261"
+      },
+      {
+        "name": "La Passion de Dodin Bouffant",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt19760052"
+      },
+      {
+        "name": "Le Lycéen",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt17009856"
+      },
+      {
+        "name": "Paradise Highway",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7469828"
+      },
+      {
+        "name": "Avec amour et acharnement",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13535920"
+      },
+      {
+        "name": "Ouistreham",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10088984"
+      },
+      {
+        "name": "La Bonne Épouse",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10441958"
+      },
+      {
+        "name": "La Vérité",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8323120"
+      },
+      {
+        "name": "Celle que vous croyez",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7552686"
+      },
+      {
+        "name": "Doubles vies",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7250056"
+      },
+      {
+        "name": "High Life",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4827558"
+      },
+      {
+        "name": "Voyage à Yoshino",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7566518"
+      },
+      {
+        "name": "Un beau soleil intérieur",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6423776"
+      },
+      {
+        "name": "Ghost in the Shell",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1219827"
+      },
+      {
+        "name": "The New Look",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt18177528"
+      },
+      {
+        "name": "The Staircase",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt11324406"
+      },
+      {
+        "name": "Infrarouge",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt4959470"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt19861162",
+        "title": "The Return, le retour d'Ulysse (2024)",
+        "season": 1,
+        "episode": 1,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt19861162/img",
+        "overview": "Rôle : Penelope. Après 20 ans d'absence, Ulysse échoue sur les côtes d'Ithaque, hagard et méconnaissable. Le roi est enfin rentré chez lui, mais beaucoup de choses ont changé dans son royaume depuis son départ pour la guerre de Troie."
+      },
+      {
+        "id": "tt27989261",
+        "title": "C'est pas moi (2024)",
+        "season": 1,
+        "episode": 2,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt27989261/img",
+        "overview": "Rôle : (archive footage). Pour une exposition qui n’a finalement pas eu lieu, le musée Pompidou avait demandé au cinéaste de répondre en images à la question : Où en êtes vous, Leos Carax ? Il tente une réponse, pleine d’interrogations."
+      },
+      {
+        "id": "tt19760052",
+        "title": "La Passion de Dodin Bouffant (2023)",
+        "season": 1,
+        "episode": 3,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt19760052/img",
+        "overview": "Rôle : Eugénie. Eugénie, cuisinière hors pair, est depuis 20 ans au service du célèbre gastronome Dodin."
+      },
+      {
+        "id": "tt17009856",
+        "title": "Le Lycéen (2022)",
+        "season": 1,
+        "episode": 4,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt17009856/img",
+        "overview": "Rôle : Isabelle Ronis. Lucas a 17 ans quand soudain son adolescence vole en éclats. Il voit sa vie comme une bête sauvage qu’il lui faut dompter."
+      },
+      {
+        "id": "tt7469828",
+        "title": "Paradise Highway (2022)",
+        "season": 1,
+        "episode": 5,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7469828/img",
+        "overview": "Rôle : Sally. Pour sauver son frère, Dennis, d'un gang de prisonniers dangereux, Sally, une conductrice de camion, a été obligée de faire passer des cargaisons illicites. Bientôt l'agent du FBI Gerick est à ses trousses."
+      },
+      {
+        "id": "tt13535920",
+        "title": "Avec amour et acharnement (2022)",
+        "season": 1,
+        "episode": 6,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13535920/img",
+        "overview": "Rôle : Sara. C’est Paris et c’est déjà l’hiver. Sarah et Jean s’aiment, ils vivent ensemble depuis plusieurs années. C’est un amour qui les rend heureux et plus forts. Ils ont confiance l’un en l’autre."
+      },
+      {
+        "id": "tt10088984",
+        "title": "Ouistreham (2022)",
+        "season": 1,
+        "episode": 7,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10088984/img",
+        "overview": "Rôle : Marianne Winckler. Marianne Winckler, une écrivaine connue, décide d’écrire un livre sur le travail précaire en vivant concrètement cette réalité."
+      },
+      {
+        "id": "tt10441958",
+        "title": "La Bonne Épouse (2020)",
+        "season": 1,
+        "episode": 8,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10441958/img",
+        "overview": "Rôle : Paulette Van Der Beck. Tenir son foyer et se plier au devoir conjugal sans moufter: c’est ce qu’enseigne avec ardeur Paulette Van Der Beck dans son école ménagère. Ses certitudes vacillent quand elle se retrouve veuve et ruinée."
+      },
+      {
+        "id": "tt8323120",
+        "title": "La Vérité (2019)",
+        "season": 1,
+        "episode": 9,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt8323120/img",
+        "overview": "Rôle : Lumir. Fabienne Dangeville, icône du cinéma, est la mère de Lumir, scénariste à New York. La publication des mémoires de cette grande actrice incite Lumir et sa famille à revenir dans la maison de son enfance."
+      },
+      {
+        "id": "tt7552686",
+        "title": "Celle que vous croyez (2019)",
+        "season": 1,
+        "episode": 10,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7552686/img",
+        "overview": "Rôle : Claire Millaud. Pour épier son amant Ludo, Claire Millaud, 50 ans, crée un faux profil sur les réseaux sociaux et devient Clara, une magnifique jeune femme de 24 ans. Alex, l’ami de Ludo, est immédiatement séduit."
+      },
+      {
+        "id": "tt7250056",
+        "title": "Doubles vies (2018)",
+        "season": 1,
+        "episode": 11,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7250056/img",
+        "overview": "Rôle : Selena. Alain, la quarantaine, dirige une célèbre maison d’édition, où son ami Léonard, écrivain bohème publie ses romans."
+      },
+      {
+        "id": "tt4827558",
+        "title": "High Life (2018)",
+        "season": 1,
+        "episode": 12,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt4827558/img",
+        "overview": "Rôle : Dibs. Un groupe de criminels condamnés à mort acceptent de participer à une mission spatiale gouvernementale, dont l'objectif est de trouver des sources d'énergie alternatives, et de prendre part à des expériences de reproduct…"
+      },
+      {
+        "id": "tt7566518",
+        "title": "Voyage à Yoshino (2018)",
+        "season": 1,
+        "episode": 13,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7566518/img",
+        "overview": "Rôle : Jeanne. Jeanne part pour le Japon, à la recherche d'une plante médicinale rare. Lors de ce voyage, elle fait la connaissance de Tomo, un garde forestier, qui l’accompagne dans sa quête et la guide sur les traces de son passé."
+      },
+      {
+        "id": "tt6423776",
+        "title": "Un beau soleil intérieur (2017)",
+        "season": 1,
+        "episode": 14,
+        "released": "2017-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6423776/img",
+        "overview": "Rôle : Isabelle. Isabelle est artiste peintre. Quinquagénaire à fleur de peau, divorcée, elle aimerait trouver enfin l'amour, le vrai."
+      },
+      {
+        "id": "tt1219827",
+        "title": "Ghost in the Shell (2017)",
+        "season": 1,
+        "episode": 15,
+        "released": "2017-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt1219827/img",
+        "overview": "Rôle : Dr. Ouelet. Dans un futur proche, le Major est unique en son genre : humaine sauvée d’un terrible accident, son corps aux capacités cybernétiques lui permet de lutter contre les plus dangereux criminels."
+      },
+      {
+        "id": "tt18177528",
+        "title": "The New Look (2024)",
+        "season": 1,
+        "episode": 16,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt18177528/img",
+        "overview": "Rôle : Coco Chanel. Cette série forte en émotions raconte comment l’icône de la mode Christian Dior et ses contemporains, Coco Chanel, Pierre Balmain et Cristóbal Balenciaga, ont traversé les horreurs de la Seconde Guerre mondiale et lancé…"
+      },
+      {
+        "id": "tt11324406",
+        "title": "The Staircase (2022)",
+        "season": 1,
+        "episode": 17,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt11324406/img",
+        "overview": "Rôle : Sophie Brunet. La série retrace l'affaire de Michael Peterson, un auteur de romans policiers accusé d’avoir tué sa femme Kathleen ainsi que la longue bataille judiciaire de 16 ans qui a suivi."
+      },
+      {
+        "id": "tt4959470",
+        "title": "Infrarouge (2006)",
+        "season": 1,
+        "episode": 18,
+        "released": "2006-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt4959470/img",
+        "overview": "Infrarouge, c'est le rendez-vous hebdomadaire des documentaires de France 2. Ces films sont diffusés le mardi en deuxième et troisième parties de soirée."
+      }
+    ]
+  }
+}

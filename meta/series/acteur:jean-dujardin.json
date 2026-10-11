@@ -1,0 +1,281 @@
+{
+  "meta": {
+    "id": "acteur:jean-dujardin",
+    "type": "series",
+    "name": "Jean Dujardin",
+    "poster": "https://image.tmdb.org/t/p/w500/iPtSWWoO8vajj6fIUQLQeuGOCsk.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/iPtSWWoO8vajj6fIUQLQeuGOCsk.jpg",
+    "description": "Né(e) le 1972-06-19 à Rueil-Malmaison, France\n\nJean Dujardin est né le 19 juin 1972 à Rueil-Malmaison. Après le bac et en attendant l'armée, il s'essaye aux métiers de miroitier et de serrurier. Lors de son service national, il mesure son aptitude à faire rire la galerie.\n\nFilms : Les Rayons et les Ombres (2026) · L'Homme qui rétrécit (2025) · Finalement (2024) · Sur les chemins noirs (2023) · Les Gardiennes de la planète (2023) · Novembre (2022) · OSS 117 : Alerte rouge en Afrique noire (2021) · Présidents (2021) · Effacer l'historique (2020) · J'accuse (2019) · Le Daim (2019) · Nous finirons ensemble (2019) · I Feel Good (2018) · Le Retour du héros (2018) · Chacun sa vie (2017)\n\nSéries : Zorro (2024) · Alphonse (2023) · Un gars, une fille (1999) · Un gars, une fille (1997)",
+    "links": [
+      {
+        "name": "Les Rayons et les Ombres",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36187539"
+      },
+      {
+        "name": "L'Homme qui rétrécit",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32642156"
+      },
+      {
+        "name": "Finalement",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27819140"
+      },
+      {
+        "name": "Sur les chemins noirs",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15441522"
+      },
+      {
+        "name": "Les Gardiennes de la planète",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt18556486"
+      },
+      {
+        "name": "Novembre",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14542254"
+      },
+      {
+        "name": "OSS 117 : Alerte rouge en Afrique noire",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7972012"
+      },
+      {
+        "name": "Présidents",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13558724"
+      },
+      {
+        "name": "Effacer l'historique",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10627352"
+      },
+      {
+        "name": "J'accuse",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt2398149"
+      },
+      {
+        "name": "Le Daim",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8193790"
+      },
+      {
+        "name": "Nous finirons ensemble",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8201404"
+      },
+      {
+        "name": "I Feel Good",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7205630"
+      },
+      {
+        "name": "Le Retour du héros",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7064498"
+      },
+      {
+        "name": "Chacun sa vie",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5825150"
+      },
+      {
+        "name": "Zorro",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt31844643"
+      },
+      {
+        "name": "Alphonse",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt19514434"
+      },
+      {
+        "name": "Un gars, une fille",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0217224"
+      },
+      {
+        "name": "Un gars, une fille",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0280342"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt36187539",
+        "title": "Les Rayons et les Ombres (2026)",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt36187539/img",
+        "overview": "Rôle : Jean Luchaire. Jean et Otto, un homme de presse français et un jeune francophile allemand, se battent pour la paix en Europe. La fille de Jean, Corinne, démarre une brillante carrière d'actrice de cinéma."
+      },
+      {
+        "id": "tt32642156",
+        "title": "L'Homme qui rétrécit (2025)",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt32642156/img",
+        "overview": "Rôle : Paul. Paul, un homme ordinaire, qui partage sa vie entre son entreprise de construction navale, sa femme Élise, et leur fille Mia."
+      },
+      {
+        "id": "tt27819140",
+        "title": "Finalement (2024)",
+        "season": 1,
+        "episode": 3,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt27819140/img",
+        "overview": "Rôle : Jean. Dans un monde de plus en plus fou, Lino qui a décidé de tout plaquer, va se rendre compte que finalement : tout ce qui nous arrive, c’est pour notre bien !"
+      },
+      {
+        "id": "tt15441522",
+        "title": "Sur les chemins noirs (2023)",
+        "season": 1,
+        "episode": 4,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt15441522/img",
+        "overview": "Rôle : Pierre. Pierre est un célèbre explorateur et écrivain qui voyage régulièrement à travers le monde en quête d’aventures. Un soir, il escalade la façade d’un hôtel, ivre, et fait une chute de plusieurs étages."
+      },
+      {
+        "id": "tt18556486",
+        "title": "Les Gardiennes de la planète (2023)",
+        "season": 1,
+        "episode": 5,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt18556486/img",
+        "overview": "Rôle : Narrator (voice). Une baleine à bosse s'est échouée sur un rivage isolé. Au cours de la lutte pour lui sauver la vie, nous découvrirons l'histoire de ces créatures extraordinaires, habitants des océans du monde."
+      },
+      {
+        "id": "tt14542254",
+        "title": "Novembre (2022)",
+        "season": 1,
+        "episode": 6,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14542254/img",
+        "overview": "Rôle : Fred. Une plongée au cœur de l'Anti-Terrorisme pendant les 5 jours de traque qui ont suivi les attentats du 13 novembre 2015."
+      },
+      {
+        "id": "tt7972012",
+        "title": "OSS 117 : Alerte rouge en Afrique noire (2021)",
+        "season": 1,
+        "episode": 7,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7972012/img",
+        "overview": "Rôle : Hubert Bonisseur de la Bath / OSS 117. 1981. Hubert Bonisseur de La Bath, alias OSS 117, est de retour. Pour cette nouvelle mission, plus délicate, plus périlleuse et plus torride que jamais, il est contraint de faire équipe avec un jeune collègue, le promett…"
+      },
+      {
+        "id": "tt13558724",
+        "title": "Présidents (2021)",
+        "season": 1,
+        "episode": 8,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13558724/img",
+        "overview": "Rôle : Nicolas Sarkozy. Nicolas, un ancien président de la République, supporte mal l’arrêt de sa vie politique. Les circonstances lui permettent d’espérer un retour sur le devant de la scène. Mais il lui faut un allié."
+      },
+      {
+        "id": "tt10627352",
+        "title": "Effacer l'historique (2020)",
+        "season": 1,
+        "episode": 9,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10627352/img",
+        "overview": "Rôle : Le tueur de panda. Dans un lotissement en province, trois voisins sont en prise avec les nouvelles technologies et les réseaux sociaux."
+      },
+      {
+        "id": "tt2398149",
+        "title": "J'accuse (2019)",
+        "season": 1,
+        "episode": 10,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt2398149/img",
+        "overview": "Rôle : Picquart. Pendant les 12 années qu'elle dura, l'Affaire Dreyfus déchira la France, provoquant un véritable séisme dans le monde entier."
+      },
+      {
+        "id": "tt8193790",
+        "title": "Le Daim (2019)",
+        "season": 1,
+        "episode": 11,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt8193790/img",
+        "overview": "Rôle : Georges. Georges, la quarantaine, quitte du jour au lendemain sa femme et son travail pour s'offrir le blouson de ses rêves, une veste en daim à franges. Le vendeur lui cède avec un caméscope numérique."
+      },
+      {
+        "id": "tt8201404",
+        "title": "Nous finirons ensemble (2019)",
+        "season": 1,
+        "episode": 12,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt8201404/img",
+        "overview": "Rôle : Ludo. Préoccupé, Max est parti dans sa maison au bord de la mer pour se ressourcer. Sa bande de potes, qu’il n’a pas vue depuis plus de 3 ans débarque par surprise pour lui fêter son anniversaire !"
+      },
+      {
+        "id": "tt7205630",
+        "title": "I Feel Good (2018)",
+        "season": 1,
+        "episode": 13,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7205630/img",
+        "overview": "Rôle : Jacques. Monique dirige une communauté Emmaüs près de Pau. Après plusieurs années d’absence, elle voit débarquer son frère, Jacques, un bon à rien qui n’a qu’une obsession : trouver l’idée qui le rendra riche."
+      },
+      {
+        "id": "tt7064498",
+        "title": "Le Retour du héros (2018)",
+        "season": 1,
+        "episode": 14,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7064498/img",
+        "overview": "Rôle : Captain Charles-Grégoire Neuville. Le capitaine Neuville est un grand séducteur. Il vient demander sa main à la jeune Pauline, sous le regard méfiant d'Elisabeth, la sœur de cette dernière."
+      },
+      {
+        "id": "tt5825150",
+        "title": "Chacun sa vie (2017)",
+        "season": 1,
+        "episode": 15,
+        "released": "2017-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5825150/img",
+        "overview": "Rôle : Le commissaire. Ils ne se connaissent pas, mais tous ont rendez-vous pour décider du sort d’un de leurs semblables."
+      },
+      {
+        "id": "tt31844643",
+        "title": "Zorro (2024)",
+        "season": 1,
+        "episode": 16,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt31844643/img",
+        "overview": "Rôle : Don Diego de la Vega / Zorro. Los Angeles, 1821. Illégitime à son poste d'alcade, Don Diego doit trouver une solution à ses problèmes et à ceux de la ville. Poussé par Bernardo, il ressort le masque de Zorro."
+      },
+      {
+        "id": "tt19514434",
+        "title": "Alphonse (2023)",
+        "season": 1,
+        "episode": 17,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt19514434/img",
+        "overview": "Rôle : Alphonse. Il s’appelle Alphonse et vit en France. « Je suis là, Mesdames, pour satisfaire tous vos désirs, même les plus inavouables. Toutes."
+      },
+      {
+        "id": "tt0217224",
+        "title": "Un gars, une fille (1999)",
+        "season": 1,
+        "episode": 18,
+        "released": "1999-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0217224/img",
+        "overview": "Rôle : Jean. Suivez la vie de Chouchou et Loulou, un couple trentenaire français comme les autres, avec toutes leurs situations de complicité et de crise, ainsi que les petits tracas dans la vie d'un couple aujourd'hui !"
+      },
+      {
+        "id": "tt0280342",
+        "title": "Un gars, une fille (1997)",
+        "season": 1,
+        "episode": 19,
+        "released": "1997-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0280342/img",
+        "overview": "Rôle : Jean. Après avoir passé 20 ans en banlieue, Guy et Sylvie reviennent s’installer en ville dans une tour de condos et constatent que Montréal a bien changé depuis leur départ."
+      }
+    ]
+  }
+}

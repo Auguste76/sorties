@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "id": "acteur:louis-garrel",
+    "type": "series",
+    "name": "Louis Garrel",
+    "poster": "https://image.tmdb.org/t/p/w500/iKJ1SL0im6tJVnE777HNLX2kUeG.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/iKJ1SL0im6tJVnE777HNLX2kUeG.jpg",
+    "description": "Né(e) le 1983-06-14 à Paris, France\n\nIl est un acteur, réalisateur et scénariste français. Il reçoit le César du meilleur espoir masculin en 2006 pour Les Amants réguliers et est nommé quatre fois au César du meilleur acteur dans un second rôle, en 2015, 2016, 2020 et 2021. Il est surtout connu pour son rôle principal dans \"The Dreamers\" (les innocents) réalisé par Bernardo Bertolucci.\n\nFilms : Juste une illusion (2026) · Coutures (2026) · Arco (2025) · Chien 51 (2025) · Saint-Ex (2024) · François Truffaut, le scénario de ma vie (2024) · Le Deuxième Acte (2024) · Les Trois Mousquetaires : Milady (2023) · Viva Varda ! (2023) · Les Trois Mousquetaires : D'Artagnan (2023) · Le Grand Chariot (2023) · L'Envol (2023) · Coma (2022) · Les Amandiers (2022) · Caravage (2022)\n\nSéries : Le Bureau des légendes (2015)",
+    "links": [
+      {
+        "name": "Juste une illusion",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36842933"
+      },
+      {
+        "name": "Coutures",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt34688195"
+      },
+      {
+        "name": "Arco",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14883538"
+      },
+      {
+        "name": "Chien 51",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33255286"
+      },
+      {
+        "name": "Saint-Ex",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27156915"
+      },
+      {
+        "name": "François Truffaut, le scénario de ma vie",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32220428"
+      },
+      {
+        "name": "Le Deuxième Acte",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt30784256"
+      },
+      {
+        "name": "Les Trois Mousquetaires : Milady",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt12672620"
+      },
+      {
+        "name": "Viva Varda !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27766523"
+      },
+      {
+        "name": "Les Trois Mousquetaires : D'Artagnan",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt12672536"
+      },
+      {
+        "name": "Le Grand Chariot",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15531718"
+      },
+      {
+        "name": "L'Envol",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14212090"
+      },
+      {
+        "name": "Coma",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt17308130"
+      },
+      {
+        "name": "Les Amandiers",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14976386"
+      },
+      {
+        "name": "Caravage",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11877386"
+      },
+      {
+        "name": "Le Bureau des légendes",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt4063800"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt36842933",
+        "title": "Juste une illusion (2026)",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt36842933/img",
+        "overview": "Rôle : Yves Dayan. Nous sommes en 1985, Vincent, bientôt 13 ans, vit en banlieue parisienne dans une famille de la classe moyenne, entre un grand frère distant et des parents en conflit permanent."
+      },
+      {
+        "id": "tt34688195",
+        "title": "Coutures (2026)",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt34688195/img",
+        "overview": "Rôle : Anton. À Paris, dans le tumulte de la Fashion Week, Maxine, une réalisatrice américaine apprend une nouvelle qui va bouleverser sa vie."
+      },
+      {
+        "id": "tt14883538",
+        "title": "Arco (2025)",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14883538/img",
+        "overview": "Rôle : Stewie (voice). En 2075, une petite fille de 10 ans, Iris, voit un mystérieux garçon vêtu d'une combinaison arc-en-ciel tomber du ciel. C'est Arco. Il vient d'un futur lointain et idyllique où voyager dans le temps est possible."
+      },
+      {
+        "id": "tt33255286",
+        "title": "Chien 51 (2025)",
+        "season": 1,
+        "episode": 4,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt33255286/img",
+        "overview": "Rôle : Jon Mafram. Dans un futur proche, Paris a été divisé en 3 zones qui séparent les classes sociales et où l’intelligence artificielle ALMA a révolutionné le travail de la police."
+      },
+      {
+        "id": "tt27156915",
+        "title": "Saint-Ex (2024)",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt27156915/img",
+        "overview": "Rôle : Antoine de Saint-Exupéry. En 1930, Antoine de Saint-Exupéry est pilote de l’Aéropostale en Argentine. Quand Henri Guillaumet, son meilleur ami et le meilleur pilote, disparaît dans la Cordillère des Andes, Saint-Ex décide malgré tout de partir à…"
+      },
+      {
+        "id": "tt32220428",
+        "title": "François Truffaut, le scénario de ma vie (2024)",
+        "season": 1,
+        "episode": 6,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt32220428/img",
+        "overview": "Rôle : François Truffaut (voice). A la fin de sa vie, François Truffaut se confia à son ami Claude de Givray, avec le projet d'écrire son autobiohraphie."
+      },
+      {
+        "id": "tt30784256",
+        "title": "Le Deuxième Acte (2024)",
+        "season": 1,
+        "episode": 7,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt30784256/img",
+        "overview": "Rôle : David. Florence veut présenter David, l'homme dont elle est follement amoureuse, à son père Guillaume. Mais David n'est pas attiré par Florence et souhaite s'en débarrasser en la jetant dans les bras de son ami Willy."
+      },
+      {
+        "id": "tt12672620",
+        "title": "Les Trois Mousquetaires : Milady (2023)",
+        "season": 1,
+        "episode": 8,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt12672620/img",
+        "overview": "Rôle : Louis XIII. Constance Bonacieux est enlevée sous les yeux de D'Artagnan. Dans une quête effrénée pour la sauver, le jeune mousquetaire est contraint de s'allier à la mystérieuse Milady de Winter."
+      },
+      {
+        "id": "tt27766523",
+        "title": "Viva Varda ! (2023)",
+        "season": 1,
+        "episode": 9,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt27766523/img",
+        "overview": "Rôle : Narrator (voice). Dans Viva Varda !, Pierre-Henri Gibert remonte avec passion le fil de la carrière singulière d'Agnès Varda pour rappeler à quel point, cette personnalité aussi âpre que généreuse du cinéma, profondément féministe, a su p…"
+      },
+      {
+        "id": "tt12672536",
+        "title": "Les Trois Mousquetaires : D'Artagnan (2023)",
+        "season": 1,
+        "episode": 10,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt12672536/img",
+        "overview": "Rôle : Louis XIII. Du Louvre au Palais de Buckingham, des bas-fonds de Paris au siège de La Rochelle..."
+      },
+      {
+        "id": "tt15531718",
+        "title": "Le Grand Chariot (2023)",
+        "season": 1,
+        "episode": 11,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt15531718/img",
+        "overview": "Rôle : Louis. « Le grand chariot » est une constellation d’étoiles. C’est aussi un théâtre de marionnettes."
+      },
+      {
+        "id": "tt14212090",
+        "title": "L'Envol (2023)",
+        "season": 1,
+        "episode": 12,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14212090/img",
+        "overview": "Rôle : Jean. Quelque part dans le Nord de la France, Juliette grandit seule avec son père, Raphaël, un soldat rescapé de la Première Guerre mondiale."
+      },
+      {
+        "id": "tt17308130",
+        "title": "Coma (2022)",
+        "season": 1,
+        "episode": 13,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt17308130/img",
+        "overview": "Rôle : Dr. Ballard (voice). Le destin d’une adolescente qui a la faculté de vous inviter dans ses rêves et dans ses cauchemars."
+      },
+      {
+        "id": "tt14976386",
+        "title": "Les Amandiers (2022)",
+        "season": 1,
+        "episode": 14,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14976386/img",
+        "overview": "Rôle : Patrice Chéreau. Fin des années 80, Stella, Étienne, Adèle et toute la troupe ont vingt ans. Ils passent le concours d’entrée de la célèbre école créée par Patrice Chéreau et Pierre Romans au théâtre des Amandiers de Nanterre."
+      },
+      {
+        "id": "tt11877386",
+        "title": "Caravage (2022)",
+        "season": 1,
+        "episode": 15,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt11877386/img",
+        "overview": "Rôle : The Shadow. Italie 1609. Accusé de meurtre, Le Caravage a fui Rome et s’est réfugié à Naples. Soutenu par la puissante famille Colonna, Le Caravage tente d’obtenir la grâce de l’Église pour revenir à Rome."
+      },
+      {
+        "id": "tt4063800",
+        "title": "Le Bureau des légendes (2015)",
+        "season": 1,
+        "episode": 16,
+        "released": "2015-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt4063800/img",
+        "overview": "Rôle : Andrea Tassone dit « Mille Sabords ». Au sein de la DGSE (Direction générale de la Sécurité extérieure), le Bureau des Légendes est un département très spécial qui a pour mission extrêmement délicate de diriger des agents des services de renseignements franç…"
+      }
+    ]
+  }
+}

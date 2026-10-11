@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "id": "acteur:jean-reno",
+    "type": "series",
+    "name": "Jean Reno",
+    "poster": "https://image.tmdb.org/t/p/w500/mw0EZJYz3kiFq9fNxsML773gotF.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/mw0EZJYz3kiFq9fNxsML773gotF.jpg",
+    "description": "Né(e) le 1948-07-30 à Casablanca, French Protectorate in Morocco [now Morocco]\n\nJuan Moreno y Herrera-Jiménez, dit Jean Reno, né le 30 juillet 1948, à Casablanca, au Maroc, est un acteur français. De parents espagnols originaires d'Andalousie (son père était de Sanlúcar de Barrameda, sa mère de Jerez de la Frontera) et ayant fui le régime de Franco. Sa famille s'installe en France métropolitaine en 1970.\n\nFilms : The Florist (2026) · Le Virtuose (2026) · Marsupilami (2026) · Zootopie 2 (2025) · Loups-Garous (2024) · Mon ami le petit manchot (2024) · Maison de retraite 2 (2024) · En plein vol (2024) · Antigang : La Relève (2023) · Die Hart (2023) · Les Promesses (2021) · Le Dernier Voyage (2021) · I Love You Coiffure (2020) · Bronx (2020) · The Doorman (2020)\n\nSéries : Une affaire Privée (2022) · Toutes ces choses qu'on ne s'est pas dites (2022) · Die Hart (2020) · Jo (2013) · TFI Friday (1996) · Tender Is the Night (1985)",
+    "links": [
+      {
+        "name": "The Florist",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33214716"
+      },
+      {
+        "name": "Le Virtuose",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33296751"
+      },
+      {
+        "name": "Marsupilami",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33029380"
+      },
+      {
+        "name": "Zootopie 2",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt26443597"
+      },
+      {
+        "name": "Loups-Garous",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt29195603"
+      },
+      {
+        "name": "Mon ami le petit manchot",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8609660"
+      },
+      {
+        "name": "Maison de retraite 2",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt28102880"
+      },
+      {
+        "name": "En plein vol",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14371878"
+      },
+      {
+        "name": "Antigang : La Relève",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt28199975"
+      },
+      {
+        "name": "Die Hart",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27116016"
+      },
+      {
+        "name": "Les Promesses",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10042788"
+      },
+      {
+        "name": "Le Dernier Voyage",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6435934"
+      },
+      {
+        "name": "I Love You Coiffure",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11695414"
+      },
+      {
+        "name": "Bronx",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10127684"
+      },
+      {
+        "name": "The Doorman",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6222118"
+      },
+      {
+        "name": "Une affaire Privée",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt10698534"
+      },
+      {
+        "name": "Toutes ces choses qu'on ne s'est pas dites",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt14677314"
+      },
+      {
+        "name": "Die Hart",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt10726424"
+      },
+      {
+        "name": "Jo",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt2476706"
+      },
+      {
+        "name": "TFI Friday",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0115383"
+      },
+      {
+        "name": "Tender Is the Night",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0088626"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt33214716",
+        "title": "The Florist (2026)",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt33214716/img",
+        "overview": "Rôle : Charlie. Un horticulteur discret, qui mène en secret une double vie de tueur implacable, voit son identité menacée lorsqu’il se lie d’une amitié inattendue avec un témoin ayant découvert un vaste réseau de corruption policière."
+      },
+      {
+        "id": "tt33296751",
+        "title": "Le Virtuose (2026)",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt33296751/img",
+        "overview": "Rôle : Marius Maissner. Doté d'une ouïe exceptionnelle, un jeune accordeur de piano voit sa vie basculer lorsque son talent attire l'attention de criminels qui l'entraînent dans une série de cambriolages de plus en plus risqués."
+      },
+      {
+        "id": "tt33029380",
+        "title": "Marsupilami (2026)",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt33029380/img",
+        "overview": "Rôle : Jeffrey Malone. Pour sauver son emploi, David accepte un plan foireux : ramener un mystérieux colis d’Amérique du Sud."
+      },
+      {
+        "id": "tt26443597",
+        "title": "Zootopie 2 (2025)",
+        "season": 1,
+        "episode": 4,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt26443597/img",
+        "overview": "Rôle : Bûcheron / Chèvre (voice). Judy Hopps et Nick Wilde explorent à nouveau Zootopie, entre mystères, rires et rencontres inattendues."
+      },
+      {
+        "id": "tt29195603",
+        "title": "Loups-Garous (2024)",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt29195603/img",
+        "overview": "Rôle : Gilbert Vassier. Quand un vieux jeu de société prend vie, une famille remonte le temps et atterrit dans un village médiéval où il lui faudra démasquer des loups-garous pour pouvoir revenir à son époque."
+      },
+      {
+        "id": "tt8609660",
+        "title": "Mon ami le petit manchot (2024)",
+        "season": 1,
+        "episode": 6,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt8609660/img",
+        "overview": "Rôle : João. D'après l'histoire vraie d'un pingouin mazouté, Din Dim, recueilli et soigné par João."
+      },
+      {
+        "id": "tt28102880",
+        "title": "Maison de retraite 2 (2024)",
+        "season": 1,
+        "episode": 7,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt28102880/img",
+        "overview": "Rôle : Lorenzo. Quand le foyer Lino Vartan - qui accueille jeunes orphelins et seniors - doit fermer pour raisons sanitaires, Milann n’a pas d’autre choix que de répondre à l’invitation d’une maison de retraite dans le Sud qui les accue…"
+      },
+      {
+        "id": "tt14371878",
+        "title": "En plein vol (2024)",
+        "season": 1,
+        "episode": 8,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14371878/img",
+        "overview": "Rôle : Lars Jorgensen. Un pro du braquage tente le coup du siècle avec une équipe chevronnée : dérober 500 millions de dollars en or... dans un avion en plein vol !"
+      },
+      {
+        "id": "tt28199975",
+        "title": "Antigang : La Relève (2023)",
+        "season": 1,
+        "episode": 9,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt28199975/img",
+        "overview": "Rôle : Serge Buren. Ancienne légende de la brigade Antigang connue pour ses méthodes musclées et peu conventionnelles, Niels Cartier, a quitté la police à la suite d’une intervention qui a mal tourné et conduit au décès de sa femme."
+      },
+      {
+        "id": "tt27116016",
+        "title": "Die Hart (2023)",
+        "season": 1,
+        "episode": 10,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt27116016/img",
+        "overview": "Rôle : Claude Van De Velde. Kevin Hart, qui joue son propre rôle, se lance dans une quête périlleuse pour devenir une star de films d'action. Et avec l'aide de John Travolta, Nathalie Emmanuel et Josh Hartnett, il pourrait bien y parvenir."
+      },
+      {
+        "id": "tt10042788",
+        "title": "Les Promesses (2021)",
+        "season": 1,
+        "episode": 11,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10042788/img",
+        "overview": "Rôle : Grandpa. La vie, en général, n’en finit pas de faire des promesses qu’elle prend plaisir, ensuite, à ne pas tenir. L’histoire d’amour inachevée entre Alexander et Laura."
+      },
+      {
+        "id": "tt6435934",
+        "title": "Le Dernier Voyage (2021)",
+        "season": 1,
+        "episode": 12,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6435934/img",
+        "overview": "Rôle : Henri W.R. Dans un futur proche où tout n'est plus que dévastation écologique, une mystérieuse lune rouge - apparue dans le ciel quelques années plus tôt - est exploitée à outrance pour son énergie."
+      },
+      {
+        "id": "tt11695414",
+        "title": "I Love You Coiffure (2020)",
+        "season": 1,
+        "episode": 13,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt11695414/img",
+        "overview": "Rôle : M. Rimbaud (segment \"La Veste\"). Les plus grands sketchs de Muriel Robin prennent vie pour la première fois dans une fiction événement unique en son genre, réalisée et interprétée par Muriel Robin, avec la participation d’une cinquantaine de personnalit…"
+      },
+      {
+        "id": "tt10127684",
+        "title": "Bronx (2020)",
+        "season": 1,
+        "episode": 14,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10127684/img",
+        "overview": "Rôle : Ange Leonetti. Pris entre la corruption policière et la guerre des gangs de Marseille, un flic prend les choses en main afin de protéger son équipe."
+      },
+      {
+        "id": "tt6222118",
+        "title": "The Doorman (2020)",
+        "season": 1,
+        "episode": 15,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6222118/img",
+        "overview": "Rôle : Victor Dubois. Une membre des Marines, après avoir vécu des événements traumatisants, est de retour chez elle."
+      },
+      {
+        "id": "tt10698534",
+        "title": "Une affaire Privée (2022)",
+        "season": 1,
+        "episode": 16,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10698534/img",
+        "overview": "Rôle : Héctor Hugo. En Galice dans les années 40. Marina Quiroga, une jeune femme de la haute société qui a l'âme d'une détective décide, avec son fidèle majordome Héctor, de piéger le tueur qui terrorise la ville."
+      },
+      {
+        "id": "tt14677314",
+        "title": "Toutes ces choses qu'on ne s'est pas dites (2022)",
+        "season": 1,
+        "episode": 17,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14677314/img",
+        "overview": "Rôle : Michel Saurel. Trois jours avant son mariage, Julia reçoit un appel l'informant que son père ne sera pas présent à la cérémonie. Et cette fois, il a une bonne excuse : il est mort."
+      },
+      {
+        "id": "tt10726424",
+        "title": "Die Hart (2020)",
+        "season": 1,
+        "episode": 18,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10726424/img",
+        "overview": "Rôle : Claude Van De Velde. Fatigué d'être l'acolyte comique, Kevin Hart réalise son vœu lorsqu'un célèbre réalisateur lui offre son rêve - être une star de l'action - mais il y a un hic : Kevin doit d'abord s'entraîner dans la plus grande école d'…"
+      },
+      {
+        "id": "tt2476706",
+        "title": "Jo (2013)",
+        "season": 1,
+        "episode": 19,
+        "released": "2013-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt2476706/img",
+        "overview": "Rôle : Jo St-Clair. Jo est un grand flic, capable d’intuitions brillantes, aussi à l’aise dans l’action que dans la réflexion, redoutable adversaire pour les tueurs qu’il traque."
+      },
+      {
+        "id": "tt0115383",
+        "title": "TFI Friday (1996)",
+        "season": 1,
+        "episode": 20,
+        "released": "1996-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0115383/img",
+        "overview": ""
+      },
+      {
+        "id": "tt0088626",
+        "title": "Tender Is the Night (1985)",
+        "season": 1,
+        "episode": 21,
+        "released": "1985-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0088626/img",
+        "overview": "Rôle : Dr. Dangen."
+      }
+    ]
+  }
+}

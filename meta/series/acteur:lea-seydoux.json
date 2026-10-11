@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "id": "acteur:lea-seydoux",
+    "type": "series",
+    "name": "Léa Seydoux",
+    "poster": "https://image.tmdb.org/t/p/w500/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg",
+    "description": "Né(e) le 1985-07-01 à Passy, Paris, France\n\nLéa Seydoux est le nom de convenance d'une actrice française née le 1er juillet 1985 à Paris.  Issue d'une famille liée depuis longtemps au monde du cinéma -elle est la petite-fille de Jérôme Seydoux, patron de Pathé, et la petite nièce de Nicolas Seydoux, PDG de Gaumont-, Léa Seydoux, adolescente timide, prend des cours de théâtre après avoir passé son baccalauréat.\n\nFilms : L’inconnue (2026) · Silent Friend (2026) · Le Deuxième Acte (2024) · Dune : Deuxième partie (2024) · La Bête (2024) · Un beau matin (2022) · Les Crimes du futur (2022) · The French Dispatch (2021) · Mourir peut attendre (2021) · France (2021) · L'Histoire de ma femme (2021) · Tromperie (2021) · Roubaix, une lumière (2019) · Kursk (2018) · Zoe (2018)\n\nSéries : Mystères de Lisbonne (2011) · Père et Maire (2002)",
+    "links": [
+      {
+        "name": "L’inconnue",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32359586"
+      },
+      {
+        "name": "Silent Friend",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27811632"
+      },
+      {
+        "name": "Le Deuxième Acte",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt30784256"
+      },
+      {
+        "name": "Dune : Deuxième partie",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15239678"
+      },
+      {
+        "name": "La Bête",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14407336"
+      },
+      {
+        "name": "Un beau matin",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13482828"
+      },
+      {
+        "name": "Les Crimes du futur",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14549466"
+      },
+      {
+        "name": "The French Dispatch",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8847712"
+      },
+      {
+        "name": "Mourir peut attendre",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt2382320"
+      },
+      {
+        "name": "France",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9714030"
+      },
+      {
+        "name": "L'Histoire de ma femme",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8205028"
+      },
+      {
+        "name": "Tromperie",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13613056"
+      },
+      {
+        "name": "Roubaix, une lumière",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8359840"
+      },
+      {
+        "name": "Kursk",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4951982"
+      },
+      {
+        "name": "Zoe",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6010628"
+      },
+      {
+        "name": "Mystères de Lisbonne",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt1236371"
+      },
+      {
+        "name": "Père et Maire",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0310511"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt32359586",
+        "title": "L’inconnue (2026)",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt32359586/img",
+        "overview": "Rôle : Eva Helsinger / David Zimmerman. David Zimmerman a bientôt 40 ans, il est photographe mais personne ne le sait. Alors qu'il ne sort presque jamais de chez lui, des amis le traînent dans une fête insensée."
+      },
+      {
+        "id": "tt27811632",
+        "title": "Silent Friend (2026)",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt27811632/img",
+        "overview": "Rôle : Alice Sauvage. Une rencontre de deux rythmes de vie : celui de l’homme et celui de la nature. \"Inspirer - expirer. Environ seize fois par minute pour les humains. Une fois par jour pour les arbres."
+      },
+      {
+        "id": "tt30784256",
+        "title": "Le Deuxième Acte (2024)",
+        "season": 1,
+        "episode": 3,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt30784256/img",
+        "overview": "Rôle : Florence Drucker. Florence veut présenter David, l'homme dont elle est follement amoureuse, à son père Guillaume. Mais David n'est pas attiré par Florence et souhaite s'en débarrasser en la jetant dans les bras de son ami Willy."
+      },
+      {
+        "id": "tt15239678",
+        "title": "Dune : Deuxième partie (2024)",
+        "season": 1,
+        "episode": 4,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt15239678/img",
+        "overview": "Rôle : Lady Margot Fenring. Le voyage mythique de Paul Atreides qui s'allie à Chani et aux Fremen dans sa quête de vengeance envers les conspirateurs qui ont anéanti sa famille."
+      },
+      {
+        "id": "tt14407336",
+        "title": "La Bête (2024)",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14407336/img",
+        "overview": "Rôle : Gabrielle. Dans un futur proche placé sous le règne de l'intelligence artificielle, les émotions humaines sont vues comme une menace. Pour s'en débarrasser, Gabrielle doit purifier son ADN en replongeant dans ses vies antérieures."
+      },
+      {
+        "id": "tt13482828",
+        "title": "Un beau matin (2022)",
+        "season": 1,
+        "episode": 6,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13482828/img",
+        "overview": "Rôle : Sandra Kienzler. Sandra, jeune mère qui élève seule sa fille, rend souvent visite à son père malade, Georg."
+      },
+      {
+        "id": "tt14549466",
+        "title": "Les Crimes du futur (2022)",
+        "season": 1,
+        "episode": 7,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14549466/img",
+        "overview": "Rôle : Caprice. Alors que l’espèce humaine s’adapte à un environnement de synthèse, le corps humain est l’objet de transformations et de mutations nouvelles."
+      },
+      {
+        "id": "tt8847712",
+        "title": "The French Dispatch (2021)",
+        "season": 1,
+        "episode": 8,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt8847712/img",
+        "overview": "Rôle : Simone. Le journal américain The Evening Sun de Liberty dans le Kansas possède une antenne nommée The French Dispatch à Ennui-sur-Blasé, une ville française fictive évoquant Paris dans les années 1950-60."
+      },
+      {
+        "id": "tt2382320",
+        "title": "Mourir peut attendre (2021)",
+        "season": 1,
+        "episode": 9,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt2382320/img",
+        "overview": "Rôle : Madeleine. James Bond a quitté les services secrets et coule des jours heureux en Jamaïque. Mais sa tranquillité est de courte durée car son vieil ami Felix Leiter de la CIA débarque pour solliciter son aide : il s'agit de sauver u…"
+      },
+      {
+        "id": "tt9714030",
+        "title": "France (2021)",
+        "season": 1,
+        "episode": 10,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt9714030/img",
+        "overview": "Rôle : France de Meurs. Chronique de la vie frénétique d’une journaliste star de la télévision, prise entre la célébrité et une spirale d’événements qui entraîneront sa chute."
+      },
+      {
+        "id": "tt8205028",
+        "title": "L'Histoire de ma femme (2021)",
+        "season": 1,
+        "episode": 11,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt8205028/img",
+        "overview": "Rôle : Lizzy. Jakob est capitaine au long cours. Un jour, il fait un pari avec un ami dans un café : il épousera la première femme qui en franchira le seuil. C’est alors qu’entre Lizzy..."
+      },
+      {
+        "id": "tt13613056",
+        "title": "Tromperie (2021)",
+        "season": 1,
+        "episode": 12,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13613056/img",
+        "overview": "Rôle : The English Lover. Londres - 1987. Philip est un écrivain américain célèbre exilé à Londres. Sa maîtresse vient régulièrement le retrouver dans son bureau, qui est le refuge des deux amants."
+      },
+      {
+        "id": "tt8359840",
+        "title": "Roubaix, une lumière (2019)",
+        "season": 1,
+        "episode": 13,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt8359840/img",
+        "overview": "Rôle : Claude. Roubaix, une nuit de Noël. Le commissaire Daoud sillonne la ville qui l’a vu grandir. Voitures brûlées, altercations… Au commissariat, vient d’arriver Louis Coterelle, fraîchement diplômé."
+      },
+      {
+        "id": "tt4951982",
+        "title": "Kursk (2018)",
+        "season": 1,
+        "episode": 14,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt4951982/img",
+        "overview": "Rôle : Tanya Averina. Kursk relate le naufrage du sous-marin nucléaire russe K-141 Koursk, survenu en mer de Barents le 12 août 2000."
+      },
+      {
+        "id": "tt6010628",
+        "title": "Zoe (2018)",
+        "season": 1,
+        "episode": 15,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6010628/img",
+        "overview": "Rôle : Zoe. Une histoire d’amour sur fond de nouvelle technologie, avec un laboratoire de recherche scientifique travaillant sur un moyen d’améliorer les relations entre les êtres humains..."
+      },
+      {
+        "id": "tt1236371",
+        "title": "Mystères de Lisbonne (2011)",
+        "season": 1,
+        "episode": 16,
+        "released": "2011-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt1236371/img",
+        "overview": "Rôle : Blanche de Monfort. Au XIXe siècle, l'histoire de deux destinées qui se croisent : celle d'un orphelin en quête d'identité généalogique, Pedro da Silva, interne dans un collège religieux ; et celle du Père Dinis, un prêtre, autrefois aristo…"
+      },
+      {
+        "id": "tt0310511",
+        "title": "Père et Maire (2002)",
+        "season": 1,
+        "episode": 17,
+        "released": "2002-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0310511/img",
+        "overview": "Rôle : La lycéenne. L'un est prêtre, l'autre est le maire de la ville ! Pas toujours évident pour Erwan et Hugo de s'entendre, surtout pour des amis. Pour le bien de leur petite ville, ils arrivent à faire corps face aux problèmes."
+      }
+    ]
+  }
+}

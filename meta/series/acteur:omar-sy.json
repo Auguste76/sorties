@@ -1,0 +1,281 @@
+{
+  "meta": {
+    "id": "acteur:omar-sy",
+    "type": "series",
+    "name": "Omar Sy",
+    "poster": "https://image.tmdb.org/t/p/w500/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
+    "description": "Né(e) le 1978-01-20 à Trappes, Yvelines, France\n\nActeur, humoriste et producteur français, Omar Sy est né le 20 janvier 1978 à Trappes (Yvelines), de parents originaires du Sénégal et de Mauritanie. Il débute à la radio en 1996 sur Radio Nova, où il rencontre Fred Testot. Ensemble, ils forment le duo Omar et Fred, révélé sur Canal+ grâce au *Service après-vente des émissions*.\n\nFilms : Le Passage (2025) · French Lover (2025) · Shadow Force (2025) · Dis-moi juste que tu m'aimes (2025) · The Killer (2024) · Le livre de Clarence (2024) · Tirailleurs (2023) · Jurassic World : Le Monde d’après (2022) · Loin du périph (2022) · Les méchants (2021) · Tout simplement noir (2020) · Police (2020) · L'appel de la forêt (2020) · Le prince oublié (2020) · Arctic Dogs : Mission polaire (2019)\n\nSéries : Lupin (2021) · Bref (2011) · SAV des émissions (2005) · La Cape et l'épée (2000)",
+    "links": [
+      {
+        "name": "Le Passage",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt21272942"
+      },
+      {
+        "name": "French Lover",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32360696"
+      },
+      {
+        "name": "Shadow Force",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11092020"
+      },
+      {
+        "name": "Dis-moi juste que tu m'aimes",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt30826062"
+      },
+      {
+        "name": "The Killer",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt1121948"
+      },
+      {
+        "name": "Le livre de Clarence",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt22866358"
+      },
+      {
+        "name": "Tirailleurs",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14860210"
+      },
+      {
+        "name": "Jurassic World : Le Monde d’après",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8041270"
+      },
+      {
+        "name": "Loin du périph",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13822738"
+      },
+      {
+        "name": "Les méchants",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt12594018"
+      },
+      {
+        "name": "Tout simplement noir",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10426916"
+      },
+      {
+        "name": "Police",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9850344"
+      },
+      {
+        "name": "L'appel de la forêt",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7504726"
+      },
+      {
+        "name": "Le prince oublié",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8335482"
+      },
+      {
+        "name": "Arctic Dogs : Mission polaire",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4426464"
+      },
+      {
+        "name": "Lupin",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt2531336"
+      },
+      {
+        "name": "Bref",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt2044128"
+      },
+      {
+        "name": "SAV des émissions",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0499407"
+      },
+      {
+        "name": "La Cape et l'épée",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0285348"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt21272942",
+        "title": "Le Passage (2025)",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt21272942/img",
+        "overview": "Rôle : Marwan. Une tra­gé­die frappe une famille syrienne à Alep, déclen­chant une réac­tion en chaîne d’é­vé­ne­ments dans quatre pays dif­fé­rents impli­quant des per­sonnes unies par un lien de paren­té, dont une doc­to­resse et sa…"
+      },
+      {
+        "id": "tt32360696",
+        "title": "French Lover (2025)",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt32360696/img",
+        "overview": "Rôle : Abel Camara. Lorsqu'un acteur célèbre rencontre une serveuse malchanceuse à Paris, une histoire d'amour inattendue prend vie. Résistera-t-elle sous le feu des projecteurs ?"
+      },
+      {
+        "id": "tt11092020",
+        "title": "Shadow Force (2025)",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt11092020/img",
+        "overview": "Rôle : Isaac. Kyrah et Isaac étaient les chefs d'une unité spéciale internationale nommée Shadow Force. Brisant les règles, ils tombent amoureux et, pour protéger leur fils, ils disparaissent dans la clandestinité."
+      },
+      {
+        "id": "tt30826062",
+        "title": "Dis-moi juste que tu m'aimes (2025)",
+        "season": 1,
+        "episode": 4,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt30826062/img",
+        "overview": "Rôle : Julien. Au bout de quinze ans de mariage, une crise met à l’épreuve l’union de Julien et Marie."
+      },
+      {
+        "id": "tt1121948",
+        "title": "The Killer (2024)",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt1121948/img",
+        "overview": "Rôle : Sey. Zee, une mystérieuse célèbre tueuse à gages surnommée la « Reine des morts » dans le milieu criminel parisien, devient le centre d’une chasse à l’homme lorsqu’elle refuse une mission de son mystérieux agent consistant à…"
+      },
+      {
+        "id": "tt22866358",
+        "title": "Le livre de Clarence (2024)",
+        "season": 1,
+        "episode": 6,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt22866358/img",
+        "overview": "Rôle : Barabbas. Clarence, un habitant de Jérusalem, décide de tirer profit de l'influence grandissante du Messie pour son profit personnel."
+      },
+      {
+        "id": "tt14860210",
+        "title": "Tirailleurs (2023)",
+        "season": 1,
+        "episode": 7,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14860210/img",
+        "overview": "Rôle : Bakary Diallo. 1917. Bakary Diallo s'enrôle dans l'armée française pour rejoindre Thierno, son fils de 17 ans, qui a été recruté de force. Envoyés sur le front, père et fils vont devoir affronter la guerre ensemble."
+      },
+      {
+        "id": "tt8041270",
+        "title": "Jurassic World : Le Monde d’après (2022)",
+        "season": 1,
+        "episode": 8,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt8041270/img",
+        "overview": "Rôle : Barry Sembène. Quatre ans après la destruction de Isla Nublar, les dinosaures font désormais partie du quotidien de l’humanité."
+      },
+      {
+        "id": "tt13822738",
+        "title": "Loin du périph (2022)",
+        "season": 1,
+        "episode": 9,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13822738/img",
+        "overview": "Rôle : Ousmane Diakhité. Dix ans après avoir fait équipe, Ousmane et François, deux flics que tout oppose, reforment à contrecœur leur tandem de choc."
+      },
+      {
+        "id": "tt12594018",
+        "title": "Les méchants (2021)",
+        "season": 1,
+        "episode": 10,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt12594018/img",
+        "overview": "Rôle : Starsky, the Uber driver. Après avoir volé une console de jeux vidéos à des migrants, Sébastien tente de la revendre à Patrick, un gentil.  Jusqu'ici, rien de bien méchant."
+      },
+      {
+        "id": "tt10426916",
+        "title": "Tout simplement noir (2020)",
+        "season": 1,
+        "episode": 11,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10426916/img",
+        "overview": "Rôle : Omar Sy. JP, un acteur raté de 40 ans, décide d’organiser la première grosse marche de contestation noire en France, mais ses rencontres, souvent burlesques, avec des personnalités influentes de la communauté et le soutien intére…"
+      },
+      {
+        "id": "tt9850344",
+        "title": "Police (2020)",
+        "season": 1,
+        "episode": 12,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt9850344/img",
+        "overview": "Rôle : Aristide. Virginie, Erik et Aristide, trois flics parisiens, se voient obligés d’accepter une mission inhabituelle : reconduire un étranger à la frontière."
+      },
+      {
+        "id": "tt7504726",
+        "title": "L'appel de la forêt (2020)",
+        "season": 1,
+        "episode": 13,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7504726/img",
+        "overview": "Rôle : Perreault. Alliant prises de vues réelles et animation, L'Appel de la forêt raconte l’histoire de Buck, un chien au grand cœur, dont la paisible vie domestique bascule lorsqu’il est brusquement arraché de sa maison en Californie et…"
+      },
+      {
+        "id": "tt8335482",
+        "title": "Le prince oublié (2020)",
+        "season": 1,
+        "episode": 14,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt8335482/img",
+        "overview": "Rôle : Djibi, le père / le prince. Sofia, 8 ans, vit seule avec son père. Tous les soirs, il lui invente une histoire pour l’endormir."
+      },
+      {
+        "id": "tt4426464",
+        "title": "Arctic Dogs : Mission polaire (2019)",
+        "season": 1,
+        "episode": 15,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt4426464/img",
+        "overview": "Rôle : Leopold (voice). Un groupe de personnages se voulant héros s'unissent pour contrer les plans du maléfique Doc Walrus qui veut détruire l'Arctique."
+      },
+      {
+        "id": "tt2531336",
+        "title": "Lupin (2021)",
+        "season": 1,
+        "episode": 16,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt2531336/img",
+        "overview": "Rôle : Assane Diop. Inspiré par les aventures d'Arsène Lupin, le gentleman cambrioleur Assane Diop décide de venger son père d'une terrible injustice."
+      },
+      {
+        "id": "tt2044128",
+        "title": "Bref (2011)",
+        "season": 1,
+        "episode": 17,
+        "released": "2011-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt2044128/img",
+        "overview": "Rôle : Omar Sy. Un trentenaire au chômage, obsédé par une fille rencontrée en soirée, fait part de ses états d'âme et de ses réflexions sur les problèmes du quotidien."
+      },
+      {
+        "id": "tt0499407",
+        "title": "SAV des émissions (2005)",
+        "season": 1,
+        "episode": 18,
+        "released": "2005-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0499407/img",
+        "overview": "Le SAV des émissions est un centre de réception d’appels pas comme les autres. Le principe de départ de cette émission humoristique est de commenter l'actualité des derniers jours dans un format court de deux minutes pré…"
+      },
+      {
+        "id": "tt0285348",
+        "title": "La Cape et l'épée (2000)",
+        "season": 1,
+        "episode": 19,
+        "released": "2000-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0285348/img",
+        "overview": "Rôle : Ménestrel. La série met en scène les aventures burlesques de personnages médiévaux inventés comme le roi, la reine, le valet…\n\nChaque épisode est présenté par un ménestrel chargé de lire le générique, et d'être le narrateur de l'ép…"
+      }
+    ]
+  }
+}

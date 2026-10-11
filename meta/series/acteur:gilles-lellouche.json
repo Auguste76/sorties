@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "id": "acteur:gilles-lellouche",
+    "type": "series",
+    "name": "Gilles Lellouche",
+    "poster": "https://image.tmdb.org/t/p/w500/5Ka9nodCWS6TRFJnmosjp9sV3iA.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/5Ka9nodCWS6TRFJnmosjp9sV3iA.jpg",
+    "description": "Né(e) le 1972-07-05 à Savigny-sur-Orge, Essonne, France\n\nGilles Lellouche, né le 5 juillet 1972 à Savigny-sur-Orge, est un acteur, scénariste et réalisateur français.\n\nIl est connu pour ses multiples collaborations avec Guillaume Canet — Mon idole (2002), Jeux d'enfants (2003), Narco (2004), Ne le dis à personne (2006), Les Petits Mouchoirs (2010), Rock'N'Roll (2017), L'amour est une fête (2018), Nous finirons ensemble (2019) et Astérix et Obélix: L'Empire du Milieu (2023)…\n\nFilms : La Vénus électrique (2026) · Le Crime du 3e étage (2026) · Chien 51 (2025) · I Love Peru (2025) · Leurs enfants après eux (2024) · Daaaaaalí ! (2024) · Soudain seuls (2023) · Je verrai toujours vos visages (2023) · Astérix & Obélix : L'Empire du Milieu (2023) · Fumer fait tousser (2022) · Kompromat (2022) · Goliath (2022) · Bacri, comme un air de famille (2022) · Adieu monsieur Haffmann (2022) · BAC Nord (2021)\n\nSéries : Astérix & Obélix : Le Combat des chefs (2025) · La Flamme (2020) · Platane (2011)",
+    "links": [
+      {
+        "name": "La Vénus électrique",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt37163509"
+      },
+      {
+        "name": "Le Crime du 3e étage",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt38814447"
+      },
+      {
+        "name": "Chien 51",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33255286"
+      },
+      {
+        "name": "I Love Peru",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36965993"
+      },
+      {
+        "name": "Leurs enfants après eux",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt28522540"
+      },
+      {
+        "name": "Daaaaaalí !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt23476446"
+      },
+      {
+        "name": "Soudain seuls",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14904622"
+      },
+      {
+        "name": "Je verrai toujours vos visages",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt24070754"
+      },
+      {
+        "name": "Astérix & Obélix : L'Empire du Milieu",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11210390"
+      },
+      {
+        "name": "Fumer fait tousser",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15471560"
+      },
+      {
+        "name": "Kompromat",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13349892"
+      },
+      {
+        "name": "Goliath",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13399946"
+      },
+      {
+        "name": "Bacri, comme un air de famille",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt17319710"
+      },
+      {
+        "name": "Adieu monsieur Haffmann",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10545704"
+      },
+      {
+        "name": "BAC Nord",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10404944"
+      },
+      {
+        "name": "Astérix & Obélix : Le Combat des chefs",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt14164922"
+      },
+      {
+        "name": "La Flamme",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt13286778"
+      },
+      {
+        "name": "Platane",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt2040020"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt37163509",
+        "title": "La Vénus électrique (2026)",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt37163509/img",
+        "overview": "Rôle : Armand. Paris, 1928. Antoine Balestro, jeune peintre en vogue, n’arrive plus à travailler depuis la mort de son épouse et désespère Armand, son galeriste."
+      },
+      {
+        "id": "tt38814447",
+        "title": "Le Crime du 3e étage (2026)",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt38814447/img",
+        "overview": "Rôle : François. Colette, professeure de cinéma spécialisée dans l’œuvre de Hitchcock, soupçonne son nouveau voisin d’en face d’avoir tué sa femme. Réalité ou déformation professionnelle ?"
+      },
+      {
+        "id": "tt33255286",
+        "title": "Chien 51 (2025)",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt33255286/img",
+        "overview": "Rôle : Zem Brecht. Dans un futur proche, Paris a été divisé en 3 zones qui séparent les classes sociales et où l’intelligence artificielle ALMA a révolutionné le travail de la police."
+      },
+      {
+        "id": "tt36965993",
+        "title": "I Love Peru (2025)",
+        "season": 1,
+        "episode": 4,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt36965993/img",
+        "overview": "Lancé dans une course effrénée vers le succès, un comédien biscornu abandonne ses plus fidèles alliés. Seul face à lui-même, une vision troublante le percute. Direction le Pérou pour une aventure spirituelle."
+      },
+      {
+        "id": "tt28522540",
+        "title": "Leurs enfants après eux (2024)",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt28522540/img",
+        "overview": "Rôle : Patrick. Août 1992. Une vallée perdue quelque part dans l’Est, des hauts-fourneaux qui ne brûlent plus, un lac, un après-midi de canicule."
+      },
+      {
+        "id": "tt23476446",
+        "title": "Daaaaaalí ! (2024)",
+        "season": 1,
+        "episode": 6,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt23476446/img",
+        "overview": "Rôle : Dalí. Judith, une ex-pharmacienne qui s'est tournée vers le journalisme, vient d'obtenir une entrevue avec le grand peintre Salvador Dali."
+      },
+      {
+        "id": "tt14904622",
+        "title": "Soudain seuls (2023)",
+        "season": 1,
+        "episode": 7,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14904622/img",
+        "overview": "Rôle : Ben. En couple depuis 5 ans, Ben et Laura ont décidé de faire le tour du monde en bateau. Avant d'atteindre l'Amérique du Sud, ils font un détour vers une île sauvage, près des côtes antarctiques."
+      },
+      {
+        "id": "tt24070754",
+        "title": "Je verrai toujours vos visages (2023)",
+        "season": 1,
+        "episode": 8,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt24070754/img",
+        "overview": "Rôle : Grégoire. En France, la justice réparatrice a permis aux victimes et aux auteurs de délits de dialoguer dans le contexte de systèmes sécurisés, encadrés par des professionnels et des volontaires."
+      },
+      {
+        "id": "tt11210390",
+        "title": "Astérix & Obélix : L'Empire du Milieu (2023)",
+        "season": 1,
+        "episode": 9,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt11210390/img",
+        "overview": "Rôle : Obélix. Nous sommes en 50 avant J.C. L’Impératrice de Chine est emprisonnée suite à un coup d’État fomenté par Deng Tsin Quin, un prince félon."
+      },
+      {
+        "id": "tt15471560",
+        "title": "Fumer fait tousser (2022)",
+        "season": 1,
+        "episode": 10,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt15471560/img",
+        "overview": "Rôle : Benzène. Après un combat acharné contre une tortue démoniaque, cinq justiciers qu’on appelle les \"TABAC FORCE\", reçoivent l’ordre de partir en retraite pour renforcer la cohésion de leur groupe qui est en train de se dégrader."
+      },
+      {
+        "id": "tt13349892",
+        "title": "Kompromat (2022)",
+        "season": 1,
+        "episode": 11,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13349892/img",
+        "overview": "Rôle : Mathieu Roussel. Russie, 2017. Mathieu Roussel est arrêté et incarcéré sous les yeux de sa fille. Expatrié français, il est victime d’un « kompromat », de faux documents compromettants utilisés par les services secrets russes pour nuire…"
+      },
+      {
+        "id": "tt13399946",
+        "title": "Goliath (2022)",
+        "season": 1,
+        "episode": 12,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13399946/img",
+        "overview": "Rôle : Patrick Fameau. France, professeure de sport le jour, ouvrière la nuit, milite activement contre l’usage des pesticides. Patrick, obscur et solitaire avocat parisien, est spécialiste en droit environnemental."
+      },
+      {
+        "id": "tt17319710",
+        "title": "Bacri, comme un air de famille (2022)",
+        "season": 1,
+        "episode": 13,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt17319710/img",
+        "overview": "Rôle : Narrator (voice). Jean-Pierre Bacri n'était jamais content pour rien. Mais au-delà de la caricature du grincheux, depuis ses années d'apprentissage jusqu'à sa disparition en janvier 2021, ce film raconte ce Français par excellence : un ho…"
+      },
+      {
+        "id": "tt10545704",
+        "title": "Adieu monsieur Haffmann (2022)",
+        "season": 1,
+        "episode": 14,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10545704/img",
+        "overview": "Rôle : François Mercier. Paris 1941. François Mercier est un homme ordinaire qui n’aspire qu’à fonder une famille avec la femme qu’il aime, Blanche. Il est aussi l’employé d’un joaillier talentueux, Mr. Haffmann."
+      },
+      {
+        "id": "tt10404944",
+        "title": "BAC Nord (2021)",
+        "season": 1,
+        "episode": 15,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10404944/img",
+        "overview": "Rôle : Greg Cerva. 2012. Les quartiers Nord de Marseille détiennent un triste record : la zone au taux de criminalité le plus élevé de France."
+      },
+      {
+        "id": "tt14164922",
+        "title": "Astérix & Obélix : Le Combat des chefs (2025)",
+        "season": 1,
+        "episode": 16,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14164922/img",
+        "overview": "Rôle : Obélix (voice). Alors que Panoramix a oublié la recette de la potion magique, Astérix et Obélix doivent repousser César, qui compte bien arriver à ses fins grâce à une loi gauloise."
+      },
+      {
+        "id": "tt13286778",
+        "title": "La Flamme (2020)",
+        "season": 1,
+        "episode": 17,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13286778/img",
+        "overview": "Rôle : Milo. La vie lui a tout donné… sauf une co-pilote. Pendant neuf semaines dans une sublime villa, treize femmes vont s’affronter pour séduire Marc, pilote de ligne, et tenter d’allumer en lui… La Flamme !"
+      },
+      {
+        "id": "tt2040020",
+        "title": "Platane (2011)",
+        "season": 1,
+        "episode": 18,
+        "released": "2011-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt2040020/img",
+        "overview": "Rôle : Gilles Lellouche. Un soir, la voiture d’Eric percute un platane. Après un an de coma, il découvre que Ramzy a brillamment poursuivi sa carrière de comique sans lui en développant la série \"HP\", suite de leur sitcom à succès \"H\"."
+      }
+    ]
+  }
+}

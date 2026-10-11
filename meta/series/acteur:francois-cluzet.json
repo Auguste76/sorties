@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "id": "acteur:francois-cluzet",
+    "type": "series",
+    "name": "François Cluzet",
+    "poster": "https://image.tmdb.org/t/p/w500/f6PO7Lkrem1N4UmklxHro2k6Jto.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/f6PO7Lkrem1N4UmklxHro2k6Jto.jpg",
+    "description": "Né(e) le 1955-09-21 à Paris, France\n\nFrançois Cluzet, né le 21 septembre 1955 à Paris, est un acteur français.\n\nIl obtient, en 2007, à la suite de son interprétation dans Ne le dis à personne, le César du meilleur acteur, puis l'un des deux premiers rôles dans Intouchables (2011), qui a cumulé plusieurs dizaines de millions d'entrées en Europe.\n\nFrançois Robert Paul Cluzet est né rue des Martyrs dans le 9e arrondissement de Paris et a grandi dans le 7e…\n\nFilms : Pour le plaisir (2026) · Fils de (2025) · Un métier sérieux (2023) · Mascarade (2022) · Canailles (2022) · La Brigade (2022) · L'Homme de la cave (2021) · L'incroyable histoire de l'Île de la Rose (2020) · Poly (2020) · Nous finirons ensemble (2019) · Le Collier rouge (2018) · Mélancolie ouvrière (2018) · Normandie Nue (2018) · L'École buissonnière (2017) · Έτερος Εγώ (2017)\n\nSéries : La Cape et l'épée (2000)",
+    "links": [
+      {
+        "name": "Pour le plaisir",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt38607784"
+      },
+      {
+        "name": "Fils de",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt31539607"
+      },
+      {
+        "name": "Un métier sérieux",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt21348598"
+      },
+      {
+        "name": "Mascarade",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14534796"
+      },
+      {
+        "name": "Canailles",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13429654"
+      },
+      {
+        "name": "La Brigade",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14280366"
+      },
+      {
+        "name": "L'Homme de la cave",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13846372"
+      },
+      {
+        "name": "L'incroyable histoire de l'Île de la Rose",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10287954"
+      },
+      {
+        "name": "Poly",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11060092"
+      },
+      {
+        "name": "Nous finirons ensemble",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8201404"
+      },
+      {
+        "name": "Le Collier rouge",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7106814"
+      },
+      {
+        "name": "Mélancolie ouvrière",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6835680"
+      },
+      {
+        "name": "Normandie Nue",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6923840"
+      },
+      {
+        "name": "L'École buissonnière",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6330246"
+      },
+      {
+        "name": "Έτερος Εγώ",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5221894"
+      },
+      {
+        "name": "La Cape et l'épée",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0285348"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt38607784",
+        "title": "Pour le plaisir (2026)",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt38607784/img",
+        "overview": "Rôle : Thomas. Et si on vous racontait l’invention du siècle ? Un couple, une vérité qui explose. Fanny et Tom sont mariés et heureux depuis 20 ans. Mais un jour un secret éclate : Fanny n’a jamais eu d’orgasme."
+      },
+      {
+        "id": "tt31539607",
+        "title": "Fils de (2025)",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt31539607/img",
+        "overview": "Rôle : Lionel Perrin. Une semaine après la présidentielle, la France cherche toujours son Premier Ministre. Nino, jeune attaché parlementaire ambitieux, est missionné pour convaincre son père, Lionel Perrin d’accepter le poste."
+      },
+      {
+        "id": "tt21348598",
+        "title": "Un métier sérieux (2023)",
+        "season": 1,
+        "episode": 3,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt21348598/img",
+        "overview": "Rôle : Pierre. C’est la rentrée. Une nouvelle année scolaire au collège qui voit se retrouver Pierre, Meriem, Fouad, Sophie, Sandrine, Léo et Sofiane, un groupe d'enseignants engagés et soudés."
+      },
+      {
+        "id": "tt14534796",
+        "title": "Mascarade (2022)",
+        "season": 1,
+        "episode": 4,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14534796/img",
+        "overview": "Rôle : Simon Laurenti. Lorsqu’un jeune gigolo tombe sous le charme d’une sublime arnaqueuse, c’est le début d’un plan machiavélique sous le soleil brûlant de la Côte d’Azur."
+      },
+      {
+        "id": "tt13429654",
+        "title": "Canailles (2022)",
+        "season": 1,
+        "episode": 5,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13429654/img",
+        "overview": "Rôle : Antoine. Suite à un casse qui a mal tourné, Antoine blessé à la jambe, débarque de force chez Elias pour se trouver une planque."
+      },
+      {
+        "id": "tt14280366",
+        "title": "La Brigade (2022)",
+        "season": 1,
+        "episode": 6,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14280366/img",
+        "overview": "Rôle : Lorenzo. Cathy, 40 ans, serveuse à Antibes, a toujours voulu être cheffe de son propre restaurant."
+      },
+      {
+        "id": "tt13846372",
+        "title": "L'Homme de la cave (2021)",
+        "season": 1,
+        "episode": 7,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13846372/img",
+        "overview": "Rôle : Jacques Fonzic. Un couple décide de vendre une cave dans l’immeuble où ils habitent. Un homme se présente, banal, ordinaire. Il achète la cave. Deux semaines plus tard, l’homme s’y est installé."
+      },
+      {
+        "id": "tt10287954",
+        "title": "L'incroyable histoire de l'Île de la Rose (2020)",
+        "season": 1,
+        "episode": 8,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10287954/img",
+        "overview": "Rôle : Jean Baptiste Toma'. L'histoire de ‘L'île de la Rose’, une plate-forme construite de toute pièce par l'ingénieur Giorgio Rosa en 1968 au large de la côte Italienne en dehors des eaux territoriales qui devient bientôt un état indépendant."
+      },
+      {
+        "id": "tt11060092",
+        "title": "Poly (2020)",
+        "season": 1,
+        "episode": 9,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt11060092/img",
+        "overview": "Rôle : Victor. Cécile, 10 ans, déménage dans le sud de la France avec sa mère, Louise. L’intégration avec les autres enfants du village n’est pas facile."
+      },
+      {
+        "id": "tt8201404",
+        "title": "Nous finirons ensemble (2019)",
+        "season": 1,
+        "episode": 10,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt8201404/img",
+        "overview": "Rôle : Max Cantara. Préoccupé, Max est parti dans sa maison au bord de la mer pour se ressourcer. Sa bande de potes, qu’il n’a pas vue depuis plus de 3 ans débarque par surprise pour lui fêter son anniversaire !"
+      },
+      {
+        "id": "tt7106814",
+        "title": "Le Collier rouge (2018)",
+        "season": 1,
+        "episode": 11,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7106814/img",
+        "overview": "Rôle : Lantier. Dans une petite ville, écrasée par la chaleur de l’été, en 1919, un héros de la guerre est retenu prisonnier au fond d’une caserne déserte. Devant la porte, son chien tout cabossé aboie jour et nuit."
+      },
+      {
+        "id": "tt6835680",
+        "title": "Mélancolie ouvrière (2018)",
+        "season": 1,
+        "episode": 12,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6835680/img",
+        "overview": "Rôle : Pierre Baud. Lucie Baud naît en 1870 dans une famille de paysans pauvres de la région de Grenoble. A douze ans, elle entre comme apprentie dans une filature de soie et se marie à 20 ans avec un garde champêtre."
+      },
+      {
+        "id": "tt6923840",
+        "title": "Normandie Nue (2018)",
+        "season": 1,
+        "episode": 13,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6923840/img",
+        "overview": "Rôle : Georges Balbuzard. Au Mêle sur Sarthe, petit village normand, les éleveurs sont touchés par la crise."
+      },
+      {
+        "id": "tt6330246",
+        "title": "L'École buissonnière (2017)",
+        "season": 1,
+        "episode": 14,
+        "released": "2017-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6330246/img",
+        "overview": "Rôle : Totoche. Paris 1930. Paul n’a toujours eu qu’un seul et même horizon: les hauts murs de l’orphelinat, sévère bâtisse de la banlieue ouvrière parisienne."
+      },
+      {
+        "id": "tt5221894",
+        "title": "Έτερος Εγώ (2017)",
+        "season": 1,
+        "episode": 15,
+        "released": "2017-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5221894/img",
+        "overview": "Rôle : Marcel de Chaffe."
+      },
+      {
+        "id": "tt0285348",
+        "title": "La Cape et l'épée (2000)",
+        "season": 1,
+        "episode": 16,
+        "released": "2000-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0285348/img",
+        "overview": "Rôle : Ménestrel. La série met en scène les aventures burlesques de personnages médiévaux inventés comme le roi, la reine, le valet…\n\nChaque épisode est présenté par un ménestrel chargé de lire le générique, et d'être le narrateur de l'ép…"
+      }
+    ]
+  }
+}

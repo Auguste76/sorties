@@ -1,6 +1,6 @@
 {
   "id": "fr.auguste.sorties",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "name": "Sorties films et séries",
   "description": "Sorties de la semaine, titres à venir, départs des plateformes et séries suivies, en France.",
   "logo": "https://auguste76.github.io/sorties/logo.png",
@@ -208,6 +208,11 @@
       "type": "movie",
       "id": "acteurs-fiches",
       "name": "Acteurs (photos)"
+    },
+    {
+      "type": "series",
+      "id": "acteurs-fiches",
+      "name": "Acteurs (filmographie)"
     }
   ],
   "behaviorHints": {

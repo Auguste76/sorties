@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "id": "acteur:isabelle-huppert",
+    "type": "series",
+    "name": "Isabelle Huppert",
+    "poster": "https://image.tmdb.org/t/p/w500/wGG9v1Uci3sfrbjt0bRXkLrTqjY.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/wGG9v1Uci3sfrbjt0bRXkLrTqjY.jpg",
+    "description": "Né(e) le 1953-03-16 à Parc Montsouris, Paris, France\n\nIsabelle Huppert, née le 16 mars 1953 à Paris 16e (Seine), est une actrice et productrice française.\n\nCollaboratrice fidèle de Claude Chabrol, Benoît Jacquot et Michael Haneke, Isabelle Huppert alterne indistinctement scène et écran, cinéma d'auteur et films grand public.\n\nFilms : Ni vue, ni connue (2026) · Histoires parallèles (2026) · La Femme la plus riche du monde (2025) · La prisonnière de Bordeaux (2024) · Les Gens d'à côté (2024) · François Truffaut, le scénario de ma vie (2024) · La Voyageuse (2024) · Sidonie au Japon (2024) · La Syndicaliste (2023) · Mon crime (2023) · Caravage (2022) · EO (2022) · À propos de Joan (2022) · Une robe pour Mrs. Harris (2022) · Les Promesses (2022)\n\nSéries : The Romanoffs (2018) · New York Unité Spéciale (1999) · Les Voyages de Gulliver (1996)",
+    "links": [
+      {
+        "name": "Ni vue, ni connue",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt37799310"
+      },
+      {
+        "name": "Histoires parallèles",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36646880"
+      },
+      {
+        "name": "La Femme la plus riche du monde",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32759477"
+      },
+      {
+        "name": "La prisonnière de Bordeaux",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt30851085"
+      },
+      {
+        "name": "Les Gens d'à côté",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt26760867"
+      },
+      {
+        "name": "François Truffaut, le scénario de ma vie",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32220428"
+      },
+      {
+        "name": "La Voyageuse",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt31015344"
+      },
+      {
+        "name": "Sidonie au Japon",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt26254622"
+      },
+      {
+        "name": "La Syndicaliste",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt16987062"
+      },
+      {
+        "name": "Mon crime",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt20330434"
+      },
+      {
+        "name": "Caravage",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11877386"
+      },
+      {
+        "name": "EO",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt19652910"
+      },
+      {
+        "name": "À propos de Joan",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13153470"
+      },
+      {
+        "name": "Une robe pour Mrs. Harris",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5151570"
+      },
+      {
+        "name": "Les Promesses",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt13846472"
+      },
+      {
+        "name": "The Romanoffs",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt6599482"
+      },
+      {
+        "name": "New York Unité Spéciale",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0203259"
+      },
+      {
+        "name": "Les Voyages de Gulliver",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0115195"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt37799310",
+        "title": "Ni vue, ni connue (2026)",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt37799310/img",
+        "overview": "Rôle : Corinne Maclou. Corinne Maclou est figurante. Elle enchaîne les tournages, parcourt inlassablement les plateaux dans le seul espoir d’être remarquée et de décrocher enfin un vrai rôle."
+      },
+      {
+        "id": "tt36646880",
+        "title": "Histoires parallèles (2026)",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt36646880/img",
+        "overview": "Rôle : Sylvie. En quête d’inspiration pour son nouveau roman, Sylvie espionne ses voisins dans l’immeuble d’en face."
+      },
+      {
+        "id": "tt32759477",
+        "title": "La Femme la plus riche du monde (2025)",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt32759477/img",
+        "overview": "Rôle : Marianne Farrère. La femme la plus riche du monde : sa beauté, son intelligence, son pouvoir. Un photographe : son ambition, son insolence, sa folie. Le coup de foudre qui les emporte. Une héritière méfiante qui se bat pour être aimée."
+      },
+      {
+        "id": "tt30851085",
+        "title": "La prisonnière de Bordeaux (2024)",
+        "season": 1,
+        "episode": 4,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt30851085/img",
+        "overview": "Rôle : Alma Lund. Alma, seule dans sa grande maison en ville, et Mina, jeune mère dans une lointaine banlieue, ont organisé leur vie autour de l’absence de leurs deux maris détenus au même endroit… A l’occasion d’un parloir, les deux femm…"
+      },
+      {
+        "id": "tt26760867",
+        "title": "Les Gens d'à côté (2024)",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt26760867/img",
+        "overview": "Rôle : Lucie. Lucie est une agent spécialisée de la police technique et scientifique, proche de la retraite. Son quotidien solitaire est troublé par l’arrivée dans son lotissement d’un jeune couple, parents d’une petite fille."
+      },
+      {
+        "id": "tt32220428",
+        "title": "François Truffaut, le scénario de ma vie (2024)",
+        "season": 1,
+        "episode": 6,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt32220428/img",
+        "overview": "Rôle : Narrator (voice). A la fin de sa vie, François Truffaut se confia à son ami Claude de Givray, avec le projet d'écrire son autobiohraphie."
+      },
+      {
+        "id": "tt31015344",
+        "title": "La Voyageuse (2024)",
+        "season": 1,
+        "episode": 7,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt31015344/img",
+        "overview": "Rôle : Iris. Elle vient de France. Elle joue de la flûte à bec dans un parc. N'ayant aucun moyen de subsistance, on lui a conseillé d'enseigner le français. Elle est devenue professeur pour deux femmes."
+      },
+      {
+        "id": "tt26254622",
+        "title": "Sidonie au Japon (2024)",
+        "season": 1,
+        "episode": 8,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt26254622/img",
+        "overview": "Rôle : Sidonie Perceval. Sidonie se rend au Japon à l’occasion de la ressortie de son best-seller. Malgré le dévouement de son éditeur japonais avec qui elle découvre les traditions du pays, elle perd peu à peu ses repères… Surtout lorsqu’elle s…"
+      },
+      {
+        "id": "tt16987062",
+        "title": "La Syndicaliste (2023)",
+        "season": 1,
+        "episode": 9,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt16987062/img",
+        "overview": "Rôle : Maureen Kearney. LA SYNDICALISTE raconte l’histoire vraie de Maureen Kearney, déléguée CFDT chez Areva, qui, en 2012, est devenue lanceuse d’alerte pour dénoncer un secret d’État qui a secoué l’industrie du nucléaire en France."
+      },
+      {
+        "id": "tt20330434",
+        "title": "Mon crime (2023)",
+        "season": 1,
+        "episode": 10,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt20330434/img",
+        "overview": "Rôle : Odette Chaumette. Dans les années 30 à Paris, Madeleine Verdier, jeune et jolie actrice sans le sou et sans talent, est accusée du meurtre d’un célèbre producteur."
+      },
+      {
+        "id": "tt11877386",
+        "title": "Caravage (2022)",
+        "season": 1,
+        "episode": 11,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt11877386/img",
+        "overview": "Rôle : Costanza Sforza Colonna. Italie 1609. Accusé de meurtre, Le Caravage a fui Rome et s’est réfugié à Naples. Soutenu par la puissante famille Colonna, Le Caravage tente d’obtenir la grâce de l’Église pour revenir à Rome."
+      },
+      {
+        "id": "tt19652910",
+        "title": "EO (2022)",
+        "season": 1,
+        "episode": 12,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt19652910/img",
+        "overview": "Rôle : The Countess. Le monde est un lieu mystérieux, surtout vu à travers les yeux d'un animal. Sur son chemin, EO, un âne gris aux yeux mélancoliques, rencontre des gens bien et d'autres mauvais, fait l'expérience de la joie et de la peine…"
+      },
+      {
+        "id": "tt13153470",
+        "title": "À propos de Joan (2022)",
+        "season": 1,
+        "episode": 13,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13153470/img",
+        "overview": "Rôle : Joan Verra. Joan Verra a toujours été une femme indépendante, amoureuse, habitée par un esprit libre et aventureux."
+      },
+      {
+        "id": "tt5151570",
+        "title": "Une robe pour Mrs. Harris (2022)",
+        "season": 1,
+        "episode": 14,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5151570/img",
+        "overview": "Rôle : Claudine Colbert. Dans le Londres de l’après-guerre, Ada Harris gagne sa vie en faisant des ménages. Si elle mène une vie très solitaire depuis le décès de son mari Eddie, porté disparu au combat."
+      },
+      {
+        "id": "tt13846472",
+        "title": "Les Promesses (2022)",
+        "season": 1,
+        "episode": 15,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13846472/img",
+        "overview": "Rôle : Clémence Collombet. Maire d’une ville du 93, Clémence livre avec Yazid, son directeur de cabinet, une bataille acharnée pour sauver le quartier des Bernardins, une cité minée par l’insalubrité et les \"marchands de sommeil\"."
+      },
+      {
+        "id": "tt6599482",
+        "title": "The Romanoffs (2018)",
+        "season": 1,
+        "episode": 16,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6599482/img",
+        "overview": "Rôle : Jacqueline. A chaque épisode, une histoire centrée sur une personne persuadée être une descendante de la célèbre famille royale russe."
+      },
+      {
+        "id": "tt0203259",
+        "title": "New York Unité Spéciale (1999)",
+        "season": 1,
+        "episode": 17,
+        "released": "1999-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0203259/img",
+        "overview": "Rôle : Sophie Gerard. Les inspecteurs qui font partie de la division des Crimes sexuels (SVU) du service de police de la ville de New York (NYPD) enquêtent sur des crimes de nature sexuelle."
+      },
+      {
+        "id": "tt0115195",
+        "title": "Les Voyages de Gulliver (1996)",
+        "season": 1,
+        "episode": 18,
+        "released": "1996-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0115195/img",
+        "overview": "Rôle : Houyhnhnm Mistress (voice). Après huit ans d'absence, Lemuel Gulliver refait surface et raconte ses aventures à la rencontre des petits hommes de Lilliput, des géants de Brobdingnag, des scientifiques de Laputa et des primitifs Yahoos."
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "id": "acteur:romain-duris",
+    "type": "series",
+    "name": "Romain Duris",
+    "poster": "https://image.tmdb.org/t/p/w500/70KN228eNpvouPTCxDSurnCzx9G.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/70KN228eNpvouPTCxDSurnCzx9G.jpg",
+    "description": "Né(e) le 1974-05-28 à Paris, France\n\nRomain Duris, né le 28 mai 1974 à Paris, est un acteur français.\n\nIl a tourné sept fois avec Cédric Klapisch. Il est ainsi surtout connu pour le rôle de Xavier Rousseau, héros de la trilogie L'Auberge espagnole (1999-2013).\n\nFilms : Fils de personne (2026) · Furcy, né libre (2026) · Chien 51 (2025) · Rembrandt (2025) · Une part manquante (2024) · La Nuit se traîne (2024) · Daaaaaalí ! (2024) · Les Trois Mousquetaires : Milady (2023) · Le Règne animal (2023) · Les Trois Mousquetaires : D'Artagnan (2023) · Coupez ! (2022) · Charlotte (2022) · En attendant Bojangles (2021) · Eiffel (2021) · Le Regard de Charles (2019)\n\nSéries : Salade grecque (2023) · Vernon Subutex (2019)",
+    "links": [
+      {
+        "name": "Fils de personne",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36827509"
+      },
+      {
+        "name": "Furcy, né libre",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt31183235"
+      },
+      {
+        "name": "Chien 51",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt33255286"
+      },
+      {
+        "name": "Rembrandt",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt31539698"
+      },
+      {
+        "name": "Une part manquante",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt21993194"
+      },
+      {
+        "name": "La Nuit se traîne",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt16826430"
+      },
+      {
+        "name": "Daaaaaalí !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt23476446"
+      },
+      {
+        "name": "Les Trois Mousquetaires : Milady",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt12672620"
+      },
+      {
+        "name": "Le Règne animal",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt16606592"
+      },
+      {
+        "name": "Les Trois Mousquetaires : D'Artagnan",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt12672536"
+      },
+      {
+        "name": "Coupez !",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14317880"
+      },
+      {
+        "name": "Charlotte",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5806814"
+      },
+      {
+        "name": "En attendant Bojangles",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11310608"
+      },
+      {
+        "name": "Eiffel",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10366514"
+      },
+      {
+        "name": "Le Regard de Charles",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10749896"
+      },
+      {
+        "name": "Salade grecque",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt27165867"
+      },
+      {
+        "name": "Vernon Subutex",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt9844334"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt36827509",
+        "title": "Fils de personne (2026)",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt36827509/img",
+        "overview": "Rôle : Thomas. Peu après avoir adopté Mapring, un petit garçon de quatre ans né en Thaïlande, la vie de Thomas prend un tournant tragique lorsque sa femme Mathilda meurt dans un accident."
+      },
+      {
+        "id": "tt31183235",
+        "title": "Furcy, né libre (2026)",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt31183235/img",
+        "overview": "Rôle : Boucher. Île de la Réunion, 1817. À la mort de sa mère, l'esclave Furcy découvre des documents qui pourraient faire de lui un homme libre."
+      },
+      {
+        "id": "tt33255286",
+        "title": "Chien 51 (2025)",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt33255286/img",
+        "overview": "Rôle : Théo Rimarval. Dans un futur proche, Paris a été divisé en 3 zones qui séparent les classes sociales et où l’intelligence artificielle ALMA a révolutionné le travail de la police."
+      },
+      {
+        "id": "tt31539698",
+        "title": "Rembrandt (2025)",
+        "season": 1,
+        "episode": 4,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt31539698/img",
+        "overview": "Rôle : Yves. Claire et Yves, physiciens de formation, travaillent dans le nucléaire depuis toujours. Lors d’une visite à la National Gallery, Claire va être bouleversée par trois toiles de Rembrandt."
+      },
+      {
+        "id": "tt21993194",
+        "title": "Une part manquante (2024)",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt21993194/img",
+        "overview": "Rôle : Jay. Tous les jours, Jay parcourt Tokyo au volant de son taxi à la recherche de sa fille, Lily. Séparé depuis 9 ans, il n’a jamais pu obtenir sa garde."
+      },
+      {
+        "id": "tt16826430",
+        "title": "La Nuit se traîne (2024)",
+        "season": 1,
+        "episode": 6,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt16826430/img",
+        "overview": "Rôle : Yannick. Ce soir-là, Mady, étudiant le jour et serrurier la nuit, voit sa vie basculer quand il ouvre la mauvaise porte et devient accidentellement complice d'une affaire de grand banditisme."
+      },
+      {
+        "id": "tt23476446",
+        "title": "Daaaaaalí ! (2024)",
+        "season": 1,
+        "episode": 7,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt23476446/img",
+        "overview": "Rôle : Jérôme. Judith, une ex-pharmacienne qui s'est tournée vers le journalisme, vient d'obtenir une entrevue avec le grand peintre Salvador Dali."
+      },
+      {
+        "id": "tt12672620",
+        "title": "Les Trois Mousquetaires : Milady (2023)",
+        "season": 1,
+        "episode": 8,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt12672620/img",
+        "overview": "Rôle : Aramis. Constance Bonacieux est enlevée sous les yeux de D'Artagnan. Dans une quête effrénée pour la sauver, le jeune mousquetaire est contraint de s'allier à la mystérieuse Milady de Winter."
+      },
+      {
+        "id": "tt16606592",
+        "title": "Le Règne animal (2023)",
+        "season": 1,
+        "episode": 9,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt16606592/img",
+        "overview": "Rôle : François. Un mal étrange frappe l'humanité : des mutations transforment les humains en animaux. Considérés comme dangereux car incontrôlables, ces humains mi-homme mi-animal sont placés dans des centres spécialisés."
+      },
+      {
+        "id": "tt12672536",
+        "title": "Les Trois Mousquetaires : D'Artagnan (2023)",
+        "season": 1,
+        "episode": 10,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt12672536/img",
+        "overview": "Rôle : Aramis. Du Louvre au Palais de Buckingham, des bas-fonds de Paris au siège de La Rochelle..."
+      },
+      {
+        "id": "tt14317880",
+        "title": "Coupez ! (2022)",
+        "season": 1,
+        "episode": 11,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14317880/img",
+        "overview": "Rôle : Rémi / Higurashi. Un tournage de film de zombies dans un bâtiment désaffecté. Entre techniciens blasés et acteurs pas vraiment concernés, seul le réalisateur semble investi de l’énergie nécessaire pour donner vie à un énième film d'horreu…"
+      },
+      {
+        "id": "tt5806814",
+        "title": "Charlotte (2022)",
+        "season": 1,
+        "episode": 12,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5806814/img",
+        "overview": "Rôle : French Alfred Wolfsohn. Berlin, années 30. Charlotte Salomon est une jeune fille de bonne famille, frondeuse. Lors d’un voyage à Rome, elle visite la chapelle Sixtine et découvre le plafond de Michel-Ange."
+      },
+      {
+        "id": "tt11310608",
+        "title": "En attendant Bojangles (2021)",
+        "season": 1,
+        "episode": 13,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt11310608/img",
+        "overview": "Rôle : Georges. Camille et Georges dansent tout le temps sur leur chanson préférée Mr Bojangles. Chez eux, il n'y a de place que pour le plaisir, la fantaisie et les amis."
+      },
+      {
+        "id": "tt10366514",
+        "title": "Eiffel (2021)",
+        "season": 1,
+        "episode": 14,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10366514/img",
+        "overview": "Rôle : Gustave Eiffel. Venant tout juste de terminer sa collaboration sur la Statue de la Liberté, Gustave Eiffel est au sommet de sa carrière."
+      },
+      {
+        "id": "tt10749896",
+        "title": "Le Regard de Charles (2019)",
+        "season": 1,
+        "episode": 15,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10749896/img",
+        "overview": "Rôle : Charles Aznavour (voice). En 1948, ‪Edith Piaf‬ offre sa première caméra à ‪Charles Aznavour‬, une Paillard Bolex qui ne le quittera plus. Jusqu’en 1982 Charles filmera des heures de pellicules qui formeront le corpus de son journal filmé."
+      },
+      {
+        "id": "tt27165867",
+        "title": "Salade grecque (2023)",
+        "season": 1,
+        "episode": 16,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt27165867/img",
+        "overview": "Rôle : Xavier. Tom et Mia (les enfants de Wendy et Xavier, personnages de « L'auberge espagnole ») partent vivre une nouvelle aventure à Athènes."
+      },
+      {
+        "id": "tt9844334",
+        "title": "Vernon Subutex (2019)",
+        "season": 1,
+        "episode": 17,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt9844334/img",
+        "overview": "Rôle : Vernon Subutex. La vie de Vernon Subutex, disquaire au chômage, bascule, le jour où il est expulsé de chez lui et qu'une rock star meurt en lui laissant de mystérieux enregistrements."
+      }
+    ]
+  }
+}

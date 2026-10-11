@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "id": "acteur:fabrice-luchini",
+    "type": "series",
+    "name": "Fabrice Luchini",
+    "poster": "https://image.tmdb.org/t/p/w500/krR5EUfM13UJwsB07ffzPU7FXYR.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/krR5EUfM13UJwsB07ffzPU7FXYR.jpg",
+    "description": "Né(e) le 1951-11-01 à Paris, France\n\nRobert Luchini, dit Fabrice Luchini, né le 1e rnovembre 1951 dans le 9e arrondissement de Paris, est un acteur français.  Nommé onze fois aux César, Fabrice Luchini est lauréat du César du meilleur acteur dans un second rôle en 1994 pour son rôle dans Tout ça… pour ça! de Claude Lelouch.\n\nRobert Luchini naît le 1er novembre 1951 dans le 9e arrondissement de Paris.\n\nFilms : Victor comme tout le monde (2026) · Natacha (presque) hôtesse de l'air (2025) · Le Secret de Khéops (2025) · Marcello Mio (2024) · L'Empire (2024) · La Petite (2023) · Mon crime (2023) · Un homme heureux (2023) · Le meilleur reste à venir (2019) · Jeanne (2019) · Les Trésors de Marcel Pagnol (2019) · Alice et le Maire (2019) · Le Mystère Henri Pick (2019) · L'Empereur de Paris (2018) · Un homme pressé (2018)\n\nSéries : Tapie (2023) · Fantômas (1980)",
+    "links": [
+      {
+        "name": "Victor comme tout le monde",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt39149806"
+      },
+      {
+        "name": "Natacha (presque) hôtesse de l'air",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32370862"
+      },
+      {
+        "name": "Le Secret de Khéops",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt34482468"
+      },
+      {
+        "name": "Marcello Mio",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32086069"
+      },
+      {
+        "name": "L'Empire",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt17375596"
+      },
+      {
+        "name": "La Petite",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt26255180"
+      },
+      {
+        "name": "Mon crime",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt20330434"
+      },
+      {
+        "name": "Un homme heureux",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt23740404"
+      },
+      {
+        "name": "Le meilleur reste à venir",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt9284430"
+      },
+      {
+        "name": "Jeanne",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8669356"
+      },
+      {
+        "name": "Les Trésors de Marcel Pagnol",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10443162"
+      },
+      {
+        "name": "Alice et le Maire",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8903840"
+      },
+      {
+        "name": "Le Mystère Henri Pick",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8263936"
+      },
+      {
+        "name": "L'Empereur de Paris",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7025976"
+      },
+      {
+        "name": "Un homme pressé",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6948326"
+      },
+      {
+        "name": "Tapie",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt27921612"
+      },
+      {
+        "name": "Fantômas",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0138234"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt39149806",
+        "title": "Victor comme tout le monde (2026)",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt39149806/img",
+        "overview": "Rôle : Robert Zuchini. Habité par Victor Hugo, le comédien Robert Zucchini traîne une douce mélancolie lorsqu'il n'est pas sur scène. Chaque soir, il remplit les salles en transmettant son amour des mots."
+      },
+      {
+        "id": "tt32370862",
+        "title": "Natacha (presque) hôtesse de l'air (2025)",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt32370862/img",
+        "overview": "Rôle : Narrator. Depuis sa plus tendre enfance, Natacha est bien décidée à devenir hôtesse de l’air afin d’échapper aux diktats d’une époque où la femme se doit de rester à la maison."
+      },
+      {
+        "id": "tt34482468",
+        "title": "Le Secret de Khéops (2025)",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt34482468/img",
+        "overview": "Rôle : Christian. Le trésor du pharaon Khéops a-t-il été découvert pendant la campagne d’Égypte de Napoléon, ramené en France, puis caché à Paris ?"
+      },
+      {
+        "id": "tt32086069",
+        "title": "Marcello Mio (2024)",
+        "season": 1,
+        "episode": 4,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt32086069/img",
+        "overview": "Rôle : Fabrice. C’est l’histoire d’une femme qui s’appelle Chiara.\r Elle est actrice, elle est la fille de Marcello Mastroianni et Catherine Deneuve et le temps d’un été, chahutée dans sa propre vie, elle se raconte qu’elle devrait plut…"
+      },
+      {
+        "id": "tt17375596",
+        "title": "L'Empire (2024)",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt17375596/img",
+        "overview": "Rôle : Belzébuth. Sous les dehors de la vie commune d'habitants d'un village de pêcheurs de la côte d’Opale, surgit la vie parallèle et épique de chevaliers d'empires interplanétaires."
+      },
+      {
+        "id": "tt26255180",
+        "title": "La Petite (2023)",
+        "season": 1,
+        "episode": 6,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt26255180/img",
+        "overview": "Rôle : Joseph. Joseph apprend que son fils et le compagnon de celui-ci viennent de périr dans un accident. Ils attendaient un enfant via une mère porteuse en Belgique. Que va devenir leur futur bébé ?"
+      },
+      {
+        "id": "tt20330434",
+        "title": "Mon crime (2023)",
+        "season": 1,
+        "episode": 7,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt20330434/img",
+        "overview": "Rôle : Judge Rabusset. Dans les années 30 à Paris, Madeleine Verdier, jeune et jolie actrice sans le sou et sans talent, est accusée du meurtre d’un célèbre producteur."
+      },
+      {
+        "id": "tt23740404",
+        "title": "Un homme heureux (2023)",
+        "season": 1,
+        "episode": 8,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt23740404/img",
+        "overview": "Rôle : Jean Leroy. Alors que Jean, maire très conservateur d'une petite ville du Nord, est en campagne pour sa réélection, Édith, sa femme depuis quarante ans, lui annonce une nouvelle qu’elle ne peut plus taire… Au plus profond de son êtr…"
+      },
+      {
+        "id": "tt9284430",
+        "title": "Le meilleur reste à venir (2019)",
+        "season": 1,
+        "episode": 9,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt9284430/img",
+        "overview": "Rôle : Arthur Dreyfus. Suite à un énorme malentendu, deux amis d’enfance, chacun persuadé que l’autre n’a plus que quelques mois à vivre, décident de tout plaquer pour rattraper le temps perdu."
+      },
+      {
+        "id": "tt8669356",
+        "title": "Jeanne (2019)",
+        "season": 1,
+        "episode": 10,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt8669356/img",
+        "overview": "Rôle : Roi Charles VII. Année 1429. La guerre de Cent Ans fait rage. Jeanne, investie d’une mission guerriere et spirituelle, délivre la ville d’orlean et remet le Dauphin sur le trône de France."
+      },
+      {
+        "id": "tt10443162",
+        "title": "Les Trésors de Marcel Pagnol (2019)",
+        "season": 1,
+        "episode": 11,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10443162/img",
+        "overview": "Rôle : Narrator (voice). A l'appui de nombreuses archives inédites, d'extraits de films, de romans, de pièces de théâtre, mais aussi de documents fournis par son petit-fils Nicolas Pagnol, le documentaire retrace la vie et l'oeuvre de Marcel Pag…"
+      },
+      {
+        "id": "tt8903840",
+        "title": "Alice et le Maire (2019)",
+        "season": 1,
+        "episode": 12,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt8903840/img",
+        "overview": "Rôle : Paul Theraneau. Le maire de Lyon, qui est au bout du rouleau. Il n'a plus une seule idée. Après trente ans de vie politique, il se sent complètement vide."
+      },
+      {
+        "id": "tt8263936",
+        "title": "Le Mystère Henri Pick (2019)",
+        "season": 1,
+        "episode": 13,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt8263936/img",
+        "overview": "Rôle : Jean Michel Rouche. Une éditrice découvre un roman extraordinaire dans une bibliothèque qui recueille les manuscrits refusés par les éditeurs. Le texte, signé Henri Pick, devient un best-seller."
+      },
+      {
+        "id": "tt7025976",
+        "title": "L'Empereur de Paris (2018)",
+        "season": 1,
+        "episode": 14,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7025976/img",
+        "overview": "Rôle : Fouché. Sous le règne de Napoléon, François Vidocq, le seul homme à s'être échappé des plus grands bagnes du pays, est une légende des bas-fonds parisiens."
+      },
+      {
+        "id": "tt6948326",
+        "title": "Un homme pressé (2018)",
+        "season": 1,
+        "episode": 15,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6948326/img",
+        "overview": "Rôle : Alain. Alain, un homme d’affaires pressé, court après le temps. Dans sa vie, aucune place pour les loisirs ou la famille. Lorsqu’un jour, un AVC lui fait perdre le langage et employer un mot pour un autre !"
+      },
+      {
+        "id": "tt27921612",
+        "title": "Tapie (2023)",
+        "season": 1,
+        "episode": 16,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt27921612/img",
+        "overview": "Rôle : Marcel Loiseau. De chanteur à businessman, de ministre à prisonnier, Bernard Tapie a tout connu. À travers ses réussites comme ses échecs, le destin romanesque d’une personnalité publique hors du commun."
+      },
+      {
+        "id": "tt0138234",
+        "title": "Fantômas (1980)",
+        "season": 1,
+        "episode": 17,
+        "released": "1980-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0138234/img",
+        "overview": "Rôle : Bonardin. Les célèbres enquêtes de l'inspecteur Juves, et du jeune Fandor, sur la trace de Fantômas, l'homme aux mille visages, sont ici transposées dans le Paris des années 1930."
+      }
+    ]
+  }
+}

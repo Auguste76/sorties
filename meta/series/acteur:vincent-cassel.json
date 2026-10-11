@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "id": "acteur:vincent-cassel",
+    "type": "series",
+    "name": "Vincent Cassel",
+    "poster": "https://image.tmdb.org/t/p/w500/ivUQfhn5olOmR5hthN8C8GThBV4.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/ivUQfhn5olOmR5hthN8C8GThBV4.jpg",
+    "description": "Né(e) le 1966-11-23 à Paris, France\n\nVincent Cassel, né Vincent Crochon le 23 novembre 1966 à Paris, est un acteur, réalisateur et producteur français.\n\nEn 1995, il acquiert une renommée internationale pour son rôle dans La Haine de Matthieu Kassovitz, qui lui permet d'être doublement nommé aux César dans les catégories «Meilleur acteur» et «Meilleur espoir masculin».\n\nFilms : Histoires parallèles (2026) · Sacrifice (2026) · Les Linceuls (2025) · Banger (2025) · Saint-Ex (2024) · Damaged (2024) · Les Trois Mousquetaires : Milady (2023) · Les Trois Mousquetaires : D'Artagnan (2023) · Astérix & Obélix : L'Empire du Milieu (2023) · Cousteau : De l'homme à la légende (2021) · Les méchants (2021) · Le bonheur des uns... (2020) · Underwater (2020) · Hors normes (2019) · L'Empereur de Paris (2018)\n\nSéries : Fiasco (2024) · Liaison (2023) · Westworld (2016) · Platane (2011) · Les Grandes Migrations (2010) · Alice Nevers, le juge est une femme (2002) · Lascars (1998)",
+    "links": [
+      {
+        "name": "Histoires parallèles",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36646880"
+      },
+      {
+        "name": "Sacrifice",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt32268992"
+      },
+      {
+        "name": "Les Linceuls",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt20212786"
+      },
+      {
+        "name": "Banger",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt35434840"
+      },
+      {
+        "name": "Saint-Ex",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27156915"
+      },
+      {
+        "name": "Damaged",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt27304026"
+      },
+      {
+        "name": "Les Trois Mousquetaires : Milady",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt12672620"
+      },
+      {
+        "name": "Les Trois Mousquetaires : D'Artagnan",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt12672536"
+      },
+      {
+        "name": "Astérix & Obélix : L'Empire du Milieu",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11210390"
+      },
+      {
+        "name": "Cousteau : De l'homme à la légende",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10334438"
+      },
+      {
+        "name": "Les méchants",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt12594018"
+      },
+      {
+        "name": "Le bonheur des uns...",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt10334410"
+      },
+      {
+        "name": "Underwater",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5774060"
+      },
+      {
+        "name": "Hors normes",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8655470"
+      },
+      {
+        "name": "L'Empereur de Paris",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7025976"
+      },
+      {
+        "name": "Fiasco",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt27415863"
+      },
+      {
+        "name": "Liaison",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt14792896"
+      },
+      {
+        "name": "Westworld",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0475784"
+      },
+      {
+        "name": "Platane",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt2040020"
+      },
+      {
+        "name": "Les Grandes Migrations",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt1769803"
+      },
+      {
+        "name": "Alice Nevers, le juge est une femme",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0169458"
+      },
+      {
+        "name": "Lascars",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0856138"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt36646880",
+        "title": "Histoires parallèles (2026)",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt36646880/img",
+        "overview": "Rôle : Pierre / Nicolas. En quête d’inspiration pour son nouveau roman, Sylvie espionne ses voisins dans l’immeuble d’en face."
+      },
+      {
+        "id": "tt32268992",
+        "title": "Sacrifice (2026)",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt32268992/img",
+        "overview": "Rôle : Ben Bracken. Un gala de charité est interrompu par l'attaque d'un violent groupe de radicaux lancés dans une mystérieuse quête pour accomplir une prophétie."
+      },
+      {
+        "id": "tt20212786",
+        "title": "Les Linceuls (2025)",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt20212786/img",
+        "overview": "Rôle : Karsh Relikh. Karsh, 50 ans, est un homme d’affaires renommé. Inconsolable depuis le décès de son épouse, il invente un système révolutionnaire et controversé, GraveTech, qui permet aux vivants de se connecter à leurs chers disparus d…"
+      },
+      {
+        "id": "tt35434840",
+        "title": "Banger (2025)",
+        "season": 1,
+        "episode": 4,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt35434840/img",
+        "overview": "Rôle : Luis / Scorpex. Contacté par la DGSI, un DJ has-been accepte d'infiltrer une bande de voyous dans laquelle trempe son ennemi juré. Son plan : écarter son rival et revenir au sommet avec un banger."
+      },
+      {
+        "id": "tt27156915",
+        "title": "Saint-Ex (2024)",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt27156915/img",
+        "overview": "Rôle : Henri Guillaumet. En 1930, Antoine de Saint-Exupéry est pilote de l’Aéropostale en Argentine. Quand Henri Guillaumet, son meilleur ami et le meilleur pilote, disparaît dans la Cordillère des Andes, Saint-Ex décide malgré tout de partir à…"
+      },
+      {
+        "id": "tt27304026",
+        "title": "Damaged (2024)",
+        "season": 1,
+        "episode": 6,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt27304026/img",
+        "overview": "Rôle : Walker Bravo. Un détective de Chicago part enquêter en Écosse sur un tueur en série, a annoncé la presse américaine."
+      },
+      {
+        "id": "tt12672620",
+        "title": "Les Trois Mousquetaires : Milady (2023)",
+        "season": 1,
+        "episode": 7,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt12672620/img",
+        "overview": "Rôle : Athos. Constance Bonacieux est enlevée sous les yeux de D'Artagnan. Dans une quête effrénée pour la sauver, le jeune mousquetaire est contraint de s'allier à la mystérieuse Milady de Winter."
+      },
+      {
+        "id": "tt12672536",
+        "title": "Les Trois Mousquetaires : D'Artagnan (2023)",
+        "season": 1,
+        "episode": 8,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt12672536/img",
+        "overview": "Rôle : Athos. Du Louvre au Palais de Buckingham, des bas-fonds de Paris au siège de La Rochelle..."
+      },
+      {
+        "id": "tt11210390",
+        "title": "Astérix & Obélix : L'Empire du Milieu (2023)",
+        "season": 1,
+        "episode": 9,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt11210390/img",
+        "overview": "Rôle : Jules César. Nous sommes en 50 avant J.C. L’Impératrice de Chine est emprisonnée suite à un coup d’État fomenté par Deng Tsin Quin, un prince félon."
+      },
+      {
+        "id": "tt10334438",
+        "title": "Cousteau : De l'homme à la légende (2021)",
+        "season": 1,
+        "episode": 10,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10334438/img",
+        "overview": "Rôle : (voice). Cousteau : De l'homme à la légende s’appuie sur plus d’une centaine d’heures d’enregistrements audio, d’interviews et de témoignages de ses collaborateurs et membres d’équipage."
+      },
+      {
+        "id": "tt12594018",
+        "title": "Les méchants (2021)",
+        "season": 1,
+        "episode": 11,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt12594018/img",
+        "overview": "Rôle : Actor in Guillaume Kekchoz's new film. Après avoir volé une console de jeux vidéos à des migrants, Sébastien tente de la revendre à Patrick, un gentil.  Jusqu'ici, rien de bien méchant."
+      },
+      {
+        "id": "tt10334410",
+        "title": "Le bonheur des uns... (2020)",
+        "season": 1,
+        "episode": 12,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt10334410/img",
+        "overview": "Rôle : Marc. Léa, Marc, Karine et Francis sont deux couples d’amis de longue date. Le mari macho, la copine un peu grande gueule, chacun occupe sa place dans le groupe."
+      },
+      {
+        "id": "tt5774060",
+        "title": "Underwater (2020)",
+        "season": 1,
+        "episode": 13,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5774060/img",
+        "overview": "Rôle : Captain Lucien. Une équipe scientifique sous-marine fait face à un tremblement de terre. Sous l'eau, ils vont devoir essayer de survivre."
+      },
+      {
+        "id": "tt8655470",
+        "title": "Hors normes (2019)",
+        "season": 1,
+        "episode": 14,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt8655470/img",
+        "overview": "Rôle : Bruno Haroche. Bruno et Malik vivent depuis 20 ans dans un monde à part, celui des enfants et adolescents autistes."
+      },
+      {
+        "id": "tt7025976",
+        "title": "L'Empereur de Paris (2018)",
+        "season": 1,
+        "episode": 15,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7025976/img",
+        "overview": "Rôle : Vidocq. Sous le règne de Napoléon, François Vidocq, le seul homme à s'être échappé des plus grands bagnes du pays, est une légende des bas-fonds parisiens."
+      },
+      {
+        "id": "tt27415863",
+        "title": "Fiasco (2024)",
+        "season": 1,
+        "episode": 16,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt27415863/img",
+        "overview": "Rôle : Robin Jacomet. Sur le tournage de son premier film, un réalisateur voit l'expérience virer au cauchemar, et l'équipe du making-of enregistre tout : couacs, menaces et tentatives de sabordage..."
+      },
+      {
+        "id": "tt14792896",
+        "title": "Liaison (2023)",
+        "season": 1,
+        "episode": 17,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14792896/img",
+        "overview": "Rôle : Gabriel Delage. Deux agents, anciens amants, doivent s’unir pour contrer des cyberattaques internationales qui menacent le Royaume-Uni tout en affrontant les secrets enfouis de leur relation explosive."
+      },
+      {
+        "id": "tt0475784",
+        "title": "Westworld (2016)",
+        "season": 1,
+        "episode": 18,
+        "released": "2016-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0475784/img",
+        "overview": "Rôle : Serac. À Westworld, un parc d'attractions dernier cri, les visiteurs paient des fortunes pour revivre le frisson de la conquête de l'Ouest."
+      },
+      {
+        "id": "tt2040020",
+        "title": "Platane (2011)",
+        "season": 1,
+        "episode": 19,
+        "released": "2011-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt2040020/img",
+        "overview": "Rôle : Vincent Cassel. Un soir, la voiture d’Eric percute un platane. Après un an de coma, il découvre que Ramzy a brillamment poursuivi sa carrière de comique sans lui en développant la série \"HP\", suite de leur sitcom à succès \"H\"."
+      },
+      {
+        "id": "tt1769803",
+        "title": "Les Grandes Migrations (2010)",
+        "season": 1,
+        "episode": 20,
+        "released": "2010-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt1769803/img",
+        "overview": "Cette série documentaire a nécessité 3 ans de travail aux équipes de National Geographic, qui se sont rendues dans une vingtaine de pays et ont parcouru plus de 680.000 kilomètres."
+      },
+      {
+        "id": "tt0169458",
+        "title": "Alice Nevers, le juge est une femme (2002)",
+        "season": 1,
+        "episode": 21,
+        "released": "2002-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0169458/img",
+        "overview": "Rôle : Corsini. Les forces de police font ici équipe avec la juge d'instruction Alice Nevers pour résoudre leurs enquêtes..."
+      },
+      {
+        "id": "tt0856138",
+        "title": "Lascars (1998)",
+        "season": 1,
+        "episode": 22,
+        "released": "1998-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0856138/img",
+        "overview": "Rôle : Graffeur. Cette série met en scène les aventures ou mésaventures de jeunes de banlieue, avec autodérision au cœur de la \"culture de la vanne\", des \"bastons de regards\", et des \"gros mytho\".\n\nToutes ces histoires ne sont évidemment…"
+      }
+    ]
+  }
+}

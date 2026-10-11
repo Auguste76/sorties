@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "id": "acteur:marion-cotillard",
+    "type": "series",
+    "name": "Marion Cotillard",
+    "poster": "https://image.tmdb.org/t/p/w500/biitzOF0GffIqFYLyOPkoiaOngQ.jpg",
+    "posterShape": "poster",
+    "background": "https://image.tmdb.org/t/p/w500/biitzOF0GffIqFYLyOPkoiaOngQ.jpg",
+    "description": "Né(e) le 1975-09-30 à Paris, France\n\nActive au cinéma depuis la fin des années 1990, elle est révélée au grand public par son rôle de Lilly Bertineau dans la saga Taxi de Luc Besson, qu'elle incarnera dans les trois premiers films de la franchise.\n\nFilms : La Tour de glace (2025) · Lee Miller (2024) · Little Girl Blue (2023) · Léo, la fabuleuse histoire de Léonard de Vinci (2023) · Astérix & Obélix : L'Empire du Milieu (2023) · Frère et Sœur (2022) · La Vengeance au triple galop (2021) · Annette (2021) · Le voyage du Dr Dolittle (2020) · Nous finirons ensemble (2019) · Gueule d'ange (2018) · Dans les yeux de Thomas Pesquet (2018) · Les Fantômes d'Ismaël (2017) · Rock'n Roll (2017) · Assassin's Creed (2016)\n\nSéries : Extrapolations (2023) · The Morning Show (2019) · Highlander (1992)",
+    "links": [
+      {
+        "name": "La Tour de glace",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt28171985"
+      },
+      {
+        "name": "Lee Miller",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5112584"
+      },
+      {
+        "name": "Little Girl Blue",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt26714897"
+      },
+      {
+        "name": "Léo, la fabuleuse histoire de Léonard de Vinci",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5822848"
+      },
+      {
+        "name": "Astérix & Obélix : L'Empire du Milieu",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt11210390"
+      },
+      {
+        "name": "Frère et Sœur",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt14622802"
+      },
+      {
+        "name": "La Vengeance au triple galop",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt15440966"
+      },
+      {
+        "name": "Annette",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6217926"
+      },
+      {
+        "name": "Le voyage du Dr Dolittle",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt6673612"
+      },
+      {
+        "name": "Nous finirons ensemble",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt8201404"
+      },
+      {
+        "name": "Gueule d'ange",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt7534096"
+      },
+      {
+        "name": "Dans les yeux de Thomas Pesquet",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt29191938"
+      },
+      {
+        "name": "Les Fantômes d'Ismaël",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5687040"
+      },
+      {
+        "name": "Rock'n Roll",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt5351818"
+      },
+      {
+        "name": "Assassin's Creed",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt2094766"
+      },
+      {
+        "name": "Extrapolations",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt13821126"
+      },
+      {
+        "name": "The Morning Show",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt7203552"
+      },
+      {
+        "name": "Highlander",
+        "category": "Filmographie",
+        "url": "stremio:///detail/series/tt0103442"
+      }
+    ],
+    "videos": [
+      {
+        "id": "tt28171985",
+        "title": "La Tour de glace (2025)",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt28171985/img",
+        "overview": "Rôle : Cristina / The Snow Queen. Années 1970. Jeanne fugue de son foyer de haute montagne pour rejoindre la ville. Dans le studio où elle s'est réfugiée, la jeune fille tombe sous le charme de Cristina, l'énigmatique star du film La Reine des Neiges, so…"
+      },
+      {
+        "id": "tt5112584",
+        "title": "Lee Miller (2024)",
+        "season": 1,
+        "episode": 2,
+        "released": "2024-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5112584/img",
+        "overview": "Rôle : Solange D'Ayen. L’incroyable vie de Lee Miller, ex-modèle pour Vogue et muse de Man Ray devenue l’une des premières femmes photographes de guerre."
+      },
+      {
+        "id": "tt26714897",
+        "title": "Little Girl Blue (2023)",
+        "season": 1,
+        "episode": 3,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt26714897/img",
+        "overview": "Rôle : Carole Achache. À la mort de sa mère, Mona Achache découvre des milliers de photos, de lettres et d’enregistrements, mais ces secrets enfouis résistent à l’énigme de sa disparition."
+      },
+      {
+        "id": "tt5822848",
+        "title": "Léo, la fabuleuse histoire de Léonard de Vinci (2023)",
+        "season": 1,
+        "episode": 4,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5822848/img",
+        "overview": "Rôle : Louise de Savoy (voice). Bienvenue dans la Renaissance ! Une époque où artistes, savants, rois et reines inventent un monde nouveau."
+      },
+      {
+        "id": "tt11210390",
+        "title": "Astérix & Obélix : L'Empire du Milieu (2023)",
+        "season": 1,
+        "episode": 5,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt11210390/img",
+        "overview": "Rôle : Cléopâtre / Bibine. Nous sommes en 50 avant J.C. L’Impératrice de Chine est emprisonnée suite à un coup d’État fomenté par Deng Tsin Quin, un prince félon."
+      },
+      {
+        "id": "tt14622802",
+        "title": "Frère et Sœur (2022)",
+        "season": 1,
+        "episode": 6,
+        "released": "2022-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt14622802/img",
+        "overview": "Rôle : Alice Vuillard. Un frère et une sœur à l’orée de la cinquantaine… Alice est actrice, Louis fut professeur et poète. Alice hait son frère depuis plus de vingt ans."
+      },
+      {
+        "id": "tt15440966",
+        "title": "La Vengeance au triple galop (2021)",
+        "season": 1,
+        "episode": 7,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt15440966/img",
+        "overview": "Rôle : Kim Randall. Après la mort de son père, Stéphanie Harper, riche héritière, se retrouve à la tête d’un empire dont elle n’a jamais rêvé."
+      },
+      {
+        "id": "tt6217926",
+        "title": "Annette (2021)",
+        "season": 1,
+        "episode": 8,
+        "released": "2021-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6217926/img",
+        "overview": "Rôle : Ann Desfranoux. Los Angeles, de nos jours. Henry est un comédien de stand-up à l’humour féroce. Ann, une cantatrice de renommée internationale. Ensemble, sous le feu des projecteurs, ils forment un couple épanoui et glamour."
+      },
+      {
+        "id": "tt6673612",
+        "title": "Le voyage du Dr Dolittle (2020)",
+        "season": 1,
+        "episode": 9,
+        "released": "2020-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt6673612/img",
+        "overview": "Rôle : Tutu (voice). Après la perte de sa femme sept ans plus tôt, l’excentrique Dr. John Dolittle, célèbre docteur et vétérinaire de l’Angleterre de la Reine Victoria s’isole derrière les murs de son manoir, avec pour seule compagnie sa mén…"
+      },
+      {
+        "id": "tt8201404",
+        "title": "Nous finirons ensemble (2019)",
+        "season": 1,
+        "episode": 10,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt8201404/img",
+        "overview": "Rôle : Marie. Préoccupé, Max est parti dans sa maison au bord de la mer pour se ressourcer. Sa bande de potes, qu’il n’a pas vue depuis plus de 3 ans débarque par surprise pour lui fêter son anniversaire !"
+      },
+      {
+        "id": "tt7534096",
+        "title": "Gueule d'ange (2018)",
+        "season": 1,
+        "episode": 11,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7534096/img",
+        "overview": "Rôle : Marlène. Une jeune femme vit seule avec sa fille de huit ans. Une nuit, après une rencontre en boîte de nuit, la mère décide de partir, laissant son enfant livrée à elle-même..."
+      },
+      {
+        "id": "tt29191938",
+        "title": "Dans les yeux de Thomas Pesquet (2018)",
+        "season": 1,
+        "episode": 12,
+        "released": "2018-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt29191938/img",
+        "overview": "Rôle : Narrator (voice). Revivez aux côtés de Thomas Pesquet les 6 mois de mission en apesanteur dans la station spatiale internationale à 400 km d'altitude au dessus de la Terre."
+      },
+      {
+        "id": "tt5687040",
+        "title": "Les Fantômes d'Ismaël (2017)",
+        "season": 1,
+        "episode": 13,
+        "released": "2017-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5687040/img",
+        "overview": "Rôle : Carlotta Bloom. Ismaël Vuillard fabrique des films. Celui qu’il invente en ce moment est le portrait d’Ivan, un diplomate atypique inspiré de son frère."
+      },
+      {
+        "id": "tt5351818",
+        "title": "Rock'n Roll (2017)",
+        "season": 1,
+        "episode": 14,
+        "released": "2017-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt5351818/img",
+        "overview": "Rôle : Marion Cotillard. Guillaume Canet, 43 ans, est épanoui dans sa vie, il a tout pour être heureux. Sur un tournage, une jolie comédienne de 20 ans va le stopper net dans son élan, en lui apprenant qu’il n’est pas très «Rock», qu’il ne l’a d…"
+      },
+      {
+        "id": "tt2094766",
+        "title": "Assassin's Creed (2016)",
+        "season": 1,
+        "episode": 15,
+        "released": "2016-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt2094766/img",
+        "overview": "Rôle : Dr. Sophia Rikkin. Grâce à une technologie révolutionnaire qui révèle la mémoire génétique, Callum Lynch revit les aventures de son ancêtre, Aguilar, dans l'Espagne du XVe siècle."
+      },
+      {
+        "id": "tt13821126",
+        "title": "Extrapolations (2023)",
+        "season": 1,
+        "episode": 16,
+        "released": "2023-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt13821126/img",
+        "overview": "Rôle : Sylvie Bolo. Huit histoires interconnectées sur une période de 33 ans explorent la manière dont le changement climatique mondial affectera la famille, le travail, la foi et la survie."
+      },
+      {
+        "id": "tt7203552",
+        "title": "The Morning Show (2019)",
+        "season": 1,
+        "episode": 17,
+        "released": "2019-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt7203552/img",
+        "overview": "Rôle : Celine Dumont. Portrait sans concession des coulisses d'une matinale télé aux États-Unis, où l’ego et les ambitions génèrent des tensions au sein de l'équipe."
+      },
+      {
+        "id": "tt0103442",
+        "title": "Highlander (1992)",
+        "season": 1,
+        "episode": 18,
+        "released": "1992-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt0103442/img",
+        "overview": "Rôle : Lori Bellian. Duncan MacLeod est un immortel issu du même clan que Connor MacLeod, le héros des films."
+      }
+    ]
+  }
+}
