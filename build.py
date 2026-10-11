@@ -25,6 +25,7 @@ import os
 import re
 import shutil
 import sys
+import unicodedata
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 STATE = os.path.join(ROOT, "data", "etat.json")
@@ -53,7 +54,9 @@ ID_RE = re.compile(r"^tt\d{7,10}$")
 
 
 def norm(s):
-    return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
+    s = unicodedata.normalize("NFKD", s.lower())
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    return re.sub(r"[^a-z0-9]+", " ", s).strip()
 
 
 def load_json(path, default):
