@@ -1,0 +1,33 @@
+{
+  "metas": [
+    {
+      "id": "tt6644200",
+      "type": "movie",
+      "name": "Sans un bruit",
+      "poster": "https://images.metahub.space/poster/medium/tt6644200/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6644200/img",
+      "description": "Sortie le 16/10. Une famille survit en silence face à des créatures qui chassent au son.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Horreur",
+        "Science-fiction",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0407887",
+      "type": "movie",
+      "name": "Les Infiltrés",
+      "poster": "https://images.metahub.space/poster/medium/tt0407887/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0407887/img",
+      "description": "Sortie le 17/10. Un flic infiltré chez les truands et un truand infiltré dans la police se traquent mutuellement.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Policier",
+        "Thriller"
+      ]
+    }
+  ]
+}

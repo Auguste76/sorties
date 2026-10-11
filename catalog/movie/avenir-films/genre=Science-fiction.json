@@ -1,0 +1,33 @@
+{
+  "metas": [
+    {
+      "id": "tt1663662",
+      "type": "movie",
+      "name": "Pacific Rim",
+      "poster": "https://images.metahub.space/poster/medium/tt1663662/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1663662/img",
+      "description": "Sortie le 15/10. Des pilotes de robots géants défendent l'humanité contre des monstres venus des abysses.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Action",
+        "Science-fiction"
+      ]
+    },
+    {
+      "id": "tt6644200",
+      "type": "movie",
+      "name": "Sans un bruit",
+      "poster": "https://images.metahub.space/poster/medium/tt6644200/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6644200/img",
+      "description": "Sortie le 16/10. Une famille survit en silence face à des créatures qui chassent au son.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Horreur",
+        "Science-fiction",
+        "Thriller"
+      ]
+    }
+  ]
+}

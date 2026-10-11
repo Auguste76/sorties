@@ -1,0 +1,34 @@
+{
+  "metas": [
+    {
+      "id": "tt23112594",
+      "type": "series",
+      "name": "VisionQuest",
+      "poster": "https://images.metahub.space/poster/medium/tt23112594/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt23112594/img",
+      "description": "Sortie le 14/10. Vision, en fuite avec un enfant mystérieux, doit résister à l'influence d'Ultron.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action",
+        "Drame",
+        "Fantastique"
+      ]
+    },
+    {
+      "id": "tt35854736",
+      "type": "series",
+      "name": "Avatar : Les Sept Refuges",
+      "poster": "https://images.metahub.space/poster/medium/tt35854736/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt35854736/img",
+      "description": "Sortie le 16/10. Une nouvelle Avatar, traquée, défend les derniers refuges de l'humanité.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Fantastique"
+      ]
+    }
+  ]
+}

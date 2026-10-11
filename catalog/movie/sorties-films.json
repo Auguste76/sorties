@@ -7,8 +7,11 @@
       "poster": "https://images.metahub.space/poster/medium/tt0185125/img",
       "posterShape": "poster",
       "background": "https://images.metahub.space/background/medium/tt0185125/img",
-      "description": "Après la mort brutale de son fils, une infirmière part à Barcelone retrouver le père que l'adolescent n'a jamais connu.",
-      "releaseInfo": "1999"
+      "description": "Une infirmière part à Barcelone retrouver le père de son fils, mort brutalement.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Drame"
+      ]
     },
     {
       "id": "tt0441909",
@@ -17,8 +20,11 @@
       "poster": "https://images.metahub.space/poster/medium/tt0441909/img",
       "posterShape": "poster",
       "background": "https://images.metahub.space/background/medium/tt0441909/img",
-      "description": "Trois générations de femmes d'un quartier de Madrid affrontent secrets de famille et fantômes du passé.",
-      "releaseInfo": "2006"
+      "description": "Trois générations de femmes madrilènes font face à des secrets de famille et à des fantômes du passé.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Drame"
+      ]
     },
     {
       "id": "tt2386490",
@@ -27,8 +33,12 @@
       "poster": "https://images.metahub.space/poster/medium/tt2386490/img",
       "posterShape": "poster",
       "background": "https://images.metahub.space/background/medium/tt2386490/img",
-      "description": "Harold et Krokmou partent à la recherche du monde caché des dragons pour les protéger.",
-      "releaseInfo": "2019"
+      "description": "Harold et Krokmou partent chercher le monde caché des dragons pour les protéger.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Animation",
+        "Aventure"
+      ]
     },
     {
       "id": "tt0372784",
@@ -38,7 +48,10 @@
       "posterShape": "poster",
       "background": "https://images.metahub.space/background/medium/tt0372784/img",
       "description": "Bruce Wayne revient à Gotham et se forge une seconde identité pour combattre le crime.",
-      "releaseInfo": "2005"
+      "releaseInfo": "2005",
+      "genres": [
+        "Action"
+      ]
     },
     {
       "id": "tt6823368",
@@ -48,7 +61,11 @@
       "posterShape": "poster",
       "background": "https://images.metahub.space/background/medium/tt6823368/img",
       "description": "Des hommes aux dons hors norme se retrouvent enfermés dans un hôpital psychiatrique.",
-      "releaseInfo": "2019"
+      "releaseInfo": "2019",
+      "genres": [
+        "Fantastique",
+        "Thriller"
+      ]
     },
     {
       "id": "tt0357111",
@@ -58,17 +75,10 @@
       "posterShape": "poster",
       "background": "https://images.metahub.space/background/medium/tt0357111/img",
       "description": "Comédie préhistorique et décalée signée Alain Chabat.",
-      "releaseInfo": "2004"
-    },
-    {
-      "id": "tt0209163",
-      "type": "movie",
-      "name": "Le Retour de la momie",
-      "poster": "https://images.metahub.space/poster/medium/tt0209163/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0209163/img",
-      "description": "La famille O'Connell affronte le retour du terrible Imhotep.",
-      "releaseInfo": "2001"
+      "releaseInfo": "2004",
+      "genres": [
+        "Comédie"
+      ]
     }
   ]
 }

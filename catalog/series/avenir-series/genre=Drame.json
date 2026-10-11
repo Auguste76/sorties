@@ -1,0 +1,47 @@
+{
+  "metas": [
+    {
+      "id": "tt23112594",
+      "type": "series",
+      "name": "VisionQuest",
+      "poster": "https://images.metahub.space/poster/medium/tt23112594/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt23112594/img",
+      "description": "Sortie le 14/10. Vision, en fuite avec un enfant mystérieux, doit résister à l'influence d'Ultron.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action",
+        "Drame",
+        "Fantastique"
+      ]
+    },
+    {
+      "id": "tt17491088",
+      "type": "series",
+      "name": "La Diplomate",
+      "poster": "https://images.metahub.space/poster/medium/tt17491088/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt17491088/img",
+      "description": "Sortie le 15/10. Promue en pleine crise internationale, une diplomate voit son mariage et son avenir vaciller.",
+      "releaseInfo": "2023",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt16358384",
+      "type": "series",
+      "name": "Tulsa King",
+      "poster": "https://images.metahub.space/poster/medium/tt16358384/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt16358384/img",
+      "description": "Sortie le 16/10. Un ancien parrain new-yorkais exilé à Tulsa y bâtit un nouvel empire criminel.",
+      "releaseInfo": "2022",
+      "genres": [
+        "Policier",
+        "Drame"
+      ]
+    }
+  ]
+}

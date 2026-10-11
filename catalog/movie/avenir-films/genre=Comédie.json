@@ -1,0 +1,30 @@
+{
+  "metas": [
+    {
+      "id": "tt38672588",
+      "type": "movie",
+      "name": "Masterplan",
+      "poster": "https://images.metahub.space/poster/medium/tt38672588/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt38672588/img",
+      "description": "Sortie le 16/10. Un voleur de légende recrute deux inconnus pour dérober La Joconde.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt46062767",
+      "type": "movie",
+      "name": "Kate Berlant : Parmesan",
+      "poster": "https://images.metahub.space/poster/medium/tt46062767/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt46062767/img",
+      "description": "Sortie le 17/10. Spectacle de stand-up de Kate Berlant.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comédie"
+      ]
+    }
+  ]
+}

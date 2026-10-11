@@ -1,6 +1,6 @@
 {
   "id": "fr.auguste.sorties",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "name": "Sorties films et séries",
   "description": "Sorties de la semaine, titres à venir, départs des plateformes et séries suivies, en France.",
   "logo": "https://auguste76.github.io/sorties/logo.png",
@@ -18,22 +18,94 @@
     {
       "type": "movie",
       "id": "sorties-films",
-      "name": "Sorties de la semaine"
+      "name": "Sorties de la semaine",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Action",
+            "Animation",
+            "Aventure",
+            "Comédie",
+            "Drame",
+            "Fantastique",
+            "Thriller"
+          ],
+          "isRequired": false
+        }
+      ],
+      "extraSupported": [
+        "genre"
+      ]
     },
     {
       "type": "series",
       "id": "sorties-series",
-      "name": "Sorties de la semaine"
+      "name": "Sorties de la semaine",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Comédie",
+            "Drame",
+            "Historique"
+          ],
+          "isRequired": false
+        }
+      ],
+      "extraSupported": [
+        "genre"
+      ]
     },
     {
       "type": "movie",
       "id": "avenir-films",
-      "name": "À venir cette semaine"
+      "name": "À venir cette semaine",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Action",
+            "Comédie",
+            "Policier",
+            "Documentaire",
+            "Drame",
+            "Horreur",
+            "Science-fiction",
+            "Thriller"
+          ],
+          "isRequired": false
+        }
+      ],
+      "extraSupported": [
+        "genre"
+      ]
     },
     {
       "type": "series",
       "id": "avenir-series",
-      "name": "À venir cette semaine"
+      "name": "À venir cette semaine",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Action",
+            "Animation",
+            "Aventure",
+            "Comédie",
+            "Policier",
+            "Documentaire",
+            "Drame",
+            "Fantastique",
+            "Horreur",
+            "Thriller"
+          ],
+          "isRequired": false
+        }
+      ],
+      "extraSupported": [
+        "genre"
+      ]
     },
     {
       "type": "movie",

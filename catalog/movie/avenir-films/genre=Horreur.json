@@ -1,0 +1,32 @@
+{
+  "metas": [
+    {
+      "id": "tt9619824",
+      "type": "movie",
+      "name": "Destination Finale : Bloodlines",
+      "poster": "https://images.metahub.space/poster/medium/tt9619824/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt9619824/img",
+      "description": "Sortie le 14/10. Nouvel épisode de la saga où la mort rattrape ceux qui lui ont échappé.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Horreur"
+      ]
+    },
+    {
+      "id": "tt6644200",
+      "type": "movie",
+      "name": "Sans un bruit",
+      "poster": "https://images.metahub.space/poster/medium/tt6644200/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6644200/img",
+      "description": "Sortie le 16/10. Une famille survit en silence face à des créatures qui chassent au son.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Horreur",
+        "Science-fiction",
+        "Thriller"
+      ]
+    }
+  ]
+}

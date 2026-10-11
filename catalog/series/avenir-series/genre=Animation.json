@@ -1,0 +1,47 @@
+{
+  "metas": [
+    {
+      "id": "tt10691770",
+      "type": "series",
+      "name": "Helluva Boss",
+      "poster": "https://images.metahub.space/poster/medium/tt10691770/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt10691770/img",
+      "description": "Sortie le 14/10. Retour de la série animée infernale et déjantée, saison 3.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Animation",
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt35854736",
+      "type": "series",
+      "name": "Avatar : Les Sept Refuges",
+      "poster": "https://images.metahub.space/poster/medium/tt35854736/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt35854736/img",
+      "description": "Sortie le 16/10. Une nouvelle Avatar, traquée, défend les derniers refuges de l'humanité.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Fantastique"
+      ]
+    },
+    {
+      "id": "tt0220880",
+      "type": "series",
+      "name": "Courage, le chien froussard",
+      "poster": "https://images.metahub.space/poster/medium/tt0220880/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0220880/img",
+      "description": "Sortie le 16/10. Un chien timide protège ses maîtres d'un monde peuplé de créatures étranges.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Animation",
+        "Comédie"
+      ]
+    }
+  ]
+}

@@ -1,3 +1,151 @@
 {
-  "metas": []
+  "metas": [
+    {
+      "id": "tt9619824",
+      "type": "movie",
+      "name": "Destination Finale : Bloodlines",
+      "poster": "https://images.metahub.space/poster/medium/tt9619824/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt9619824/img",
+      "description": "Sortie le 14/10. Nouvel épisode de la saga où la mort rattrape ceux qui lui ont échappé.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Horreur"
+      ]
+    },
+    {
+      "id": "tt27419420",
+      "type": "movie",
+      "name": "Street Fighter",
+      "poster": "https://images.metahub.space/poster/medium/tt27419420/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt27419420/img",
+      "description": "Sortie le 14/10. Adaptation cinéma du jeu de combat culte, avec des voix françaises de la scène sportive.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt37118301",
+      "type": "movie",
+      "name": "Minotaure",
+      "poster": "https://images.metahub.space/poster/medium/tt37118301/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt37118301/img",
+      "description": "Sortie le 14/10. Nouveau film d'Andreï Zviaguintsev, Grand Prix à Cannes, en lice pour les Oscars 2027.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt35518109",
+      "type": "movie",
+      "name": "Les Misérables",
+      "poster": "https://images.metahub.space/poster/medium/tt35518109/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt35518109/img",
+      "description": "Sortie le 14/10. Adaptation de Victor Hugo avec Vincent Lindon en Jean Valjean.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt1663662",
+      "type": "movie",
+      "name": "Pacific Rim",
+      "poster": "https://images.metahub.space/poster/medium/tt1663662/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1663662/img",
+      "description": "Sortie le 15/10. Des pilotes de robots géants défendent l'humanité contre des monstres venus des abysses.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Action",
+        "Science-fiction"
+      ]
+    },
+    {
+      "id": "tt6262770",
+      "type": "movie",
+      "name": "Tenzing",
+      "poster": "https://images.metahub.space/poster/medium/tt6262770/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6262770/img",
+      "description": "Sortie le 16/10. Récit romancé de l'ascension de l'Everest par Tenzing Norgay.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
+      "id": "tt38672588",
+      "type": "movie",
+      "name": "Masterplan",
+      "poster": "https://images.metahub.space/poster/medium/tt38672588/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt38672588/img",
+      "description": "Sortie le 16/10. Un voleur de légende recrute deux inconnus pour dérober La Joconde.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comédie"
+      ]
+    },
+    {
+      "id": "tt6644200",
+      "type": "movie",
+      "name": "Sans un bruit",
+      "poster": "https://images.metahub.space/poster/medium/tt6644200/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6644200/img",
+      "description": "Sortie le 16/10. Une famille survit en silence face à des créatures qui chassent au son.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Horreur",
+        "Science-fiction",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt43657324",
+      "type": "movie",
+      "name": "KATSEYE : Wild Hearts",
+      "poster": "https://images.metahub.space/poster/medium/tt43657324/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt43657324/img",
+      "description": "Sortie le 16/10. Documentaire qui suit le groupe de pop KATSEYE.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Documentaire"
+      ]
+    },
+    {
+      "id": "tt0407887",
+      "type": "movie",
+      "name": "Les Infiltrés",
+      "poster": "https://images.metahub.space/poster/medium/tt0407887/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0407887/img",
+      "description": "Sortie le 17/10. Un flic infiltré chez les truands et un truand infiltré dans la police se traquent mutuellement.",
+      "releaseInfo": "2006",
+      "genres": [
+        "Policier",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt46062767",
+      "type": "movie",
+      "name": "Kate Berlant : Parmesan",
+      "poster": "https://images.metahub.space/poster/medium/tt46062767/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt46062767/img",
+      "description": "Sortie le 17/10. Spectacle de stand-up de Kate Berlant.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comédie"
+      ]
+    }
+  ]
 }

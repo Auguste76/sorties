@@ -1,0 +1,17 @@
+{
+  "metas": [
+    {
+      "id": "tt43657324",
+      "type": "movie",
+      "name": "KATSEYE : Wild Hearts",
+      "poster": "https://images.metahub.space/poster/medium/tt43657324/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt43657324/img",
+      "description": "Sortie le 16/10. Documentaire qui suit le groupe de pop KATSEYE.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Documentaire"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "metas": [
+    {
+      "id": "tt27419420",
+      "type": "movie",
+      "name": "Street Fighter",
+      "poster": "https://images.metahub.space/poster/medium/tt27419420/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt27419420/img",
+      "description": "Sortie le 14/10. Adaptation cinéma du jeu de combat culte, avec des voix françaises de la scène sportive.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action"
+      ]
+    },
+    {
+      "id": "tt1663662",
+      "type": "movie",
+      "name": "Pacific Rim",
+      "poster": "https://images.metahub.space/poster/medium/tt1663662/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1663662/img",
+      "description": "Sortie le 15/10. Des pilotes de robots géants défendent l'humanité contre des monstres venus des abysses.",
+      "releaseInfo": "2013",
+      "genres": [
+        "Action",
+        "Science-fiction"
+      ]
+    }
+  ]
+}

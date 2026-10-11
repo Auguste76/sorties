@@ -8,7 +8,10 @@
       "posterShape": "poster",
       "background": "https://images.metahub.space/background/medium/tt23458434/img",
       "description": "Une rédactrice de nécrologies d'un village irlandais décide de fournir elle-même les morts.",
-      "releaseInfo": "2023"
+      "releaseInfo": "2023",
+      "genres": [
+        "Comédie"
+      ]
     },
     {
       "id": "tt5137338",
@@ -18,7 +21,11 @@
       "posterShape": "poster",
       "background": "https://images.metahub.space/background/medium/tt5137338/img",
       "description": "Les débuts sur le trône de la jeune reine Victoria.",
-      "releaseInfo": "2016"
+      "releaseInfo": "2016",
+      "genres": [
+        "Drame",
+        "Historique"
+      ]
     }
   ]
 }
