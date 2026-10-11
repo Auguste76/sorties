@@ -1,0 +1,13 @@
+{
+  "id": "fr.auguste.sorties",
+  "version": "0.0.1",
+  "name": "Sorties du jour",
+  "description": "Catalogue des nouvelles sorties films et séries en France (test).",
+  "resources": ["catalog"],
+  "types": ["movie", "series"],
+  "idPrefixes": ["tt"],
+  "catalogs": [
+    { "type": "movie", "id": "sorties-films", "name": "Sorties du jour - Films" },
+    { "type": "series", "id": "sorties-series", "name": "Sorties du jour - Séries" }
+  ]
+}
