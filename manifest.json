@@ -1,6 +1,6 @@
 {
   "id": "fr.auguste.sorties",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "name": "Sorties films et séries",
   "description": "Sorties de la semaine, titres à venir, départs des plateformes et séries suivies, en France.",
   "logo": "https://auguste76.github.io/sorties/logo.png",
@@ -28,10 +28,7 @@
             "Action",
             "Animation",
             "Aventure",
-            "Comédie",
-            "Drame",
-            "Fantastique",
-            "Thriller"
+            "Drame"
           ],
           "isRequired": false
         }

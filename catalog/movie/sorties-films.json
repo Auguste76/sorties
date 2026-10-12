@@ -52,33 +52,6 @@
       "genres": [
         "Action"
       ]
-    },
-    {
-      "id": "tt6823368",
-      "type": "movie",
-      "name": "Glass",
-      "poster": "https://images.metahub.space/poster/medium/tt6823368/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt6823368/img",
-      "description": "Des hommes aux dons hors norme se retrouvent enfermés dans un hôpital psychiatrique.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Fantastique",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt0357111",
-      "type": "movie",
-      "name": "RRRrrrr!!!",
-      "poster": "https://images.metahub.space/poster/medium/tt0357111/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0357111/img",
-      "description": "Comédie préhistorique et décalée signée Alain Chabat.",
-      "releaseInfo": "2004",
-      "genres": [
-        "Comédie"
-      ]
     }
   ]
 }
