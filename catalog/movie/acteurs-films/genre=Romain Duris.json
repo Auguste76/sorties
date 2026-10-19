@@ -16,7 +16,7 @@
     {
       "id": "tt31183235",
       "type": "movie",
-      "name": "Furcy, né libre",
+      "name": "Furcy, Né Libre",
       "poster": "https://images.metahub.space/poster/medium/tt31183235/img",
       "posterShape": "poster",
       "background": "https://images.metahub.space/background/medium/tt31183235/img",
@@ -298,7 +298,6 @@
       "releaseInfo": "2017",
       "genres": [
         "Policier",
-        "Drame",
         "Thriller",
         "Historique"
       ]

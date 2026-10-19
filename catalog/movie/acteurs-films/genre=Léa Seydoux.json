@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tt37020296",
+      "type": "movie",
+      "name": "Gentle Monster",
+      "poster": "https://images.metahub.space/poster/medium/tt37020296/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt37020296/img",
+      "description": "Rôle : Lucy Weiss. Lucy et Philip sont heureux, ils viennent d’emménager avec leur fils dans une maison de campagne près de Munich.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drame"
+      ]
+    },
+    {
       "id": "tt32359586",
       "type": "movie",
       "name": "L’inconnue",
@@ -427,11 +440,11 @@
     {
       "id": "tt20259142",
       "type": "movie",
-      "name": "Mistérios de Lisboa",
+      "name": "Mystères de Lisbonne",
       "poster": "https://images.metahub.space/poster/medium/tt20259142/img",
       "posterShape": "poster",
       "background": "https://images.metahub.space/background/medium/tt20259142/img",
-      "description": "Rôle : Blanche de Montfort.",
+      "description": "Rôle : Blanche de Montfort. L'histoire tragique des nombreuses vies du père Dinis, de ses origines sombres et de ses œuvres pieuses, ainsi que les différents destins de tous ceux qui, pris au piège d'un sinistre réseau d'amour, de haine et de crime…",
       "releaseInfo": "2010",
       "genres": [
         "Drame",
@@ -479,7 +492,6 @@
       "genres": [
         "Action",
         "Aventure",
-        "Drame",
         "Historique"
       ]
     },
@@ -545,20 +557,6 @@
       "posterShape": "poster",
       "background": "https://images.metahub.space/background/medium/tt1064861/img",
       "description": "Rôle : Marie. A la suite d'un incident, Bertrand se retrouve enfermé dans un cercueil pour la nuit. Le matin, il n'est plus le même.",
-      "releaseInfo": "2008",
-      "genres": [
-        "Comédie",
-        "Drame"
-      ]
-    },
-    {
-      "id": "tt1263778",
-      "type": "movie",
-      "name": "La Belle Personne",
-      "poster": "https://images.metahub.space/poster/medium/tt1263778/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt1263778/img",
-      "description": "Rôle : Junie. Junie, seize ans, change de lycée en cours d'année suite à la mort de sa mère. Elle intègre une nouvelle classe dont fait partie son cousin Matthias. Il devient son ambassadeur auprès de sa bande d'amis.",
       "releaseInfo": "2008",
       "genres": [
         "Comédie",

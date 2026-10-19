@@ -6,8 +6,13 @@
     "poster": "https://image.tmdb.org/t/p/w500/7NS1KuwxTIzyMcpNGKBGlSV0Hqo.jpg",
     "posterShape": "poster",
     "background": "https://image.tmdb.org/t/p/w500/7NS1KuwxTIzyMcpNGKBGlSV0Hqo.jpg",
-    "description": "Né(e) le 1943-10-22 à Paris, France\n\nCatherine Dorléac, dite Catherine Deneuve, est une actrice française, née le 22 octobre 1943 à Paris.\n\nElle est la fille de l'acteur Maurice Dorléac et de l'actrice Renée Deneuve (dite Renée Simonot), et la sœur des actrices Françoise et Sylvie Dorléac.\n\nConsidérée comme l'une des plus grandes actrices françaises de sa génération et de la seconde partie du xxe siècle, elle est l'égérie de réalisateurs comme Jacques D…\n\nFilms : Histoires parallèles (2026) · Yōkai : Le Monde des esprits (2025) · Marcello Mio (2024) · Au fil des saisons (2024) · Bernadette (2023) · Belmondo l'incorrigible (2022) · De son vivant (2021) · Terrible jungle (2020) · La Vérité (2019) · Fête de famille (2019) · Haut les filles (2019) · L'Adieu à la nuit (2019) · La Dernière Folie de Claire Darling (2019) · Mauvaises herbes (2018) · Tout nous sépare (2017)\n\nSéries : Nip/Tuck (2003) · Les liaisons dangereuses (2003)",
+    "description": "Né(e) le 1943-10-22 à Paris, France\n\nCatherine Dorléac, dite Catherine Deneuve, est une actrice française, née le 22 octobre 1943 à Paris.\n\nElle est la fille de l'acteur Maurice Dorléac et de l'actrice Renée Deneuve (dite Renée Simonot), et la sœur des actrices Françoise et Sylvie Dorléac.\n\nConsidérée comme l'une des plus grandes actrices françaises de sa génération et de la seconde partie du xxe siècle, elle est l'égérie de réalisateurs comme Jacques D…\n\nFilms : Gentle Monster (2026) · Histoires parallèles (2026) · Yōkai : Le Monde des esprits (2025) · Marcello Mio (2024) · Au fil des saisons (2024) · Bernadette (2023) · Belmondo l'incorrigible (2022) · De son vivant (2021) · Terrible jungle (2020) · La Vérité (2019) · Fête de famille (2019) · Haut les filles (2019) · L'Adieu à la nuit (2019) · La Dernière Folie de Claire Darling (2019) · Mauvaises herbes (2018)\n\nSéries : Nip/Tuck (2003) · Les liaisons dangereuses (2003)",
     "links": [
+      {
+        "name": "Gentle Monster",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt37020296"
+      },
       {
         "name": "Histoires parallèles",
         "category": "Filmographie",
@@ -77,11 +82,6 @@
         "name": "Mauvaises herbes",
         "category": "Filmographie",
         "url": "stremio:///detail/movie/tt6708116"
-      },
-      {
-        "name": "Tout nous sépare",
-        "category": "Filmographie",
-        "url": "stremio:///detail/movie/tt5825052"
       },
       {
         "name": "Nip/Tuck",

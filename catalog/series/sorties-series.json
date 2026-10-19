@@ -1,31 +1,3 @@
 {
-  "metas": [
-    {
-      "id": "tt23458434",
-      "type": "series",
-      "name": "Obituary",
-      "poster": "https://images.metahub.space/poster/medium/tt23458434/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt23458434/img",
-      "description": "Une rédactrice de nécrologies d'un village irlandais décide de fournir elle-même les morts.",
-      "releaseInfo": "2023",
-      "genres": [
-        "Comédie"
-      ]
-    },
-    {
-      "id": "tt5137338",
-      "type": "series",
-      "name": "Victoria",
-      "poster": "https://images.metahub.space/poster/medium/tt5137338/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt5137338/img",
-      "description": "Les débuts sur le trône de la jeune reine Victoria.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Drame",
-        "Historique"
-      ]
-    }
-  ]
+  "metas": []
 }

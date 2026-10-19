@@ -76,14 +76,15 @@
     {
       "id": "tt32220428",
       "type": "movie",
-      "name": "François Truffaut, le scénario de ma vie",
+      "name": "François Truffaut : le scénario de ma vie",
       "poster": "https://images.metahub.space/poster/medium/tt32220428/img",
       "posterShape": "poster",
       "background": "https://images.metahub.space/background/medium/tt32220428/img",
-      "description": "Rôle : François Truffaut (voice). A la fin de sa vie, François Truffaut se confia à son ami Claude de Givray, avec le projet d'écrire son autobiohraphie.",
+      "description": "Rôle : François Truffaut (voice). Le légendaire cinéaste français François Truffaut avait 52 ans lorsqu'il est décédé et, quelques mois auparavant, il avait commencé à raconter l'histoire de sa jeunesse à son vieil ami Claude de Givray, en approfondissan…",
       "releaseInfo": "2024",
       "genres": [
-        "Documentaire"
+        "Documentaire",
+        "Historique"
       ]
     },
     {

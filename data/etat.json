@@ -1,77 +1,5 @@
 {
-  "historique": [
-    {
-      "id": "tt0185125",
-      "type": "movie",
-      "name": "Tout sur ma mère",
-      "description": "Une infirmière part à Barcelone retrouver le père de son fils, mort brutalement.",
-      "year": 1999,
-      "date": "2026-10-11",
-      "genres": [
-        "Drame"
-      ],
-      "ajoute": "2026-10-11"
-    },
-    {
-      "id": "tt0441909",
-      "type": "movie",
-      "name": "Volver",
-      "description": "Trois générations de femmes madrilènes font face à des secrets de famille et à des fantômes du passé.",
-      "year": 2006,
-      "date": "2026-10-11",
-      "genres": [
-        "Drame"
-      ],
-      "ajoute": "2026-10-11"
-    },
-    {
-      "id": "tt2386490",
-      "type": "movie",
-      "name": "Dragons 3 : Le monde caché",
-      "description": "Harold et Krokmou partent chercher le monde caché des dragons pour les protéger.",
-      "year": 2019,
-      "date": "2026-10-11",
-      "genres": [
-        "Animation",
-        "Aventure"
-      ],
-      "ajoute": "2026-10-11"
-    },
-    {
-      "id": "tt0372784",
-      "type": "movie",
-      "name": "Batman Begins",
-      "description": "Bruce Wayne revient à Gotham et se forge une seconde identité pour combattre le crime.",
-      "year": "2005",
-      "ajoute": "2026-10-08",
-      "genres": [
-        "Action"
-      ]
-    },
-    {
-      "id": "tt23458434",
-      "type": "series",
-      "name": "Obituary",
-      "description": "Une rédactrice de nécrologies d'un village irlandais décide de fournir elle-même les morts.",
-      "year": "2023",
-      "ajoute": "2026-10-07",
-      "genres": [
-        "Comédie"
-      ]
-    },
-    {
-      "id": "tt5137338",
-      "type": "series",
-      "name": "Victoria",
-      "description": "Les débuts sur le trône de la jeune reine Victoria.",
-      "year": "2016",
-      "ajoute": "2026-10-07",
-      "genres": [
-        "Drame",
-        "Historique"
-      ]
-    }
-  ],
+  "historique": [],
   "avenir": [
     {
       "id": "tt35051210",
@@ -406,5 +334,5 @@
     "movie|kill bill|2003": "tt0266697",
     "movie|coupez|2022": "tt14317880"
   },
-  "hash": "44c1aefb8fcd3731d4b9d6ec760a82afe52a295f741260e62b2562ee79853aee"
+  "hash": "344b335be1d57c7fc30055f8e324ab0beaf45906989e1ef55505dc91731164e3"
 }

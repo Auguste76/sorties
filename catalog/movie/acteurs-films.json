@@ -1,6 +1,21 @@
 {
   "metas": [
     {
+      "id": "tt35518109",
+      "type": "movie",
+      "name": "Les Misérables",
+      "poster": "https://images.metahub.space/poster/medium/tt35518109/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt35518109/img",
+      "description": "Rôle : Jean Valjean. Jean Valjean, un ancien forçat évadé du bagne où il a passé 16 ans pour avoir volé du pain, seconsacre désormais à faire le bien autour de lui.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Historique"
+      ]
+    },
+    {
       "id": "tt37799310",
       "type": "movie",
       "name": "Ni vue, ni connue",
@@ -25,6 +40,19 @@
       "genres": [
         "Action",
         "Thriller"
+      ]
+    },
+    {
+      "id": "tt37020296",
+      "type": "movie",
+      "name": "Gentle Monster",
+      "poster": "https://images.metahub.space/poster/medium/tt37020296/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt37020296/img",
+      "description": "Rôle : Lucy Weiss. Lucy et Philip sont heureux, ils viennent d’emménager avec leur fils dans une maison de campagne près de Munich.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drame"
       ]
     },
     {
@@ -323,7 +351,7 @@
     {
       "id": "tt31183235",
       "type": "movie",
-      "name": "Furcy, né libre",
+      "name": "Furcy, Né Libre",
       "poster": "https://images.metahub.space/poster/medium/tt31183235/img",
       "posterShape": "poster",
       "background": "https://images.metahub.space/background/medium/tt31183235/img",
@@ -810,34 +838,6 @@
       "genres": [
         "Drame",
         "Historique"
-      ]
-    },
-    {
-      "id": "tt33996092",
-      "type": "movie",
-      "name": "Le Choix",
-      "poster": "https://images.metahub.space/poster/medium/tt33996092/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt33996092/img",
-      "description": "Rôle : Joseph Cross. Joseph Cross ressemble à son métier. Solide comme du béton. Marié, deux enfants, son existence est parfaitement organisée. Pourtant cette nuit, seul au volant, il doit prendre une décision qui peut ruiner sa vie.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Drame",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt21993194",
-      "type": "movie",
-      "name": "Une part manquante",
-      "poster": "https://images.metahub.space/poster/medium/tt21993194/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt21993194/img",
-      "description": "Rôle : Jay. Tous les jours, Jay parcourt Tokyo au volant de son taxi à la recherche de sa fille, Lily. Séparé depuis 9 ans, il n’a jamais pu obtenir sa garde.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Comédie",
-        "Drame"
       ]
     }
   ]

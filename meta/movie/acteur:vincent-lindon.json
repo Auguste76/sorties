@@ -6,8 +6,13 @@
     "poster": "https://image.tmdb.org/t/p/w500/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg",
     "posterShape": "poster",
     "background": "https://image.tmdb.org/t/p/w500/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg",
-    "description": "Né(e) le 1959-07-15 à Boulogne-Billancourt, Hauts-de-Seine, France\n\nVincent Lindon est un acteur, réalisateur et scénariste français, né le 15 juillet 1959 à Boulogne-Billancourt.\n\nIl a notamment été récompensé par le prix d'interprétation au Festival de Cannes 2015 et par le César du meilleur acteur en 2016 pour son rôle dans le film La Loi du marché (2015).\n\nFilms : Les Survivants du Che (2026) · Coutures (2026) · Jouer avec le feu (2025) · Le Choix (2024) · Le Deuxième Acte (2024) · Comme un fils (2024) · Avec amour et acharnement (2022) · Un autre monde (2022) · Enquête sur un scandale d'État (2022) · Titane (2021) · Mon cousin (2020) · Dernier amour (2019) · En guerre (2018) · L'Apparition (2018) · Rodin (2017)\n\nSéries : D'argent et de sang (2023)",
+    "description": "Né(e) le 1959-07-15 à Boulogne-Billancourt, Hauts-de-Seine, France\n\nVincent Lindon est un acteur, réalisateur et scénariste français, né le 15 juillet 1959 à Boulogne-Billancourt.\n\nIl a notamment été récompensé par le prix d'interprétation au Festival de Cannes 2015 et par le César du meilleur acteur en 2016 pour son rôle dans le film La Loi du marché (2015).\n\nFilms : Les Misérables (2026) · Les Survivants du Che (2026) · Coutures (2026) · Jouer avec le feu (2025) · Le Choix (2024) · Le Deuxième Acte (2024) · Comme un fils (2024) · Avec amour et acharnement (2022) · Un autre monde (2022) · Enquête sur un scandale d'État (2022) · Titane (2021) · Mon cousin (2020) · Dernier amour (2019) · En guerre (2018) · L'Apparition (2018)\n\nSéries : D'argent et de sang (2023)",
     "links": [
+      {
+        "name": "Les Misérables",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt35518109"
+      },
       {
         "name": "Les Survivants du Che",
         "category": "Filmographie",
@@ -77,11 +82,6 @@
         "name": "L'Apparition",
         "category": "Filmographie",
         "url": "stremio:///detail/movie/tt6559390"
-      },
-      {
-        "name": "Rodin",
-        "category": "Filmographie",
-        "url": "stremio:///detail/movie/tt5771710"
       },
       {
         "name": "D'argent et de sang",

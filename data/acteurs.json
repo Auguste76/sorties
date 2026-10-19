@@ -1,5 +1,5 @@
 {
- "majLe": "12/10/2026",
+ "majLe": "19/10/2026",
  "acteurs": [
   {
    "nom": "Omar Sy",
@@ -357,7 +357,6 @@
      "year": "2016",
      "famille": "thriller",
      "genres": [
-      "Action",
       "Thriller"
      ],
      "date": "2016-10-13",
@@ -1798,7 +1797,6 @@
      "genres": [
       "Action",
       "Policier",
-      "Drame",
       "Thriller"
      ],
      "date": "2012-07-17",
@@ -1873,10 +1871,10 @@
      "name": "Inception",
      "description": "Rôle : Mal Cobb. Dom Cobb est un voleur expérimenté, le meilleur dans l'art dangereux de l'extraction, voler les secrets les plus intimes enfouis au plus profond du subconscient durant une phase de rêve, lorsque l'esprit est le plus vuln…",
      "year": "2010",
-     "famille": "sf",
+     "famille": "thriller",
      "genres": [
       "Action",
-      "Aventure",
+      "Policier",
       "Science-fiction"
      ],
      "date": "2010-07-15",
@@ -2780,6 +2778,20 @@
    "bio": "Léa Seydoux est le nom de convenance d'une actrice française née le 1er juillet 1985 à Paris.  Issue d'une famille liée depuis longtemps au monde du cinéma -elle est la petite-fille de Jérôme Seydoux, patron de Pathé, et la petite nièce de Nicolas Seydoux, PDG de Gaumont-, Léa Seydoux, adolescente timide, prend des cours de théâtre après avoir passé son baccalauréat.",
    "films": [
     {
+     "id": "tt37020296",
+     "type": "movie",
+     "name": "Gentle Monster",
+     "description": "Rôle : Lucy Weiss. Lucy et Philip sont heureux, ils viennent d’emménager avec leur fils dans une maison de campagne près de Munich.",
+     "year": "2026",
+     "famille": "drame",
+     "genres": [
+      "Drame"
+     ],
+     "date": "2026-09-17",
+     "role": "Lucy Weiss",
+     "tmdb": "https://www.themoviedb.org/movie/1473148?language=fr-FR"
+    },
+    {
      "id": "tt32359586",
      "type": "movie",
      "name": "L’inconnue",
@@ -3236,8 +3248,8 @@
     {
      "id": "tt20259142",
      "type": "movie",
-     "name": "Mistérios de Lisboa",
-     "description": "Rôle : Blanche de Montfort.",
+     "name": "Mystères de Lisbonne",
+     "description": "Rôle : Blanche de Montfort. L'histoire tragique des nombreuses vies du père Dinis, de ses origines sombres et de ses œuvres pieuses, ainsi que les différents destins de tous ceux qui, pris au piège d'un sinistre réseau d'amour, de haine et de crime…",
      "year": "2010",
      "famille": "drame",
      "genres": [
@@ -3289,7 +3301,6 @@
      "genres": [
       "Action",
       "Aventure",
-      "Drame",
       "Historique"
      ],
      "date": "2010-05-12",
@@ -3368,21 +3379,6 @@
      "date": "2008-10-01",
      "role": "Marie",
      "tmdb": "https://www.themoviedb.org/movie/40007?language=fr-FR"
-    },
-    {
-     "id": "tt1263778",
-     "type": "movie",
-     "name": "La Belle Personne",
-     "description": "Rôle : Junie. Junie, seize ans, change de lycée en cours d'année suite à la mort de sa mère. Elle intègre une nouvelle classe dont fait partie son cousin Matthias. Il devient son ambassadeur auprès de sa bande d'amis.",
-     "year": "2008",
-     "famille": "comedie",
-     "genres": [
-      "Comédie",
-      "Drame"
-     ],
-     "date": "2008-09-17",
-     "role": "Junie",
-     "tmdb": "https://www.themoviedb.org/movie/38846?language=fr-FR"
     }
    ],
    "series": [
@@ -4914,6 +4910,20 @@
    "bio": "Catherine Dorléac, dite Catherine Deneuve, est une actrice française, née le 22 octobre 1943 à Paris.\n\nElle est la fille de l'acteur Maurice Dorléac et de l'actrice Renée Deneuve (dite Renée Simonot), et la sœur des actrices Françoise et Sylvie Dorléac.\n\nConsidérée comme l'une des plus grandes actrices françaises de sa génération et de la seconde partie du xxe siècle, elle est l'égérie de réalisateurs comme Jacques D…",
    "films": [
     {
+     "id": "tt37020296",
+     "type": "movie",
+     "name": "Gentle Monster",
+     "description": "Rôle : Eryn. Lucy et Philip sont heureux, ils viennent d’emménager avec leur fils dans une maison de campagne près de Munich.",
+     "year": "2026",
+     "famille": "drame",
+     "genres": [
+      "Drame"
+     ],
+     "date": "2026-09-17",
+     "role": "Eryn",
+     "tmdb": "https://www.themoviedb.org/movie/1473148?language=fr-FR"
+    },
+    {
      "id": "tt36646880",
      "type": "movie",
      "name": "Histoires parallèles",
@@ -5482,21 +5492,6 @@
      "date": "2008-10-29",
      "role": "Solange Duvivier",
      "tmdb": "https://www.themoviedb.org/movie/15438?language=fr-FR"
-    },
-    {
-     "id": "tt0993789",
-     "type": "movie",
-     "name": "Un conte de Noël",
-     "description": "Rôle : Junon. À l'origine, Abel et Junon eurent deux enfants, Joseph et Elizabeth. Atteint d'une maladie génétique rare, le petit Joseph devait recevoir une greffe de moelle osseuse.",
-     "year": "2008",
-     "famille": "comedie",
-     "genres": [
-      "Comédie",
-      "Drame"
-     ],
-     "date": "2008-05-21",
-     "role": "Junon",
-     "tmdb": "https://www.themoviedb.org/movie/8892?language=fr-FR"
     }
    ],
    "series": [
@@ -5614,12 +5609,13 @@
     {
      "id": "tt32220428",
      "type": "movie",
-     "name": "François Truffaut, le scénario de ma vie",
-     "description": "Rôle : Narrator (voice). A la fin de sa vie, François Truffaut se confia à son ami Claude de Givray, avec le projet d'écrire son autobiohraphie.",
+     "name": "François Truffaut : le scénario de ma vie",
+     "description": "Rôle : Narrator (voice). Le légendaire cinéaste français François Truffaut avait 52 ans lorsqu'il est décédé et, quelques mois auparavant, il avait commencé à raconter l'histoire de sa jeunesse à son vieil ami Claude de Givray, en approfondissan…",
      "year": "2024",
      "famille": "drame",
      "genres": [
-      "Documentaire"
+      "Documentaire",
+      "Historique"
      ],
      "date": "2024-05-16",
      "role": "Narrator (voice)",
@@ -7422,7 +7418,7 @@
     {
      "id": "tt31183235",
      "type": "movie",
-     "name": "Furcy, né libre",
+     "name": "Furcy, Né Libre",
      "description": "Rôle : Boucher. Île de la Réunion, 1817. À la mort de sa mère, l'esclave Furcy découvre des documents qui pourraient faire de lui un homme libre.",
      "year": "2026",
      "famille": "drame",
@@ -7721,7 +7717,6 @@
      "famille": "thriller",
      "genres": [
       "Policier",
-      "Drame",
       "Thriller",
       "Historique"
      ],
@@ -8295,7 +8290,7 @@
     {
      "id": "tt6451260",
      "type": "movie",
-     "name": "L'Amour est une fête",
+     "name": "L'amour est une fête",
      "description": "Rôle : Franck / Martin. Paris, 1982. Patrons d’un peep show, Le Mirodrome, criblés de dettes, Franck et Serge ont l’idée de produire des petits films pornographiques avec leurs danseuses pour relancer leur établissement.",
      "year": "2018",
      "famille": "comedie",
@@ -9279,7 +9274,7 @@
   {
    "nom": "Kad Merad",
    "tmdb": 22306,
-   "photo": "https://image.tmdb.org/t/p/w500/gngKQqFCe4MSasBSyGRDI74RJfJ.jpg",
+   "photo": "https://image.tmdb.org/t/p/w500/n4hjy7VFVgzRx5WVsElv4AKdotB.jpg",
    "sourcePhoto": "TMDB",
    "naissance": "1964-03-27",
    "lieu": "Sidi Bel Abbes, Algeria",
@@ -10750,6 +10745,22 @@
    "bio": "Vincent Lindon est un acteur, réalisateur et scénariste français, né le 15 juillet 1959 à Boulogne-Billancourt.\n\nIl a notamment été récompensé par le prix d'interprétation au Festival de Cannes 2015 et par le César du meilleur acteur en 2016 pour son rôle dans le film La Loi du marché (2015).",
    "films": [
     {
+     "id": "tt35518109",
+     "type": "movie",
+     "name": "Les Misérables",
+     "description": "Rôle : Jean Valjean. Jean Valjean, un ancien forçat évadé du bagne où il a passé 16 ans pour avoir volé du pain, seconsacre désormais à faire le bien autour de lui.",
+     "year": "2026",
+     "famille": "drame",
+     "genres": [
+      "Drame",
+      "Romance",
+      "Historique"
+     ],
+     "date": "2026-10-14",
+     "role": "Jean Valjean",
+     "tmdb": "https://www.themoviedb.org/movie/1241803?language=fr-FR"
+    },
+    {
      "id": "tt1864268",
      "type": "movie",
      "name": "Les Survivants du Che",
@@ -11322,20 +11333,6 @@
      "date": "2003-12-10",
      "role": "Actor Refusing to Film with Laurent",
      "tmdb": "https://www.themoviedb.org/movie/16930?language=fr-FR"
-    },
-    {
-     "id": "tt0348572",
-     "type": "movie",
-     "name": "Le Coût de la vie",
-     "description": "Rôle : Coway. Coway, un restaurateur dépensier, ne parvient pas à freiner sa générosité, ce qui le conduit à l'endettement.",
-     "year": "2003",
-     "famille": "comedie",
-     "genres": [
-      "Comédie"
-     ],
-     "date": "2003-07-30",
-     "role": "Coway",
-     "tmdb": "https://www.themoviedb.org/movie/54157?language=fr-FR"
     }
    ],
    "series": [
@@ -11364,6 +11361,22 @@
    "lieu": "Belfort, Territoire de Belfort, France",
    "bio": "Tahar Rahim est un acteur franco-algérien, né le 4 juillet 1981 à Belfort.\n\nIl reçoit le César du meilleur acteur 2010 pour le film Un prophète.",
    "films": [
+    {
+     "id": "tt35518109",
+     "type": "movie",
+     "name": "Les Misérables",
+     "description": "Rôle : Inspecteur Javert. Jean Valjean, un ancien forçat évadé du bagne où il a passé 16 ans pour avoir volé du pain, seconsacre désormais à faire le bien autour de lui.",
+     "year": "2026",
+     "famille": "drame",
+     "genres": [
+      "Drame",
+      "Romance",
+      "Historique"
+     ],
+     "date": "2026-10-14",
+     "role": "Inspecteur Javert",
+     "tmdb": "https://www.themoviedb.org/movie/1241803?language=fr-FR"
+    },
     {
      "id": "tt32275943",
      "type": "movie",
@@ -11969,12 +11982,13 @@
     {
      "id": "tt32220428",
      "type": "movie",
-     "name": "François Truffaut, le scénario de ma vie",
-     "description": "Rôle : François Truffaut (voice). A la fin de sa vie, François Truffaut se confia à son ami Claude de Givray, avec le projet d'écrire son autobiohraphie.",
+     "name": "François Truffaut : le scénario de ma vie",
+     "description": "Rôle : François Truffaut (voice). Le légendaire cinéaste français François Truffaut avait 52 ans lorsqu'il est décédé et, quelques mois auparavant, il avait commencé à raconter l'histoire de sa jeunesse à son vieil ami Claude de Givray, en approfondissan…",
      "year": "2024",
      "famille": "drame",
      "genres": [
-      "Documentaire"
+      "Documentaire",
+      "Historique"
      ],
      "date": "2024-05-16",
      "role": "François Truffaut (voice)",
@@ -13353,7 +13367,7 @@
     {
      "id": "tt6451260",
      "type": "movie",
-     "name": "L'Amour est une fête",
+     "name": "L'amour est une fête",
      "description": "Rôle : Serge / Georges. Paris, 1982. Patrons d’un peep show, Le Mirodrome, criblés de dettes, Franck et Serge ont l’idée de produire des petits films pornographiques avec leurs danseuses pour relancer leur établissement.",
      "year": "2018",
      "famille": "comedie",
@@ -16508,6 +16522,8 @@
   "movie:66010": "tt0119853",
   "movie:76390": "tt0116555",
   "movie:68023": "tt0115638",
-  "tv:69725": "tt0138234"
+  "tv:69725": "tt0138234",
+  "movie:1473148": "tt37020296",
+  "movie:1241803": "tt35518109"
  }
 }

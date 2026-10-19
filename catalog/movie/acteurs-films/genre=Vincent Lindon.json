@@ -1,6 +1,21 @@
 {
   "metas": [
     {
+      "id": "tt35518109",
+      "type": "movie",
+      "name": "Les Misérables",
+      "poster": "https://images.metahub.space/poster/medium/tt35518109/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt35518109/img",
+      "description": "Rôle : Jean Valjean. Jean Valjean, un ancien forçat évadé du bagne où il a passé 16 ans pour avoir volé du pain, seconsacre désormais à faire le bien autour de lui.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Historique"
+      ]
+    },
+    {
       "id": "tt1864268",
       "type": "movie",
       "name": "Les Survivants du Che",
@@ -530,19 +545,6 @@
       "posterShape": "poster",
       "background": "https://images.metahub.space/background/medium/tt0383995/img",
       "description": "Rôle : Actor Refusing to Film with Laurent. Qui pensait que perdre des clefs de bagnole pouvait mener aussi loin ? Attention, l'aventure est au coin de la rue...",
-      "releaseInfo": "2003",
-      "genres": [
-        "Comédie"
-      ]
-    },
-    {
-      "id": "tt0348572",
-      "type": "movie",
-      "name": "Le Coût de la vie",
-      "poster": "https://images.metahub.space/poster/medium/tt0348572/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0348572/img",
-      "description": "Rôle : Coway. Coway, un restaurateur dépensier, ne parvient pas à freiner sa générosité, ce qui le conduit à l'endettement.",
       "releaseInfo": "2003",
       "genres": [
         "Comédie"

@@ -1,6 +1,6 @@
 {
   "id": "fr.auguste.sorties",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "name": "Sorties films et séries",
   "description": "Sorties de la semaine, titres à venir, départs des plateformes et séries suivies, en France.",
   "logo": "https://auguste76.github.io/sorties/logo.png",
@@ -20,41 +20,12 @@
     {
       "type": "movie",
       "id": "sorties-films",
-      "name": "Sorties de la semaine",
-      "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "Action",
-            "Animation",
-            "Aventure",
-            "Drame"
-          ],
-          "isRequired": false
-        }
-      ],
-      "extraSupported": [
-        "genre"
-      ]
+      "name": "Sorties de la semaine"
     },
     {
       "type": "series",
       "id": "sorties-series",
-      "name": "Sorties de la semaine",
-      "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "Comédie",
-            "Drame",
-            "Historique"
-          ],
-          "isRequired": false
-        }
-      ],
-      "extraSupported": [
-        "genre"
-      ]
+      "name": "Sorties de la semaine"
     },
     {
       "type": "movie",

@@ -6,7 +6,7 @@
     "poster": "https://image.tmdb.org/t/p/w500/70KN228eNpvouPTCxDSurnCzx9G.jpg",
     "posterShape": "poster",
     "background": "https://image.tmdb.org/t/p/w500/70KN228eNpvouPTCxDSurnCzx9G.jpg",
-    "description": "Né(e) le 1974-05-28 à Paris, France\n\nRomain Duris, né le 28 mai 1974 à Paris, est un acteur français.\n\nIl a tourné sept fois avec Cédric Klapisch. Il est ainsi surtout connu pour le rôle de Xavier Rousseau, héros de la trilogie L'Auberge espagnole (1999-2013).\n\nFilms : Fils de personne (2026) · Furcy, né libre (2026) · Chien 51 (2025) · Rembrandt (2025) · Une part manquante (2024) · La Nuit se traîne (2024) · Daaaaaalí ! (2024) · Les Trois Mousquetaires : Milady (2023) · Le Règne animal (2023) · Les Trois Mousquetaires : D'Artagnan (2023) · Coupez ! (2022) · Charlotte (2022) · En attendant Bojangles (2021) · Eiffel (2021) · Le Regard de Charles (2019)\n\nSéries : Salade grecque (2023) · Vernon Subutex (2019)",
+    "description": "Né(e) le 1974-05-28 à Paris, France\n\nRomain Duris, né le 28 mai 1974 à Paris, est un acteur français.\n\nIl a tourné sept fois avec Cédric Klapisch. Il est ainsi surtout connu pour le rôle de Xavier Rousseau, héros de la trilogie L'Auberge espagnole (1999-2013).\n\nFilms : Fils de personne (2026) · Furcy, Né Libre (2026) · Chien 51 (2025) · Rembrandt (2025) · Une part manquante (2024) · La Nuit se traîne (2024) · Daaaaaalí ! (2024) · Les Trois Mousquetaires : Milady (2023) · Le Règne animal (2023) · Les Trois Mousquetaires : D'Artagnan (2023) · Coupez ! (2022) · Charlotte (2022) · En attendant Bojangles (2021) · Eiffel (2021) · Le Regard de Charles (2019)\n\nSéries : Salade grecque (2023) · Vernon Subutex (2019)",
     "links": [
       {
         "name": "Fils de personne",
@@ -14,7 +14,7 @@
         "url": "stremio:///detail/movie/tt36827509"
       },
       {
-        "name": "Furcy, né libre",
+        "name": "Furcy, Né Libre",
         "category": "Filmographie",
         "url": "stremio:///detail/movie/tt31183235"
       },
@@ -106,7 +106,7 @@
       },
       {
         "id": "tt31183235",
-        "title": "Furcy, né libre (2026)",
+        "title": "Furcy, Né Libre (2026)",
         "season": 1,
         "episode": 2,
         "released": "2026-01-01T00:00:00.000Z",

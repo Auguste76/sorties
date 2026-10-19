@@ -6,8 +6,13 @@
     "poster": "https://image.tmdb.org/t/p/w500/7NS1KuwxTIzyMcpNGKBGlSV0Hqo.jpg",
     "posterShape": "poster",
     "background": "https://image.tmdb.org/t/p/w500/7NS1KuwxTIzyMcpNGKBGlSV0Hqo.jpg",
-    "description": "Né(e) le 1943-10-22 à Paris, France\n\nCatherine Dorléac, dite Catherine Deneuve, est une actrice française, née le 22 octobre 1943 à Paris.\n\nElle est la fille de l'acteur Maurice Dorléac et de l'actrice Renée Deneuve (dite Renée Simonot), et la sœur des actrices Françoise et Sylvie Dorléac.\n\nConsidérée comme l'une des plus grandes actrices françaises de sa génération et de la seconde partie du xxe siècle, elle est l'égérie de réalisateurs comme Jacques D…\n\nFilms : Histoires parallèles (2026) · Yōkai : Le Monde des esprits (2025) · Marcello Mio (2024) · Au fil des saisons (2024) · Bernadette (2023) · Belmondo l'incorrigible (2022) · De son vivant (2021) · Terrible jungle (2020) · La Vérité (2019) · Fête de famille (2019) · Haut les filles (2019) · L'Adieu à la nuit (2019) · La Dernière Folie de Claire Darling (2019) · Mauvaises herbes (2018) · Tout nous sépare (2017)\n\nSéries : Nip/Tuck (2003) · Les liaisons dangereuses (2003)",
+    "description": "Né(e) le 1943-10-22 à Paris, France\n\nCatherine Dorléac, dite Catherine Deneuve, est une actrice française, née le 22 octobre 1943 à Paris.\n\nElle est la fille de l'acteur Maurice Dorléac et de l'actrice Renée Deneuve (dite Renée Simonot), et la sœur des actrices Françoise et Sylvie Dorléac.\n\nConsidérée comme l'une des plus grandes actrices françaises de sa génération et de la seconde partie du xxe siècle, elle est l'égérie de réalisateurs comme Jacques D…\n\nFilms : Gentle Monster (2026) · Histoires parallèles (2026) · Yōkai : Le Monde des esprits (2025) · Marcello Mio (2024) · Au fil des saisons (2024) · Bernadette (2023) · Belmondo l'incorrigible (2022) · De son vivant (2021) · Terrible jungle (2020) · La Vérité (2019) · Fête de famille (2019) · Haut les filles (2019) · L'Adieu à la nuit (2019) · La Dernière Folie de Claire Darling (2019) · Mauvaises herbes (2018)\n\nSéries : Nip/Tuck (2003) · Les liaisons dangereuses (2003)",
     "links": [
+      {
+        "name": "Gentle Monster",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt37020296"
+      },
       {
         "name": "Histoires parallèles",
         "category": "Filmographie",
@@ -79,11 +84,6 @@
         "url": "stremio:///detail/movie/tt6708116"
       },
       {
-        "name": "Tout nous sépare",
-        "category": "Filmographie",
-        "url": "stremio:///detail/movie/tt5825052"
-      },
-      {
         "name": "Nip/Tuck",
         "category": "Filmographie",
         "url": "stremio:///detail/series/tt0361217"
@@ -96,10 +96,19 @@
     ],
     "videos": [
       {
+        "id": "tt37020296",
+        "title": "Gentle Monster (2026)",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt37020296/img",
+        "overview": "Rôle : Eryn. Lucy et Philip sont heureux, ils viennent d’emménager avec leur fils dans une maison de campagne près de Munich."
+      },
+      {
         "id": "tt36646880",
         "title": "Histoires parallèles (2026)",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "released": "2026-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt36646880/img",
         "overview": "Rôle : Céline. En quête d’inspiration pour son nouveau roman, Sylvie espionne ses voisins dans l’immeuble d’en face."
@@ -108,7 +117,7 @@
         "id": "tt30832707",
         "title": "Yōkai : Le Monde des esprits (2025)",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "released": "2025-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt30832707/img",
         "overview": "Rôle : Claire Emery. La légendaire artiste Claire Emery s'envole pour Tōkyō pour un ultime concert à guichets fermés. Cependant, à l'issue de celui-ci, sa vie sur Terre prend brutalement fin."
@@ -117,7 +126,7 @@
         "id": "tt32086069",
         "title": "Marcello Mio (2024)",
         "season": 1,
-        "episode": 3,
+        "episode": 4,
         "released": "2024-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt32086069/img",
         "overview": "Rôle : Catherine. C’est l’histoire d’une femme qui s’appelle Chiara.\r Elle est actrice, elle est la fille de Marcello Mastroianni et Catherine Deneuve et le temps d’un été, chahutée dans sa propre vie, elle se raconte qu’elle devrait plut…"
@@ -126,7 +135,7 @@
         "id": "tt20414046",
         "title": "Au fil des saisons (2024)",
         "season": 1,
-        "episode": 4,
+        "episode": 5,
         "released": "2024-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt20414046/img",
         "overview": "Rôle : Solange. Charlie, 20 ans, étudiante, revient dans la ferme familiale en Virginie pour aider sa mère qui est souffrante."
@@ -135,7 +144,7 @@
         "id": "tt19858184",
         "title": "Bernadette (2023)",
         "season": 1,
-        "episode": 5,
+        "episode": 6,
         "released": "2023-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt19858184/img",
         "overview": "Rôle : Bernadette Chirac. Quand elle arrive à l’Elysée, Bernadette Chirac s’attend à obtenir enfin la place qu’elle mérite, elle qui a toujours œuvré dans l’ombre de son mari pour qu’il devienne président."
@@ -144,7 +153,7 @@
         "id": "tt21990870",
         "title": "Belmondo l'incorrigible (2022)",
         "season": 1,
-        "episode": 6,
+        "episode": 7,
         "released": "2022-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt21990870/img",
         "overview": "Charismatique et débrouillard, séducteur et casse-cou, Jean-Paul Belmondo a toujours joué ses rôles comme il a vécu, à mille à l'heure."
@@ -153,7 +162,7 @@
         "id": "tt11093266",
         "title": "De son vivant (2021)",
         "season": 1,
-        "episode": 7,
+        "episode": 8,
         "released": "2021-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt11093266/img",
         "overview": "Rôle : Crystal. Un homme condamné trop jeune par la maladie. La souffrance d’une mère face à l’inacceptable."
@@ -162,7 +171,7 @@
         "id": "tt10366254",
         "title": "Terrible jungle (2020)",
         "season": 1,
-        "episode": 8,
+        "episode": 9,
         "released": "2020-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt10366254/img",
         "overview": "Rôle : Chantal de Bellabre. Jeune aventurier candide, Eliott de Bellabre part dans la jungle amazonienne à la recherche d’une mystérieuse tribu indienne. Il espère trouver le paradis sur terre. Il va déchanter."
@@ -171,7 +180,7 @@
         "id": "tt8323120",
         "title": "La Vérité (2019)",
         "season": 1,
-        "episode": 9,
+        "episode": 10,
         "released": "2019-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt8323120/img",
         "overview": "Rôle : Fabienne Dangeville. Fabienne Dangeville, icône du cinéma, est la mère de Lumir, scénariste à New York. La publication des mémoires de cette grande actrice incite Lumir et sa famille à revenir dans la maison de son enfance."
@@ -180,7 +189,7 @@
         "id": "tt8080196",
         "title": "Fête de famille (2019)",
         "season": 1,
-        "episode": 10,
+        "episode": 11,
         "released": "2019-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt8080196/img",
         "overview": "Rôle : Andréa. «Aujourd’hui c’est mon anniversaire et j’aimerais qu’on ne parle que de choses joyeuses » Andréa ne sait pas encore que l’arrivée « surprise » de sa fille aînée, Claire, disparue depuis 3 ans et bien décidée à reprendre…"
@@ -189,7 +198,7 @@
         "id": "tt9140376",
         "title": "Haut les filles (2019)",
         "season": 1,
-        "episode": 11,
+        "episode": 12,
         "released": "2019-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt9140376/img",
         "overview": "En France, la révolution rock du jour se joue au féminin pluriel. Face aux clichés virils du rap et du rock, les femmes iconoclastes réinventent le corps, le désir, l’apparence, à rebours de tous les codes sur la beauté,…"
@@ -198,7 +207,7 @@
         "id": "tt8569390",
         "title": "L'Adieu à la nuit (2019)",
         "season": 1,
-        "episode": 12,
+        "episode": 13,
         "released": "2019-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt8569390/img",
         "overview": "Rôle : Muriel. Muriel est folle de joie de voir Alex, son petit-fils, qui vient passer quelques jours chez elle avant de partir vivre au Canada.  Intriguée par son comportement, elle découvre bientôt qu’il lui a menti."
@@ -207,7 +216,7 @@
         "id": "tt6961808",
         "title": "La Dernière Folie de Claire Darling (2019)",
         "season": 1,
-        "episode": 13,
+        "episode": 14,
         "released": "2019-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt6961808/img",
         "overview": "Rôle : Claire Darling. À Verderonne, petit village de l'Oise, c'est le premier jour de l'été et Claire Darling se réveille persuadée de vivre son dernier jour… Elle décide alors de vider sa maison et brade tout sans distinction, des lampes Tif…"
@@ -216,19 +225,10 @@
         "id": "tt6708116",
         "title": "Mauvaises herbes (2018)",
         "season": 1,
-        "episode": 14,
+        "episode": 15,
         "released": "2018-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt6708116/img",
         "overview": "Rôle : Monique. Waël, un ancien enfant des rues, vit en banlieue parisienne de petites arnaques qu’il commet avec Monique, une femme à la retraite qui tient visiblement beaucoup à lui."
-      },
-      {
-        "id": "tt5825052",
-        "title": "Tout nous sépare (2017)",
-        "season": 1,
-        "episode": 15,
-        "released": "2017-01-01T00:00:00.000Z",
-        "thumbnail": "https://images.metahub.space/poster/medium/tt5825052/img",
-        "overview": "Rôle : Louise. Une maison bourgeoise au milieu de nulle part. Une cité à Sète. Une mère et sa fille. Deux amis d’enfance. Une disparition. Un chantage. La confrontation de deux mondes."
       },
       {
         "id": "tt0361217",
