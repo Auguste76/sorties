@@ -1,5 +1,5 @@
 {
- "majLe": "19/10/2026",
+ "majLe": "26/10/2026",
  "acteurs": [
   {
    "nom": "Omar Sy",
@@ -1372,6 +1372,20 @@
    "bio": "Active au cinéma depuis la fin des années 1990, elle est révélée au grand public par son rôle de Lilly Bertineau dans la saga Taxi de Luc Besson, qu'elle incarnera dans les trois premiers films de la franchise.",
    "films": [
     {
+     "id": "tt35450621",
+     "type": "movie",
+     "name": "Karma",
+     "description": "Rôle : Jeanne. Dans un village au nord de l’Espagne, Jeanne tente de reconstruire sa vie avec Daniel, qui ne connaît rien de son passé trouble.",
+     "year": "2026",
+     "famille": "thriller",
+     "genres": [
+      "Thriller"
+     ],
+     "date": "2026-10-21",
+     "role": "Jeanne",
+     "tmdb": "https://www.themoviedb.org/movie/1418998?language=fr-FR"
+    },
+    {
      "id": "tt28171985",
      "type": "movie",
      "name": "La Tour de glace",
@@ -1971,21 +1985,6 @@
      "date": "2006-09-09",
      "role": "Fanny Chenal",
      "tmdb": "https://www.themoviedb.org/movie/9726?language=fr-FR"
-    },
-    {
-     "id": "tt0454602",
-     "type": "movie",
-     "name": "Fair Play",
-     "description": "Rôle : Nicole. Un patron dominateur compulsif, une nouvelle recrue à l'arrivisme forcené, un cadre calculateur et machiavélique et une employée trop victime pour être honnête règlent leurs comptes sur les terrains de sport.La sueur se…",
-     "year": "2006",
-     "famille": "thriller",
-     "genres": [
-      "Drame",
-      "Thriller"
-     ],
-     "date": "2006-09-06",
-     "role": "Nicole",
-     "tmdb": "https://www.themoviedb.org/movie/42427?language=fr-FR"
     }
    ],
    "series": [
@@ -2085,11 +2084,11 @@
      "name": "Les Linceuls",
      "description": "Rôle : Karsh Relikh. Karsh, 50 ans, est un homme d’affaires renommé. Inconsolable depuis le décès de son épouse, il invente un système révolutionnaire et controversé, GraveTech, qui permet aux vivants de se connecter à leurs chers disparus d…",
      "year": "2025",
-     "famille": "sf",
+     "famille": "thriller",
      "genres": [
       "Drame",
-      "Horreur",
-      "Science-fiction"
+      "Science-fiction",
+      "Thriller"
      ],
      "date": "2025-04-03",
      "role": "Karsh Relikh",
@@ -3097,21 +3096,6 @@
      "tmdb": "https://www.themoviedb.org/movie/221667?language=fr-FR"
     },
     {
-     "id": "tt2278388",
-     "type": "movie",
-     "name": "The Grand Budapest Hotel",
-     "description": "Rôle : Clotilde. Pendant l’entre‐deux guerres, le légendaire concierge d’un grand hôtel et son jeune protégé se retrouvent impliqués dans une histoire mêlant le vol d’un tableau de la Renaissance, la bataille pour une énorme fortune fami…",
-     "year": "2014",
-     "famille": "comedie",
-     "genres": [
-      "Comédie",
-      "Drame"
-     ],
-     "date": "2014-02-26",
-     "role": "Clotilde",
-     "tmdb": "https://www.themoviedb.org/movie/120467?language=fr-FR"
-    },
-    {
      "id": "tt2316801",
      "type": "movie",
      "name": "La Belle et la Bête",
@@ -3125,6 +3109,21 @@
      "date": "2014-02-12",
      "role": "Belle",
      "tmdb": "https://www.themoviedb.org/movie/197796?language=fr-FR"
+    },
+    {
+     "id": "tt2278388",
+     "type": "movie",
+     "name": "The Grand Budapest Hotel",
+     "description": "Rôle : Clotilde. Pendant l’entre‐deux guerres, le légendaire concierge d’un grand hôtel et son jeune protégé se retrouvent impliqués dans une histoire mêlant le vol d’un tableau de la Renaissance, la bataille pour une énorme fortune fami…",
+     "year": "2014",
+     "famille": "comedie",
+     "genres": [
+      "Comédie",
+      "Drame"
+     ],
+     "date": "2014-02-08",
+     "role": "Clotilde",
+     "tmdb": "https://www.themoviedb.org/movie/120467?language=fr-FR"
     },
     {
      "id": "tt2278871",
@@ -4135,7 +4134,7 @@
   {
    "nom": "Gérard Depardieu",
    "tmdb": 16927,
-   "photo": "https://image.tmdb.org/t/p/w500/cibkIAJN6ctlqHohhdDEcfbiCAL.jpg",
+   "photo": "https://image.tmdb.org/t/p/w500/pOpHfkYRhFJiKAiIycdguQPYfem.jpg",
    "sourcePhoto": "TMDB",
    "naissance": "1948-12-27",
    "lieu": "Châteauroux, Indre, France",
@@ -8767,6 +8766,8 @@
      "year": "2023",
      "famille": "thriller",
      "genres": [
+      "Action",
+      "Aventure",
       "Comédie",
       "Policier",
       "Thriller"
@@ -8859,6 +8860,7 @@
      "genres": [
       "Comédie",
       "Policier",
+      "Romance",
       "Thriller"
      ],
      "date": "2019-05-25",
@@ -9280,6 +9282,20 @@
    "lieu": "Sidi Bel Abbes, Algeria",
    "bio": "Kad Merad, de son vrai nom Kadour Merad, est un comédien, humoriste et réalisateur franco-algérien, né le 27 mars 1964 à Sidi Bel Abbès en Algérie et ayant passé la majorité de son enfance à Balbigny (Loire) avant de déménager à dix ans à Ris-Orangis (Essonne).",
    "films": [
+    {
+     "id": "tt38566952",
+     "type": "movie",
+     "name": "Fausse note",
+     "description": "Rôle : Nathan Dinke. Lors de son ultime concert à Paris, un chef d’orchestre de renom est confronté à un admirateur insistant.",
+     "year": "2026",
+     "famille": "drame",
+     "genres": [
+      "Drame"
+     ],
+     "date": "2026-10-07",
+     "role": "Nathan Dinke",
+     "tmdb": "https://www.themoviedb.org/movie/1520954?language=fr-FR"
+    },
     {
      "id": "tt35364812",
      "type": "movie",
@@ -9828,21 +9844,6 @@
      "date": "2014-10-22",
      "role": "Serge Renart",
      "tmdb": "https://www.themoviedb.org/movie/295087?language=fr-FR"
-    },
-    {
-     "id": "tt3019796",
-     "type": "movie",
-     "name": "Les Vacances du Petit Nicolas",
-     "description": "Rôle : Nicolas' father. C’est la fin de l’année scolaire. Le moment tant attendu des vacances est arrivé.  Le petit Nicolas, ses parents et Mémé prennent la route en direction de la mer, et s’installent pour quelques temps à l’Hôtel Beau-Rivage…",
-     "year": "2014",
-     "famille": "comedie",
-     "genres": [
-      "Comédie",
-      "Famille"
-     ],
-     "date": "2014-07-09",
-     "role": "Nicolas' father",
-     "tmdb": "https://www.themoviedb.org/movie/277368?language=fr-FR"
     }
    ],
    "series": [
@@ -16524,6 +16525,8 @@
   "movie:68023": "tt0115638",
   "tv:69725": "tt0138234",
   "movie:1473148": "tt37020296",
-  "movie:1241803": "tt35518109"
+  "movie:1241803": "tt35518109",
+  "movie:1418998": "tt35450621",
+  "movie:1520954": "tt38566952"
  }
 }

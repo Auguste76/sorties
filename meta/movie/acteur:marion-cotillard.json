@@ -6,8 +6,13 @@
     "poster": "https://image.tmdb.org/t/p/w500/biitzOF0GffIqFYLyOPkoiaOngQ.jpg",
     "posterShape": "poster",
     "background": "https://image.tmdb.org/t/p/w500/biitzOF0GffIqFYLyOPkoiaOngQ.jpg",
-    "description": "Né(e) le 1975-09-30 à Paris, France\n\nActive au cinéma depuis la fin des années 1990, elle est révélée au grand public par son rôle de Lilly Bertineau dans la saga Taxi de Luc Besson, qu'elle incarnera dans les trois premiers films de la franchise.\n\nFilms : La Tour de glace (2025) · Lee Miller (2024) · Little Girl Blue (2023) · Léo, la fabuleuse histoire de Léonard de Vinci (2023) · Astérix & Obélix : L'Empire du Milieu (2023) · Frère et Sœur (2022) · La Vengeance au triple galop (2021) · Annette (2021) · Le voyage du Dr Dolittle (2020) · Nous finirons ensemble (2019) · Gueule d'ange (2018) · Dans les yeux de Thomas Pesquet (2018) · Les Fantômes d'Ismaël (2017) · Rock'n Roll (2017) · Assassin's Creed (2016)\n\nSéries : Extrapolations (2023) · The Morning Show (2019) · Highlander (1992)",
+    "description": "Né(e) le 1975-09-30 à Paris, France\n\nActive au cinéma depuis la fin des années 1990, elle est révélée au grand public par son rôle de Lilly Bertineau dans la saga Taxi de Luc Besson, qu'elle incarnera dans les trois premiers films de la franchise.\n\nFilms : Karma (2026) · La Tour de glace (2025) · Lee Miller (2024) · Little Girl Blue (2023) · Léo, la fabuleuse histoire de Léonard de Vinci (2023) · Astérix & Obélix : L'Empire du Milieu (2023) · Frère et Sœur (2022) · La Vengeance au triple galop (2021) · Annette (2021) · Le voyage du Dr Dolittle (2020) · Nous finirons ensemble (2019) · Gueule d'ange (2018) · Dans les yeux de Thomas Pesquet (2018) · Les Fantômes d'Ismaël (2017) · Rock'n Roll (2017)\n\nSéries : Extrapolations (2023) · The Morning Show (2019) · Highlander (1992)",
     "links": [
+      {
+        "name": "Karma",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt35450621"
+      },
       {
         "name": "La Tour de glace",
         "category": "Filmographie",
@@ -77,11 +82,6 @@
         "name": "Rock'n Roll",
         "category": "Filmographie",
         "url": "stremio:///detail/movie/tt5351818"
-      },
-      {
-        "name": "Assassin's Creed",
-        "category": "Filmographie",
-        "url": "stremio:///detail/movie/tt2094766"
       },
       {
         "name": "Extrapolations",

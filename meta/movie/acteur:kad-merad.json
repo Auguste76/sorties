@@ -6,8 +6,13 @@
     "poster": "https://image.tmdb.org/t/p/w500/n4hjy7VFVgzRx5WVsElv4AKdotB.jpg",
     "posterShape": "poster",
     "background": "https://image.tmdb.org/t/p/w500/n4hjy7VFVgzRx5WVsElv4AKdotB.jpg",
-    "description": "Né(e) le 1964-03-27 à Sidi Bel Abbes, Algeria\n\nKad Merad, de son vrai nom Kadour Merad, est un comédien, humoriste et réalisateur franco-algérien, né le 27 mars 1964 à Sidi Bel Abbès en Algérie et ayant passé la majorité de son enfance à Balbigny (Loire) avant de déménager à dix ans à Ris-Orangis (Essonne).\n\nFilms : Les Héros du Louvre (2026) · Permis de détruire (2026) · Une Famille De Bâtards (2026) · Papamobile (2025) · 100 Millions ! (2025) · Lune de miel avec ma mère (2025) · Le Dernier souffle (2025) · Les Boules de Noël (2024) · Finalement (2024) · Le Larbin (2024) · Les Enfoirés 2024 - On a 35 ans ! (2024) · La Vie pour de vrai (2023) · Les Enfoirés 2023 - Enfoirés un jour, toujours (2023) · Citoyen d'honneur (2022) · L'Année du requin (2022)\n\nSéries : Belphégor (2025) · Terminal (2024) · Anthracite (2024) · La Fièvre (2024) · Pamela Rose, la série (2023) · Le Flambeau, les aventuriers de Chupacabra (2022) · Oussekine (2022) · Un homme d'honneur (2021)",
+    "description": "Né(e) le 1964-03-27 à Sidi Bel Abbes, Algeria\n\nKad Merad, de son vrai nom Kadour Merad, est un comédien, humoriste et réalisateur franco-algérien, né le 27 mars 1964 à Sidi Bel Abbès en Algérie et ayant passé la majorité de son enfance à Balbigny (Loire) avant de déménager à dix ans à Ris-Orangis (Essonne).\n\nFilms : Fausse note (2026) · Les Héros du Louvre (2026) · Permis de détruire (2026) · Une Famille De Bâtards (2026) · Papamobile (2025) · 100 Millions ! (2025) · Lune de miel avec ma mère (2025) · Le Dernier souffle (2025) · Les Boules de Noël (2024) · Finalement (2024) · Le Larbin (2024) · Les Enfoirés 2024 - On a 35 ans ! (2024) · La Vie pour de vrai (2023) · Les Enfoirés 2023 - Enfoirés un jour, toujours (2023) · Citoyen d'honneur (2022)\n\nSéries : Belphégor (2025) · Terminal (2024) · Anthracite (2024) · La Fièvre (2024) · Pamela Rose, la série (2023) · Le Flambeau, les aventuriers de Chupacabra (2022) · Oussekine (2022) · Un homme d'honneur (2021)",
     "links": [
+      {
+        "name": "Fausse note",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt38566952"
+      },
       {
         "name": "Les Héros du Louvre",
         "category": "Filmographie",
@@ -77,11 +82,6 @@
         "name": "Citoyen d'honneur",
         "category": "Filmographie",
         "url": "stremio:///detail/movie/tt21438594"
-      },
-      {
-        "name": "L'Année du requin",
-        "category": "Filmographie",
-        "url": "stremio:///detail/movie/tt14962428"
       },
       {
         "name": "Belphégor",

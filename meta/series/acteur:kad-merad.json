@@ -6,8 +6,13 @@
     "poster": "https://image.tmdb.org/t/p/w500/n4hjy7VFVgzRx5WVsElv4AKdotB.jpg",
     "posterShape": "poster",
     "background": "https://image.tmdb.org/t/p/w500/n4hjy7VFVgzRx5WVsElv4AKdotB.jpg",
-    "description": "Né(e) le 1964-03-27 à Sidi Bel Abbes, Algeria\n\nKad Merad, de son vrai nom Kadour Merad, est un comédien, humoriste et réalisateur franco-algérien, né le 27 mars 1964 à Sidi Bel Abbès en Algérie et ayant passé la majorité de son enfance à Balbigny (Loire) avant de déménager à dix ans à Ris-Orangis (Essonne).\n\nFilms : Les Héros du Louvre (2026) · Permis de détruire (2026) · Une Famille De Bâtards (2026) · Papamobile (2025) · 100 Millions ! (2025) · Lune de miel avec ma mère (2025) · Le Dernier souffle (2025) · Les Boules de Noël (2024) · Finalement (2024) · Le Larbin (2024) · Les Enfoirés 2024 - On a 35 ans ! (2024) · La Vie pour de vrai (2023) · Les Enfoirés 2023 - Enfoirés un jour, toujours (2023) · Citoyen d'honneur (2022) · L'Année du requin (2022)\n\nSéries : Belphégor (2025) · Terminal (2024) · Anthracite (2024) · La Fièvre (2024) · Pamela Rose, la série (2023) · Le Flambeau, les aventuriers de Chupacabra (2022) · Oussekine (2022) · Un homme d'honneur (2021)",
+    "description": "Né(e) le 1964-03-27 à Sidi Bel Abbes, Algeria\n\nKad Merad, de son vrai nom Kadour Merad, est un comédien, humoriste et réalisateur franco-algérien, né le 27 mars 1964 à Sidi Bel Abbès en Algérie et ayant passé la majorité de son enfance à Balbigny (Loire) avant de déménager à dix ans à Ris-Orangis (Essonne).\n\nFilms : Fausse note (2026) · Les Héros du Louvre (2026) · Permis de détruire (2026) · Une Famille De Bâtards (2026) · Papamobile (2025) · 100 Millions ! (2025) · Lune de miel avec ma mère (2025) · Le Dernier souffle (2025) · Les Boules de Noël (2024) · Finalement (2024) · Le Larbin (2024) · Les Enfoirés 2024 - On a 35 ans ! (2024) · La Vie pour de vrai (2023) · Les Enfoirés 2023 - Enfoirés un jour, toujours (2023) · Citoyen d'honneur (2022)\n\nSéries : Belphégor (2025) · Terminal (2024) · Anthracite (2024) · La Fièvre (2024) · Pamela Rose, la série (2023) · Le Flambeau, les aventuriers de Chupacabra (2022) · Oussekine (2022) · Un homme d'honneur (2021)",
     "links": [
+      {
+        "name": "Fausse note",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt38566952"
+      },
       {
         "name": "Les Héros du Louvre",
         "category": "Filmographie",
@@ -79,11 +84,6 @@
         "url": "stremio:///detail/movie/tt21438594"
       },
       {
-        "name": "L'Année du requin",
-        "category": "Filmographie",
-        "url": "stremio:///detail/movie/tt14962428"
-      },
-      {
         "name": "Belphégor",
         "category": "Filmographie",
         "url": "stremio:///detail/series/tt36220217"
@@ -126,10 +126,19 @@
     ],
     "videos": [
       {
+        "id": "tt38566952",
+        "title": "Fausse note (2026)",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt38566952/img",
+        "overview": "Rôle : Nathan Dinke. Lors de son ultime concert à Paris, un chef d’orchestre de renom est confronté à un admirateur insistant."
+      },
+      {
         "id": "tt35364812",
         "title": "Les Héros du Louvre (2026)",
         "season": 1,
-        "episode": 1,
+        "episode": 2,
         "released": "2026-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt35364812/img",
         "overview": "Rôle : Babi Maklouf. Paris 1939. Amoureux des arts, Babi Maklouf Benhamou exerce le plus beau métier du monde : il est gardien de nuit au musée du Louvre."
@@ -138,7 +147,7 @@
         "id": "tt39368183",
         "title": "Permis de détruire (2026)",
         "season": 1,
-        "episode": 2,
+        "episode": 3,
         "released": "2026-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt39368183/img",
         "overview": "Rôle : Dominique. Dominique lutte pour concrétiser son rêve corse entre son cabinet médical en chantier et son combat contre une centrale électrique controversée."
@@ -147,7 +156,7 @@
         "id": "tt36963493",
         "title": "Une Famille De Bâtards (2026)",
         "season": 1,
-        "episode": 3,
+        "episode": 4,
         "released": "2026-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt36963493/img",
         "overview": "Rôle : Djilali. « Une famille de bâtards » suit Mohamed Akrour, petit gars sans histoires qui hérite de l'affaire familiale et découvre qu'elle abrite machines à sous illégales et réseau de prostitution."
@@ -156,7 +165,7 @@
         "id": "tt37646592",
         "title": "Papamobile (2025)",
         "season": 1,
-        "episode": 4,
+        "episode": 5,
         "released": "2025-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt37646592/img",
         "overview": "Rôle : Slim / Barnabé VI. Au dernier jour d’un voyage historique au Mexique, le pape est enlevé par un cartel de drogue. Le Saint-Père découvre la personnalité mystique de la cheffe du cartel et les multiples activités de son gang."
@@ -165,7 +174,7 @@
         "id": "tt35404638",
         "title": "100 Millions ! (2025)",
         "season": 1,
-        "episode": 5,
+        "episode": 6,
         "released": "2025-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt35404638/img",
         "overview": "Rôle : Patrick. Ouvrier dans une imprimerie, Patrick est un vétéran de la lutte contre le patronat."
@@ -174,7 +183,7 @@
         "id": "tt35300972",
         "title": "Lune de miel avec ma mère (2025)",
         "season": 1,
-        "episode": 6,
+        "episode": 7,
         "released": "2025-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt35300972/img",
         "overview": "Rôle : Michel. Largué devant l'autel par sa fiancée partie retrouver son ex, un jeune homme n'a pas vraiment d'autre choix que d'emmener sa propre mère en lune de miel romantique."
@@ -183,7 +192,7 @@
         "id": "tt32365122",
         "title": "Le Dernier souffle (2025)",
         "season": 1,
-        "episode": 7,
+        "episode": 8,
         "released": "2025-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt32365122/img",
         "overview": "Rôle : Augustin Masset. Dans un dialogue amical et passionné, le docteur Augustin Masset et l’écrivain Fabrice Toussaint se confrontent pour l’un à la fin de vie de ses patients et pour l’autre à sa propre fatalité."
@@ -192,7 +201,7 @@
         "id": "tt33396608",
         "title": "Les Boules de Noël (2024)",
         "season": 1,
-        "episode": 8,
+        "episode": 9,
         "released": "2024-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt33396608/img",
         "overview": "Rôle : Antonin. Pour la famille de Nathalie et Antonin, chaque année, le réveillon de Noël vire au cauchemar. Convaincue qu’elle est victime d’une malédiction, Nathalie prend une décision radicale : cette année on ne le fêtera pas !"
@@ -201,7 +210,7 @@
         "id": "tt27819140",
         "title": "Finalement (2024)",
         "season": 1,
-        "episode": 9,
+        "episode": 10,
         "released": "2024-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt27819140/img",
         "overview": "Rôle : Lino. Dans un monde de plus en plus fou, Lino qui a décidé de tout plaquer, va se rendre compte que finalement : tout ce qui nous arrive, c’est pour notre bien !"
@@ -210,7 +219,7 @@
         "id": "tt27348699",
         "title": "Le Larbin (2024)",
         "season": 1,
-        "episode": 10,
+        "episode": 11,
         "released": "2024-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt27348699/img",
         "overview": "Rôle : Jean-François Casteigne. Louis, jeune fêtard paresseux, multiplie les frasques et dépense sans compter la fortune de son père, président d’un groupe hôtelier de luxe."
@@ -219,7 +228,7 @@
         "id": "tt31179844",
         "title": "Les Enfoirés 2024 - On a 35 ans ! (2024)",
         "season": 1,
-        "episode": 11,
+        "episode": 12,
         "released": "2024-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt31179844/img",
         "overview": "En janvier 2024, les Enfoirés se sont produits à L’Arkéa Arena à Bordeaux pour fêter leurs 35 ans."
@@ -228,7 +237,7 @@
         "id": "tt26660615",
         "title": "La Vie pour de vrai (2023)",
         "season": 1,
-        "episode": 12,
+        "episode": 13,
         "released": "2023-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt26660615/img",
         "overview": "Rôle : Louis. Tridan Lagache a passé sa vie au Club Med, à changer d’amis tous les 8 jours. À 50 ans, il démissionne du club de vacances mexicain où il est né, bien décidé à retrouver, 42 ans plus tard, son grand amour d’enfance, Viol…"
@@ -237,7 +246,7 @@
         "id": "tt27031054",
         "title": "Les Enfoirés 2023 - Enfoirés un jour, toujours (2023)",
         "season": 1,
-        "episode": 13,
+        "episode": 14,
         "released": "2023-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt27031054/img",
         "overview": "En janvier 2023, les Enfoirés se sont produits à La Halle Tony Garnier à Lyon. Fidèles à l’appel lancé par Coluche dès 1985, quarante-sept artistes de renom ont répondu présent, dans une ambiance festive et chaleureuse."
@@ -246,19 +255,10 @@
         "id": "tt21438594",
         "title": "Citoyen d'honneur (2022)",
         "season": 1,
-        "episode": 14,
+        "episode": 15,
         "released": "2022-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt21438594/img",
         "overview": "Rôle : Samir Amin. Samir Amin est un écrivain comblé, Prix Nobel de littérature, qui vit à Paris, loin de son pays natal, l'Algérie. Il refuse systématiquement toutes les invitations qui lui sont faites."
-      },
-      {
-        "id": "tt14962428",
-        "title": "L'Année du requin (2022)",
-        "season": 1,
-        "episode": 15,
-        "released": "2022-01-01T00:00:00.000Z",
-        "thumbnail": "https://images.metahub.space/poster/medium/tt14962428/img",
-        "overview": "Rôle : Thierry. Maja, gendarme maritime à la pointe du Cap-Ferret, en Gironde, voit se réaliser son pire cauchemar : prendre sa retraite anticipée ! Thierry, son mari, a déjà prévu la place de camping et le mobil home."
       },
       {
         "id": "tt36220217",
