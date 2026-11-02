@@ -1,6 +1,21 @@
 {
   "metas": [
     {
+      "id": "tt36899180",
+      "type": "movie",
+      "name": "Moulin",
+      "poster": "https://images.metahub.space/poster/medium/tt36899180/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt36899180/img",
+      "description": "Rôle : Jean Moulin. Jean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance, sous l’égide du général de Gaulle.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drame",
+        "Historique",
+        "Guerre"
+      ]
+    },
+    {
       "id": "tt37163509",
       "type": "movie",
       "name": "La Vénus électrique",
@@ -542,20 +557,6 @@
       "releaseInfo": "2012",
       "genres": [
         "Comédie"
-      ]
-    },
-    {
-      "id": "tt1717170",
-      "type": "movie",
-      "name": "Mineurs 27",
-      "poster": "https://images.metahub.space/poster/medium/tt1717170/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt1717170/img",
-      "description": "Rôle : Oscar Herrera. Vincent Descharnes est un flic de province à l'allure ordinaire. Il y a dix ans, il a enterré une sale affaire pour sauver sa peau. Wilson et Stan ont en commun leur passion pour Déborah mais aussi un lourd secret.",
-      "releaseInfo": "2011",
-      "genres": [
-        "Drame",
-        "Thriller"
       ]
     }
   ]

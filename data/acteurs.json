@@ -1,5 +1,5 @@
 {
- "majLe": "26/10/2026",
+ "majLe": "02/11/2026",
  "acteurs": [
   {
    "nom": "Omar Sy",
@@ -14,7 +14,7 @@
      "id": "tt21272942",
      "type": "movie",
      "name": "Le Passage",
-     "description": "Rôle : Marwan. Une tra­gé­die frappe une famille syrienne à Alep, déclen­chant une réac­tion en chaîne d’é­vé­ne­ments dans quatre pays dif­fé­rents impli­quant des per­sonnes unies par un lien de paren­té, dont une doc­to­resse et sa…",
+     "description": "Rôle : Marwan. Amira travaille dans un grand hôpital à Chicago. Un message d'anniversaire fait vibrer son téléphone et le passé refait surface. Des années plus tôt, le soir de ses 40 ans, une bombe pulvérise son appartement à Alep.",
      "year": "2025",
      "famille": "thriller",
      "genres": [
@@ -3252,8 +3252,7 @@
      "year": "2010",
      "famille": "drame",
      "genres": [
-      "Drame",
-      "Historique"
+      "Drame"
      ],
      "date": "2010-10-21",
      "role": "Blanche de Montfort",
@@ -3445,8 +3444,7 @@
      "famille": "thriller",
      "genres": [
       "Policier",
-      "Drame",
-      "Thriller"
+      "Romance"
      ],
      "date": "2026-05-21",
      "role": "Marius Maissner",
@@ -6182,6 +6180,20 @@
    "bio": "Juliette Binoche, est une actrice française, née le 9 mars 1964 à Paris.\n\nElle est la première actrice à avoir remporté (et la seule à ce jour avec Julianne Moore) un prix d'interprétation dans les trois plus grands festivals de cinéma — Cannes, Venise et Berlin.",
    "films": [
     {
+     "id": "tt27541205",
+     "type": "movie",
+     "name": "Queen at Sea",
+     "description": "Rôle : Amanda. Une femme s'inquiète pour sa mère vieillissante et retourne à Londres avec sa fille adolescente.",
+     "year": "2026",
+     "famille": "drame",
+     "genres": [
+      "Drame"
+     ],
+     "date": "2026-09-18",
+     "role": "Amanda",
+     "tmdb": "https://www.themoviedb.org/movie/1021848?language=fr-FR"
+    },
+    {
      "id": "tt19861162",
      "type": "movie",
      "name": "The Return, le retour d'Ulysse",
@@ -6759,21 +6771,6 @@
      "date": "2007-09-07",
      "role": "Ana",
      "tmdb": "https://www.themoviedb.org/movie/17925?language=fr-FR"
-    },
-    {
-     "id": "tt0443456",
-     "type": "movie",
-     "name": "Par effraction",
-     "description": "Rôle : Amira. Will traverse une période difficile avec Liv, sa compagne. Il vient en plus d'installer son cabinet d'architecte paysagiste dans King's Cross, un quartier de Londres en pleine réhabilitation.",
-     "year": "2006",
-     "famille": "drame",
-     "genres": [
-      "Drame",
-      "Romance"
-     ],
-     "date": "2006-12-15",
-     "role": "Amira",
-     "tmdb": "https://www.themoviedb.org/movie/1253?language=fr-FR"
     }
    ],
    "series": [
@@ -7401,6 +7398,21 @@
    "bio": "Romain Duris, né le 28 mai 1974 à Paris, est un acteur français.\n\nIl a tourné sept fois avec Cédric Klapisch. Il est ainsi surtout connu pour le rôle de Xavier Rousseau, héros de la trilogie L'Auberge espagnole (1999-2013).",
    "films": [
     {
+     "id": "tt37740990",
+     "type": "movie",
+     "name": "Le fantôme de l'opéra",
+     "description": "Rôle : James Figueras. Dans le Paris d'aujourd'hui, Anastasia, jeune danseuse, intègre le prestigieux Opéra de Paris.",
+     "year": "2026",
+     "famille": "thriller",
+     "genres": [
+      "Romance",
+      "Thriller"
+     ],
+     "date": "2026-10-28",
+     "role": "James Figueras",
+     "tmdb": "https://www.themoviedb.org/movie/1430841?language=fr-FR"
+    },
+    {
      "id": "tt36827509",
      "type": "movie",
      "name": "Fils de personne",
@@ -7987,21 +7999,6 @@
      "date": "2005-06-15",
      "role": "Xavier Rousseau",
      "tmdb": "https://www.themoviedb.org/movie/1826?language=fr-FR"
-    },
-    {
-     "id": "tt0411270",
-     "type": "movie",
-     "name": "De battre mon cœur s'est arrêté",
-     "description": "Rôle : Thomas Seyr. À 28 ans, Tom semble marcher sur les traces de son père dans l’immobilier véreux. Mais une rencontre fortuite le pousse à croire qu’il pourrait être le pianiste concertiste de talent qu’il rêvait de devenir, à l’image de…",
-     "year": "2005",
-     "famille": "thriller",
-     "genres": [
-      "Policier",
-      "Drame"
-     ],
-     "date": "2005-03-16",
-     "role": "Thomas Seyr",
-     "tmdb": "https://www.themoviedb.org/movie/1553?language=fr-FR"
     }
    ],
    "series": [
@@ -13089,6 +13086,22 @@
    "bio": "Gilles Lellouche, né le 5 juillet 1972 à Savigny-sur-Orge, est un acteur, scénariste et réalisateur français.\n\nIl est connu pour ses multiples collaborations avec Guillaume Canet — Mon idole (2002), Jeux d'enfants (2003), Narco (2004), Ne le dis à personne (2006), Les Petits Mouchoirs (2010), Rock'N'Roll (2017), L'amour est une fête (2018), Nous finirons ensemble (2019) et Astérix et Obélix: L'Empire du Milieu (2023)…",
    "films": [
     {
+     "id": "tt36899180",
+     "type": "movie",
+     "name": "Moulin",
+     "description": "Rôle : Jean Moulin. Jean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance, sous l’égide du général de Gaulle.",
+     "year": "2026",
+     "famille": "drame",
+     "genres": [
+      "Drame",
+      "Historique",
+      "Guerre"
+     ],
+     "date": "2026-10-28",
+     "role": "Jean Moulin",
+     "tmdb": "https://www.themoviedb.org/movie/1437925?language=fr-FR"
+    },
+    {
      "id": "tt37163509",
      "type": "movie",
      "name": "La Vénus électrique",
@@ -13670,21 +13683,6 @@
      "date": "2012-02-08",
      "role": "Gilles Lellouche",
      "tmdb": "https://www.themoviedb.org/movie/116953?language=fr-FR"
-    },
-    {
-     "id": "tt1717170",
-     "type": "movie",
-     "name": "Mineurs 27",
-     "description": "Rôle : Oscar Herrera. Vincent Descharnes est un flic de province à l'allure ordinaire. Il y a dix ans, il a enterré une sale affaire pour sauver sa peau. Wilson et Stan ont en commun leur passion pour Déborah mais aussi un lourd secret.",
-     "year": "2011",
-     "famille": "thriller",
-     "genres": [
-      "Drame",
-      "Thriller"
-     ],
-     "date": "2011-09-21",
-     "role": "Oscar Herrera",
-     "tmdb": "https://www.themoviedb.org/movie/94838?language=fr-FR"
     }
    ],
    "series": [
@@ -16527,6 +16525,9 @@
   "movie:1473148": "tt37020296",
   "movie:1241803": "tt35518109",
   "movie:1418998": "tt35450621",
-  "movie:1520954": "tt38566952"
+  "movie:1520954": "tt38566952",
+  "movie:1021848": "tt27541205",
+  "movie:1430841": "tt37740990",
+  "movie:1437925": "tt36899180"
  }
 }

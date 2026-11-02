@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt37740990",
+      "type": "movie",
+      "name": "Le fantôme de l'opéra",
+      "poster": "https://images.metahub.space/poster/medium/tt37740990/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt37740990/img",
+      "description": "Rôle : James Figueras. Dans le Paris d'aujourd'hui, Anastasia, jeune danseuse, intègre le prestigieux Opéra de Paris.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt36827509",
       "type": "movie",
       "name": "Fils de personne",
@@ -547,20 +561,6 @@
         "Comédie",
         "Drame",
         "Romance"
-      ]
-    },
-    {
-      "id": "tt0411270",
-      "type": "movie",
-      "name": "De battre mon cœur s'est arrêté",
-      "poster": "https://images.metahub.space/poster/medium/tt0411270/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0411270/img",
-      "description": "Rôle : Thomas Seyr. À 28 ans, Tom semble marcher sur les traces de son père dans l’immobilier véreux. Mais une rencontre fortuite le pousse à croire qu’il pourrait être le pianiste concertiste de talent qu’il rêvait de devenir, à l’image de…",
-      "releaseInfo": "2005",
-      "genres": [
-        "Policier",
-        "Drame"
       ]
     }
   ]

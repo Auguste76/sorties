@@ -1,6 +1,35 @@
 {
   "metas": [
     {
+      "id": "tt37740990",
+      "type": "movie",
+      "name": "Le fantôme de l'opéra",
+      "poster": "https://images.metahub.space/poster/medium/tt37740990/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt37740990/img",
+      "description": "Rôle : James Figueras. Dans le Paris d'aujourd'hui, Anastasia, jeune danseuse, intègre le prestigieux Opéra de Paris.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt36899180",
+      "type": "movie",
+      "name": "Moulin",
+      "poster": "https://images.metahub.space/poster/medium/tt36899180/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt36899180/img",
+      "description": "Rôle : Jean Moulin. Jean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance, sous l’égide du général de Gaulle.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drame",
+        "Historique",
+        "Guerre"
+      ]
+    },
+    {
       "id": "tt35450621",
       "type": "movie",
       "name": "Karma",
@@ -66,6 +95,19 @@
       "genres": [
         "Action",
         "Thriller"
+      ]
+    },
+    {
+      "id": "tt27541205",
+      "type": "movie",
+      "name": "Queen at Sea",
+      "poster": "https://images.metahub.space/poster/medium/tt27541205/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt27541205/img",
+      "description": "Rôle : Amanda. Une femme s'inquiète pour sa mère vieillissante et retourne à Londres avec sa fille adolescente.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drame"
       ]
     },
     {
@@ -202,8 +244,7 @@
       "releaseInfo": "2026",
       "genres": [
         "Policier",
-        "Drame",
-        "Thriller"
+        "Romance"
       ]
     },
     {
@@ -395,7 +436,7 @@
       "poster": "https://images.metahub.space/poster/medium/tt21272942/img",
       "posterShape": "poster",
       "background": "https://images.metahub.space/background/medium/tt21272942/img",
-      "description": "Rôle : Marwan. Une tra­gé­die frappe une famille syrienne à Alep, déclen­chant une réac­tion en chaîne d’é­vé­ne­ments dans quatre pays dif­fé­rents impli­quant des per­sonnes unies par un lien de paren­té, dont une doc­to­resse et sa…",
+      "description": "Rôle : Marwan. Amira travaille dans un grand hôpital à Chicago. Un message d'anniversaire fait vibrer son téléphone et le passé refait surface. Des années plus tôt, le soir de ses 40 ans, une bombe pulvérise son appartement à Alep.",
       "releaseInfo": "2025",
       "genres": [
         "Drame",
@@ -794,49 +835,6 @@
         "Action",
         "Policier",
         "Drame"
-      ]
-    },
-    {
-      "id": "tt27156915",
-      "type": "movie",
-      "name": "Saint-Ex",
-      "poster": "https://images.metahub.space/poster/medium/tt27156915/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt27156915/img",
-      "description": "Rôle : Henri Guillaumet. En 1930, Antoine de Saint-Exupéry est pilote de l’Aéropostale en Argentine. Quand Henri Guillaumet, son meilleur ami et le meilleur pilote, disparaît dans la Cordillère des Andes, Saint-Ex décide malgré tout de partir à…",
-      "releaseInfo": "2024",
-      "genres": [
-        "Aventure",
-        "Drame",
-        "Historique"
-      ]
-    },
-    {
-      "id": "tt28522540",
-      "type": "movie",
-      "name": "Leurs enfants après eux",
-      "poster": "https://images.metahub.space/poster/medium/tt28522540/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt28522540/img",
-      "description": "Rôle : Patrick. Août 1992. Une vallée perdue quelque part dans l’Est, des hauts-fourneaux qui ne brûlent plus, un lac, un après-midi de canicule.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Drame"
-      ]
-    },
-    {
-      "id": "tt19861162",
-      "type": "movie",
-      "name": "The Return, le retour d'Ulysse",
-      "poster": "https://images.metahub.space/poster/medium/tt19861162/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt19861162/img",
-      "description": "Rôle : Penelope. Après 20 ans d'absence, Ulysse échoue sur les côtes d'Ithaque, hagard et méconnaissable. Le roi est enfin rentré chez lui, mais beaucoup de choses ont changé dans son royaume depuis son départ pour la guerre de Troie.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Aventure",
-        "Drame",
-        "Historique"
       ]
     }
   ]
