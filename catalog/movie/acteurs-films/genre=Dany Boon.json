@@ -56,6 +56,23 @@
       ]
     },
     {
+      "id": "tt28035641",
+      "type": "movie",
+      "name": "Il était une fois un studio",
+      "poster": "https://images.metahub.space/poster/medium/tt28035641/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt28035641/img",
+      "description": "Rôle : Olaf (french voice). Tous vos personnages préférés se retrouvent dans « Il était une fois un Studio » pour un moment festif, amusant et émouvant, alors qu'ils se rassemblent pour une photo de groupe spectaculaire afin de célébrer les 100 ans…",
+      "releaseInfo": "2023",
+      "genres": [
+        "Animation",
+        "Comédie",
+        "Drame",
+        "Fantastique",
+        "Famille"
+      ]
+    },
+    {
       "id": "tt26660615",
       "type": "movie",
       "name": "La Vie pour de vrai",
@@ -142,6 +159,23 @@
       ]
     },
     {
+      "id": "tt4520988",
+      "type": "movie",
+      "name": "La Reine des neiges II",
+      "poster": "https://images.metahub.space/poster/medium/tt4520988/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4520988/img",
+      "description": "Rôle : Olaf (french voice). Elsa, Anna, Kristoff, Olaf et Sven voyagent bien au‐delà des portes d’Arendelle à la recherche de réponses sur le passé d’Elsa.",
+      "releaseInfo": "2019",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Comédie",
+        "Fantastique",
+        "Famille"
+      ]
+    },
+    {
       "id": "tt8992390",
       "type": "movie",
       "name": "Le Dindon",
@@ -181,6 +215,23 @@
       "releaseInfo": "2018",
       "genres": [
         "Comédie"
+      ]
+    },
+    {
+      "id": "tt5452780",
+      "type": "movie",
+      "name": "La Reine des Neiges : Joyeuses fêtes avec Olaf",
+      "poster": "https://images.metahub.space/poster/medium/tt5452780/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5452780/img",
+      "description": "Rôle : Olaf (french voice). Olaf, bonhomme de neige et l'ami d'Anna et d'Elsa fera tout son possible pour trouver quelles traditions les soeurs vont pouvoir adopter dans l'optique de fêter leur premier Noël réunies.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Comédie",
+        "Fantastique",
+        "Famille"
       ]
     },
     {
@@ -247,6 +298,22 @@
       "releaseInfo": "2015"
     },
     {
+      "id": "tt4007502",
+      "type": "movie",
+      "name": "La Reine des Neiges : Une fête givrée",
+      "poster": "https://images.metahub.space/poster/medium/tt4007502/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4007502/img",
+      "description": "Rôle : Olaf (french voice). C’est l’anniversaire d’Anna, et Elsa et Kristoff sont décidés à lui offrir la plus belle fête dont on puisse rêver, mais les pouvoirs \"glaçants\" d’Elsa pourraient bien provoquer une catastrophe…",
+      "releaseInfo": "2015",
+      "genres": [
+        "Animation",
+        "Comédie",
+        "Fantastique",
+        "Famille"
+      ]
+    },
+    {
       "id": "tt3601728",
       "type": "movie",
       "name": "Les Enfoirés 2014 - Bon anniversaire Les Enfoirés",
@@ -267,6 +334,22 @@
       "releaseInfo": "2014",
       "genres": [
         "Comédie"
+      ]
+    },
+    {
+      "id": "tt2294629",
+      "type": "movie",
+      "name": "La Reine des neiges",
+      "poster": "https://images.metahub.space/poster/medium/tt2294629/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2294629/img",
+      "description": "Rôle : Olaf (french voice). Anna, une jeune fille aussi audacieuse qu’optimiste, se lance dans un incroyable voyage en compagnie de Kristoff, un montagnard expérimenté, et de son fidèle renne, Sven à la recherche de sa sœur, Elsa, la Reine des Neig…",
+      "releaseInfo": "2013",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Fantastique",
+        "Famille"
       ]
     },
     {
@@ -474,73 +557,6 @@
       "releaseInfo": "2004",
       "genres": [
         "Comédie"
-      ]
-    },
-    {
-      "id": "tt0395721",
-      "type": "movie",
-      "name": "Pédale dure",
-      "poster": "https://images.metahub.space/poster/medium/tt0395721/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0395721/img",
-      "description": "Rôle : Sébastien \"Seb\" Jouve. Loïc et Seb forment un couple de notables installés dans le Marais. Seb est le patron de la boîte de nuit la plus chic et la plus folle du quartier.",
-      "releaseInfo": "2004",
-      "genres": [
-        "Comédie"
-      ]
-    },
-    {
-      "id": "tt0181978",
-      "type": "movie",
-      "name": "Bimboland",
-      "poster": "https://images.metahub.space/poster/medium/tt0181978/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0181978/img",
-      "description": "Rôle : Greg. Pour les besoins de sa thèse, Cécile, ethnologue et intellectuelle fort sérieuse, va rencontrer Alex. Cécile pénètre dans le milieu de cette jeune femme qui lui est totalement opposée.",
-      "releaseInfo": "1998",
-      "genres": [
-        "Comédie",
-        "Romance"
-      ]
-    },
-    {
-      "id": "tt0119035",
-      "type": "movie",
-      "name": "Le Déménagement",
-      "poster": "https://images.metahub.space/poster/medium/tt0119035/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0119035/img",
-      "description": "Rôle : Alain. Qui n'a pas connu le stress d'un déménagement ? Surtout quand on est un jeune écrivain comme Alain, sur le point de quitter une bonne maison d'édition pour écrire un sitcom pour la télévision, que sa femme est sur le poi…",
-      "releaseInfo": "1997",
-      "genres": [
-        "Comédie"
-      ]
-    },
-    {
-      "id": "tt0117269",
-      "type": "movie",
-      "name": "Oui",
-      "poster": "https://images.metahub.space/poster/medium/tt0117269/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0117269/img",
-      "description": "Rôle : Wilfried. Un été, au bord de la mer, neuf amis redéfinissent leurs attentes en matière sentimentale.",
-      "releaseInfo": "1996",
-      "genres": [
-        "Comédie"
-      ]
-    },
-    {
-      "id": "tt0109927",
-      "type": "movie",
-      "name": "Le Grand Blanc de Lambaréné",
-      "poster": "https://images.metahub.space/poster/medium/tt0109927/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt0109927/img",
-      "description": "Rôle : Altmeyer. Le célèbre docteur Schweitzer, vu par un enfant d'abord admiratif puis critique et, à travers lui, par le peuple africain.",
-      "releaseInfo": "1995",
-      "genres": [
-        "Drame",
-        "Historique"
       ]
     }
   ]

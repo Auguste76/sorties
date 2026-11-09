@@ -6,7 +6,7 @@
     "poster": "https://image.tmdb.org/t/p/w500/6jMvseHpFra7tkfDIg64u5pJcI2.jpg",
     "posterShape": "poster",
     "background": "https://image.tmdb.org/t/p/w500/6jMvseHpFra7tkfDIg64u5pJcI2.jpg",
-    "description": "Né(e) le 1966-06-26 à Armentières, Nord, France\n\nDany Boon est issu d’une famille modeste du Nord. Son père algérien (kabyle), ex-boxeur et chauffeur routier, et sa mère, originaire du Nord de la France, est femme au foyer. Il a vraisemblablement un lien de parenté avec l’un des plus célèbres corsaires algériens Raïs Hamidou.\n\nFilms : Regarde (2025) · La Famille Hennedricks (2024) · Les Enfoirés 2024 - On a 35 ans ! (2024) · Les Chèvres ! (2024) · La Vie pour de vrai (2023) · Murder Mystery 2 (2023) · Mon crime (2023) · Une belle course (2022) · 8 Rue de l'Humanité (2021) · Le Lion (2020) · Le Dindon (2019) · Murder Mystery (2019) · La Ch'tite Famille (2018) · RAID Dingue (2017) · Radin ! (2016)",
+    "description": "Né(e) le 1966-06-26 à Armentières, Nord, France\n\nDany Boon est issu d’une famille modeste du Nord. Son père algérien (kabyle), ex-boxeur et chauffeur routier, et sa mère, originaire du Nord de la France, est femme au foyer. Il a vraisemblablement un lien de parenté avec l’un des plus célèbres corsaires algériens Raïs Hamidou.\n\nFilms : Regarde (2025) · La Famille Hennedricks (2024) · Les Enfoirés 2024 - On a 35 ans ! (2024) · Les Chèvres ! (2024) · Il était une fois un studio (2023) · La Vie pour de vrai (2023) · Murder Mystery 2 (2023) · Mon crime (2023) · Une belle course (2022) · 8 Rue de l'Humanité (2021) · Le Lion (2020) · La Reine des neiges II (2019) · Le Dindon (2019) · Murder Mystery (2019) · La Ch'tite Famille (2018)",
     "links": [
       {
         "name": "Regarde",
@@ -27,6 +27,11 @@
         "name": "Les Chèvres !",
         "category": "Filmographie",
         "url": "stremio:///detail/movie/tt30505337"
+      },
+      {
+        "name": "Il était une fois un studio",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt28035641"
       },
       {
         "name": "La Vie pour de vrai",
@@ -59,6 +64,11 @@
         "url": "stremio:///detail/movie/tt9908390"
       },
       {
+        "name": "La Reine des neiges II",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt4520988"
+      },
+      {
         "name": "Le Dindon",
         "category": "Filmographie",
         "url": "stremio:///detail/movie/tt8992390"
@@ -72,16 +82,6 @@
         "name": "La Ch'tite Famille",
         "category": "Filmographie",
         "url": "stremio:///detail/movie/tt6859418"
-      },
-      {
-        "name": "RAID Dingue",
-        "category": "Filmographie",
-        "url": "stremio:///detail/movie/tt5736696"
-      },
-      {
-        "name": "Radin !",
-        "category": "Filmographie",
-        "url": "stremio:///detail/movie/tt5253294"
       }
     ]
   }
