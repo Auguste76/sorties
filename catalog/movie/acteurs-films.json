@@ -162,8 +162,23 @@
       "releaseInfo": "2026",
       "genres": [
         "Drame",
-        "Fantastique",
+        "Horreur",
         "Thriller"
+      ]
+    },
+    {
+      "id": "tt32268992",
+      "type": "movie",
+      "name": "Sacrifice",
+      "poster": "https://images.metahub.space/poster/medium/tt32268992/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt32268992/img",
+      "description": "Rôle : Ben Bracken. Un gala de charité est interrompu par l'attaque d'un violent groupe de radicaux lancés dans une mystérieuse quête pour accomplir une prophétie.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Comédie"
       ]
     },
     {
@@ -244,7 +259,7 @@
       "releaseInfo": "2026",
       "genres": [
         "Policier",
-        "Romance"
+        "Thriller"
       ]
     },
     {
@@ -300,21 +315,6 @@
       "genres": [
         "Comédie",
         "Drame"
-      ]
-    },
-    {
-      "id": "tt32268992",
-      "type": "movie",
-      "name": "Sacrifice",
-      "poster": "https://images.metahub.space/poster/medium/tt32268992/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt32268992/img",
-      "description": "Rôle : Ben Bracken. Un gala de charité est interrompu par l'attaque d'un violent groupe de radicaux lancés dans une mystérieuse quête pour accomplir une prophétie.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Action",
-        "Aventure",
-        "Comédie"
       ]
     },
     {
@@ -683,6 +683,7 @@
       "releaseInfo": "2025",
       "genres": [
         "Drame",
+        "Horreur",
         "Science-fiction",
         "Thriller"
       ]

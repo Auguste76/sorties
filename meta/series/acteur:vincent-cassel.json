@@ -6,17 +6,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/ivUQfhn5olOmR5hthN8C8GThBV4.jpg",
     "posterShape": "poster",
     "background": "https://image.tmdb.org/t/p/w500/ivUQfhn5olOmR5hthN8C8GThBV4.jpg",
-    "description": "Né(e) le 1966-11-23 à Paris, France\n\nVincent Cassel, né Vincent Crochon le 23 novembre 1966 à Paris, est un acteur, réalisateur et producteur français.\n\nEn 1995, il acquiert une renommée internationale pour son rôle dans La Haine de Matthieu Kassovitz, qui lui permet d'être doublement nommé aux César dans les catégories «Meilleur acteur» et «Meilleur espoir masculin».\n\nFilms : Histoires parallèles (2026) · Sacrifice (2026) · Les Linceuls (2025) · Banger (2025) · Saint-Ex (2024) · Damaged (2024) · Les Trois Mousquetaires : Milady (2023) · Les Trois Mousquetaires : D'Artagnan (2023) · Astérix & Obélix : L'Empire du Milieu (2023) · Cousteau : De l'homme à la légende (2021) · Les méchants (2021) · Le bonheur des uns... (2020) · Underwater (2020) · Hors normes (2019) · L'Empereur de Paris (2018)\n\nSéries : Fiasco (2024) · Liaison (2023) · Westworld (2016) · Platane (2011) · Les Grandes Migrations (2010) · Alice Nevers, le juge est une femme (2002) · Lascars (1998)",
+    "description": "Né(e) le 1966-11-23 à Paris, France\n\nVincent Cassel, né Vincent Crochon le 23 novembre 1966 à Paris, est un acteur, réalisateur et producteur français.\n\nEn 1995, il acquiert une renommée internationale pour son rôle dans La Haine de Matthieu Kassovitz, qui lui permet d'être doublement nommé aux César dans les catégories «Meilleur acteur» et «Meilleur espoir masculin».\n\nFilms : Sacrifice (2026) · Histoires parallèles (2026) · Les Linceuls (2025) · Banger (2025) · Saint-Ex (2024) · Damaged (2024) · Les Trois Mousquetaires : Milady (2023) · Les Trois Mousquetaires : D'Artagnan (2023) · Astérix & Obélix : L'Empire du Milieu (2023) · Cousteau : De l'homme à la légende (2021) · Les méchants (2021) · Le bonheur des uns... (2020) · Underwater (2020) · Hors normes (2019) · L'Empereur de Paris (2018)\n\nSéries : Fiasco (2024) · Liaison (2023) · Westworld (2016) · Platane (2011) · Les Grandes Migrations (2010) · Alice Nevers, le juge est une femme (2002) · Lascars (1998)",
     "links": [
-      {
-        "name": "Histoires parallèles",
-        "category": "Filmographie",
-        "url": "stremio:///detail/movie/tt36646880"
-      },
       {
         "name": "Sacrifice",
         "category": "Filmographie",
         "url": "stremio:///detail/movie/tt32268992"
+      },
+      {
+        "name": "Histoires parallèles",
+        "category": "Filmographie",
+        "url": "stremio:///detail/movie/tt36646880"
       },
       {
         "name": "Les Linceuls",
@@ -121,22 +121,22 @@
     ],
     "videos": [
       {
-        "id": "tt36646880",
-        "title": "Histoires parallèles (2026)",
-        "season": 1,
-        "episode": 1,
-        "released": "2026-01-01T00:00:00.000Z",
-        "thumbnail": "https://images.metahub.space/poster/medium/tt36646880/img",
-        "overview": "Rôle : Pierre / Nicolas. En quête d’inspiration pour son nouveau roman, Sylvie espionne ses voisins dans l’immeuble d’en face."
-      },
-      {
         "id": "tt32268992",
         "title": "Sacrifice (2026)",
         "season": 1,
-        "episode": 2,
+        "episode": 1,
         "released": "2026-01-01T00:00:00.000Z",
         "thumbnail": "https://images.metahub.space/poster/medium/tt32268992/img",
         "overview": "Rôle : Ben Bracken. Un gala de charité est interrompu par l'attaque d'un violent groupe de radicaux lancés dans une mystérieuse quête pour accomplir une prophétie."
+      },
+      {
+        "id": "tt36646880",
+        "title": "Histoires parallèles (2026)",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-01T00:00:00.000Z",
+        "thumbnail": "https://images.metahub.space/poster/medium/tt36646880/img",
+        "overview": "Rôle : Pierre / Nicolas. En quête d’inspiration pour son nouveau roman, Sylvie espionne ses voisins dans l’immeuble d’en face."
       },
       {
         "id": "tt20212786",

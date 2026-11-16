@@ -1,5 +1,5 @@
 {
- "majLe": "09/11/2026",
+ "majLe": "16/11/2026",
  "acteurs": [
   {
    "nom": "Omar Sy",
@@ -400,6 +400,7 @@
      "year": "2015",
      "famille": "thriller",
      "genres": [
+      "Action",
       "Aventure",
       "Science-fiction",
       "Thriller"
@@ -2048,6 +2049,22 @@
    "bio": "Vincent Cassel, né Vincent Crochon le 23 novembre 1966 à Paris, est un acteur, réalisateur et producteur français.\n\nEn 1995, il acquiert une renommée internationale pour son rôle dans La Haine de Matthieu Kassovitz, qui lui permet d'être doublement nommé aux César dans les catégories «Meilleur acteur» et «Meilleur espoir masculin».",
    "films": [
     {
+     "id": "tt32268992",
+     "type": "movie",
+     "name": "Sacrifice",
+     "description": "Rôle : Ben Bracken. Un gala de charité est interrompu par l'attaque d'un violent groupe de radicaux lancés dans une mystérieuse quête pour accomplir une prophétie.",
+     "year": "2026",
+     "famille": "comedie",
+     "genres": [
+      "Action",
+      "Aventure",
+      "Comédie"
+     ],
+     "date": "2026-08-12",
+     "role": "Ben Bracken",
+     "tmdb": "https://www.themoviedb.org/movie/1284186?language=fr-FR"
+    },
+    {
      "id": "tt36646880",
      "type": "movie",
      "name": "Histoires parallèles",
@@ -2063,22 +2080,6 @@
      "tmdb": "https://www.themoviedb.org/movie/1157869?language=fr-FR"
     },
     {
-     "id": "tt32268992",
-     "type": "movie",
-     "name": "Sacrifice",
-     "description": "Rôle : Ben Bracken. Un gala de charité est interrompu par l'attaque d'un violent groupe de radicaux lancés dans une mystérieuse quête pour accomplir une prophétie.",
-     "year": "2026",
-     "famille": "comedie",
-     "genres": [
-      "Action",
-      "Aventure",
-      "Comédie"
-     ],
-     "date": "2026-04-09",
-     "role": "Ben Bracken",
-     "tmdb": "https://www.themoviedb.org/movie/1284186?language=fr-FR"
-    },
-    {
      "id": "tt20212786",
      "type": "movie",
      "name": "Les Linceuls",
@@ -2087,6 +2088,7 @@
      "famille": "thriller",
      "genres": [
       "Drame",
+      "Horreur",
       "Science-fiction",
       "Thriller"
      ],
@@ -2799,7 +2801,7 @@
      "famille": "thriller",
      "genres": [
       "Drame",
-      "Fantastique",
+      "Horreur",
       "Thriller"
      ],
      "date": "2026-08-26",
@@ -3444,7 +3446,7 @@
      "famille": "thriller",
      "genres": [
       "Policier",
-      "Romance"
+      "Thriller"
      ],
      "date": "2026-05-21",
      "role": "Marius Maissner",
@@ -4900,7 +4902,7 @@
   {
    "nom": "Catherine Deneuve",
    "tmdb": 50,
-   "photo": "https://image.tmdb.org/t/p/w500/7NS1KuwxTIzyMcpNGKBGlSV0Hqo.jpg",
+   "photo": "https://image.tmdb.org/t/p/w500/rG0FuNR4INt2RcziqFVH0Gslc9z.jpg",
    "sourcePhoto": "TMDB",
    "naissance": "1943-10-22",
    "lieu": "Paris, France",
@@ -8742,24 +8744,6 @@
      "tmdb": "https://www.themoviedb.org/movie/1047227?language=fr-FR"
     },
     {
-     "id": "tt28035641",
-     "type": "movie",
-     "name": "Il était une fois un studio",
-     "description": "Rôle : Olaf (french voice). Tous vos personnages préférés se retrouvent dans « Il était une fois un Studio » pour un moment festif, amusant et émouvant, alors qu'ils se rassemblent pour une photo de groupe spectaculaire afin de célébrer les 100 ans…",
-     "year": "2023",
-     "famille": "sf",
-     "genres": [
-      "Animation",
-      "Comédie",
-      "Drame",
-      "Fantastique",
-      "Famille"
-     ],
-     "date": "2023-09-24",
-     "role": "Olaf (french voice)",
-     "tmdb": "https://www.themoviedb.org/movie/1139087?language=fr-FR"
-    },
-    {
      "id": "tt26660615",
      "type": "movie",
      "name": "La Vie pour de vrai",
@@ -8852,24 +8836,6 @@
      "tmdb": "https://www.themoviedb.org/movie/589970?language=fr-FR"
     },
     {
-     "id": "tt4520988",
-     "type": "movie",
-     "name": "La Reine des neiges II",
-     "description": "Rôle : Olaf (french voice). Elsa, Anna, Kristoff, Olaf et Sven voyagent bien au‐delà des portes d’Arendelle à la recherche de réponses sur le passé d’Elsa.",
-     "year": "2019",
-     "famille": "sf",
-     "genres": [
-      "Animation",
-      "Aventure",
-      "Comédie",
-      "Fantastique",
-      "Famille"
-     ],
-     "date": "2019-11-20",
-     "role": "Olaf (french voice)",
-     "tmdb": "https://www.themoviedb.org/movie/330457?language=fr-FR"
-    },
-    {
      "id": "tt8992390",
      "type": "movie",
      "name": "Le Dindon",
@@ -8913,24 +8879,6 @@
      "date": "2018-02-28",
      "role": "Valentin Duquesne, aka Valentin D.",
      "tmdb": "https://www.themoviedb.org/movie/456165?language=fr-FR"
-    },
-    {
-     "id": "tt5452780",
-     "type": "movie",
-     "name": "La Reine des Neiges : Joyeuses fêtes avec Olaf",
-     "description": "Rôle : Olaf (french voice). Olaf, bonhomme de neige et l'ami d'Anna et d'Elsa fera tout son possible pour trouver quelles traditions les soeurs vont pouvoir adopter dans l'optique de fêter leur premier Noël réunies.",
-     "year": "2017",
-     "famille": "sf",
-     "genres": [
-      "Animation",
-      "Aventure",
-      "Comédie",
-      "Fantastique",
-      "Famille"
-     ],
-     "date": "2017-10-27",
-     "role": "Olaf (french voice)",
-     "tmdb": "https://www.themoviedb.org/movie/460793?language=fr-FR"
     },
     {
      "id": "tt5736696",
@@ -9002,23 +8950,6 @@
      "tmdb": "https://www.themoviedb.org/movie/330552?language=fr-FR"
     },
     {
-     "id": "tt4007502",
-     "type": "movie",
-     "name": "La Reine des Neiges : Une fête givrée",
-     "description": "Rôle : Olaf (french voice). C’est l’anniversaire d’Anna, et Elsa et Kristoff sont décidés à lui offrir la plus belle fête dont on puisse rêver, mais les pouvoirs \"glaçants\" d’Elsa pourraient bien provoquer une catastrophe…",
-     "year": "2015",
-     "famille": "sf",
-     "genres": [
-      "Animation",
-      "Comédie",
-      "Fantastique",
-      "Famille"
-     ],
-     "date": "2015-03-09",
-     "role": "Olaf (french voice)",
-     "tmdb": "https://www.themoviedb.org/movie/326359?language=fr-FR"
-    },
-    {
      "id": "tt3601728",
      "type": "movie",
      "name": "Les Enfoirés 2014 - Bon anniversaire Les Enfoirés",
@@ -9043,23 +8974,6 @@
      "date": "2014-02-26",
      "role": "Romain Faubert",
      "tmdb": "https://www.themoviedb.org/movie/248507?language=fr-FR"
-    },
-    {
-     "id": "tt2294629",
-     "type": "movie",
-     "name": "La Reine des neiges",
-     "description": "Rôle : Olaf (french voice). Anna, une jeune fille aussi audacieuse qu’optimiste, se lance dans un incroyable voyage en compagnie de Kristoff, un montagnard expérimenté, et de son fidèle renne, Sven à la recherche de sa sœur, Elsa, la Reine des Neig…",
-     "year": "2013",
-     "famille": "sf",
-     "genres": [
-      "Animation",
-      "Aventure",
-      "Fantastique",
-      "Famille"
-     ],
-     "date": "2013-11-20",
-     "role": "Olaf (french voice)",
-     "tmdb": "https://www.themoviedb.org/movie/109445?language=fr-FR"
     },
     {
      "id": "tt2207072",
@@ -9282,6 +9196,78 @@
      "date": "2004-11-23",
      "role": "Charles Boullin",
      "tmdb": "https://www.themoviedb.org/movie/76872?language=fr-FR"
+    },
+    {
+     "id": "tt0395721",
+     "type": "movie",
+     "name": "Pédale dure",
+     "description": "Rôle : Sébastien \"Seb\" Jouve. Loïc et Seb forment un couple de notables installés dans le Marais. Seb est le patron de la boîte de nuit la plus chic et la plus folle du quartier.",
+     "year": "2004",
+     "famille": "comedie",
+     "genres": [
+      "Comédie"
+     ],
+     "date": "2004-10-20",
+     "role": "Sébastien \"Seb\" Jouve",
+     "tmdb": "https://www.themoviedb.org/movie/59705?language=fr-FR"
+    },
+    {
+     "id": "tt0181978",
+     "type": "movie",
+     "name": "Bimboland",
+     "description": "Rôle : Greg. Pour les besoins de sa thèse, Cécile, ethnologue et intellectuelle fort sérieuse, va rencontrer Alex. Cécile pénètre dans le milieu de cette jeune femme qui lui est totalement opposée.",
+     "year": "1998",
+     "famille": "comedie",
+     "genres": [
+      "Comédie",
+      "Romance"
+     ],
+     "date": "1998-12-23",
+     "role": "Greg",
+     "tmdb": "https://www.themoviedb.org/movie/62009?language=fr-FR"
+    },
+    {
+     "id": "tt0119035",
+     "type": "movie",
+     "name": "Le Déménagement",
+     "description": "Rôle : Alain. Qui n'a pas connu le stress d'un déménagement ? Surtout quand on est un jeune écrivain comme Alain, sur le point de quitter une bonne maison d'édition pour écrire un sitcom pour la télévision, que sa femme est sur le poi…",
+     "year": "1997",
+     "famille": "comedie",
+     "genres": [
+      "Comédie"
+     ],
+     "date": "1997-02-02",
+     "role": "Alain",
+     "tmdb": "https://www.themoviedb.org/movie/48377?language=fr-FR"
+    },
+    {
+     "id": "tt0117269",
+     "type": "movie",
+     "name": "Oui",
+     "description": "Rôle : Wilfried. Un été, au bord de la mer, neuf amis redéfinissent leurs attentes en matière sentimentale.",
+     "year": "1996",
+     "famille": "comedie",
+     "genres": [
+      "Comédie"
+     ],
+     "date": "1996-12-04",
+     "role": "Wilfried",
+     "tmdb": "https://www.themoviedb.org/movie/534245?language=fr-FR"
+    },
+    {
+     "id": "tt0109927",
+     "type": "movie",
+     "name": "Le Grand Blanc de Lambaréné",
+     "description": "Rôle : Altmeyer. Le célèbre docteur Schweitzer, vu par un enfant d'abord admiratif puis critique et, à travers lui, par le peuple africain.",
+     "year": "1995",
+     "famille": "drame",
+     "genres": [
+      "Drame",
+      "Historique"
+     ],
+     "date": "1995-04-26",
+     "role": "Altmeyer",
+     "tmdb": "https://www.themoviedb.org/movie/309685?language=fr-FR"
     }
    ],
    "series": []

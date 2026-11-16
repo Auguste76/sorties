@@ -1,20 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt36646880",
-      "type": "movie",
-      "name": "Histoires parallèles",
-      "poster": "https://images.metahub.space/poster/medium/tt36646880/img",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt36646880/img",
-      "description": "Rôle : Pierre / Nicolas. En quête d’inspiration pour son nouveau roman, Sylvie espionne ses voisins dans l’immeuble d’en face.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drame",
-        "Thriller"
-      ]
-    },
-    {
       "id": "tt32268992",
       "type": "movie",
       "name": "Sacrifice",
@@ -30,6 +16,20 @@
       ]
     },
     {
+      "id": "tt36646880",
+      "type": "movie",
+      "name": "Histoires parallèles",
+      "poster": "https://images.metahub.space/poster/medium/tt36646880/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt36646880/img",
+      "description": "Rôle : Pierre / Nicolas. En quête d’inspiration pour son nouveau roman, Sylvie espionne ses voisins dans l’immeuble d’en face.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ]
+    },
+    {
       "id": "tt20212786",
       "type": "movie",
       "name": "Les Linceuls",
@@ -40,6 +40,7 @@
       "releaseInfo": "2025",
       "genres": [
         "Drame",
+        "Horreur",
         "Science-fiction",
         "Thriller"
       ]
